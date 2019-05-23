@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T10:04:41"
+odpoved_datum_cas="2019-03-22T10:41:48"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>10:04:41</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:41:48</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -40,13 +40,15 @@ Zabezpečovat cílevědomě řízenou plemenitbu zvířat, zajišťovat zvyšov�
 Členové výboru zastupují pobočný spolek, navenek jedná předseda s jednatelem nebo jiná pověřená osoba
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2016-10-19">
+   <are:Clen dza="2016-10-19" dvy="2019-03-21">
     <are:clenstvi>
      <are:vznikClenstvi>2013-03-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-03-02</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda</are:nazev>
      <are:vznikFunkce>2013-03-01</are:vznikFunkce>
+     <are:zanikFunkce>2018-03-02</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -63,13 +65,15 @@ Zabezpečovat cílevědomě řízenou plemenitbu zvířat, zajišťovat zvyšov�
      <are:prijmeni>VALEŠ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-10-19">
+   <are:Clen dza="2016-10-19" dvy="2019-03-21">
     <are:clenstvi>
      <are:vznikClenstvi>2013-03-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-03-02</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2013-03-01</are:vznikFunkce>
+     <are:zanikFunkce>2018-03-02</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -86,9 +90,10 @@ Zabezpečovat cílevědomě řízenou plemenitbu zvířat, zajišťovat zvyšov�
      <are:prijmeni>ŠKVAŘIL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-10-19">
+   <are:Clen dza="2016-10-19" dvy="2019-03-21">
     <are:clenstvi>
      <are:vznikClenstvi>2013-03-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-03-02</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen</are:nazev>
@@ -108,9 +113,102 @@ Zabezpečovat cílevědomě řízenou plemenitbu zvířat, zajišťovat zvyšov�
      <are:prijmeni>ROUSEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-10-19">
+   <are:Clen dza="2016-10-19" dvy="2019-03-21">
     <are:clenstvi>
      <are:vznikClenstvi>2013-03-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-03-02</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13246143</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66482</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Říčany</are:castObce>
+      <are:ulice>Mrštíkova</are:ulice>
+      <are:cisloPop>471</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>NOVÁČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-03-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2018-03-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13244213</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66482</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Říčany</are:castObce>
+      <are:ulice>Brněnská</are:ulice>
+      <are:cisloPop>278</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROSTISLAV</are:jmeno>
+     <are:prijmeni>VALEŠ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-03-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2018-03-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13228251</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66441</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Popůvky</are:obec>
+      <are:castObce>Popůvky</are:castObce>
+      <are:ulice>Chaloupky</are:ulice>
+      <are:cisloPop>84</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>KREJČÍ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-03-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Pokladník</are:nazev>
+     <are:vznikFunkce>2018-03-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24169668</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66481</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Ostrovačice</are:obec>
+      <are:castObce>Ostrovačice</are:castObce>
+      <are:ulice>Sokolská</are:ulice>
+      <are:cisloPop>135</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>ROUSEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-03-02</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen</are:nazev>

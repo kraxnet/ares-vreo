@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-03-26T15:21:54"
+odpoved_datum_cas="2019-04-02T11:40:39"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-03-26</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-03-26</are:Datum_vypisu>
-   <are:Cas_vypisu>15:21:54</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:40:39</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -32,6 +32,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>13</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2004-02-16</are:DatumZapisu>
+   <are:DatumVymazu>2019-04-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Následkem realizace fúze sloučením zanikajících společností ZETKA. s.r.o., se sídlem Výstavní 292/13, Moravská Ostrava, 702 00 Ostrava, IČO: 61683621, ZETKA. AUTO, s.r.o., se sídlem Výstavní 292/13, Moravská Ostrava, 702 00 Ostrava, IČO: 26827841 a BAPOS
+s.r.o., se sídlem Na Výsluní 1181, 294 01 Bakov nad Jizerou, IČO: 26159236 s nástupnickou společností ZETKA - MB s.r.o., se sídlem Výstavní 292/13, Moravská Ostrava, 702 00 Ostrava, IČO: 27245071 došlo k zániku zanikajících společností ZETKA. s.r.o., ZETK
+A. AUTO, s.r.o. a BAPOS s.r.o. a k přechodu jejich jmění na nástupnickou společnost ZETKA - MB s.r.o., jak je specifikováno v projektu fúze sloučením ze dne 25.2.2019.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -50,7 +58,7 @@ Zámečnictví, nástrojářství
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2004-02-16">
+  <are:Statutarni_organ dza="2004-02-16" dvy="2019-04-01">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2004-02-16" dvy="2014-10-09">
     <are:Text>
@@ -58,7 +66,7 @@ Způsob jednání za společnost:
 Jednatelé jednají za společnost každý samostatně a v plném rozsahu.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-10-09">
+   <are:ZpusobJednani dza="2014-10-09" dvy="2019-04-01">
     <are:Text>
 Společnost zastupuje každý jednatel samostatně.
     </are:Text>
@@ -209,7 +217,7 @@ Společnost zastupuje každý jednatel samostatně.
      <are:prijmeni>ZETKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-03-05">
+   <are:Clen dza="2018-03-05" dvy="2019-04-01">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2004-02-16</are:vznikFunkce>
@@ -230,7 +238,7 @@ Společnost zastupuje každý jednatel samostatně.
      <are:prijmeni>HRBÁČ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-03-05">
+   <are:Clen dza="2018-03-05" dvy="2019-04-01">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2004-02-16</are:vznikFunkce>
@@ -251,7 +259,7 @@ Společnost zastupuje každý jednatel samostatně.
      <are:prijmeni>HRBÁČOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-03-05">
+   <are:Clen dza="2018-03-05" dvy="2019-04-01">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2004-03-15</are:vznikFunkce>
@@ -269,7 +277,7 @@ Společnost zastupuje každý jednatel samostatně.
      <are:prijmeni>ZETKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-03-05">
+   <are:Clen dza="2018-03-05" dvy="2019-04-01">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2004-09-24</are:vznikFunkce>
@@ -289,9 +297,9 @@ Společnost zastupuje každý jednatel samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2004-02-16">
+  <are:Jiny_organ dza="2004-02-16" dvy="2019-04-01">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2013-10-17">
+   <are:Clen dza="2013-10-17" dvy="2019-04-01">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21194467</are:ruianKod>

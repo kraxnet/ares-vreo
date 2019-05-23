@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T13:57:19"
+odpoved_datum_cas="2019-03-22T10:22:20"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>13:57:19</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:22:20</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -29,6 +29,16 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>198/6</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>1993-02-05</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-16</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní společnost FARNO s.r.o. v likvidaci, IČ 477 18 781, sídlem Svobodova 198/6, 362 25 Nová Role, ke dni právní moci tohoto rozhodnutí z obchodního rejstříku včetně všech zapsaných skutečností.
+ 
+Výmaz se provádí na návrh společnosti, za níž jedná likvidátor ustanovený Krajským soudem v Plzni z moci úřední, po skončení likvidace společnosti na základě ustanovení § 172 odst. 1, písm. d) a ust. § 82 zákona č. 304/2013 Sb., o veřejných rejstřících pr
+ávnických a fyzických osob a o evidenci svěřenských fondů, kdy součástí návrhu je čestné prohlášení likvidátora jmenovaného soudem, že prověřil bezúspěšně možnost uplatnit neplatnost nebo neúčinnost právních jednání právnické osoby a že majetek této osoby
+ nepostačuje ani k úhradě nákladů insolvenčního řízení.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -38,7 +48,7 @@ kemp, včetně provozování hostinských činností v těchto zařízeních
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1993-02-05">
+  <are:Statutarni_organ dza="1993-02-05" dvy="2019-03-16">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="1993-02-05" dvy="2005-05-20">
     <are:Text>
@@ -50,7 +60,7 @@ b) podepisování - podepisování se provádí tak, že k vytištěnému
    pis jednatel
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2005-05-20">
+   <are:ZpusobJednani dza="2005-05-20" dvy="2019-03-16">
     <are:Text>
 Způsob jednání:
 Společnost zastupuje ve všech věcech jednatel samostatně. Za společnost se podepisování provádí tak, že k vytištěné nebo napsané obchodní firmě společnosti připojí svůj podpis jednatel.
@@ -95,7 +105,7 @@ Společnost zastupuje ve všech věcech jednatel samostatně. Za společnost se 
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2011-08-03">
+  <are:Statutarni_organ dza="2011-08-03" dvy="2019-03-16">
    <are:Nazev>Likvidátor</are:Nazev>
    <are:Clen dza="2011-08-03" dvy="2018-05-11">
     <are:fosoba>
@@ -112,7 +122,7 @@ Společnost zastupuje ve všech věcech jednatel samostatně. Za společnost se 
      <are:prijmeni>Nový</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-07-11">
+   <are:Clen dza="2018-07-11" dvy="2019-03-16">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>19197187</are:ruianKod>
@@ -130,9 +140,9 @@ Společnost zastupuje ve všech věcech jednatel samostatně. Za společnost se 
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1993-02-05">
+  <are:Jiny_organ dza="1993-02-05" dvy="2019-03-16">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2005-05-20">
+   <are:Clen dza="2005-05-20" dvy="2019-03-16">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>11958863</are:ruianKod>
@@ -146,7 +156,7 @@ Společnost zastupuje ve všech věcech jednatel samostatně. Za společnost se 
      <are:prijmeni>Nový</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2005-05-20">
+   <are:Clen dza="2005-05-20" dvy="2019-03-16">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>20687117</are:ruianKod>

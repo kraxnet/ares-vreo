@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T11:06:28"
+odpoved_datum_cas="2019-03-22T10:33:14"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>11:06:28</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:33:14</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -110,6 +110,25 @@ Jménem společnosti jedná představenstvo. Za představenstvo jedná navenek j
     <are:clenstvi>
      <are:vznikClenstvi>2012-10-10</are:vznikClenstvi>
     </are:clenstvi>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27323374</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66451</are:psc>
+      <are:obec>Šlapanice</are:obec>
+      <are:ulice>Seifertova</are:ulice>
+      <are:cisloPop>1782</are:cisloPop>
+      <are:cisloOr>31</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Císlerová</are:prijmeni>
+     <are:titulPred>MVDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-10-29" dvy="2016-02-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-10-10</are:vznikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda představenstva</are:nazev>
      <are:vznikFunkce>2012-10-10</are:vznikFunkce>
@@ -127,25 +146,6 @@ Jménem společnosti jedná představenstvo. Za představenstvo jedná navenek j
      <are:jmeno>Ivo</are:jmeno>
      <are:prijmeni>Kodrla</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2012-10-29" dvy="2016-02-23">
-    <are:clenstvi>
-     <are:vznikClenstvi>2012-10-10</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>27323374</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>66451</are:psc>
-      <are:obec>Šlapanice</are:obec>
-      <are:ulice>Seifertova</are:ulice>
-      <are:cisloPop>1782</are:cisloPop>
-      <are:cisloOr>31</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>Lenka</are:jmeno>
-     <are:prijmeni>Císlerová</are:prijmeni>
-     <are:titulPred>MVDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2014-01-16" dvy="2016-02-23">
@@ -179,7 +179,7 @@ Jménem společnosti jedná představenstvo. Za představenstvo jedná navenek j
 Za společnost jedná a podepisuje statutární ředitel.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2016-02-23">
+   <are:Clen dza="2016-02-23" dvy="2019-03-20">
     <are:clenstvi>
      <are:vznikClenstvi>2016-02-18</are:vznikClenstvi>
     </are:clenstvi>
@@ -202,19 +202,46 @@ Za společnost jedná a podepisuje statutární ředitel.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-02-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>statutární ředitel</are:nazev>
+     <are:vznikFunkce>2016-02-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19546971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62700</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Slatina</are:castObce>
+      <are:ulice>Tilhonova</are:ulice>
+      <are:cisloPop>508</are:cisloPop>
+      <are:cisloOr>50a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVO</are:jmeno>
+     <are:prijmeni>KODRLA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2016-02-23">
    <are:Nazev>Jediný akcionář</are:Nazev>
-   <are:Clen dza="2016-02-23">
+   <are:Clen dza="2019-03-20">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>18942881</are:ruianKod>
+      <are:ruianKod>19546971</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>68601</are:psc>
-      <are:obec>Uherské Hradiště</are:obec>
-      <are:castObce>Sady</are:castObce>
-      <are:ulice>Železniční</are:ulice>
-      <are:cisloPop>280</are:cisloPop>
+      <are:psc>62700</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Slatina</are:castObce>
+      <are:ulice>Tilhonova</are:ulice>
+      <are:cisloPop>508</are:cisloPop>
+      <are:cisloOr>50a</are:cisloOr>
      </are:adresa>
      <are:jmeno>IVO</are:jmeno>
      <are:prijmeni>KODRLA</are:prijmeni>
@@ -224,7 +251,7 @@ Za společnost jedná a podepisuje statutární ředitel.
   </are:Jiny_organ>
   <are:Jiny_organ dza="2016-02-23">
    <are:Nazev>Správní rada</are:Nazev>
-   <are:Clen dza="2016-02-23">
+   <are:Clen dza="2019-03-20">
     <are:clenstvi>
      <are:vznikClenstvi>2016-02-18</are:vznikClenstvi>
     </are:clenstvi>
@@ -234,13 +261,15 @@ Za společnost jedná a podepisuje statutární ředitel.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>18942881</are:ruianKod>
+      <are:ruianKod>19546971</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>68601</are:psc>
-      <are:obec>Uherské Hradiště</are:obec>
-      <are:castObce>Sady</are:castObce>
-      <are:ulice>Železniční</are:ulice>
-      <are:cisloPop>280</are:cisloPop>
+      <are:psc>62700</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Slatina</are:castObce>
+      <are:ulice>Tilhonova</are:ulice>
+      <are:cisloPop>508</are:cisloPop>
+      <are:cisloOr>50a</are:cisloOr>
      </are:adresa>
      <are:jmeno>IVO</are:jmeno>
      <are:prijmeni>KODRLA</are:prijmeni>

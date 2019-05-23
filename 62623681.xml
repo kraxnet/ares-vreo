@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T05:16:37"
+odpoved_datum_cas="2019-03-14T12:41:31"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>05:16:37</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:41:31</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -32,6 +32,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>17</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1995-03-23</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-12</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní společnost ALTAJ s.r.o. v likvidaci, se sídlem Husova 774/17, Jižní Předměstí, 301 00  Plzeň, identifikační číslo 626 23 681, z obchodního rejstříku včetně všech zapsaných skutečností. Výmaz se provádí na základě ustanovení § 82 odst.
+ 1 zákona č. 304/2013 Sb. o veřejných rejstřících právnických a fyzických osob, kdy za právnickou osobu zrušenou rozhodnutím soudu nebo jiného orgánu veřejné moci podal návrh na výmaz z veřejného rejstříku likvidátor jmenovaný soudem nebo jiným orgánem ve
+řejné moci a součástí návrhu je prohlášení likvidátora o tom, že bezúspěšně prověřil možnost uplatnit neplatnost nebo neúčinnost právních jednání právnické osoby a že majetek této osoby nepostačuje ani k úhradě nákladů insolvenčního řízení.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -43,7 +51,7 @@ realitní činnost
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1995-03-23">
+  <are:Statutarni_organ dza="1995-03-23" dvy="2019-03-12">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="1995-03-23" dvy="1998-03-19">
     <are:Text>
@@ -55,7 +63,7 @@ b) podepisování - podepisování se provádí tak, že k vytištěnému
    podpis alespoň jeden jednatel s uvedením jména a funkce
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="1998-03-19">
+   <are:ZpusobJednani dza="1998-03-19" dvy="2019-03-12">
     <are:Text>
 Způsob jednání:
 a) zastupování - společnost zastupuje ve všech věcech jednatel
@@ -117,7 +125,7 @@ b) podepisování - podepisování se provádí tak, že k vytištěnému
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2012-04-17">
+  <are:Statutarni_organ dza="2012-04-17" dvy="2019-03-12">
    <are:Nazev>Likvidátor</are:Nazev>
    <are:Clen dza="2012-04-17" dvy="2016-09-12">
     <are:fosoba>
@@ -133,7 +141,7 @@ b) podepisování - podepisování se provádí tak, že k vytištěnému
      <are:titulPred>JUDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-09-12">
+   <are:Clen dza="2016-09-12" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>8998094</are:ruianKod>
@@ -151,9 +159,9 @@ b) podepisování - podepisování se provádí tak, že k vytištěnému
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1995-03-23">
+  <are:Jiny_organ dza="1995-03-23" dvy="2019-03-12">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2017-07-06">
+   <are:Clen dza="2017-07-06" dvy="2019-03-12">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>24537004</are:ruianKod>

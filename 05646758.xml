@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-08-27T18:36:33"
+odpoved_datum_cas="2019-03-12T15:41:38"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-08-27</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-08-27</are:Datum_vypisu>
-   <are:Cas_vypisu>18:36:33</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:41:38</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -122,28 +122,6 @@ Společnost zastupují vždy dva jednatelé společně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>19318766</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>63500</are:psc>
-      <are:okres>Brno-město</are:okres>
-      <are:obec>Brno</are:obec>
-      <are:castObce>Bystrc</are:castObce>
-      <are:ulice>Šemberova</are:ulice>
-      <are:cisloPop>1126</are:cisloPop>
-      <are:cisloOr>10</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>BORSKÝ</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-01-12">
-    <are:funkce>
-     <are:nazev>Jednatel</are:nazev>
-     <are:vznikFunkce>2016-12-22</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
       <are:ruianKod>27999939</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>62800</are:psc>
@@ -179,6 +157,50 @@ Společnost zastupují vždy dva jednatelé společně.
      </are:adresa>
      <are:jmeno>MARINA</are:jmeno>
      <are:prijmeni>IGNATYEVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-12" dvy="2019-03-08">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2016-12-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19318766</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63500</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Bystrc</are:castObce>
+      <are:ulice>Šemberova</are:ulice>
+      <are:cisloPop>1126</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>BORSKÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2016-12-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26685868</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66441</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Troubsko</are:obec>
+      <are:castObce>Troubsko</are:castObce>
+      <are:ulice>Hodakova</are:ulice>
+      <are:cisloPop>570</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>BORSKÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -274,24 +296,6 @@ Společnost zastupují vždy dva jednatelé společně.
      <are:prijmeni>NOVÁK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-03-09">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>19318766</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>63500</are:psc>
-      <are:okres>Brno-město</are:okres>
-      <are:obec>Brno</are:obec>
-      <are:castObce>Bystrc</are:castObce>
-      <are:ulice>Šemberova</are:ulice>
-      <are:cisloPop>1126</are:cisloPop>
-      <are:cisloOr>10</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>BORSKÝ</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2018-06-09">
     <are:fosoba>
      <are:adresa>
@@ -325,6 +329,24 @@ Společnost zastupují vždy dva jednatelé společně.
      </are:adresa>
      <are:jmeno>MARINA</are:jmeno>
      <are:prijmeni>IGNATYEVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26685868</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66441</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Troubsko</are:obec>
+      <are:castObce>Troubsko</are:castObce>
+      <are:ulice>Hodakova</are:ulice>
+      <are:cisloPop>570</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>BORSKÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

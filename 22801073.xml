@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-06-29T11:17:07"
+odpoved_datum_cas="2019-03-22T10:32:26"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-06-28</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-06-29</are:Datum_vypisu>
-   <are:Cas_vypisu>11:17:07</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:32:26</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -140,28 +140,6 @@ Vydávání tiskovin.
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2013-01-16">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2016-04-21">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-01-17</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda dozorčí rady</are:nazev>
-     <are:vznikFunkce>2016-03-08</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>5035775</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>43401</are:psc>
-      <are:obec>Lišnice</are:obec>
-      <are:castObce>Lišnice</are:castObce>
-      <are:cisloPop>69</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ZDENĚK</are:jmeno>
-     <are:prijmeni>HRABÁK</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2017-10-18">
     <are:clenstvi>
      <are:vznikClenstvi>2017-05-27</are:vznikClenstvi>
@@ -205,97 +183,31 @@ Vydávání tiskovin.
      <are:prijmeni>MIKLOŠOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5035775</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:okres>Most</are:okres>
+      <are:obec>Lišnice</are:obec>
+      <are:castObce>Lišnice</are:castObce>
+      <are:cisloPop>69</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>HRABÁK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="2013-01-16">
    <are:Nazev>Správní rada</are:Nazev>
-   <are:Clen dza="2016-04-21">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-01-17</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda správní rady</are:nazev>
-     <are:vznikFunkce>2016-01-18</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>5035635</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>43401</are:psc>
-      <are:obec>Lišnice</are:obec>
-      <are:castObce>Lišnice</are:castObce>
-      <are:cisloPop>55</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>PILLÁR</are:prijmeni>
-     <are:titulPred>Bc.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-04-21">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-01-17</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Místopředseda správní rady</are:nazev>
-     <are:vznikFunkce>2016-01-18</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>15021955</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>41705</are:psc>
-      <are:obec>Osek</are:obec>
-      <are:castObce>Osek</are:castObce>
-      <are:ulice>Tyršova</are:ulice>
-      <are:cisloPop>23</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>LENKA</are:jmeno>
-     <are:prijmeni>ŘÍHOVÁ</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-04-21">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-01-17</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>5083460</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>43401</are:psc>
-      <are:obec>Most</are:obec>
-      <are:castObce>Most</are:castObce>
-      <are:ulice>Za Špačkárnou</are:ulice>
-      <are:cisloPop>90</are:cisloPop>
-      <are:cisloOr>3</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>BOŘEK</are:jmeno>
-     <are:prijmeni>VALVODA</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-04-21">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-01-17</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>5076935</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>43401</are:psc>
-      <are:obec>Korozluky</are:obec>
-      <are:castObce>Korozluky</are:castObce>
-      <are:cisloPop>54</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>MIROSLAV</are:jmeno>
-     <are:prijmeni>PEROUT</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2017-10-18">
     <are:clenstvi>
      <are:vznikClenstvi>2017-08-21</are:vznikClenstvi>
@@ -319,25 +231,118 @@ Vydávání tiskovin.
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-05-04">
+   <are:Clen dza="2019-03-19">
     <are:clenstvi>
-     <are:vznikClenstvi>2018-03-05</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-17</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Člen správní rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>5135923</are:ruianKod>
+      <are:ruianKod>5035635</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>43601</are:psc>
+      <are:psc>43401</are:psc>
       <are:okres>Most</are:okres>
-      <are:obec>Klíny</are:obec>
-      <are:castObce>Klíny</are:castObce>
-      <are:cisloPop>19</are:cisloPop>
+      <are:obec>Lišnice</are:obec>
+      <are:castObce>Lišnice</are:castObce>
+      <are:cisloPop>55</are:cisloPop>
      </are:adresa>
      <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>KLOUČEK</are:prijmeni>
+     <are:prijmeni>PILLÁR</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15026949</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41705</are:psc>
+      <are:okres>Teplice</are:okres>
+      <are:obec>Osek</are:obec>
+      <are:castObce>Osek</are:castObce>
+      <are:ulice>Tyršova</are:ulice>
+      <are:cisloPop>594</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>MACHÁČEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5083460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:okres>Most</are:okres>
+      <are:obec>Most</are:obec>
+      <are:castObce>Most</are:castObce>
+      <are:ulice>Za Špačkárnou</are:ulice>
+      <are:cisloPop>90</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BOŘEK</are:jmeno>
+     <are:prijmeni>VALVODA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5076919</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:okres>Most</are:okres>
+      <are:obec>Korozluky</are:obec>
+      <are:castObce>Korozluky</are:castObce>
+      <are:cisloPop>52</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>SKLENKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5095760</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43502</are:psc>
+      <are:okres>Most</are:okres>
+      <are:obec>Most</are:obec>
+      <are:castObce>Souš</are:castObce>
+      <are:ulice>Hradní</are:ulice>
+      <are:cisloPop>149</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>HANKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

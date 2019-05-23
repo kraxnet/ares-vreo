@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-08-21T10:35:32"
+odpoved_datum_cas="2019-04-08T11:13:02"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-08-21</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-08-21</are:Datum_vypisu>
-   <are:Cas_vypisu>10:35:32</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-08</are:Datum_vypisu>
+   <are:Cas_vypisu>11:13:02</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -28,10 +28,21 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>3007/1</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>1999-07-21</are:DatumZapisu>
+   <are:DatumVymazu>2019-04-03</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z veřejného rejstříku včetně všech zapsaných skutečností.
+ 
+Právní důvod výmazu:
+ 
+Společnost se vymazává z obchodního rejstříku po ukončení likvidace společnosti, na základě návrhu likvidátora, který bezúspěšně prověřil možnost uplatnit neplatnost nebo neúčinnost právních jednání právnické osoby a majetek této osoby nepostačuje ani k ú
+hradě nákladů insolvenčního řízení.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1999-07-21">
+  <are:Statutarni_organ dza="1999-07-21" dvy="2019-04-03">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="1999-07-21">
+   <are:ZpusobJednani dza="1999-07-21" dvy="2019-04-03">
     <are:Text>
 Způsob jednání za společnost:
 Společnost zastupuje jednatel společnosti, který vede obchody
@@ -55,7 +66,7 @@ rozsahu.
      <are:prijmeni>Fan Yan Xue</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-12-13">
+   <are:Clen dza="2017-12-13" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
     </are:funkce>
@@ -72,9 +83,9 @@ rozsahu.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-06-28">
+  <are:Statutarni_organ dza="2018-06-28" dvy="2019-04-03">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-06-28">
+   <are:Clen dza="2018-06-28" dvy="2019-04-03">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>3189929</are:ruianKod>
@@ -92,9 +103,9 @@ rozsahu.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1999-07-21">
+  <are:Jiny_organ dza="1999-07-21" dvy="2019-04-03">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="1999-07-21">
+   <are:Clen dza="1999-07-21" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:stat>203</are:stat>
@@ -107,7 +118,7 @@ rozsahu.
      <are:prijmeni>Gang</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-12-13">
+   <are:Clen dza="2017-12-13" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:stat>203</are:stat>
@@ -120,7 +131,7 @@ rozsahu.
      <are:prijmeni>YAN XUE</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-12-13">
+   <are:Clen dza="2017-12-13" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22717706</are:ruianKod>
@@ -138,7 +149,7 @@ rozsahu.
      <are:prijmeni>XIAO JUN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-12-13">
+   <are:Clen dza="2017-12-13" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:stat>203</are:stat>
@@ -151,7 +162,7 @@ rozsahu.
      <are:prijmeni>YAN JING</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-12-13">
+   <are:Clen dza="2017-12-13" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:stat>203</are:stat>
@@ -164,7 +175,7 @@ rozsahu.
      <are:prijmeni>ZHI GANG</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-12-13">
+   <are:Clen dza="2017-12-13" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:stat>203</are:stat>

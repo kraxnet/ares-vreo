@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-15T23:41:36"
+odpoved_datum_cas="2019-03-14T12:36:41"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-15</are:Datum_vypisu>
-   <are:Cas_vypisu>23:41:36</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:36:41</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -30,7 +30,6 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>735/51</are:cisloTxt>
    </are:Sidlo>
    <are:Bydliste>
-    <are:ruianKod>101</are:ruianKod>
     <are:stat>804</are:stat>
     <are:text>Ivano-Frankivská oblast - Dolynský okres,Vytvyca,Naberežna 5</are:text>
    </are:Bydliste>
@@ -44,6 +43,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>735/51</are:cisloTxt>
    </are:Pobyt>
    <are:DatumZapisu>2005-07-18</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-12</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se ke dni 12.března 2019 fyzická osoba Iryna Ravycha, IČO 273 63 830, bytem Praha 3 - Žižkov, Chvalova 1158/5, PSČ 13000 z obchodního rejstříku. Právní důvod: výmaz z duvodů získání trvalého pobytu.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -52,9 +57,9 @@ Správa a údržba nemovitostí
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2005-07-18">
+  <are:Statutarni_organ dza="2005-07-18" dvy="2019-03-12">
    <are:Nazev>Podnikatel</are:Nazev>
-   <are:Clen dza="2005-07-18">
+   <are:Clen dza="2005-07-18" dvy="2019-03-12">
     <are:fosoba>
      <are:jmeno>Iryna</are:jmeno>
      <are:prijmeni>Ravycha</are:prijmeni>

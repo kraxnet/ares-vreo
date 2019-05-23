@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-02-09T13:26:50"
+odpoved_datum_cas="2019-03-08T10:36:24"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-02-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-02-09</are:Datum_vypisu>
-   <are:Cas_vypisu>13:26:50</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-08</are:Datum_vypisu>
+   <are:Cas_vypisu>10:36:24</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -70,7 +70,7 @@ Jednatel jedná za společnost samostatně.
      <are:prijmeni>LEMBAK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-02-07">
+   <are:Clen dza="2018-02-07" dvy="2019-03-07">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2016-10-20</are:vznikFunkce>
@@ -90,12 +90,15 @@ Jednatel jedná za společnost samostatně.
      <are:prijmeni>LEMBAK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2016-10-20">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2018-02-07">
+   <are:Clen dza="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2016-10-20</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
-     <are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>LEMBAK</are:prijmeni>
+     <are:bydliste>
       <are:ruianKod>17768683</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>40331</are:psc>
@@ -104,9 +107,26 @@ Jednatel jedná za společnost samostatně.
       <are:castObce>Neštěmice</are:castObce>
       <are:ulice>Na Skalce</are:ulice>
       <are:cisloPop>267</are:cisloPop>
-     </are:adresa>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2016-10-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2019-03-07">
+    <are:fosoba>
      <are:jmeno>IVAN</are:jmeno>
      <are:prijmeni>LEMBAK</are:prijmeni>
+     <are:bydliste>
+      <are:ruianKod>17768683</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40331</are:psc>
+      <are:okres>Ústí nad Labem</are:okres>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:castObce>Neštěmice</are:castObce>
+      <are:ulice>Na Skalce</are:ulice>
+      <are:cisloPop>267</are:cisloPop>
+     </are:bydliste>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

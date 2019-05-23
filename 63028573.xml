@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-08-21T10:45:46"
+odpoved_datum_cas="2019-03-14T12:38:18"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-08-21</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-08-21</are:Datum_vypisu>
-   <are:Cas_vypisu>10:45:47</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:38:18</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -42,53 +42,6 @@ Jménem ZV jedná jeho předseda a v době jeho nepřítomnosti jiný pověřen�
 za ZO podepisují předseda nebo místopředseda anebo jiný člen ZV samostatně v rozsahu pravomoci delegované jim usnesením ZV nebo vnitřním předpisem ZO.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2017-02-23">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-11-10</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>místopředseda</are:nazev>
-     <are:vznikFunkce>2016-11-10</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23266503</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>77900</are:psc>
-      <are:okres>Olomouc</are:okres>
-      <are:obec>Olomouc</are:obec>
-      <are:castObce>Lazce</are:castObce>
-      <are:ulice>Synkova</are:ulice>
-      <are:cisloPop>514</are:cisloPop>
-      <are:cisloOr>13</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>JAROSLAV</are:jmeno>
-     <are:prijmeni>VOJTA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-02-23">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-11-10</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23284072</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>77900</are:psc>
-      <are:okres>Olomouc</are:okres>
-      <are:obec>Olomouc</are:obec>
-      <are:castObce>Hodolany</are:castObce>
-      <are:ulice>Tovární</are:ulice>
-      <are:cisloPop>1061</are:cisloPop>
-      <are:cisloOr>21</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ZUZANA</are:jmeno>
-     <are:prijmeni>NOVÁKOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2017-02-23" dvy="2017-02-23">
     <are:skrytyUdaj dza="2017-02-23" dvy="2017-02-23">
      <are:Text>znepřístupněno podle § 25 odst. 2 zákona č. 304/2013 Sb.</are:Text>
@@ -130,6 +83,56 @@ za ZO podepisují předseda nebo místopředseda anebo jiný člen ZV samostatn�
      <are:prijmeni>MALÍK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2017-02-23" dvy="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-11-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-06</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2016-11-10</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23266503</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Lazce</are:castObce>
+      <are:ulice>Synkova</are:ulice>
+      <are:cisloPop>514</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>VOJTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-23" dvy="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-11-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-06</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23284072</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Hodolany</are:castObce>
+      <are:ulice>Tovární</are:ulice>
+      <are:cisloPop>1061</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZUZANA</are:jmeno>
+     <are:prijmeni>NOVÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
    <are:Clen dza="2018-08-11">
     <are:clenstvi>
      <are:vznikClenstvi>2018-03-15</are:vznikClenstvi>
@@ -154,32 +157,28 @@ za ZO podepisují předseda nebo místopředseda anebo jiný člen ZV samostatn�
      <are:prijmeni>BAKALA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-12">
+    <are:skrytyUdaj dza="2019-03-12">
+     <are:Text>znepřístupněno podle § 25 odst. 2 zákona č. 304/2013 Sb.</are:Text>
+    </are:skrytyUdaj>
+   </are:Clen>
+   <are:Clen dza="2019-03-12">
+    <are:skrytyUdaj dza="2019-03-12">
+     <are:Text>znepřístupněno podle § 25 odst. 2 zákona č. 304/2013 Sb.</are:Text>
+    </are:skrytyUdaj>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2017-02-23">
    <are:Nazev>revizor</are:Nazev>
-   <are:Clen dza="2017-02-23">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-11-10</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>revizor</are:nazev>
-     <are:vznikFunkce>2016-11-10</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23265647</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>77900</are:psc>
-      <are:okres>Olomouc</are:okres>
-      <are:obec>Olomouc</are:obec>
-      <are:castObce>Lazce</are:castObce>
-      <are:ulice>Řezáčova</are:ulice>
-      <are:cisloPop>421</are:cisloPop>
-      <are:cisloOr>20</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>GABRIELA</are:jmeno>
-     <are:prijmeni>SOLDÁNOVÁ</are:prijmeni>
-    </are:fosoba>
+   <are:Clen dza="2019-03-12">
+    <are:skrytyUdaj dza="2019-03-12">
+     <are:Text>znepřístupněno podle § 25 odst. 2 zákona č. 304/2013 Sb.</are:Text>
+    </are:skrytyUdaj>
+   </are:Clen>
+   <are:Clen dza="2019-03-12">
+    <are:skrytyUdaj dza="2019-03-12">
+     <are:Text>znepřístupněno podle § 25 odst. 2 zákona č. 304/2013 Sb.</are:Text>
+    </are:skrytyUdaj>
    </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="2014-01-01">

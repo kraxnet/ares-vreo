@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-14T15:45:46"
+odpoved_datum_cas="2019-03-22T10:32:03"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-14</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-14</are:Datum_vypisu>
-   <are:Cas_vypisu>15:45:46</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:32:03</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,10 +33,17 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>141</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1995-05-24</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-19</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost VENDECO s.r.o. v likvidaci se sídlem Koněvova 2660/141, Žižkov, 130 00  Praha 3, IČO: 636 68 866, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze,oddíl C, vložka 37661. Právním dův
+odem výmazu je ukončení likvidace společnosti VENDECO s.r.o. v likvidaci ke dni 15. 3. 2019, návrh na výmaz dle § 205, odst. 3 zákona 89/2012 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1995-05-24">
+  <are:Statutarni_organ dza="1995-05-24" dvy="2019-03-19">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="1995-05-24">
+   <are:ZpusobJednani dza="1995-05-24" dvy="2019-03-19">
     <are:Text>
 Způsob jednání za společnost :
 Jednatelé zastupují společnost každý samostatně a podepisují se
@@ -137,7 +144,7 @@ tak, že k obchodnímu jménu společnosti připojí svůj podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2017-05-10">
+  <are:Statutarni_organ dza="2017-05-10" dvy="2019-03-19">
    <are:Nazev>Likvidátor</are:Nazev>
    <are:Clen dza="2017-05-10" dvy="2018-04-19">
     <are:posoba>
@@ -157,7 +164,7 @@ tak, že k obchodnímu jménu společnosti připojí svůj podpis.
      <are:ObchodniFirma>Hlista &amp; Pril, v.o.s.</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2018-04-19">
+   <are:Clen dza="2018-04-19" dvy="2019-03-19">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>21711810</are:ruianKod>
@@ -176,9 +183,9 @@ tak, že k obchodnímu jménu společnosti připojí svůj podpis.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1995-05-24">
+  <are:Jiny_organ dza="1995-05-24" dvy="2019-03-19">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2016-02-03">
+   <are:Clen dza="2016-02-03" dvy="2019-03-19">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>21734569</are:ruianKod>

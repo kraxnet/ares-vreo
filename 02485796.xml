@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-11T21:19:06"
+odpoved_datum_cas="2019-03-12T15:51:24"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
-   <are:Cas_vypisu>21:19:06</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:51:24</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -72,9 +72,10 @@ Předseda společenství vlastníků činí právní jednání a podepisuje je j
      <are:ObchodniFirma>Stavební bytové družstvo SEVER</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2017-09-07">
+   <are:Clen dza="2017-09-07" dvy="2019-03-09">
     <are:clenstvi>
      <are:vznikClenstvi>2013-11-12</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-11-12</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>pověřený vlastník</are:nazev>
@@ -95,7 +96,205 @@ Předseda společenství vlastníků činí právní jednání a podepisuje je j
      <are:ObchodniFirma>Stavební bytové družstvo SEVER</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
+   <are:Clen dza="2019-03-09">
+    <are:funkce>
+     <are:nazev>Předseda společenství vlastníků</are:nazev>
+     <are:vznikFunkce>2018-11-12</are:vznikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>76150011</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec I-Staré Město</are:castObce>
+      <are:ulice>Bažantí</are:ulice>
+      <are:cisloPop>1415</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:ICO>00042579</are:ICO>
+     <are:ObchodniFirma>Stavební bytové družstvo SEVER</are:ObchodniFirma>
+     <are:Zastoupeni dza="2019-03-09">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>27741699</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>46001</are:psc>
+        <are:okres>Liberec</are:okres>
+        <are:obec>Liberec</are:obec>
+        <are:castObce>Liberec XXXIII-Machnín</are:castObce>
+        <are:ulice>Tolstého</are:ulice>
+        <are:cisloPop>279</are:cisloPop>
+       </are:adresa>
+       <are:jmeno>PETR</are:jmeno>
+       <are:prijmeni>ČERNÝ</are:prijmeni>
+       <are:titulPred>Ing. Mgr.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+     <are:Zastoupeni dza="2019-03-09">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>23673028</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>46006</are:psc>
+        <are:okres>Liberec</are:okres>
+        <are:obec>Liberec</are:obec>
+        <are:castObce>Liberec VI-Rochlice</are:castObce>
+        <are:ulice>Vlnařská</are:ulice>
+        <are:cisloPop>688</are:cisloPop>
+        <are:cisloOr>20</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>PETR</are:jmeno>
+       <are:prijmeni>DEYL</are:prijmeni>
+       <are:titulPred>Ing.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+     <are:Zastoupeni dza="2019-03-09">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>23674211</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>46006</are:psc>
+        <are:okres>Liberec</are:okres>
+        <are:obec>Liberec</are:obec>
+        <are:castObce>Liberec VI-Rochlice</are:castObce>
+        <are:ulice>Na Žižkově</are:ulice>
+        <are:cisloPop>807</are:cisloPop>
+        <are:cisloOr>39</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>VRATISLAV</are:jmeno>
+       <are:prijmeni>ŠEDIVÝ</are:prijmeni>
+       <are:titulPred>Ing.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+     <are:Zastoupeni dza="2019-03-09">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>23723246</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>46015</are:psc>
+        <are:okres>Liberec</are:okres>
+        <are:obec>Liberec</are:obec>
+        <are:castObce>Liberec XV-Starý Harcov</are:castObce>
+        <are:ulice>Aloisina výšina</are:ulice>
+        <are:cisloPop>643</are:cisloPop>
+        <are:cisloOr>130</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>PŘEMEK</are:jmeno>
+       <are:prijmeni>ŠKODA</are:prijmeni>
+       <are:titulPred>Ing.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+     <are:Zastoupeni dza="2019-03-09">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>23721669</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>46015</are:psc>
+        <are:okres>Liberec</are:okres>
+        <are:obec>Liberec</are:obec>
+        <are:castObce>Liberec XV-Starý Harcov</are:castObce>
+        <are:ulice>Ječná</are:ulice>
+        <are:cisloPop>487</are:cisloPop>
+        <are:cisloOr>25</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>KAREL</are:jmeno>
+       <are:prijmeni>ŠELIGA</are:prijmeni>
+       <are:titulPred>Ing.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+     <are:Zastoupeni dza="2019-03-09">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>23672404</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>46006</are:psc>
+        <are:okres>Liberec</are:okres>
+        <are:obec>Liberec</are:obec>
+        <are:castObce>Liberec VI-Rochlice</are:castObce>
+        <are:ulice>Na Jezírku</are:ulice>
+        <are:cisloPop>624</are:cisloPop>
+        <are:cisloOr>19</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>JIŘÍ</are:jmeno>
+       <are:prijmeni>ŠUBR</are:prijmeni>
+       <are:titulPred>Ing.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+    </are:posoba>
+   </are:Clen>
   </are:Statutarni_organ>
+  <are:Jiny_organ dza="2019-03-09">
+   <are:Nazev>Kontrolní komise</are:Nazev>
+   <are:Clen dza="2019-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda kontrolní komise</are:nazev>
+     <are:vznikFunkce>2019-01-21</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23674440</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46006</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec VI-Rochlice</are:castObce>
+      <are:ulice>Žitná</are:ulice>
+      <are:cisloPop>830</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOSLAVA</are:jmeno>
+     <are:prijmeni>ARCHALOUSOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23674431</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46006</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec VI-Rochlice</are:castObce>
+      <are:ulice>Žitná</are:ulice>
+      <are:cisloPop>829</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DANA</are:jmeno>
+     <are:prijmeni>ADÁMKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23674431</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46006</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec VI-Rochlice</are:castObce>
+      <are:ulice>Žitná</are:ulice>
+      <are:cisloPop>829</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>POUR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
  </are:Vypis_VREO>
 </are:Odpoved>
 </are:Ares_odpovedi>

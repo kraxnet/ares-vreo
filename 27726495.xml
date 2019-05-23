@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T04:27:42"
+odpoved_datum_cas="2019-03-22T10:34:55"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>04:27:42</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:34:55</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -126,10 +126,12 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
    <are:Clen dza="2009-02-27" dvy="2016-03-11">
     <are:clenstvi>
      <are:vznikClenstvi>2009-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-01-01</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda výboru</are:nazev>
      <are:vznikFunkce>2009-01-01</are:vznikFunkce>
+     <are:zanikFunkce>2014-01-01</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -148,6 +150,7 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
    <are:Clen dza="2009-02-27" dvy="2016-03-11">
     <are:clenstvi>
      <are:vznikClenstvi>2009-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-01-01</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
@@ -169,6 +172,7 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
    <are:Clen dza="2011-08-24" dvy="2016-03-11">
     <are:clenstvi>
      <are:vznikClenstvi>2011-06-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2015-03-26</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
@@ -187,13 +191,15 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:prijmeni>Titl</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-03-11">
+   <are:Clen dza="2016-03-11" dvy="2019-03-20">
     <are:clenstvi>
      <are:vznikClenstvi>2015-09-22</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-09-22</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda výboru</are:nazev>
      <are:vznikFunkce>2015-09-22</are:vznikFunkce>
+     <are:zanikFunkce>2018-09-22</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -210,9 +216,10 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:prijmeni>ŠPRANECKÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-03-11">
+   <are:Clen dza="2016-03-11" dvy="2019-03-20">
     <are:clenstvi>
      <are:vznikClenstvi>2015-03-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-03-26</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
@@ -232,9 +239,10 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:prijmeni>TITL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-03-11">
+   <are:Clen dza="2016-03-11" dvy="2019-03-20">
     <are:clenstvi>
      <are:vznikClenstvi>2015-03-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-03-26</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
@@ -253,6 +261,77 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:jmeno>ZDENĚK</are:jmeno>
      <are:prijmeni>HANKO</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-09-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-09-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23208716</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69501</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Hodonín</are:obec>
+      <are:castObce>Hodonín</are:castObce>
+      <are:ulice>Sadová</are:ulice>
+      <are:cisloPop>3358</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VERONIKA</are:jmeno>
+     <are:prijmeni>ŠPRANECKÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-09-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23208716</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69501</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Hodonín</are:obec>
+      <are:castObce>Hodonín</are:castObce>
+      <are:ulice>Sadová</are:ulice>
+      <are:cisloPop>3358</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>HANKO</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-09-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23208716</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69501</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Hodonín</are:obec>
+      <are:castObce>Hodonín</are:castObce>
+      <are:ulice>Sadová</are:ulice>
+      <are:cisloPop>3358</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÍT</are:jmeno>
+     <are:prijmeni>TITL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

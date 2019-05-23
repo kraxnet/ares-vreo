@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T04:52:07"
+odpoved_datum_cas="2019-03-08T10:39:46"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>04:52:07</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-08</are:Datum_vypisu>
+   <are:Cas_vypisu>10:39:46</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -31,6 +31,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>14</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1995-05-02</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-06</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost se vymazává z obchodního rejstříku včetně všech zapsaných skutečností.
+ 
+Právní důvod výmazu: Společnost se vymazává z obchodního rejstříku po skončení likvidace na návrh společnosti doručený soudu dne 30.1.2019.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -42,9 +50,9 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1995-05-02">
+  <are:Statutarni_organ dza="1995-05-02" dvy="2019-03-06">
    <are:Nazev>Statutární orgán - komplementář</are:Nazev>
-   <are:ZpusobJednani dza="1995-05-02">
+   <are:ZpusobJednani dza="1995-05-02" dvy="2019-03-06">
     <are:Text>
 Způsob jednání za společnost: Za společnost jednají každý
 samostatně.
@@ -166,23 +174,6 @@ samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-07-11">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>5894174</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>79001</are:psc>
-      <are:obec>Jeseník</are:obec>
-      <are:castObce>Jeseník</are:castObce>
-      <are:ulice>nám. Svobody</are:ulice>
-      <are:cisloPop>1049</are:cisloPop>
-      <are:cisloOr>8</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>MACH</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-07-11" dvy="2015-05-22">
     <are:funkce>
      <are:zanikFunkce>2015-02-28</are:zanikFunkce>
@@ -203,7 +194,24 @@ samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-07-15">
+   <are:Clen dza="2014-07-11" dvy="2019-03-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5894174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79001</are:psc>
+      <are:obec>Jeseník</are:obec>
+      <are:castObce>Jeseník</are:castObce>
+      <are:ulice>nám. Svobody</are:ulice>
+      <are:cisloPop>1049</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>MACH</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-15" dvy="2019-03-06">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>5893071</are:ruianKod>
@@ -220,7 +228,7 @@ samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-06-12">
+   <are:Clen dza="2015-06-12" dvy="2019-03-06">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>5889227</are:ruianKod>
@@ -239,7 +247,7 @@ samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="1995-05-02">
+  <are:Statutarni_organ dza="1995-05-02" dvy="2019-03-06">
    <are:Nazev>Společníci - komplementáři</are:Nazev>
    <are:Clen dza="1995-05-02" dvy="2004-01-21">
     <are:fosoba>
@@ -357,23 +365,6 @@ samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-07-11">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>5894174</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>79001</are:psc>
-      <are:obec>Jeseník</are:obec>
-      <are:castObce>Jeseník</are:castObce>
-      <are:ulice>nám. Svobody</are:ulice>
-      <are:cisloPop>1049</are:cisloPop>
-      <are:cisloOr>8</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>MACH</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-07-11" dvy="2015-05-22">
     <are:fosoba>
      <are:adresa>
@@ -391,7 +382,24 @@ samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-07-15">
+   <are:Clen dza="2014-07-11" dvy="2019-03-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5894174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79001</are:psc>
+      <are:obec>Jeseník</are:obec>
+      <are:castObce>Jeseník</are:castObce>
+      <are:ulice>nám. Svobody</are:ulice>
+      <are:cisloPop>1049</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>MACH</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-15" dvy="2019-03-06">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>5893071</are:ruianKod>
@@ -408,7 +416,7 @@ samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-06-12">
+   <are:Clen dza="2015-06-12" dvy="2019-03-06">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>5889227</are:ruianKod>
@@ -427,9 +435,9 @@ samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2017-08-30">
+  <are:Statutarni_organ dza="2017-08-30" dvy="2019-03-06">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2017-08-30">
+   <are:Clen dza="2017-08-30" dvy="2019-03-06">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>5894174</are:ruianKod>

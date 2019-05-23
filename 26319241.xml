@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T02:55:36"
+odpoved_datum_cas="2019-03-08T10:40:14"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>02:55:36</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-08</are:Datum_vypisu>
+   <are:Cas_vypisu>10:40:14</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,7 +21,6 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>26319241</are:ICO>
    <are:ObchodniFirma>&quot;Společenství J. z PODĚBRAD čp. 812, 813 KYNŠPERK n/O&quot;</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>3</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>35751</are:psc>
     <are:okres>Sokolov</are:okres>
@@ -29,23 +28,29 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:ulice>J. z Poděbrad</are:ulice>
     <are:cisloTxt>812</are:cisloTxt>
    </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
    <are:DatumZapisu>2000-12-22</are:DatumZapisu>
    <are:Cinnosti>
-    <are:PredmetCinnosti>
+    <are:Ucel>
      <are:Text>
-správa domu
+Zajišťování správy domu a pozemku
      </are:Text>
-    </are:PredmetCinnosti>
+    </are:Ucel>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2000-12-22">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2000-12-22">
+   <are:ZpusobJednani dza="2000-12-22" dvy="2019-03-01">
     <are:Text>
 Způsob jednání za společnost:
 Za výbor jedná navenek předseda výboru. Je-li pro právní úkon
 zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
 člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-01">
+    <are:Text>
+Za výbor jedná navenek předseda. V době jeho nepřítomnosti jej zastupuje pověřený člen výboru. Jde-li o písemné právní jednání činěné jménem společenství, musí být podepsáno předsedou a dalším členem výboru.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2000-12-22" dvy="2003-10-01">
@@ -55,7 +60,6 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:okres>Sokolov</are:okres>
       <are:obec>Kynšperk nad Ohří</are:obec>
@@ -73,7 +77,6 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:okres>Sokolov</are:okres>
       <are:obec>Kynšperk nad Ohří</are:obec>
@@ -91,7 +94,6 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:okres>Sokolov</are:okres>
       <are:obec>Kynšperk nad Ohří</are:obec>
@@ -126,7 +128,6 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>35751</are:psc>
       <are:obec>Kynšperk nad Ohří</are:obec>
@@ -143,7 +144,6 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>35751</are:psc>
       <are:obec>Kynšperk nad Ohří</are:obec>
@@ -160,7 +160,6 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>35751</are:psc>
       <are:obec>Kynšperk nad Ohří</are:obec>
@@ -177,50 +176,11 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>35751</are:psc>
       <are:obec>Kynšperk nad Ohří</are:obec>
       <are:ulice>J. z Poděbrad</are:ulice>
       <are:cisloTxt>813</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Jiřina</are:jmeno>
-     <are:prijmeni>Havlíčková</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2012-10-27">
-    <are:funkce>
-     <are:nazev>předseda výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>14854066</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>35751</are:psc>
-      <are:obec>Kynšperk nad Ohří</are:obec>
-      <are:castObce>Kynšperk nad Ohří</are:castObce>
-      <are:ulice>Jiřího z Poděbrad</are:ulice>
-      <are:cisloPop>812</are:cisloPop>
-      <are:cisloOr>18</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>Jiří</are:jmeno>
-     <are:prijmeni>Bremert</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2012-10-27">
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>14854074</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>35751</are:psc>
-      <are:obec>Kynšperk nad Ohří</are:obec>
-      <are:castObce>Kynšperk nad Ohří</are:castObce>
-      <are:ulice>Jiřího z Poděbrad</are:ulice>
-      <are:cisloPop>813</are:cisloPop>
-      <are:cisloOr>20</are:cisloOr>
      </are:adresa>
      <are:jmeno>Jiřina</are:jmeno>
      <are:prijmeni>Havlíčková</are:prijmeni>
@@ -245,7 +205,55 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
      <are:prijmeni>Zoulová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-10-30">
+   <are:Clen dza="2012-10-27" dvy="2019-03-01">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-08-22</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2017-08-22</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14854066</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35751</are:psc>
+      <are:obec>Kynšperk nad Ohří</are:obec>
+      <are:castObce>Kynšperk nad Ohří</are:castObce>
+      <are:ulice>Jiřího z Poděbrad</are:ulice>
+      <are:cisloPop>812</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Bremert</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-10-27" dvy="2019-03-01">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-08-22</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14854074</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35751</are:psc>
+      <are:obec>Kynšperk nad Ohří</are:obec>
+      <are:castObce>Kynšperk nad Ohří</are:castObce>
+      <are:ulice>Jiřího z Poděbrad</are:ulice>
+      <are:cisloPop>813</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiřina</are:jmeno>
+     <are:prijmeni>Havlíčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-30" dvy="2019-03-01">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-08-22</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
     </are:funkce>
@@ -264,14 +272,85 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
      <are:prijmeni>ZOULOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-01">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-14</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-12-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14854066</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35751</are:psc>
+      <are:okres>Sokolov</are:okres>
+      <are:obec>Kynšperk nad Ohří</are:obec>
+      <are:castObce>Kynšperk nad Ohří</are:castObce>
+      <are:ulice>Jiřího z Poděbrad</are:ulice>
+      <are:cisloPop>812</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>BREMERT</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-01">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-14</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14854074</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35751</are:psc>
+      <are:okres>Sokolov</are:okres>
+      <are:obec>Kynšperk nad Ohří</are:obec>
+      <are:castObce>Kynšperk nad Ohří</are:castObce>
+      <are:ulice>Jiřího z Poděbrad</are:ulice>
+      <are:cisloPop>813</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘINA</are:jmeno>
+     <are:prijmeni>HAVLÍČKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-01">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-14</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14854074</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35751</are:psc>
+      <are:okres>Sokolov</are:okres>
+      <are:obec>Kynšperk nad Ohří</are:obec>
+      <are:castObce>Kynšperk nad Ohří</are:castObce>
+      <are:ulice>Jiřího z Poděbrad</are:ulice>
+      <are:cisloPop>813</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVLINA</are:jmeno>
+     <are:prijmeni>ZOULOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
  </are:Vypis_VREO>
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>02:55:36</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-08</are:Datum_vypisu>
+   <are:Cas_vypisu>10:40:15</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>

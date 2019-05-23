@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-04-25T14:56:09"
+odpoved_datum_cas="2019-03-22T10:26:58"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-04-25</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-04-25</are:Datum_vypisu>
-   <are:Cas_vypisu>14:56:10</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:26:58</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -53,10 +53,11 @@ pronájem nemovitostí, bytů a nebytových prostor
 Jednatel zastupuje společnost ve všech záležitostech samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2018-04-23">
+   <are:Clen dza="2018-04-23" dvy="2019-03-14">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2018-04-23</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-21</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -75,25 +76,33 @@ Jednatel zastupuje společnost ve všech záležitostech samostatně.
      <are:prijmeni>KLETT</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>792</are:stat>
+      <are:obec>Muratpaşa/Antalya</are:obec>
+      <are:ulice>Çaglayanská oblast, ulice 2000, Apartment Miriz, č. 3, byt 15</are:ulice>
+     </are:adresa>
+     <are:jmeno>ŞEHMUS</are:jmeno>
+     <are:prijmeni>YÜKSEKSES</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2018-04-23">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2018-04-23">
+   <are:Clen dza="2019-03-14">
     <are:posoba>
      <are:adresa>
-      <are:ruianKod>42741599</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>18000</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Libeň</are:castObce>
-      <are:mop>Praha 8</are:mop>
-      <are:ulice>Voctářova</are:ulice>
-      <are:cisloPop>2449</are:cisloPop>
-      <are:cisloOr>5</are:cisloOr>
+      <are:stat>792</are:stat>
+      <are:psc>07230</are:psc>
+      <are:obec>Muratpaşa/Antalya</are:obec>
+      <are:ulice>Güzeloba Mahallesi, Ça layanyil Cad. 3/B</are:ulice>
      </are:adresa>
-     <are:ICO>01656261</are:ICO>
-     <are:ObchodniFirma>UEPA Consulting &amp; Services s.r.o.</are:ObchodniFirma>
+     <are:ObchodniFirma>SARPEDON TRAVEL TUR TUR ZM  NŞAAT EMLAK MADENC L K L M TED Ş RKET</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
   </are:Jiny_organ>

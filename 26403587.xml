@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-06-26T15:20:45"
+odpoved_datum_cas="2019-03-08T10:38:12"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-06-26</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-06-26</are:Datum_vypisu>
-   <are:Cas_vypisu>15:20:46</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-08</are:Datum_vypisu>
+   <are:Cas_vypisu>10:38:12</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -32,6 +32,21 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>7</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2006-01-31</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-06</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní společnost Šoféři s.r.o. v likvidaci, se sídlem V Šipce 693/7, Jižní Předměstí, 301 00 Plzeň, identifikační číslo 264 03 587, ke dni právní moci tohoto rozhodnutí z obchodního rejstříku včetně všech zapsaných skutečností.
+ 
+Výmaz se provádí k návrhu likvidátora po skončení likvidace společnosti v souladu s ustanovením § 82 odst. 1 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob a o evidenci svěřenských fondů.
+ 
+Usnesením Krajského soudu v Plzni č.j. 38 Cm 52/2018  25 ze dne 7. 2. 2019 byla schválena závěrečná zpráva o likvidaci společnosti a na základě této podává likvidátor návrh na výmaz společnosti z obchodního rejstříku, neboť nebyl zjištěn a zajištěn žádný
+faktický majetek, který by mohl být zpeněžen, konstatuje, že zjištěný majetek je nedostačující i k pokrytí nákladů likvidace. Likvidátor má za to, že byly naplněny zákonné podmínky § 82 zákona č. 304/2013 Sb., o veřejných rejstřících, ve znění pozdějších
+předpisů.
+ 
+Likvidátor zjistil, že společnost nemá dostatek majetku ani na úhradu nákladů likvidace. Likvidátor prohlašuje, že bezúspěšně prověřil možnost uplatnit neplatnost nebo neúčinnost právních jednání právnické osoby, a že majetek této osoby nepostačuje ani k
+úhradě nákladů insolvenčního řízení.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -40,9 +55,9 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2006-01-31">
+  <are:Statutarni_organ dza="2006-01-31" dvy="2019-03-06">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2006-01-31">
+   <are:ZpusobJednani dza="2006-01-31" dvy="2019-03-06">
     <are:Text>
 Způsob jednání:
 Každý jednatel jedná samostatně.
@@ -142,7 +157,7 @@ Každý jednatel jedná samostatně.
      <are:prijmeni>Kuncl</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-01-06">
+   <are:Clen dza="2014-01-06" dvy="2019-03-06">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-12-03</are:vznikFunkce>
@@ -162,7 +177,7 @@ Každý jednatel jedná samostatně.
      <are:prijmeni>DUCZ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-06-21">
+   <are:Clen dza="2018-06-21" dvy="2019-03-06">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-12-03</are:vznikFunkce>
@@ -184,9 +199,9 @@ Každý jednatel jedná samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-06-21">
+  <are:Statutarni_organ dza="2018-06-21" dvy="2019-03-06">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-06-21">
+   <are:Clen dza="2018-06-21" dvy="2019-03-06">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>24556726</are:ruianKod>
@@ -204,9 +219,9 @@ Každý jednatel jedná samostatně.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2006-01-31">
+  <are:Jiny_organ dza="2006-01-31" dvy="2019-03-06">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2018-06-21">
+   <are:Clen dza="2018-06-21" dvy="2019-03-06">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>24543152</are:ruianKod>
@@ -223,7 +238,7 @@ Každý jednatel jedná samostatně.
      <are:prijmeni>KUNCL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-06-23">
+   <are:Clen dza="2018-06-23" dvy="2019-03-06">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>24536199</are:ruianKod>

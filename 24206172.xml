@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T10:28:20"
+odpoved_datum_cas="2019-03-22T10:32:51"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>10:28:20</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:32:51</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -158,7 +158,7 @@ Za společnost jedná představenstvo. Za představenstvo jedná navenek člen p
      <are:prijmeni>VAVREČKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-04-08">
+   <are:Clen dza="2014-04-08" dvy="2019-03-20">
     <are:clenstvi>
      <are:vznikClenstvi>2014-03-03</are:vznikClenstvi>
     </are:clenstvi>
@@ -175,6 +175,28 @@ Za společnost jedná představenstvo. Za představenstvo jedná navenek člen p
       <are:ulice>Mitušova</are:ulice>
       <are:cisloPop>1417</are:cisloPop>
       <are:cisloOr>85</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MONIKA</are:jmeno>
+     <are:prijmeni>RŮŽIČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-03</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>79163271</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73541</are:psc>
+      <are:okres>Karviná</are:okres>
+      <are:obec>Petřvald</are:obec>
+      <are:castObce>Petřvald</are:castObce>
+      <are:ulice>Aloise Blachy</are:ulice>
+      <are:cisloPop>2216</are:cisloPop>
      </are:adresa>
      <are:jmeno>MONIKA</are:jmeno>
      <are:prijmeni>RŮŽIČKOVÁ</are:prijmeni>

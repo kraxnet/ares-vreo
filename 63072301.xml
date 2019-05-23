@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T05:35:25"
+odpoved_datum_cas="2019-04-02T11:18:01"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>05:35:25</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:18:02</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>13</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1995-03-10</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost BLUE LINK s.r.o. v likvidaci se sídlem Mánesova 311/13, Vinohrady, 120 00 Praha 2, IČ 63072301 ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C vložka 35865. Právním důvodem v
+ýmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -52,20 +59,20 @@ zprostředkovatelská činnost v oblasti obchodu
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1995-03-10">
+  <are:Statutarni_organ dza="1995-03-10" dvy="2019-03-27">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="1995-03-10">
-    <are:Text>
-Jednatel zastupuje společnost samostatně. Podepisování za společ-
-nost se děje tak, že k vytištěnému nebo napsanému názvu společ-
-nosti připojí jednatel svůj vlastnoruční podpis.
-    </are:Text>
-   </are:ZpusobJednani>
    <are:ZpusobJednani dza="1995-03-10" dvy="1995-03-10">
     <are:Text>
 Jednatel zastupuje společnost samostatně. Podepisování za společ-
 nost se děje tak, že k vytištěnému nebo napsanému názvu společ-
 nosti připojí jednatel svůj vlasntoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-03-10" dvy="2019-03-27">
+    <are:Text>
+Jednatel zastupuje společnost samostatně. Podepisování za společ-
+nost se děje tak, že k vytištěnému nebo napsanému názvu společ-
+nosti připojí jednatel svůj vlastnoruční podpis.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1995-03-10" dvy="2002-08-21">
@@ -101,7 +108,7 @@ nosti připojí jednatel svůj vlasntoruční podpis.
      <are:prijmeni>Kovačevič</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-24">
+   <are:Clen dza="2016-11-24" dvy="2019-03-27">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
     </are:funkce>
@@ -123,9 +130,9 @@ nosti připojí jednatel svůj vlasntoruční podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2017-09-15">
+  <are:Statutarni_organ dza="2017-09-15" dvy="2019-03-27">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2017-09-15">
+   <are:Clen dza="2017-09-15" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22076972</are:ruianKod>
@@ -145,9 +152,9 @@ nosti připojí jednatel svůj vlasntoruční podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1995-03-10">
+  <are:Jiny_organ dza="1995-03-10" dvy="2019-03-27">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2016-11-24">
+   <are:Clen dza="2016-11-24" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22696571</are:ruianKod>
@@ -165,7 +172,7 @@ nosti připojí jednatel svůj vlasntoruční podpis.
      <are:prijmeni>KOVAČEVIČ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-24">
+   <are:Clen dza="2016-11-24" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22715614</are:ruianKod>
@@ -183,7 +190,7 @@ nosti připojí jednatel svůj vlasntoruční podpis.
      <are:prijmeni>FILIPOVIĆ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-24">
+   <are:Clen dza="2016-11-24" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:stat>70</are:stat>

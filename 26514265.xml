@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T04:36:03"
+odpoved_datum_cas="2019-03-18T10:22:19"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>04:36:03</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-18</are:Datum_vypisu>
+   <are:Cas_vypisu>10:22:19</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -386,27 +386,6 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    </are:Clen>
    <are:Clen dza="2016-04-22">
     <are:clenstvi>
-     <are:vznikClenstvi>2008-04-21</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Místopředseda výboru</are:nazev>
-     <are:vznikFunkce>2015-10-04</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>26061414</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>26801</are:psc>
-      <are:obec>Tlustice</are:obec>
-      <are:castObce>Tlustice</are:castObce>
-      <are:cisloPop>262</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>TOMÁŠ</are:jmeno>
-     <are:prijmeni>FOLTÝN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-04-22">
-    <are:clenstvi>
      <are:vznikClenstvi>2015-10-04</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
@@ -453,6 +432,27 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2016-04-22" dvy="2019-03-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-04-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2015-10-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26061414</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26801</are:psc>
+      <are:obec>Tlustice</are:obec>
+      <are:castObce>Tlustice</are:castObce>
+      <are:cisloPop>262</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>FOLTÝN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
    <are:Clen dza="2017-06-07">
     <are:funkce>
      <are:nazev>člen</are:nazev>
@@ -471,6 +471,30 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      </are:adresa>
      <are:jmeno>MICHAELA</are:jmeno>
      <are:prijmeni>EXNEROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-04-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2015-10-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5937345</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:okres>Beroun</are:okres>
+      <are:obec>Beroun</are:obec>
+      <are:castObce>Beroun-Město</are:castObce>
+      <are:ulice>Třída Míru</are:ulice>
+      <are:cisloPop>1170</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>FOLTÝN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

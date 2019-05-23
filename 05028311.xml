@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-18T09:41:55"
+odpoved_datum_cas="2019-03-18T10:21:51"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-18</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-18</are:Datum_vypisu>
-   <are:Cas_vypisu>09:41:55</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-18</are:Datum_vypisu>
+   <are:Cas_vypisu>10:21:51</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>46</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2016-04-26</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-13</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost HRP eu s.r.o. v likvidaci se sídlem Pobřežní 249/46, Karlín, 186 00 Praha 8, IČ: 5028311, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 257208. Právním důvodem v
+ýmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -41,9 +48,9 @@ pronájem nemovitostí, bytů a nebytových prostor
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2016-04-26">
+  <are:Statutarni_organ dza="2016-04-26" dvy="2019-03-13">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2016-04-26">
+   <are:ZpusobJednani dza="2016-04-26" dvy="2019-03-13">
     <are:Text>
 každý jednatel zastupuje společnost samostatně
     </are:Text>
@@ -72,9 +79,9 @@ každý jednatel zastupuje společnost samostatně
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-08-29">
+  <are:Statutarni_organ dza="2018-08-29" dvy="2019-03-13">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-08-29">
+   <are:Clen dza="2018-08-29" dvy="2019-03-13">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21734585</are:ruianKod>
@@ -94,9 +101,9 @@ každý jednatel zastupuje společnost samostatně
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2016-04-26">
+  <are:Jiny_organ dza="2016-04-26" dvy="2019-03-13">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2016-04-26">
+   <are:Clen dza="2016-04-26" dvy="2019-03-13">
     <are:fosoba>
      <are:adresa>
       <are:stat>840</are:stat>
@@ -108,7 +115,7 @@ každý jednatel zastupuje společnost samostatně
      <are:prijmeni>PATTERSON</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-04-26">
+   <are:Clen dza="2016-04-26" dvy="2019-03-13">
     <are:fosoba>
      <are:adresa>
       <are:stat>840</are:stat>
@@ -120,7 +127,7 @@ každý jednatel zastupuje společnost samostatně
      <are:prijmeni>PATTERSON</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-04-26">
+   <are:Clen dza="2016-04-26" dvy="2019-03-13">
     <are:fosoba>
      <are:adresa>
       <are:stat>840</are:stat>
@@ -132,7 +139,7 @@ každý jednatel zastupuje společnost samostatně
      <are:prijmeni>PATTERSON</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-04-26">
+   <are:Clen dza="2016-04-26" dvy="2019-03-13">
     <are:fosoba>
      <are:adresa>
       <are:stat>840</are:stat>

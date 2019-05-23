@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T11:23:04"
+odpoved_datum_cas="2019-04-03T12:05:11"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>11:23:04</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-03</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-03</are:Datum_vypisu>
+   <are:Cas_vypisu>12:05:11</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>RSVJ</are:Rejstrik>
    <are:ICO>28289706</are:ICO>
-   <are:ObchodniFirma>Společenství vlastníků jednotek pro dům Hvozdecká 4,6,8, Brno</are:ObchodniFirma>
+   <are:ObchodniFirma>Společenství vlastníků Hvozdecká 4, 6, 8, Brno</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>27298019</are:ruianKod>
     <are:stat>203</are:stat>
@@ -34,11 +34,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:DatumVzniku>2007-11-01</are:DatumVzniku>
    <are:DatumZapisu>2008-06-04</are:DatumZapisu>
    <are:Cinnosti>
-    <are:PredmetCinnosti>
+    <are:Ucel>
      <are:Text>
-správa domu
+Účelem činnosti společenství je správa, provoz, opravy společných částí nemovité věci, tj. domu a pozemků na nichž dům stojí a které jsou jeho součástí nebo s ním souvisí, vymezených způsobem stanoveným v zákoně a zabezpečování dalších činností spojených
+s provozem domu.
      </are:Text>
-    </are:PredmetCinnosti>
+    </are:Ucel>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2008-06-04" dvy="2012-06-15">
@@ -116,10 +117,16 @@ správa domu
   </are:Statutarni_organ>
   <are:Statutarni_organ dza="2012-06-15">
    <are:Nazev>Výbor</are:Nazev>
-   <are:ZpusobJednani dza="2008-06-04">
+   <are:ZpusobJednani dza="2008-06-04" dvy="2019-03-30">
     <are:Text>
 Způsob jednání: Výbor je statutárním orgánem společenství. Za výbor jedná navenek jeho předseda. V době nepřítomnosti předsedy jej zastupuje místopředseda. Jde-li o písemný právní úkon, musí být podepsán předsedou nebo v jeho zastoupení místopředsedou a d
 alším členenem výboru. Podepisuje-li předseda spolu s místopředsedou, je podpis místopředsedy považován za podpis dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-30">
+    <are:Text>
+Výbor je statutárním orgánem společenství. Za výbor jedná navenek jeho předseda. V době nepřítomnosti předsedy jej zastupuje místopředseda. Jde-li o písemné právní jednání, musí být podepsáno předsedou nebo v jeho zastoupení místopředsedou a dalším členem
+ výboru. Podepisuje-li předseda spolu s místopředsedou, je podpis místopředsedy považován za podpis dalšího člena výboru.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2012-06-15" dvy="2016-11-29">
@@ -190,13 +197,15 @@ alším členenem výboru. Podepisuje-li předseda spolu s místopředsedou, je
      <are:prijmeni>Alačková</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-29">
+   <are:Clen dza="2016-11-29" dvy="2019-03-30">
     <are:clenstvi>
      <are:vznikClenstvi>2012-03-07</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-03-07</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda výboru</are:nazev>
      <are:vznikFunkce>2012-03-07</are:vznikFunkce>
+     <are:zanikFunkce>2017-03-07</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -215,13 +224,15 @@ alším členenem výboru. Podepisuje-li předseda spolu s místopředsedou, je
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-29">
+   <are:Clen dza="2016-11-29" dvy="2019-03-30">
     <are:clenstvi>
      <are:vznikClenstvi>2012-03-07</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-03-07</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>místopředseda výboru</are:nazev>
      <are:vznikFunkce>2012-03-07</are:vznikFunkce>
+     <are:zanikFunkce>2017-03-07</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -240,13 +251,15 @@ alším členenem výboru. Podepisuje-li předseda spolu s místopředsedou, je
      <are:titulPred>MVDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-29">
+   <are:Clen dza="2016-11-29" dvy="2019-03-30">
     <are:clenstvi>
      <are:vznikClenstvi>2012-03-07</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-03-07</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
      <are:vznikFunkce>2012-03-07</are:vznikFunkce>
+     <are:zanikFunkce>2017-03-07</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -262,6 +275,80 @@ alším členenem výboru. Podepisuje-li předseda spolu s místopředsedou, je
      </are:adresa>
      <are:jmeno>ANA</are:jmeno>
      <are:prijmeni>ALAČKOVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2019-02-21</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27298027</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63500</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Bystrc</are:castObce>
+      <are:ulice>Hvozdecká</are:ulice>
+      <are:cisloPop>1293</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ALEKSANDAR</are:jmeno>
+     <are:prijmeni>ALAČKOV</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2019-02-21</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27298027</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63500</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Bystrc</are:castObce>
+      <are:ulice>Hvozdecká</are:ulice>
+      <are:cisloPop>1293</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>FICHTEL</are:prijmeni>
+     <are:titulPred>MVDr.</are:titulPred>
+     <are:titulZa>PhD.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19485034</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63400</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Nový Lískovec</are:castObce>
+      <are:ulice>Oblá</are:ulice>
+      <are:cisloPop>463</are:cisloPop>
+      <are:cisloOr>54</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>ŠURÁŇ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

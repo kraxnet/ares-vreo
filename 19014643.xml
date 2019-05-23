@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T07:42:20"
+odpoved_datum_cas="2019-03-27T09:56:27"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>07:42:20</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-27</are:Datum_vypisu>
+   <are:Cas_vypisu>09:56:27</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,34 +21,27 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>19014643</are:ICO>
    <are:ObchodniFirma>KLIMASERVIS OSTRAVA v.o.s.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>1</are:ruianKod>
+    <are:ruianKod>3235165</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>71900</are:psc>
-    <are:obec>Ostrava Kunčice</are:obec>
+    <are:okres>Ostrava-město</are:okres>
+    <are:obec>Ostrava</are:obec>
+    <are:castObce>Kunčice</are:castObce>
     <are:ulice>Blokova</are:ulice>
-    <are:cisloTxt>12</are:cisloTxt>
+    <are:cisloPop>535</are:cisloPop>
+    <are:cisloOr>12</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1991-08-01</are:DatumZapisu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-výroba, instalace a opravy chladících zařízení
+výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení
      </are:Text>
      <are:Text>
-výroba, instalace a opravy ústředního vytápění a větrání
+montáž, opravy, revize a zkoušky elektrických zařízení
      </are:Text>
      <are:Text>
-elektroinstalatérství
-     </are:Text>
-     <are:Text>
-výroba a opravy el. šicích strojů a el. přístrojů pro
-domácnost
-     </are:Text>
-     <are:Text>
-koupě zboží za účelem jeho dalšího prodeje a prodej
-     </are:Text>
-     <are:Text>
-zakázkové práce pro interiéry
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
@@ -66,7 +59,6 @@ Jménem společnosti jsou oprávněni jednat samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Ostrava Poruba</are:obec>
       <are:ulice>Pokorného 1295</are:ulice>
@@ -82,7 +74,6 @@ Jménem společnosti jsou oprávněni jednat samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>70500</are:psc>
       <are:obec>Ostrava Hrabůvka</are:obec>
@@ -98,7 +89,6 @@ Jménem společnosti jsou oprávněni jednat samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>70400</are:psc>
       <are:obec>Ostrava Yábřeh</are:obec>
@@ -114,7 +104,6 @@ Jménem společnosti jsou oprávněni jednat samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>70800</are:psc>
       <are:obec>Ostrava Poruba</are:obec>
@@ -131,7 +120,6 @@ Jménem společnosti jsou oprávněni jednat samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Havířov Město</are:obec>
       <are:ulice>Mánesova 10</are:ulice>
@@ -144,7 +132,6 @@ Jménem společnosti jsou oprávněni jednat samostatně.
    <are:Clen dza="1994-01-21" dvy="1997-11-25">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>70800</are:psc>
       <are:obec>Ostrava-Poruba</are:obec>
@@ -161,7 +148,6 @@ Jménem společnosti jsou oprávněni jednat samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>70500</are:psc>
       <are:obec>Ostrava-Hrabůvka</are:obec>
@@ -177,7 +163,6 @@ Jménem společnosti jsou oprávněni jednat samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>70800</are:psc>
       <are:obec>Ostrava - Poruba</are:obec>
@@ -191,7 +176,6 @@ Jménem společnosti jsou oprávněni jednat samostatně.
    <are:Clen dza="1997-11-25" dvy="2015-08-01">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>70400</are:psc>
       <are:obec>Ostrava - Zábřeh</are:obec>
@@ -202,7 +186,7 @@ Jménem společnosti jsou oprávněni jednat samostatně.
      <are:prijmeni>Svoboda</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-01-01">
+   <are:Clen dza="2009-01-01" dvy="2019-03-25">
     <are:funkce>
      <are:vznikFunkce>2009-01-01</are:vznikFunkce>
     </are:funkce>
@@ -237,34 +221,61 @@ Jménem společnosti jsou oprávněni jednat samostatně.
      <are:prijmeni>SVOBODA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="1994-01-21">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="1994-01-21">
-    <are:posoba>
-     <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>70400</are:psc>
-      <are:obec>Ostrava-Zábřeh</are:obec>
-      <are:ulice>Pavlovova 27</are:ulice>
-     </are:adresa>
-     <are:ObchodniFirma>Tomáš  S v o b o d a</are:ObchodniFirma>
-    </are:posoba>
-   </are:Clen>
-   <are:Clen dza="2009-01-01">
+   <are:Clen dza="2019-03-25">
+    <are:funkce>
+     <are:vznikFunkce>2009-01-01</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>3278344</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>70030</are:psc>
+      <are:okres>Ostrava-město</are:okres>
       <are:obec>Ostrava</are:obec>
       <are:castObce>Zábřeh</are:castObce>
       <are:ulice>Pavlovova</are:ulice>
-      <are:cisloTxt>27</are:cisloTxt>
+      <are:cisloPop>2628</are:cisloPop>
+      <are:cisloOr>27</are:cisloOr>
      </are:adresa>
-     <are:jmeno>Alena</are:jmeno>
-     <are:prijmeni>Svobodová</are:prijmeni>
+     <are:jmeno>ALENA</are:jmeno>
+     <are:prijmeni>SVOBODOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-01-21">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2019-03-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3278344</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Zábřeh</are:castObce>
+      <are:ulice>Pavlovova</are:ulice>
+      <are:cisloPop>2628</are:cisloPop>
+      <are:cisloOr>27</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ALENA</are:jmeno>
+     <are:prijmeni>SVOBODOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3278344</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Zábřeh</are:castObce>
+      <are:ulice>Pavlovova</are:ulice>
+      <are:cisloPop>2628</are:cisloPop>
+      <are:cisloOr>27</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>SVOBODA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

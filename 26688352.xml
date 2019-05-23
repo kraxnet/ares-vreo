@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-02-04T12:53:10"
+odpoved_datum_cas="2019-04-02T11:33:12"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-02-04</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-02-04</are:Datum_vypisu>
-   <are:Cas_vypisu>12:53:11</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:33:12</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -37,8 +37,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:text>Hrnčiarská 1619/44,091 01 Stropkov</are:text>
    </are:Bydliste>
    <are:DatumZapisu>2002-03-27</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-06</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Podnikatel Jozef Cichý, nar. 19.9.1938, se sídlem Bojasova 1244/5, Kobylisy, 182 00, Praha 8, IČO: 26688352, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl A, vložka 46823. Právním dů
+vodem výmazu je ukončení činnosti podnikatele.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2002-03-27">
+  <are:Statutarni_organ dza="2002-03-27" dvy="2019-03-06">
    <are:Nazev>Podnikatel</are:Nazev>
    <are:Clen dza="2002-03-27" dvy="2018-07-20">
     <are:fosoba>
@@ -46,7 +53,7 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:prijmeni>Cichý</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-07-20">
+   <are:Clen dza="2018-07-20" dvy="2019-03-06">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22369694</are:ruianKod>

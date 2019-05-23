@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-05-21T11:39:46"
+odpoved_datum_cas="2019-04-02T11:16:33"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-05-21</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-05-21</are:Datum_vypisu>
-   <are:Cas_vypisu>11:39:46</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:16:33</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>17</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2010-05-17</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost BERBENYCJA s.r.o. v likvidaci, se sídlem Lysolajské údolí 91/17, Lysolaje,165 00 Praha 6, IČ: 246 77 680 se vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 165399. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -41,9 +47,9 @@ pronájem nemovitostí, bytů a nebytových prostor
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2010-05-17">
+  <are:Statutarni_organ dza="2010-05-17" dvy="2019-03-27">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2010-05-17">
+   <are:ZpusobJednani dza="2010-05-17" dvy="2019-03-27">
     <are:Text>
 Jednatelé jednají jménem společnosti každý samostatně.
     </are:Text>
@@ -257,229 +263,6 @@ Jednatelé jednají jménem společnosti každý samostatně.
      <are:prijmeni>Ivan Begeni</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21945152</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14000</are:psc>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Nusle</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Táborská</are:ulice>
-      <are:cisloPop>608</are:cisloPop>
-      <are:cisloOr>22</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>HALYNA</are:jmeno>
-     <are:prijmeni>ANDRIYENKO</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Velký Berezný, Zakarpatská obl.</are:obec>
-      <are:ulice>Korjatoviča 14/2</are:ulice>
-     </are:adresa>
-     <are:jmeno>VIKTOR</are:jmeno>
-     <are:prijmeni>BIHAR</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Kaluš, Frankivska obl.</are:obec>
-      <are:ulice>ul. Rubčaka 1/23</are:ulice>
-     </are:adresa>
-     <are:jmeno>ZORYANA</are:jmeno>
-     <are:prijmeni>FARMUS</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:jmeno>BORYS</are:jmeno>
-     <are:prijmeni>DZHERDZH</are:prijmeni>
-     <are:bydliste>
-      <are:ruianKod>22543198</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>19000</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Vysočany</are:castObce>
-      <are:mop>Praha 9</are:mop>
-      <are:ulice>U vinných sklepů</are:ulice>
-      <are:cisloPop>317</are:cisloPop>
-      <are:cisloOr>2</are:cisloOr>
-     </are:bydliste>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Velykobereznjanskyy okr.</are:obec>
-      <are:ulice>s. Uzok 125</are:ulice>
-     </are:adresa>
-     <are:jmeno>VITALIY</are:jmeno>
-     <are:prijmeni>YATSOLA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Velykobereznjanskyy okr.</are:obec>
-      <are:ulice>s. Lyuta 333</are:ulice>
-     </are:adresa>
-     <are:jmeno>VASYL</are:jmeno>
-     <are:prijmeni>HONDORCHYN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>s. Maly, Berezny</are:obec>
-      <are:ulice>ul. Ševčenka 23</are:ulice>
-     </are:adresa>
-     <are:jmeno>ANDRIY</are:jmeno>
-     <are:prijmeni>MYKYTA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Rachivskyy okr.</are:obec>
-      <are:ulice>s. Lazisčyna 513</are:ulice>
-     </are:adresa>
-     <are:jmeno>MARIANA</are:jmeno>
-     <are:prijmeni>MYKULIAK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>m. Slovjansk</are:obec>
-      <are:ulice>ul. Henerala Batuka 35/44</are:ulice>
-     </are:adresa>
-     <are:jmeno>NATALIYA</are:jmeno>
-     <are:prijmeni>SIMINA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>s. N. Remeta,  Berechivkyy okr.</are:obec>
-      <are:ulice>Centralnaja 10</are:ulice>
-     </are:adresa>
-     <are:jmeno>YURIY</are:jmeno>
-     <are:prijmeni>MARHITYCH</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Velykobereznjanskyy okr.</are:obec>
-      <are:ulice>s. Sil 131</are:ulice>
-     </are:adresa>
-     <are:jmeno>SERHIY</are:jmeno>
-     <are:prijmeni>BOBRYK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>m. Tajčiv</are:obec>
-      <are:ulice>ul. Košuta 57</are:ulice>
-     </are:adresa>
-     <are:jmeno>YEVHEN</are:jmeno>
-     <are:prijmeni>POP</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>m. Biltaj, Iršavskyy okr.</are:obec>
-      <are:ulice>ul. Konstitučnyj 32</are:ulice>
-     </are:adresa>
-     <are:jmeno>MYKHAYLO</are:jmeno>
-     <are:prijmeni>SEMAK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-12">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Velký Berezný</are:obec>
-      <are:ulice>Kocubinskoho 6/13</are:ulice>
-     </are:adresa>
-     <are:jmeno>IVAN</are:jmeno>
-     <are:prijmeni>BEGENI</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2015-11-12" dvy="2016-01-08">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -501,7 +284,230 @@ Jednatelé jednají jménem společnosti každý samostatně.
      <are:prijmeni>OSHOVSKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-01-08">
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21945152</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nusle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Táborská</are:ulice>
+      <are:cisloPop>608</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HALYNA</are:jmeno>
+     <are:prijmeni>ANDRIYENKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Velký Berezný, Zakarpatská obl.</are:obec>
+      <are:ulice>Korjatoviča 14/2</are:ulice>
+     </are:adresa>
+     <are:jmeno>VIKTOR</are:jmeno>
+     <are:prijmeni>BIHAR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kaluš, Frankivska obl.</are:obec>
+      <are:ulice>ul. Rubčaka 1/23</are:ulice>
+     </are:adresa>
+     <are:jmeno>ZORYANA</are:jmeno>
+     <are:prijmeni>FARMUS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:jmeno>BORYS</are:jmeno>
+     <are:prijmeni>DZHERDZH</are:prijmeni>
+     <are:bydliste>
+      <are:ruianKod>22543198</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vysočany</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>U vinných sklepů</are:ulice>
+      <are:cisloPop>317</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Velykobereznjanskyy okr.</are:obec>
+      <are:ulice>s. Uzok 125</are:ulice>
+     </are:adresa>
+     <are:jmeno>VITALIY</are:jmeno>
+     <are:prijmeni>YATSOLA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Velykobereznjanskyy okr.</are:obec>
+      <are:ulice>s. Lyuta 333</are:ulice>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>HONDORCHYN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>s. Maly, Berezny</are:obec>
+      <are:ulice>ul. Ševčenka 23</are:ulice>
+     </are:adresa>
+     <are:jmeno>ANDRIY</are:jmeno>
+     <are:prijmeni>MYKYTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rachivskyy okr.</are:obec>
+      <are:ulice>s. Lazisčyna 513</are:ulice>
+     </are:adresa>
+     <are:jmeno>MARIANA</are:jmeno>
+     <are:prijmeni>MYKULIAK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>m. Slovjansk</are:obec>
+      <are:ulice>ul. Henerala Batuka 35/44</are:ulice>
+     </are:adresa>
+     <are:jmeno>NATALIYA</are:jmeno>
+     <are:prijmeni>SIMINA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>s. N. Remeta,  Berechivkyy okr.</are:obec>
+      <are:ulice>Centralnaja 10</are:ulice>
+     </are:adresa>
+     <are:jmeno>YURIY</are:jmeno>
+     <are:prijmeni>MARHITYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Velykobereznjanskyy okr.</are:obec>
+      <are:ulice>s. Sil 131</are:ulice>
+     </are:adresa>
+     <are:jmeno>SERHIY</are:jmeno>
+     <are:prijmeni>BOBRYK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>m. Tajčiv</are:obec>
+      <are:ulice>ul. Košuta 57</are:ulice>
+     </are:adresa>
+     <are:jmeno>YEVHEN</are:jmeno>
+     <are:prijmeni>POP</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>m. Biltaj, Iršavskyy okr.</are:obec>
+      <are:ulice>ul. Konstitučnyj 32</are:ulice>
+     </are:adresa>
+     <are:jmeno>MYKHAYLO</are:jmeno>
+     <are:prijmeni>SEMAK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Velký Berezný</are:obec>
+      <are:ulice>Kocubinskoho 6/13</are:ulice>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>BEGENI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-08" dvy="2019-03-27">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-05-17</are:vznikFunkce>
@@ -524,7 +530,7 @@ Jednatelé jednají jménem společnosti každý samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2016-03-14">
+  <are:Statutarni_organ dza="2016-03-14" dvy="2019-03-27">
    <are:Nazev>Likvidátor</are:Nazev>
    <are:Clen dza="2016-03-14" dvy="2018-05-18">
     <are:fosoba>
@@ -543,7 +549,7 @@ Jednatelé jednají jménem společnosti každý samostatně.
      <are:prijmeni>ANDRIYENKO</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-05-18">
+   <are:Clen dza="2018-05-18" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21705828</are:ruianKod>
@@ -563,9 +569,9 @@ Jednatelé jednají jménem společnosti každý samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2010-05-17">
+  <are:Jiny_organ dza="2010-05-17" dvy="2019-03-27">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-11-12">
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21945152</are:ruianKod>
@@ -582,7 +588,7 @@ Jednatelé jednají jménem společnosti každý samostatně.
      <are:prijmeni>ANDRIYENKO</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-11-12">
+   <are:Clen dza="2015-11-12" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>

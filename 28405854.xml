@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-18T15:20:27"
+odpoved_datum_cas="2019-04-08T11:06:54"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-18</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-18</are:Datum_vypisu>
-   <are:Cas_vypisu>15:20:28</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-08</are:Datum_vypisu>
+   <are:Cas_vypisu>11:06:54</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>19</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2008-05-28</are:DatumZapisu>
+   <are:DatumVymazu>2019-04-03</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost VAV COMPANY CZ s.r.o. v likvidaci, se sídlem Jaurisova 1501/19, Nusle, 140 00 Praha 4, IČ: 284 05 854 se vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 139191. Právním důvodem výmazu je ukončení likvidace spol
+ečnosti.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -46,14 +53,14 @@ pronájem nemovitostí, bytů a nebytových prostor
     </are:PredmetCinnosti>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2008-05-28">
+  <are:Statutarni_organ dza="2008-05-28" dvy="2019-04-03">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2008-05-28" dvy="2009-06-03">
     <are:Text>
 Za společnost jedná samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2009-06-03">
+   <are:ZpusobJednani dza="2009-06-03" dvy="2019-04-03">
     <are:Text>
 Za společnost jedná samostatně jednatel.
     </are:Text>
@@ -69,24 +76,6 @@ Za společnost jedná samostatně jednatel.
      </are:adresa>
      <are:jmeno>Dmytro</are:jmeno>
      <are:prijmeni>Shopa</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-06-03">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-06-03</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22516174</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>19000</are:psc>
-      <are:obec>Praha 9</are:obec>
-      <are:ulice>Šluknovská</are:ulice>
-      <are:cisloTxt>314</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Mariya</are:jmeno>
-     <are:prijmeni>Pylypiv</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2009-06-03" dvy="2009-06-03">
@@ -225,6 +214,24 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Bakhirkina</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2009-06-03" dvy="2019-04-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-06-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22516174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Šluknovská</are:ulice>
+      <are:cisloTxt>314</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Pylypiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
    <are:Clen dza="2009-06-18" dvy="2009-11-19">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -313,7 +320,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Dudash</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-09-30">
+   <are:Clen dza="2009-09-30" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-09-30</are:vznikFunkce>
@@ -331,7 +338,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Pidkevych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-09-30">
+   <are:Clen dza="2009-09-30" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-09-30</are:vznikFunkce>
@@ -349,7 +356,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Pukman</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-09-30">
+   <are:Clen dza="2009-09-30" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-09-30</are:vznikFunkce>
@@ -367,7 +374,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Khudan</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-09-30">
+   <are:Clen dza="2009-09-30" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-09-30</are:vznikFunkce>
@@ -384,7 +391,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Andreiko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-09-30">
+   <are:Clen dza="2009-09-30" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-09-30</are:vznikFunkce>
@@ -402,7 +409,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Tetynets</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-09-30">
+   <are:Clen dza="2009-09-30" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-09-30</are:vznikFunkce>
@@ -420,7 +427,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Ivaniv</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-09-30">
+   <are:Clen dza="2009-09-30" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-09-30</are:vznikFunkce>
@@ -438,7 +445,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Popovych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-09-30">
+   <are:Clen dza="2009-09-30" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-09-30</are:vznikFunkce>
@@ -456,7 +463,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Kharbaka</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-09-30">
+   <are:Clen dza="2009-09-30" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-09-30</are:vznikFunkce>
@@ -474,7 +481,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Romanyuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-09-30">
+   <are:Clen dza="2009-09-30" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-09-30</are:vznikFunkce>
@@ -492,7 +499,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Zolotarchuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -510,7 +517,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Balasov</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -528,7 +535,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Brekhliychuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -545,7 +552,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Samsonenko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -563,7 +570,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Tafiychuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -581,7 +588,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Soyma</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -598,7 +605,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Mykuliak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -616,7 +623,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Sabad</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -634,7 +641,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Vursta</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -651,7 +658,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Terpai</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -669,7 +676,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Kasynets</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-11-19">
+   <are:Clen dza="2009-11-19" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-11-19</are:vznikFunkce>
@@ -687,7 +694,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Semchuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-01-27">
+   <are:Clen dza="2010-01-27" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-01-27</are:vznikFunkce>
@@ -705,7 +712,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Niculita</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-01-27">
+   <are:Clen dza="2010-01-27" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-01-27</are:vznikFunkce>
@@ -722,7 +729,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Popenko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-01-27">
+   <are:Clen dza="2010-01-27" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-01-27</are:vznikFunkce>
@@ -740,7 +747,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Patskan</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-01-27">
+   <are:Clen dza="2010-01-27" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-01-27</are:vznikFunkce>
@@ -758,7 +765,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Botnari</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-01-27">
+   <are:Clen dza="2010-01-27" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-01-27</are:vznikFunkce>
@@ -776,7 +783,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Antosyak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-01-27">
+   <are:Clen dza="2010-01-27" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-01-27</are:vznikFunkce>
@@ -794,9 +801,9 @@ Za společnost jedná samostatně jednatel.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2019-01-15">
+  <are:Statutarni_organ dza="2019-01-15" dvy="2019-04-03">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2019-01-15">
+   <are:Clen dza="2019-01-15" dvy="2019-04-03">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>21731225</are:ruianKod>
@@ -811,9 +818,9 @@ Za společnost jedná samostatně jednatel.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2008-05-28">
+  <are:Jiny_organ dza="2008-05-28" dvy="2019-04-03">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Ključarky Mukačivský okr. Ševčenka 8, Ukrajina</are:text>
@@ -822,7 +829,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Pronteker</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Horodok Zaporizskoji Siči 12a/7, Ukrajina</are:text>
@@ -831,7 +838,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Tsunovska</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Dilove Partyzanska 9, Ukrajina</are:text>
@@ -840,7 +847,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Vodosh</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Konjuchiv Stryjský okr. Dovholucka 5, Ukrajina</are:text>
@@ -849,7 +856,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Kovalchuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Zbora Kalušský okr. Ukrajina</are:text>
@@ -858,7 +865,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Fedoryshyn</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Stankivci Chodorkivska 81, Ukrajina</are:text>
@@ -867,7 +874,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Medvetskyy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Kaluš Starojevrejska 10/6, Ukrajina</are:text>
@@ -876,7 +883,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Buk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Novomoskovsk Partyzanská 176, Ukrajina</are:text>
@@ -885,7 +892,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Martynov</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Užhorod Lavriščeva 14A/24, Ukrajina</are:text>
@@ -894,7 +901,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Pavlyulynets</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Užhorod, Lavriščeva 14A/24, Ukrajina</are:text>
@@ -903,7 +910,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Pavlyulynets</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Dovhe Lemacka 38, Ukrajina</are:text>
@@ -912,7 +919,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Shopa</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Užhorod Lysenka 45/16, Ukrajina</are:text>
@@ -921,7 +928,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Pavlyulynets</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Svaljava Vyzvolennja 99/8, Ukrajina</are:text>
@@ -930,7 +937,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Rusyn</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Horodnycja Horodenkivský okr. Zelena 1, Ukrajina</are:text>
@@ -939,7 +946,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Belendyuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Lviv Čukarina 2/113, Ukrajina</are:text>
@@ -948,7 +955,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Shyyanova</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Kamjanské Iršavský okr. Žovtneva 114, Ukrajina</are:text>
@@ -957,7 +964,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Sokach</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Bolechiv, Zamkova 16/3, Ukrajina</are:text>
@@ -966,7 +973,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Kirin</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Nova Kachovka, Horkoho 11, Ukrajina</are:text>
@@ -975,7 +982,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Skoryk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Vynohradovo Belhorodská 84, Ukrajina</are:text>
@@ -984,7 +991,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Kruchko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Stebnyk M. Hruševskoho 12/92, Ukrajina</are:text>
@@ -993,7 +1000,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Hladka</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Vynohradovo Belhorodská 84, Ukrajina</are:text>
@@ -1002,7 +1009,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Kruchko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Dolyna Krasinskoho 2/3, Ukrajina</are:text>
@@ -1011,7 +1018,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Khimiy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Drahovo Chustský okr. Ukrajina</are:text>
@@ -1020,7 +1027,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Krasylynets</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Čukva Sambirsky okr. Ukrajina</are:text>
@@ -1029,7 +1036,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Seredynskyy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Chust Bična 4, Ukrajina</are:text>
@@ -1038,7 +1045,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Nos</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Vel. Byčkiv Rachivský okr. Ukrajina</are:text>
@@ -1047,7 +1054,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Klepar</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Neresnycja Hruševskoho 134, Ukrajina</are:text>
@@ -1056,7 +1063,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Fitsay</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Minsk Plechanova 97/5, Beloruská republika</are:text>
@@ -1065,7 +1072,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Bokhan</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Silce Rachivský okr. Ukrajina</are:text>
@@ -1074,7 +1081,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Bodnar</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Kos. Poljana Rachivský okr. Ukrajina</are:text>
@@ -1083,7 +1090,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Sas</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Bolechiv Konovalcja 55/2, Ukrajina</are:text>
@@ -1092,7 +1099,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Kobetskyy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Blašiv, Rivenský okr. Ukrajina</are:text>
@@ -1101,7 +1108,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Ykubovska</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Taškent Yunus-Abad 13/5/29, Uzbekistan</are:text>
@@ -1110,7 +1117,7 @@ Za společnost jedná samostatně jednatel.
      <are:prijmeni>Aliev</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-05-28">
+   <are:Clen dza="2008-05-28" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:text>Ruské Pole K. Marksa 116, Ukrajina</are:text>

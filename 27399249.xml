@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-10T12:06:27"
+odpoved_datum_cas="2019-03-14T12:47:20"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-10</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-10</are:Datum_vypisu>
-   <are:Cas_vypisu>12:06:27</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:47:20</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -30,26 +30,16 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>66a</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2005-11-23</are:DatumZapisu>
-   <are:Cinnosti>
-    <are:PredmetPodnikani>
-     <are:Text>
-zprostředkování obchodu a služeb
-     </are:Text>
-     <are:Text>
-reklamní činnost a marketing
-     </are:Text>
-     <are:Text>
-činnost podnikatelských, finančních, organizačních a ekonomických poradců
-     </are:Text>
-     <are:Text>
-provádění staveb, jejich změn a odstraňování
-     </are:Text>
-    </are:PredmetPodnikani>
-   </are:Cinnosti>
+   <are:DatumVymazu>2019-03-13</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost U-INVEST a.s. v likvidaci, IČO 27399249, sídlem Sokolovská 66a, PSČ 18000 Praha 8,, z obchodního rejstříku.Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2005-11-23">
+  <are:Statutarni_organ dza="2005-11-23" dvy="2019-03-13">
    <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
-   <are:ZpusobJednani dza="2005-11-23">
+   <are:ZpusobJednani dza="2005-11-23" dvy="2019-03-13">
     <are:Text>
 Za představenstvo jedná navenek jménem společnosti samostatně předseda představenstva. Písemné úkony, které činí předseda představenstva jménem společnosti podepisuje tak, že k obchodní firmě společnosti připojí svůj podpis.
     </are:Text>
@@ -142,9 +132,9 @@ Za představenstvo jedná navenek jménem společnosti samostatně předseda př
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-10-03">
+  <are:Statutarni_organ dza="2018-10-03" dvy="2019-03-13">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-10-03">
+   <are:Clen dza="2018-10-03" dvy="2019-03-13">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>26031990</are:ruianKod>
@@ -161,7 +151,7 @@ Za představenstvo jedná navenek jménem společnosti samostatně předseda př
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2009-04-15">
+  <are:Jiny_organ dza="2009-04-15" dvy="2019-03-13">
    <are:Nazev>Jediný akcionář</are:Nazev>
   </are:Jiny_organ>
  </are:Vypis_VREO>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-02-06T14:42:25"
+odpoved_datum_cas="2019-03-14T12:40:08"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-02-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-02-06</are:Datum_vypisu>
-   <are:Cas_vypisu>14:42:25</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:40:08</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -731,30 +731,6 @@ Jménem společnosti jedná vůči třetím osobám, před soudy a před jinými
      <are:prijmeni>VOMÁČKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-11-06">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-09-19</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>předseda představenstva</are:nazev>
-     <are:vznikFunkce>2014-09-19</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>26733862</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>79601</are:psc>
-      <are:obec>Prostějov</are:obec>
-      <are:castObce>Prostějov</are:castObce>
-      <are:ulice>Atletická</are:ulice>
-      <are:cisloPop>4461</are:cisloPop>
-      <are:cisloOr>10</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>VIKTOR</are:jmeno>
-     <are:prijmeni>VYBÍRAL</are:prijmeni>
-     <are:titulPred>Bc.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-11-06" dvy="2015-04-15">
     <are:clenstvi>
      <are:vznikClenstvi>2014-09-19</are:vznikClenstvi>
@@ -781,27 +757,30 @@ Jménem společnosti jedná vůči třetím osobám, před soudy a před jinými
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-04-15">
+   <are:Clen dza="2014-11-06" dvy="2019-03-12">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-02-10</are:vznikClenstvi>
+     <are:vznikClenstvi>2014-09-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen představenstva</are:nazev>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-09-19</are:vznikFunkce>
+     <are:zanikFunkce>2019-01-31</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>24793264</are:ruianKod>
+      <are:ruianKod>26733862</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>79604</are:psc>
+      <are:psc>79601</are:psc>
       <are:obec>Prostějov</are:obec>
-      <are:castObce>Krasice</are:castObce>
-      <are:ulice>Zlechovská</are:ulice>
-      <are:cisloPop>192</are:cisloPop>
-      <are:cisloOr>13</are:cisloOr>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Atletická</are:ulice>
+      <are:cisloPop>4461</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
      </are:adresa>
-     <are:jmeno>TOMÁŠ</are:jmeno>
-     <are:prijmeni>KOHOUTEK</are:prijmeni>
-     <are:titulPred>Mgr.</are:titulPred>
+     <are:jmeno>VIKTOR</are:jmeno>
+     <are:prijmeni>VYBÍRAL</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2015-04-15" dvy="2018-02-02">
@@ -829,13 +808,39 @@ Jménem společnosti jedná vůči třetím osobám, před soudy a před jinými
      <are:titulZa>Ph.D. MBA</are:titulZa>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-02-02">
+   <are:Clen dza="2015-04-15" dvy="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-02-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24793264</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79604</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Krasice</are:castObce>
+      <are:ulice>Zlechovská</are:ulice>
+      <are:cisloPop>192</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>KOHOUTEK</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-02-02" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2014-04-03</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>místopředseda představenstva</are:nazev>
      <are:vznikFunkce>2015-02-10</are:vznikFunkce>
+     <are:zanikFunkce>2019-01-31</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -853,22 +858,95 @@ Jménem společnosti jedná vůči třetím osobám, před soudy a před jinými
      <are:titulZa>Ph.D. MBA</are:titulZa>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2019-01-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26733862</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Atletická</are:ulice>
+      <are:cisloPop>4461</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VIKTOR</are:jmeno>
+     <are:prijmeni>VYBÍRAL</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2019-01-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20629800</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78321</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Litovel</are:obec>
+      <are:castObce>Nová Ves</are:castObce>
+      <are:cisloPop>21</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>VOMÁČKA</are:prijmeni>
+     <are:titulPred>Doc.MUDr.</are:titulPred>
+     <are:titulZa>Ph.D. MBA</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24793264</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79604</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Krasice</are:castObce>
+      <are:ulice>Zlechovská</are:ulice>
+      <are:cisloPop>192</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>KOHOUTEK</are:prijmeni>
+     <are:titulPred>Mgr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1997-03-20">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2014-11-06">
+   <are:Clen dza="2019-03-12">
     <are:clenstvi>
-     <are:vznikClenstvi>2014-09-19</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>předseda dozorčí rady</are:nazev>
-     <are:vznikFunkce>2014-09-19</are:vznikFunkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>24849944</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>79601</are:psc>
+      <are:okres>Prostějov</are:okres>
       <are:obec>Prostějov</are:obec>
       <are:castObce>Prostějov</are:castObce>
       <are:ulice>Za velodromem</are:ulice>
@@ -878,48 +956,6 @@ Jménem společnosti jedná vůči třetím osobám, před soudy a před jinými
      <are:jmeno>JIŘÍ</are:jmeno>
      <are:prijmeni>VYBÍRAL</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-11-06">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-09-19</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>26228882</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>77900</are:psc>
-      <are:obec>Bukovany</are:obec>
-      <are:castObce>Bukovany</are:castObce>
-      <are:cisloPop>150</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>TYDLAČKA</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-09-15">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-06-23</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>17941652</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>56401</are:psc>
-      <are:obec>České Petrovice</are:obec>
-      <are:castObce>České Petrovice</are:castObce>
-      <are:cisloPop>93</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PAVLA</are:jmeno>
-     <are:prijmeni>VYBÍRALOVÁ</are:prijmeni>
-     <are:titulPred>Bc.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

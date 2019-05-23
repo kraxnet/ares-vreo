@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-02-12T14:46:34"
+odpoved_datum_cas="2019-03-12T15:52:57"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-02-12</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-02-12</are:Datum_vypisu>
-   <are:Cas_vypisu>14:46:34</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:52:57</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -34,9 +34,8 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-- provozování mateřského centra zaměřeného na integraci sociálně a zdravotně znevýhodněných
-- výkon sociálně právní ochrany dětí v programu na podporu pěstounských rodin a rodin sociálně znevýhodněných
-- poskytování volnočasových a vzdělávacích programů pro děti
+- provozování a pořádání hudebních vystoupení
+- kulturní, společenské, volnočasové a vzdělávací aktivity zejména s hudební tématikou
      </are:Text>
     </are:PredmetPodnikani>
     <are:DoplnkovaCinnost>
@@ -82,82 +81,9 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2014-01-08">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2018-02-08">
+   <are:Clen dza="2019-03-08">
     <are:clenstvi>
-     <are:vznikClenstvi>2017-01-08</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>předseda</are:nazev>
-     <are:vznikFunkce>2017-01-08</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>117790</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>40801</are:psc>
-      <are:okres>Děčín</are:okres>
-      <are:obec>Rumburk</are:obec>
-      <are:castObce>Rumburk 3-Dolní Křečany</are:castObce>
-      <are:ulice>Výletní</are:ulice>
-      <are:cisloPop>362</are:cisloPop>
-      <are:cisloOr>14</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>ČINČALA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2018-02-08">
-    <are:clenstvi>
-     <are:vznikClenstvi>2017-01-08</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>12188972</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>46601</are:psc>
-      <are:okres>Jablonec nad Nisou</are:okres>
-      <are:obec>Jablonec nad Nisou</are:obec>
-      <are:castObce>Jablonec nad Nisou</are:castObce>
-      <are:ulice>Na Výšině</are:ulice>
-      <are:cisloPop>3240</are:cisloPop>
-      <are:cisloOr>34</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>LENKA</are:jmeno>
-     <are:prijmeni>PAUROVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2018-02-08">
-    <are:clenstvi>
-     <are:vznikClenstvi>2017-01-08</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>12191752</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>46601</are:psc>
-      <are:okres>Jablonec nad Nisou</are:okres>
-      <are:obec>Jablonec nad Nisou</are:obec>
-      <are:castObce>Jablonec nad Nisou</are:castObce>
-      <are:ulice>Na Vršku</are:ulice>
-      <are:cisloPop>3896</are:cisloPop>
-      <are:cisloOr>4</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>JAN</are:jmeno>
-     <are:prijmeni>KRPATA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-  </are:Jiny_organ>
-  <are:Jiny_organ dza="2014-01-08">
-   <are:Nazev>Správní rada</are:Nazev>
-   <are:Clen dza="2018-02-08">
-    <are:clenstvi>
-     <are:vznikClenstvi>2017-01-08</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen</are:nazev>
@@ -176,71 +102,127 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
      <are:prijmeni>ČINČALA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-02-08">
+   <are:Clen dza="2019-03-08">
     <are:clenstvi>
-     <are:vznikClenstvi>2017-01-08</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>27742008</are:ruianKod>
+      <are:ruianKod>23762195</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>46312</are:psc>
+      <are:psc>46311</are:psc>
       <are:okres>Liberec</are:okres>
       <are:obec>Liberec</are:obec>
-      <are:castObce>Liberec XXV-Vesec</are:castObce>
-      <are:ulice>Holubova</are:ulice>
-      <are:cisloPop>726</are:cisloPop>
+      <are:castObce>Liberec XXX-Vratislavice nad Nisou</are:castObce>
+      <are:ulice>Vnější</are:ulice>
+      <are:cisloPop>1389</are:cisloPop>
      </are:adresa>
-     <are:jmeno>MAGDALENA</are:jmeno>
-     <are:prijmeni>ČÍŽKOVÁ</are:prijmeni>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>STUCHLÍK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-02-08">
+   <are:Clen dza="2019-03-08">
     <are:clenstvi>
-     <are:vznikClenstvi>2017-01-08</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>předseda</are:nazev>
-     <are:vznikFunkce>2017-01-08</are:vznikFunkce>
+     <are:nazev>člen</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>23713232</are:ruianKod>
+      <are:ruianKod>23673869</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46006</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec VI-Rochlice</are:castObce>
+      <are:ulice>Gagarinova</are:ulice>
+      <are:cisloPop>773</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>ČANČÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2014-01-08">
+   <are:Nazev>Správní rada</are:Nazev>
+   <are:Clen dza="2019-03-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12165662</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46601</are:psc>
+      <are:okres>Jablonec nad Nisou</are:okres>
+      <are:obec>Jablonec nad Nisou</are:obec>
+      <are:castObce>Jablonec nad Nisou</are:castObce>
+      <are:ulice>Revoluční</are:ulice>
+      <are:cisloPop>185</are:cisloPop>
+      <are:cisloOr>43</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANIEL</are:jmeno>
+     <are:prijmeni>CÍSAŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2019-01-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23721511</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46015</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec XV-Starý Harcov</are:castObce>
+      <are:ulice>Sosnová</are:ulice>
+      <are:cisloPop>471</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANDREA</are:jmeno>
+     <are:prijmeni>JANSKÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28009096</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>46014</are:psc>
       <are:okres>Liberec</are:okres>
       <are:obec>Liberec</are:obec>
       <are:castObce>Liberec XIV-Ruprechtice</are:castObce>
-      <are:ulice>Horská</are:ulice>
-      <are:cisloPop>605</are:cisloPop>
-      <are:cisloOr>14</are:cisloOr>
+      <are:ulice>U Pramenů</are:ulice>
+      <are:cisloPop>1314</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
      </are:adresa>
-     <are:jmeno>SVĚTLUŠE</are:jmeno>
-     <are:prijmeni>JIRÁŇOVÁ</are:prijmeni>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>PROCHÁZKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="2014-01-08">
    <are:Nazev>Zakladatel</are:Nazev>
-   <are:Clen dza="2014-07-25">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>117790</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>40801</are:psc>
-      <are:obec>Rumburk</are:obec>
-      <are:castObce>Rumburk 3-Dolní Křečany</are:castObce>
-      <are:ulice>Výletní</are:ulice>
-      <are:cisloPop>362</are:cisloPop>
-      <are:cisloOr>14</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>ČINČALA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-04-01">
     <are:fosoba>
      <are:adresa>
@@ -254,6 +236,23 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
      </are:adresa>
      <are:jmeno>KARLA</are:jmeno>
      <are:prijmeni>ČINČALOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12165662</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46601</are:psc>
+      <are:okres>Jablonec nad Nisou</are:okres>
+      <are:obec>Jablonec nad Nisou</are:obec>
+      <are:castObce>Jablonec nad Nisou</are:castObce>
+      <are:ulice>Revoluční</are:ulice>
+      <are:cisloPop>185</are:cisloPop>
+      <are:cisloOr>43</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANIEL</are:jmeno>
+     <are:prijmeni>CÍSAŘ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

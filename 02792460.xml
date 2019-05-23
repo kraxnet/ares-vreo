@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-11T21:46:30"
+odpoved_datum_cas="2019-03-27T09:58:11"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
-   <are:Cas_vypisu>21:46:30</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-27</are:Datum_vypisu>
+   <are:Cas_vypisu>09:58:11</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -61,9 +61,36 @@ Zámečnictví, nástrojářství
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2014-03-31">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2014-03-31">
+   <are:ZpusobJednani dza="2014-03-31" dvy="2019-03-25">
     <are:Text>
 Jednatel zastupuje společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-25">
+    <are:Text>
+A/  Společnost zastupují oba jednatelé společně při:
+a)jednáních zavazujících společnosti k peněžitému nebo nepeněžitému plnění v hodnotě vyšší než 100.000,- Kč, a to jak k jednorázovému plnění tak k opakujícím se či souvisejícím plněním, jejichž souhrnná hodnota je 100.000,- Kč a vyšší; při opakujících se
+plněních na dobu neurčitou se hodnota plnění posuzuje ve vztahu k období dvanácti kalendářních měsíců,
+b)uzavíraní smlouvy  o zápůjčce či úvěru týkající se částky převyšující 100.000,- Kč,
+c)uzavíraní smlouvy  na koupi, darování, prodej, nájem či  pacht nemovitostí,
+d)zřizování, změně či zrušení zástavní smlouvy či jiných věcných práv k nemovitostem ve vlastnictví společnosti,
+e)zřizování, změně či zrušení zajištění či utvrzení dluhu dle části čtvrté, hlavy I, dílu 8 občanského zákoníku,
+f)vystavení směnky, akceptování  směnky či převzetí směnečného rukojemství,
+g)zakládání obchodní společnosti, družstva či jiné právnické osoby a  nabývání účasti v obchodních společnostech, družstvech či jiných právnických osobách,
+h)převodu účasti společnosti v obchodních společnostech, družstvech či jiných právnických osobách,
+i)výkonu práv jediného společníka ve společnosti s ručením omezeným či jediného akcionáře v akciové společnosti,
+j)sepisování notářských zápisů se svolením k vykonatelnosti,
+k)při podání /podpisu/ žádosti o udělení živnostenského oprávnění /žádosti o koncesi/ či podání /podpisu/ ohlášení živnosti/,
+l)při uzavírání smluv se zaměstnanci /budoucími zaměstnanci/ společnosti,
+m)dispozici s peněžními prostředky společnosti jak v hotovostní, tak v bezhotovostní formě v částce vyšší než 100.000,- Kč,
+n)uzavírání smlouvy na dobu neurčitou nebo na dobu určitou delší než jeden rok,
+o)uzavírání smlouvy o převodu nebo zastavení závodu nebo takové jeho části, která by znamenala podstatnou změnu dosavadní struktury závodu nebo podstatnou změnu v předmětu podnikání nebo činnosti společnosti,
+p)uzavírání smlouvy o pachtu závodu nebo jeho části tvořící samostatnou organizační složku,
+q)uzavírání zástavní smlouvy na majetek ve vlastnictví společnosti, změně či zrušení takové smlouvy.
+ 
+V případě, že společnost bude při jednáních uvedených pod písm. a) až q) zastoupena na základě plné moci, musí tato plná moc být vždy písemná a podepsaná vždy oběma jednateli společně.  Podpisy na této plné moci musí být úředně ověřené.
+ 
+B/ V ostatních případech zastupuje společnost každý jednatel samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2014-03-31">
@@ -85,6 +112,28 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>HAVLÍČEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-03-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21752567</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Wenzigova</are:ulice>
+      <are:cisloPop>1309</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>JELÍNEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2014-03-31">
    <are:Nazev>Společníci</are:Nazev>
@@ -101,6 +150,24 @@ Jednatel zastupuje společnost samostatně.
      </are:adresa>
      <are:jmeno>FRANTIŠEK</are:jmeno>
      <are:prijmeni>HAVLÍČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21752567</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Wenzigova</are:ulice>
+      <are:cisloPop>1309</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>JELÍNEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T02:55:21"
+odpoved_datum_cas="2019-04-02T11:25:44"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>02:55:21</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:25:44</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>SR</are:Rejstrik>
    <are:ICO>60460598</are:ICO>
-   <are:ObchodniFirma>Institut pro demokracii a jednotnou Evropu</are:ObchodniFirma>
+   <are:ObchodniFirma>J.A.K. Kralice, z.s.</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>18640231</are:ruianKod>
     <are:stat>203</are:stat>
@@ -32,7 +32,58 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    </are:Sidlo>
    <are:DatumVzniku>1994-10-25</are:DatumVzniku>
    <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+čl.II účel spolku: Hlavním posláním spolku je ochrana přírody a krajiny, podpora zachování kulturního dědictví a odkazu Jana Amose Komenského. čl.III Hlavní činnost spolku: Činnost spolku směřuje knaplnění účelu popsaného v čl. II., co by společného zájmu
+ jeho členů. Tento účel je naplňován zejména prostřednictvím:
+a) výzkumu a vzdělávání,
+b) analýzy, komentování a propagace právních instrumentů,
+c) praktické spolupráce s jinými subjekty na národní i mezinárodní úrovni,
+d) pořádání seminářů, přednášek a konferencí,
+e) organizování kampaní a petičních aktivit,
+f) propagace aktivit spolku a osvěta např. prostřednictvím pořádání benefičních akcí a informování veřejnosti,
+g) vydávání a distribuce publikací, brožur, letáků a dalších materiálů,
+h) poradenské a konzultační činnosti,
+i) účasti na konzultačních a rozhodovacích procesech týkajících se poslání spolku,
+j) účasti ve správních i jiných řízeních,
+k) zapojení dobrovolníků a podpora dobrovolnictví,
+l) vystupování jako právnická osoba oprávněná hájit zájmy ve smyslu poslání spolku,
+m) realizace projektů v oblasti ochrany životního prostředí, ochrany přírody a krajiny, památkových hodnot, podpory zachování kulturního dědictví a odkazu Jana Amose Komenského.
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
   </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2019-03-27">
+   <are:Nazev>předseda</are:Nazev>
+   <are:ZpusobJednani dza="2019-03-27">
+    <are:Text>
+Předseda je statutárním orgánem spolku, který je oprávněn za něj jednat ve všech věcech, zejména pak je oprávněn rozhodovat o otázkách spojených s fungováním spolku, včetně dispozic s jeho majetkem, s výjimkou majetku nemovitého, přijímat zaměstnance spol
+ku, ukončovat jejich pracovní poměr, a rozhodovat o všech jejich pracovních záležitostech.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2019-03-27">
+    <are:funkce>
+     <are:nazev>PŘEDSEDA</are:nazev>
+     <are:vznikFunkce>2013-11-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18642047</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>67573</are:psc>
+      <are:okres>Třebíč</are:okres>
+      <are:obec>Kralice nad Oslavou</are:obec>
+      <are:castObce>Kralice nad Oslavou</are:castObce>
+      <are:ulice>Na Výhoně</are:ulice>
+      <are:cisloPop>221</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>STONÁČEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
  </are:Vypis_VREO>
 </are:Odpoved>
 </are:Ares_odpovedi>

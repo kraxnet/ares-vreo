@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-02-04T13:04:06"
+odpoved_datum_cas="2019-03-25T09:53:29"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-02-04</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-02-04</are:Datum_vypisu>
-   <are:Cas_vypisu>13:04:06</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-25</are:Datum_vypisu>
+   <are:Cas_vypisu>09:53:29</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -92,7 +92,7 @@ Za společnost jedná předseda představenstva samostatně.
 Za společnost jedná představenstvo. Za představenstvo jednají navenek vždy nejméně společně dva členové představenstva.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2018-12-07">
+   <are:ZpusobJednani dza="2018-12-07" dvy="2019-03-12">
     <are:Text>
 Členové představenstva zastupují a podepisují za společnost ve všech věcech samostatně s výjimkou níže uvedených právních jednání, kdy zastupují společnost vždy dva členové představenstva společně:
 a)podpisy směnek, aval směnek,
@@ -101,6 +101,11 @@ mluv o nájmu a podnájmu a výpovědi nájemních vztahů,
 c)poskytování či přijetí zápůjček a úvěrů, kontokorentů,
 d)při právních jednáních, kdy je hodnota plnění rovna částce ve výši 1,500.000,- Kč, a vyšší.
 V případě, kdy hodnotu plnění určit nelze, zastupuje společnost každý člen představenstva samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-12">
+    <are:Text>
+Společnost zastupuje člen představenstva samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1997-11-26" dvy="2000-10-25">
@@ -911,50 +916,6 @@ V případě, kdy hodnotu plnění určit nelze, zastupuje společnost každý �
      <are:prijmeni>MIKO</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-04-06">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-04-01</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>předseda představenstva</are:nazev>
-     <are:vznikFunkce>2016-04-01</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>20540370</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73934</are:psc>
-      <are:obec>Šenov</are:obec>
-      <are:castObce>Šenov</are:castObce>
-      <are:ulice>Strmá</are:ulice>
-      <are:cisloPop>184</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ROMAN</are:jmeno>
-     <are:prijmeni>MATERA</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-04-06">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-04-01</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>místopředseda představenstva</are:nazev>
-     <are:vznikFunkce>2016-04-01</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>27937500</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>67556</are:psc>
-      <are:obec>Dukovany</are:obec>
-      <are:castObce>Dukovany</are:castObce>
-      <are:cisloPop>280</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>STANĚK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-04-06" dvy="2016-09-10">
     <are:clenstvi>
      <are:vznikClenstvi>2015-09-21</are:vznikClenstvi>
@@ -974,6 +935,54 @@ V případě, kdy hodnotu plnění určit nelze, zastupuje společnost každý �
      </are:adresa>
      <are:jmeno>SIMEON</are:jmeno>
      <are:prijmeni>HÝBL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-04-06" dvy="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-04-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-03-03</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2016-04-01</are:vznikFunkce>
+     <are:zanikFunkce>2019-03-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20540370</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73934</are:psc>
+      <are:obec>Šenov</are:obec>
+      <are:castObce>Šenov</are:castObce>
+      <are:ulice>Strmá</are:ulice>
+      <are:cisloPop>184</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>MATERA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-04-06" dvy="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-04-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-03-03</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2016-04-01</are:vznikFunkce>
+     <are:zanikFunkce>2019-03-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27937500</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>67556</are:psc>
+      <are:obec>Dukovany</are:obec>
+      <are:castObce>Dukovany</are:castObce>
+      <are:cisloPop>280</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>STANĚK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2016-09-10" dvy="2018-12-07">
@@ -998,6 +1007,29 @@ V případě, kdy hodnotu plnění určit nelze, zastupuje společnost každý �
      </are:adresa>
      <are:jmeno>PETR</are:jmeno>
      <are:prijmeni>DUDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-03-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27961125</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>72526</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Krásné Pole</are:castObce>
+      <are:ulice>Hájkovická</are:ulice>
+      <are:cisloPop>715</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>BRONISLAV</are:jmeno>
+     <are:prijmeni>KOHUT</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

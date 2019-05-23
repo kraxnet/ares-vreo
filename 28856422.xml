@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T15:12:29"
+odpoved_datum_cas="2019-04-08T11:12:02"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>15:12:29</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-08</are:Datum_vypisu>
+   <are:Cas_vypisu>11:12:02</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -93,20 +93,6 @@ Každý z jednatelů jedná jménem společnosti samostatně. Pokud hodnota záv
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2012-10-22">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2012-10-22">
-    <are:posoba>
-     <are:adresa>
-      <are:ruianKod>25618563</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>55205</are:psc>
-      <are:obec>Hořičky</are:obec>
-      <are:castObce>Chlístov</are:castObce>
-      <are:cisloTxt>40</are:cisloTxt>
-     </are:adresa>
-     <are:ICO>28777832</are:ICO>
-     <are:ObchodniFirma>LORENC TZB spol. s r.o.</are:ObchodniFirma>
-    </are:posoba>
-   </are:Clen>
    <are:Clen dza="2016-11-11">
     <are:fosoba>
      <are:adresa>
@@ -125,6 +111,21 @@ Každý z jednatelů jedná jménem společnosti samostatně. Pokud hodnota záv
      <are:prijmeni>KAPLAN</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-04-03">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>79022057</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>55205</are:psc>
+      <are:okres>Náchod</are:okres>
+      <are:obec>Hořičky</are:obec>
+      <are:castObce>Hořičky</are:castObce>
+      <are:cisloPop>151</are:cisloPop>
+     </are:adresa>
+     <are:ICO>28777832</are:ICO>
+     <are:ObchodniFirma>LORENC TZB spol. s r.o.</are:ObchodniFirma>
+    </are:posoba>
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

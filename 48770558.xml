@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T01:04:07"
+odpoved_datum_cas="2019-03-12T15:51:00"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>01:04:07</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:51:00</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -46,50 +46,6 @@ Hlavní činností spolku je ochrana přírody, krajiny a společné prováděn�
 Členové statutárního orgánu mají právo jednat samostatně. Další členové výboru mohou jednat pouze na základě pověření výboru, který musí udělit plnou moc.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2016-03-11">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-10-23</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda výboru</are:nazev>
-     <are:vznikFunkce>2015-10-23</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23249412</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>78335</are:psc>
-      <are:obec>Olomouc</are:obec>
-      <are:castObce>Chomoutov</are:castObce>
-      <are:ulice>Hrachoviska</are:ulice>
-      <are:cisloPop>253</are:cisloPop>
-      <are:cisloOr>6a</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>KAREL</are:jmeno>
-     <are:prijmeni>ŠKAROUPKA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-03-11">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-10-23</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Finanční hospodář</are:nazev>
-     <are:vznikFunkce>2015-10-23</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>16328787</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>78401</are:psc>
-      <are:obec>Strukov</are:obec>
-      <are:castObce>Strukov</are:castObce>
-      <are:cisloPop>22</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>FRANTIŠEK</are:jmeno>
-     <are:prijmeni>VRBA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-03-11">
     <are:clenstvi>
      <are:vznikClenstvi>2015-10-23</are:vznikClenstvi>
@@ -151,6 +107,97 @@ Hlavní činností spolku je ochrana přírody, krajiny a společné prováděn�
      </are:adresa>
      <are:jmeno>PETR</are:jmeno>
      <are:prijmeni>RYŠAVÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-11" dvy="2019-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-03-17</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-10-23</are:vznikFunkce>
+     <are:zanikFunkce>2018-03-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23249412</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78335</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Chomoutov</are:castObce>
+      <are:ulice>Hrachoviska</are:ulice>
+      <are:cisloPop>253</are:cisloPop>
+      <are:cisloOr>6a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>ŠKAROUPKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-11" dvy="2019-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Finanční hospodář</are:nazev>
+     <are:vznikFunkce>2015-10-23</are:vznikFunkce>
+     <are:zanikFunkce>2018-03-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16328787</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78401</are:psc>
+      <are:obec>Strukov</are:obec>
+      <are:castObce>Strukov</are:castObce>
+      <are:cisloPop>22</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>VRBA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-03-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16328787</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78401</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Strukov</are:obec>
+      <are:castObce>Strukov</are:castObce>
+      <are:cisloPop>22</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>VRBA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-03-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>finanční hospodář</are:nazev>
+     <are:vznikFunkce>2018-03-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16329171</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78401</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Strukov</are:obec>
+      <are:castObce>Strukov</are:castObce>
+      <are:cisloPop>63</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>VRBA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

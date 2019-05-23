@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-02-04T13:01:15"
+odpoved_datum_cas="2019-03-22T10:32:12"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-02-04</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-02-04</are:Datum_vypisu>
-   <are:Cas_vypisu>13:01:15</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:32:12</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -62,7 +62,7 @@ Jménem společnosti jedná jednatel společnosti. Podepisování za společnost
      <are:prijmeni>Rybová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2019-01-31">
+   <are:Clen dza="2019-01-31" dvy="2019-03-20">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-06-03</are:vznikFunkce>
@@ -77,6 +77,26 @@ Jménem společnosti jedná jednatel společnosti. Podepisování za společnost
       <are:castObce>Boršov nad Vltavou</are:castObce>
       <are:ulice>Obecní</are:ulice>
       <are:cisloPop>68</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTINA</are:jmeno>
+     <are:prijmeni>RYBOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-06-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16495101</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37382</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>Boršov nad Vltavou</are:obec>
+      <are:castObce>Boršov nad Vltavou</are:castObce>
+      <are:ulice>Nábřežní</are:ulice>
+      <are:cisloPop>13</are:cisloPop>
      </are:adresa>
      <are:jmeno>MARTINA</are:jmeno>
      <are:prijmeni>RYBOVÁ</are:prijmeni>

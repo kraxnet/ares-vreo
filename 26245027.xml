@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-02-28T12:39:47"
+odpoved_datum_cas="2019-03-12T15:42:32"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
-   <are:Cas_vypisu>12:39:47</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:42:32</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -1809,27 +1809,6 @@ Každý jednatel společnost zastupuje samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>26756889</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>60200</are:psc>
-      <are:okres>Brno-město</are:okres>
-      <are:obec>Brno</are:obec>
-      <are:castObce>Zábrdovice</are:castObce>
-      <are:ulice>Koliště</are:ulice>
-      <are:cisloPop>880</are:cisloPop>
-      <are:cisloOr>65b</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MYKHAILO</are:jmeno>
-     <are:prijmeni>KUDRIASHOV</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-05-17">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2013-08-27</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
       <are:ruianKod>19063563</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>64300</are:psc>
@@ -2145,6 +2124,27 @@ Každý jednatel společnost zastupuje samostatně.
      <are:prijmeni>TERBAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2017-05-17" dvy="2019-03-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-08-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26756889</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Zábrdovice</are:castObce>
+      <are:ulice>Koliště</are:ulice>
+      <are:cisloPop>880</are:cisloPop>
+      <are:cisloOr>65b</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MYKHAILO</are:jmeno>
+     <are:prijmeni>KUDRIASHOV</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
    <are:Clen dza="2017-06-14" dvy="2018-05-09">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -2366,6 +2366,27 @@ Každý jednatel společnost zastupuje samostatně.
     <are:fosoba>
      <are:jmeno>MYKOLA</are:jmeno>
      <are:prijmeni>TERBAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-08-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19721625</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Královo Pole</are:castObce>
+      <are:ulice>Purkyňova</are:ulice>
+      <are:cisloPop>2736</are:cisloPop>
+      <are:cisloOr>95b</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MYKHAILO</are:jmeno>
+     <are:prijmeni>KUDRIASHOV</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

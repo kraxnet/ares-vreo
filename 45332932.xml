@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-12-30T12:55:54"
+odpoved_datum_cas="2019-04-02T11:26:10"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-12-30</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-12-30</are:Datum_vypisu>
-   <are:Cas_vypisu>12:55:54</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:26:11</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,14 +21,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>45332932</are:ICO>
    <are:ObchodniFirma>Česká píseň Plzeň, z.s.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>24530425</are:ruianKod>
+    <are:ruianKod>24548740</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>30100</are:psc>
     <are:okres>Plzeň-město</are:okres>
     <are:obec>Plzeň</are:obec>
     <are:castObce>Jižní Předměstí</are:castObce>
-    <are:ulice>sady Pětatřicátníků</are:ulice>
-    <are:cisloPop>49</are:cisloPop>
+    <are:ulice>Mánesova</are:ulice>
+    <are:cisloPop>1952</are:cisloPop>
     <are:cisloOr>29</are:cisloOr>
    </are:Sidlo>
    <are:DatumVzniku>1993-02-10</are:DatumVzniku>
@@ -47,58 +47,13 @@ podpora a rozvíjení estetického cítění zejména dětí a mladých lidí, a
     </are:Ucel>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2014-05-19">
+  <are:Statutarni_organ dza="2014-05-19" dvy="2019-03-27">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2014-05-19">
+   <are:ZpusobJednani dza="2014-05-19" dvy="2019-03-27">
     <are:Text>
 Za výbor je oprávněn jednat navenek kterýkoliv z členů výboru samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2014-05-19">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-02-03</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>předseda</are:nazev>
-     <are:vznikFunkce>2014-02-03</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>24548740</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>30100</are:psc>
-      <are:obec>Plzeň</are:obec>
-      <are:castObce>Jižní Předměstí</are:castObce>
-      <are:ulice>Mánesova</are:ulice>
-      <are:cisloPop>1952</are:cisloPop>
-      <are:cisloOr>29</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ALENA</are:jmeno>
-     <are:prijmeni>HOLECOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-05-19">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-02-17</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>účetní</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>24565326</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>31800</are:psc>
-      <are:obec>Plzeň</are:obec>
-      <are:castObce>Skvrňany</are:castObce>
-      <are:ulice>Pecháčkova</are:ulice>
-      <are:cisloPop>959</are:cisloPop>
-      <are:cisloOr>17</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>LENKA</are:jmeno>
-     <are:prijmeni>ŠTÍBROVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-05-19" dvy="2016-03-08">
     <are:clenstvi>
      <are:vznikClenstvi>2014-02-17</are:vznikClenstvi>
@@ -173,50 +128,53 @@ Za výbor je oprávněn jednat navenek kterýkoliv z členů výboru samostatně
      <are:prijmeni>NOVÁKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-03-08">
+   <are:Clen dza="2014-05-19" dvy="2019-03-27">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-03-02</are:vznikClenstvi>
+     <are:vznikClenstvi>2014-02-03</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-11-26</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>tajemník</are:nazev>
-     <are:vznikFunkce>2015-03-02</are:vznikFunkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2014-02-03</are:vznikFunkce>
+     <are:zanikFunkce>2018-11-26</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>24526291</are:ruianKod>
+      <are:ruianKod>24548740</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>30100</are:psc>
       <are:obec>Plzeň</are:obec>
-      <are:castObce>Doudlevce</are:castObce>
-      <are:ulice>Šimerova</are:ulice>
-      <are:cisloPop>421</are:cisloPop>
-      <are:cisloOr>14</are:cisloOr>
+      <are:castObce>Jižní Předměstí</are:castObce>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloPop>1952</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
      </are:adresa>
-     <are:jmeno>MARTIN</are:jmeno>
-     <are:prijmeni>KVOCH</are:prijmeni>
+     <are:jmeno>ALENA</are:jmeno>
+     <are:prijmeni>HOLECOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-03-08">
+   <are:Clen dza="2014-05-19" dvy="2019-03-27">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-10-05</are:vznikClenstvi>
+     <are:vznikClenstvi>2014-02-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-11-26</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>místopředseda</are:nazev>
-     <are:vznikFunkce>2015-10-05</are:vznikFunkce>
+     <are:nazev>účetní</are:nazev>
+     <are:zanikFunkce>2018-11-26</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>24460460</are:ruianKod>
+      <are:ruianKod>24565326</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>31200</are:psc>
+      <are:psc>31800</are:psc>
       <are:obec>Plzeň</are:obec>
-      <are:castObce>Doubravka</are:castObce>
-      <are:ulice>Lesní</are:ulice>
-      <are:cisloPop>372</are:cisloPop>
-      <are:cisloOr>33</are:cisloOr>
+      <are:castObce>Skvrňany</are:castObce>
+      <are:ulice>Pecháčkova</are:ulice>
+      <are:cisloPop>959</are:cisloPop>
+      <are:cisloOr>17</are:cisloOr>
      </are:adresa>
-     <are:jmeno>KATEŘINA</are:jmeno>
-     <are:prijmeni>BAXOVÁ</are:prijmeni>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>ŠTÍBROVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2016-03-08" dvy="2017-10-17">
@@ -244,13 +202,192 @@ Za výbor je oprávněn jednat navenek kterýkoliv z členů výboru samostatně
      <are:prijmeni>CIRNFUSOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-10-17">
+   <are:Clen dza="2016-03-08" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-03-02</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-11-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>tajemník</are:nazev>
+     <are:vznikFunkce>2015-03-02</are:vznikFunkce>
+     <are:zanikFunkce>2018-11-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24526291</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Doudlevce</are:castObce>
+      <are:ulice>Šimerova</are:ulice>
+      <are:cisloPop>421</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>KVOCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-08" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-11-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2015-10-05</are:vznikFunkce>
+     <are:zanikFunkce>2018-11-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24460460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Doubravka</are:castObce>
+      <are:ulice>Lesní</are:ulice>
+      <are:cisloPop>372</are:cisloPop>
+      <are:cisloOr>33</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KATEŘINA</are:jmeno>
+     <are:prijmeni>BAXOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-10-17" dvy="2019-03-27">
     <are:clenstvi>
      <are:vznikClenstvi>2016-12-12</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-11-26</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>produkční</are:nazev>
      <are:vznikFunkce>2016-12-12</are:vznikFunkce>
+     <are:zanikFunkce>2018-11-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>763101</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33027</are:psc>
+      <are:okres>Plzeň-sever</are:okres>
+      <are:obec>Vejprnice</are:obec>
+      <are:castObce>Vejprnice</are:castObce>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloPop>477</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDEŇKA</are:jmeno>
+     <are:prijmeni>NOVÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2019-03-27">
+   <are:Nazev>Statutární orgán - výbor spolku</are:Nazev>
+   <are:ZpusobJednani dza="2019-03-27">
+    <are:Text>
+Za výbor je oprávněn jednat navenek kterýkoliv z členů výboru samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+     <are:vznikFunkce>2018-11-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24548740</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Jižní Předměstí</are:castObce>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloPop>1952</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ALENA</are:jmeno>
+     <are:prijmeni>HOLECOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Tajemník</are:nazev>
+     <are:vznikFunkce>2018-11-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24526291</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Doudlevce</are:castObce>
+      <are:ulice>Šimerova</are:ulice>
+      <are:cisloPop>421</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>KVOCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Produkční</are:nazev>
+     <are:vznikFunkce>2018-11-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24414913</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32200</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Křimice</are:castObce>
+      <are:ulice>Plzeňská</are:ulice>
+      <are:cisloPop>553</are:cisloPop>
+      <are:cisloOr>87</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARKÉTA</are:jmeno>
+     <are:prijmeni>SOUMAROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Účetní</are:nazev>
+     <are:vznikFunkce>2018-11-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24565326</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Skvrňany</are:castObce>
+      <are:ulice>Pecháčkova</are:ulice>
+      <are:cisloPop>959</are:cisloPop>
+      <are:cisloOr>17</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>ŠTÍBROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+     <are:vznikFunkce>2018-11-26</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -270,15 +407,19 @@ Za výbor je oprávněn jednat navenek kterýkoliv z členů výboru samostatně
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2014-05-19">
    <are:Nazev>Kontrolní komise</are:Nazev>
-   <are:Clen dza="2014-05-19">
+   <are:Clen dza="2019-03-27">
     <are:clenstvi>
-     <are:vznikClenstvi>2014-02-17</are:vznikClenstvi>
+     <are:vznikClenstvi>2018-11-26</are:vznikClenstvi>
     </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen kontrolní komise</are:nazev>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>1088785</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>33202</are:psc>
+      <are:okres>Plzeň-město</are:okres>
       <are:obec>Starý Plzenec</are:obec>
       <are:castObce>Starý Plzenec</are:castObce>
       <are:ulice>28. ŘÍJNA</are:ulice>
@@ -288,23 +429,49 @@ Za výbor je oprávněn jednat navenek kterýkoliv z členů výboru samostatně
      <are:prijmeni>KAVKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-11-17">
+   <are:Clen dza="2019-03-27">
     <are:clenstvi>
-     <are:vznikClenstvi>2014-02-17</are:vznikClenstvi>
+     <are:vznikClenstvi>2018-11-26</are:vznikClenstvi>
     </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen kontrolní komise</are:nazev>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>12989487</are:ruianKod>
+      <are:ruianKod>15714454</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>33701</are:psc>
-      <are:okres>Rokycany</are:okres>
-      <are:obec>Ejpovice</are:obec>
-      <are:castObce>Ejpovice</are:castObce>
-      <are:ulice>K Zastávce</are:ulice>
-      <are:cisloPop>96</are:cisloPop>
+      <are:psc>34901</are:psc>
+      <are:okres>Tachov</are:okres>
+      <are:obec>Stříbro</are:obec>
+      <are:castObce>Stříbro</are:castObce>
+      <are:ulice>Kostelní</are:ulice>
+      <are:cisloPop>99</are:cisloPop>
      </are:adresa>
-     <are:jmeno>MICHAL</are:jmeno>
-     <are:prijmeni>MUDRA</are:prijmeni>
+     <are:jmeno>ELIŠKA</are:jmeno>
+     <are:prijmeni>ŠÍPOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25616587</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Doubravka</are:castObce>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloPop>1430</are:cisloPop>
+      <are:cisloOr>71</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANDREA</are:jmeno>
+     <are:prijmeni>VAISOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

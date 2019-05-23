@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-02-12T14:40:43"
+odpoved_datum_cas="2019-04-02T11:31:35"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-02-12</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-02-12</are:Datum_vypisu>
-   <are:Cas_vypisu>14:40:43</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:31:35</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -29,6 +29,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>828</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2004-08-20</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-29</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost TOP LES s.r.o. v likvidaci se sídlem Praha 4, Türkova 828, PSČ 14000, IČO: 271 74 093, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze,oddíl C, vložka 101935. Právním důvodem výmaz
+u je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -37,9 +44,9 @@ pronájem nemovitostí, bytů a nebytových prostor, bez poskytování jiných,
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2004-08-20">
+  <are:Statutarni_organ dza="2004-08-20" dvy="2019-03-29">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2004-08-20">
+   <are:ZpusobJednani dza="2004-08-20" dvy="2019-03-29">
     <are:Text>
 Způsob jednání za společnost: Za společnost jedná a podepisuje jednatel.
     </are:Text>
@@ -82,7 +89,7 @@ Způsob jednání za společnost: Za společnost jedná a podepisuje jednatel.
      <are:prijmeni>Medřický</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-06-04">
+   <are:Clen dza="2009-06-04" dvy="2019-03-29">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2008-10-01</are:vznikFunkce>
@@ -101,9 +108,9 @@ Způsob jednání za společnost: Za společnost jedná a podepisuje jednatel.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-02-08">
+  <are:Statutarni_organ dza="2018-02-08" dvy="2019-03-29">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-02-08">
+   <are:Clen dza="2018-02-08" dvy="2019-03-29">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21715084</are:ruianKod>
@@ -123,9 +130,9 @@ Způsob jednání za společnost: Za společnost jedná a podepisuje jednatel.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2004-08-20">
+  <are:Jiny_organ dza="2004-08-20" dvy="2019-03-29">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2009-06-04">
+   <are:Clen dza="2009-06-04" dvy="2019-03-29">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>6248179</are:ruianKod>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T20:06:32"
+odpoved_datum_cas="2019-03-22T10:29:06"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>20:06:32</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:29:06</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -36,21 +36,8 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-Oceňování majetku pro: a) věci movité, c) nehmotný majetek, d)
-finanční majetek, e) podnik
-     </are:Text>
-     <are:Text>
-Činnost podnikatelských, finančních, organizačních a
-ekonomických poradců
-     </are:Text>
-     <are:Text>
-Zprostředkování služeb
-     </are:Text>
-     <are:Text>
-Zprostředkování obchodu
-     </are:Text>
-     <are:Text>
-Specializovaný maloobchod
+oceňování majetku pro - věci movité, - nehmotný majetek, - finanční majetek, - obchodní závod,
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona.
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
@@ -65,12 +52,17 @@ vypsanému nebo vytištěnému názvu společnosti připojí svůj podpis
 osoba oprávněná k zastupování.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2002-05-08">
+   <are:ZpusobJednani dza="2002-05-08" dvy="2019-03-19">
     <are:Text>
 Každý z jednatelů je oprávněn jednat za společnost samostatně.
 Podepisování za společnost se děje tak, že k vytištěnému nebo
 napsanému obchodnímu jménu společnosti připojí svůj podpis
 kterýkoliv z jednatelů
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-19">
+    <are:Text>
+Každý z jednatelů zastupuje společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1992-01-30" dvy="2002-05-08">
@@ -156,7 +148,7 @@ kterýkoliv z jednatelů
      <are:titulZa>DrSc.</are:titulZa>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-09-16">
+   <are:Clen dza="2016-09-16" dvy="2019-03-19">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2002-02-18</are:vznikFunkce>
@@ -176,6 +168,28 @@ kterýkoliv z jednatelů
      </are:adresa>
      <are:jmeno>ANDREA</are:jmeno>
      <are:prijmeni>TÓTHOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-01-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770492</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Květinková</are:ulice>
+      <are:cisloPop>371</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ENDRE</are:jmeno>
+     <are:prijmeni>TÓTH</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -199,24 +213,6 @@ kterýkoliv z jednatelů
      <are:prijmeni>TÓTH</are:prijmeni>
      <are:titulPred>Doc. ing.</are:titulPred>
      <are:titulZa>DrSc.</are:titulZa>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-09-16">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22652361</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>10100</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Vinohrady</are:castObce>
-      <are:mop>Praha 10</are:mop>
-      <are:ulice>Šrobárova</are:ulice>
-      <are:cisloPop>1871</are:cisloPop>
-      <are:cisloOr>18</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ANDREA</are:jmeno>
-     <are:prijmeni>TÓTHOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2016-09-16">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T19:32:32"
+odpoved_datum_cas="2019-04-03T12:03:38"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>19:32:32</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-03</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-03</are:Datum_vypisu>
+   <are:Cas_vypisu>12:03:38</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>13</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1991-08-29</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Právním důvodem je zrušení konkursu na majetek společnosti po splnění rozvrhového usnesení, a to Usnesením  Městského soudu v Praze ze dne 4.5.1999, čj.:  92 K 1/99-25. K tomu navrhovatel uvádí, že společnost nepodává daňová přiznání k dani z příjmu právn
+ických osob od roku 2010, ačkoliv jí to ukládá ust. 38m odst. 1 zákona č. 586/1992 Sb., o daních z příjmu, ve snění pozdějších předpisů a dále společnost založila poslední účetní závěrku do Sbírky listin do obchodního rejstříku za rok 2009. Společnost tak
+ neplní povinnosti dané zákony (§21a odst.4 zákona č.563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, § 66 písm.c) zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob).
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -56,7 +64,7 @@ jejich odstraňování
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1991-08-29">
+  <are:Statutarni_organ dza="1991-08-29" dvy="2019-03-27">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="1991-08-29" dvy="1999-04-21">
     <are:Text>
@@ -65,7 +73,7 @@ děje tak,že k vytištěnému nebo napsanému názvu společnosti
 připojí svůj podpis předseda rady společníků.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="1999-04-21">
+   <are:ZpusobJednani dza="1999-04-21" dvy="2019-03-27">
     <are:Text>
 Způsob jednání jménem společnosti :
 Statutárním orgánem společnosti je jednatel, který zastupuje
@@ -109,7 +117,7 @@ společnosti připojí svůj podpis s označením jednatel.
      <are:prijmeni>Milota</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-07-10">
+   <are:Clen dza="2016-07-10" dvy="2019-03-27">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
     </are:funkce>
@@ -131,9 +139,9 @@ společnosti připojí svůj podpis s označením jednatel.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1991-08-29">
+  <are:Jiny_organ dza="1991-08-29" dvy="2019-03-27">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2016-08-16">
+   <are:Clen dza="2016-08-16" dvy="2019-03-27">
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

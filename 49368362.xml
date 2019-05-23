@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T01:35:50"
+odpoved_datum_cas="2019-04-02T11:37:37"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>01:35:50</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:37:37</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>SR</are:Rejstrik>
    <are:ICO>49368362</are:ICO>
-   <are:ObchodniFirma>Občanské sdružení Rodičovský klub při MŠ U Vršovického nádraží, Praha 10</are:ObchodniFirma>
+   <are:ObchodniFirma>Rodičovský klub při MŠ U Vršovického nádraží, z.s.</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>26157454</are:ruianKod>
     <are:stat>203</are:stat>
@@ -33,7 +33,169 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    </are:Sidlo>
    <are:DatumVzniku>1991-10-21</are:DatumVzniku>
    <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Cílem činnosti Klubu je všestranně podporovat aktivity, tvorbu, dětská představení v MŠ, výlety, besídky, a dále je cílem usilovat o vylepšení podmínek zabezpečení školy v oblasti materiální a hospodářské, a to prostřednictvím finančních darů či osobních
+aktivit členů Klubu. Klub je partnerem školy při stanovování provozu školy, hygienických a stravovacích podmínek dětí.
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
   </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2019-03-27">
+   <are:Nazev>Statutární orgán - výbor</are:Nazev>
+   <are:ZpusobJednani dza="2019-03-27">
+    <are:Text>
+Jednat jménem Klubu může každý člen Výboru. Písemné právní jednání za Klub je pro tento závazné, je-li k napsanému nebo natištěnému názvu spolku připojen podpis alespoň dvou členů Výboru, a z toho vždy jeden předsedy Výboru nebo místopředsedy Výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-09-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-09-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22664149</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vršovice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Petrohradská</are:ulice>
+      <are:cisloPop>809</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>POKORNÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-09-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28350081</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nusle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>V Horkách</are:ulice>
+      <are:cisloPop>1730</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IRENA</are:jmeno>
+     <are:prijmeni>MUŽÍKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-09-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14083795</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79501</are:psc>
+      <are:okres>Bruntál</are:okres>
+      <are:obec>Rýmařov</are:obec>
+      <are:castObce>Rýmařov</are:castObce>
+      <are:ulice>Jesenická</are:ulice>
+      <are:cisloPop>139</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANDREA</are:jmeno>
+     <are:prijmeni>PAVLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-09-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22664149</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vršovice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Petrohradská</are:ulice>
+      <are:cisloPop>809</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KRISTÝNA</are:jmeno>
+     <are:prijmeni>MANDIĆ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-09-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>30487099</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Nad Kajetánkou</are:ulice>
+      <are:cisloPop>1414</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAMILA</are:jmeno>
+     <are:prijmeni>SOVOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-09-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22669345</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vršovice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Sámova</are:ulice>
+      <are:cisloPop>1218</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KATEŘINA</are:jmeno>
+     <are:prijmeni>URBANOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
  </are:Vypis_VREO>
 </are:Odpoved>
 </are:Ares_odpovedi>

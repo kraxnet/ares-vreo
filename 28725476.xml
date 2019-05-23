@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-07-02T17:14:05"
+odpoved_datum_cas="2019-03-14T12:38:49"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-07-02</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-07-02</are:Datum_vypisu>
-   <are:Cas_vypisu>17:14:05</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:38:49</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -30,6 +30,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>15/7</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2010-06-22</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-12</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost LABSKÁ PAROPLAVEBNÍ SPOLEČNOST, o.p.s.  v likvidaci se sídlem Litoměřice - Litoměřice-Město, Mírové náměstí 15/7, PSČ 41201, identifikační číslo : 287 25 476 ke dni právní moci tohoto usnesení, včetně všech zapsaných skutečností.
+ 
+Právní důvod výmazu : Společnost byla zrejstříku obecně prospěšných společností vymazána na základě skončené likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -65,9 +73,9 @@ koordinace provozování veřejné osobní lodní dopravy
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2011-07-09">
+  <are:Statutarni_organ dza="2011-07-09" dvy="2019-03-12">
    <are:Nazev>Statutární orgán - ředitel</are:Nazev>
-   <are:Clen dza="2011-07-09">
+   <are:Clen dza="2011-07-09" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>2916100</are:ruianKod>
@@ -85,7 +93,7 @@ koordinace provozování veřejné osobní lodní dopravy
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2013-09-19">
+  <are:Statutarni_organ dza="2013-09-19" dvy="2019-03-12">
    <are:Nazev>Likvidátor</are:Nazev>
    <are:Clen dza="2013-09-19" dvy="2018-06-29">
     <are:fosoba>
@@ -103,7 +111,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:prijmeni>LAŇKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-06-29">
+   <are:Clen dza="2018-06-29" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>2918579</are:ruianKod>
@@ -122,9 +130,9 @@ koordinace provozování veřejné osobní lodní dopravy
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2010-06-22">
+  <are:Jiny_organ dza="2010-06-22" dvy="2019-03-12">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2018-06-29">
+   <are:Clen dza="2018-06-29" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2010-06-22</are:vznikClenstvi>
     </are:clenstvi>
@@ -147,7 +155,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:titulPred>Bc.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-06-29">
+   <are:Clen dza="2018-06-29" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2010-06-22</are:vznikClenstvi>
     </are:clenstvi>
@@ -169,7 +177,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-06-29">
+   <are:Clen dza="2018-06-29" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2010-06-22</are:vznikClenstvi>
     </are:clenstvi>
@@ -193,7 +201,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-06-29">
+   <are:Clen dza="2018-06-29" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2010-06-22</are:vznikClenstvi>
     </are:clenstvi>
@@ -215,9 +223,9 @@ koordinace provozování veřejné osobní lodní dopravy
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
-  <are:Jiny_organ dza="2010-06-22">
+  <are:Jiny_organ dza="2010-06-22" dvy="2019-03-12">
    <are:Nazev>Správní rada</are:Nazev>
-   <are:Clen dza="2013-11-13">
+   <are:Clen dza="2013-11-13" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2011-02-16</are:vznikClenstvi>
     </are:clenstvi>
@@ -239,7 +247,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:prijmeni>NOVÁKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-12-01">
+   <are:Clen dza="2013-12-01" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2010-06-22</are:vznikClenstvi>
     </are:clenstvi>
@@ -260,7 +268,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:prijmeni>JIRMAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-06-12">
+   <are:Clen dza="2015-06-12" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2010-07-27</are:vznikClenstvi>
     </are:clenstvi>
@@ -282,7 +290,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:titulPred>Bc.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-11-15">
+   <are:Clen dza="2015-11-15" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2010-06-22</are:vznikClenstvi>
     </are:clenstvi>
@@ -304,7 +312,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:prijmeni>URBAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-04-11">
+   <are:Clen dza="2018-04-11" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2010-06-22</are:vznikClenstvi>
     </are:clenstvi>
@@ -329,7 +337,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:titulPred>Bc.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-06-29">
+   <are:Clen dza="2018-06-29" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2010-06-22</are:vznikClenstvi>
     </are:clenstvi>
@@ -350,7 +358,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:prijmeni>PAFELOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-06-29">
+   <are:Clen dza="2018-06-29" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2011-02-16</are:vznikClenstvi>
     </are:clenstvi>
@@ -373,7 +381,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:prijmeni>SZÁNTÓ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-06-29">
+   <are:Clen dza="2018-06-29" dvy="2019-03-12">
     <are:clenstvi>
      <are:vznikClenstvi>2011-06-30</are:vznikClenstvi>
     </are:clenstvi>
@@ -398,9 +406,9 @@ koordinace provozování veřejné osobní lodní dopravy
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
-  <are:Jiny_organ dza="2010-06-22">
+  <are:Jiny_organ dza="2010-06-22" dvy="2019-03-12">
    <are:Nazev>Zakladatel</are:Nazev>
-   <are:Clen dza="2010-06-22">
+   <are:Clen dza="2010-06-22" dvy="2019-03-12">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>2919575</are:ruianKod>
@@ -415,7 +423,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:ObchodniFirma>Město Litoměřice</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2010-06-22">
+   <are:Clen dza="2010-06-22" dvy="2019-03-12">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>16853032</are:ruianKod>
@@ -429,7 +437,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:ObchodniFirma>Město Roudnice nad Labem</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2013-09-27">
+   <are:Clen dza="2013-09-27" dvy="2019-03-12">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>17837448</are:ruianKod>
@@ -445,7 +453,7 @@ koordinace provozování veřejné osobní lodní dopravy
      <are:ObchodniFirma>Statutární město Ústí nad Labem</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2017-03-30">
+   <are:Clen dza="2017-03-30" dvy="2019-03-12">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>16843401</are:ruianKod>

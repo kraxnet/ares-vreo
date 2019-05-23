@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-03-05T15:07:02"
+odpoved_datum_cas="2019-03-18T10:18:06"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-03-05</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-03-05</are:Datum_vypisu>
-   <are:Cas_vypisu>15:07:02</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-18</are:Datum_vypisu>
+   <are:Cas_vypisu>10:18:06</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -305,27 +305,6 @@ Jménem společnosti jedná předseda představenstva.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-10-22">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-07-18</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>25938924</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>75114</are:psc>
-      <are:obec>Dřevohostice</are:obec>
-      <are:castObce>Dřevohostice</are:castObce>
-      <are:ulice>Za humny</are:ulice>
-      <are:cisloPop>479</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ROMAN</are:jmeno>
-     <are:prijmeni>JANOVSKÝ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-10-22" dvy="2016-05-26">
     <are:clenstvi>
      <are:vznikClenstvi>2012-07-27</are:vznikClenstvi>
@@ -368,6 +347,28 @@ Jménem společnosti jedná předseda představenstva.
      </are:adresa>
      <are:jmeno>MARTIN</are:jmeno>
      <are:prijmeni>MACHÁČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-10-22" dvy="2019-03-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-07-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-11-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25938924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75114</are:psc>
+      <are:obec>Dřevohostice</are:obec>
+      <are:castObce>Dřevohostice</are:castObce>
+      <are:ulice>Za humny</are:ulice>
+      <are:cisloPop>479</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>JANOVSKÝ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2016-05-26">
@@ -441,6 +442,30 @@ Jménem společnosti jedná předseda představenstva.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16244117</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Samotišky</are:obec>
+      <are:castObce>Samotišky</are:castObce>
+      <are:ulice>Boreckého</are:ulice>
+      <are:cisloPop>278</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROMÍR</are:jmeno>
+     <are:prijmeni>DVORSKÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1998-01-01">
    <are:Nazev>Dozorčí rada</are:Nazev>
@@ -466,48 +491,51 @@ Jménem společnosti jedná předseda představenstva.
      <are:prijmeni>DOSTÁL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-05-26">
+   <are:Clen dza="2019-03-15">
     <are:clenstvi>
-     <are:vznikClenstvi>2016-04-07</are:vznikClenstvi>
+     <are:vznikClenstvi>2018-11-30</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>11061138</are:ruianKod>
+      <are:ruianKod>19130201</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>75354</are:psc>
-      <are:okres>Přerov</are:okres>
-      <are:obec>Dolní Nětčice</are:obec>
-      <are:castObce>Dolní Nětčice</are:castObce>
-      <are:cisloPop>5</are:cisloPop>
+      <are:psc>63900</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Štýřice</are:castObce>
+      <are:ulice>Renneská třída</are:ulice>
+      <are:cisloPop>766</are:cisloPop>
+      <are:cisloOr>40</are:cisloOr>
      </are:adresa>
-     <are:jmeno>JAN</are:jmeno>
-     <are:prijmeni>SOBEK</are:prijmeni>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>DOSTÁL</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-03-01">
+   <are:Clen dza="2019-03-15">
     <are:clenstvi>
-     <are:vznikClenstvi>2017-11-16</are:vznikClenstvi>
+     <are:vznikClenstvi>2018-11-30</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>6483879</are:ruianKod>
+      <are:ruianKod>25938924</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>25244</are:psc>
-      <are:okres>Praha-západ</are:okres>
-      <are:obec>Psáry</are:obec>
-      <are:castObce>Psáry</are:castObce>
-      <are:ulice>Sportovní</are:ulice>
-      <are:cisloPop>249</are:cisloPop>
+      <are:psc>75114</are:psc>
+      <are:okres>Přerov</are:okres>
+      <are:obec>Dřevohostice</are:obec>
+      <are:castObce>Dřevohostice</are:castObce>
+      <are:ulice>Za humny</are:ulice>
+      <are:cisloPop>479</are:cisloPop>
      </are:adresa>
-     <are:jmeno>MAGDA</are:jmeno>
-     <are:prijmeni>ŠIMEČKOVÁ</are:prijmeni>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>JANOVSKÝ</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>

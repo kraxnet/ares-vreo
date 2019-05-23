@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T00:48:32"
+odpoved_datum_cas="2019-03-12T15:41:47"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>00:48:32</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:41:47</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -56,6 +56,24 @@ kterých zastupují společnost jednatelé vždy společně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
+      <are:ruianKod>14114160</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73951</are:psc>
+      <are:obec>Horní Domaslavice</are:obec>
+      <are:castObce>Horní Domaslavice</are:castObce>
+      <are:cisloPop>6</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>PRACUCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-06" dvy="2019-03-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
       <are:ruianKod>24900168</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>73601</are:psc>
@@ -69,22 +87,23 @@ kterých zastupují společnost jednatelé vždy společně.
      <are:prijmeni>POMP</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-11-06">
+   <are:Clen dza="2019-03-08">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2015-11-06</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>14114160</are:ruianKod>
+      <are:ruianKod>14008785</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>73951</are:psc>
-      <are:obec>Horní Domaslavice</are:obec>
-      <are:castObce>Horní Domaslavice</are:castObce>
-      <are:cisloPop>6</are:cisloPop>
+      <are:psc>79201</are:psc>
+      <are:okres>Bruntál</are:okres>
+      <are:obec>Roudno</are:obec>
+      <are:castObce>Roudno</are:castObce>
+      <are:cisloPop>8</are:cisloPop>
      </are:adresa>
-     <are:jmeno>ROMAN</are:jmeno>
-     <are:prijmeni>PRACUCH</are:prijmeni>
+     <are:jmeno>DAVID</are:jmeno>
+     <are:prijmeni>POMP</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -93,22 +112,6 @@ kterých zastupují společnost jednatelé vždy společně.
    <are:Clen dza="2015-11-06">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>24900168</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73601</are:psc>
-      <are:obec>Havířov</are:obec>
-      <are:castObce>Město</are:castObce>
-      <are:ulice>U Stromovky</are:ulice>
-      <are:cisloPop>418</are:cisloPop>
-      <are:cisloOr>66</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>DAVID</are:jmeno>
-     <are:prijmeni>POMP</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-06">
-    <are:fosoba>
-     <are:adresa>
       <are:ruianKod>14114160</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>73951</are:psc>
@@ -118,6 +121,21 @@ kterých zastupují společnost jednatelé vždy společně.
      </are:adresa>
      <are:jmeno>ROMAN</are:jmeno>
      <are:prijmeni>PRACUCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14008785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79201</are:psc>
+      <are:okres>Bruntál</are:okres>
+      <are:obec>Roudno</are:obec>
+      <are:castObce>Roudno</are:castObce>
+      <are:cisloPop>8</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DAVID</are:jmeno>
+     <are:prijmeni>POMP</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

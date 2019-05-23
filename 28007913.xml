@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T08:13:45"
+odpoved_datum_cas="2019-04-02T11:35:10"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>08:13:45</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:35:10</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -103,7 +103,7 @@ Každý z jednatelů jedná za společnost ve všech věcech samostatně.
      <are:prijmeni>SEEMANN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-09-07">
+   <are:Clen dza="2017-09-07" dvy="2019-03-31">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2008-02-15</are:vznikFunkce>
@@ -125,10 +125,32 @@ Každý z jednatelů jedná za společnost ve všech věcech samostatně.
      <are:titulPred>Bc.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-02-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26182017</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Drahovice</are:castObce>
+      <are:ulice>Mozartova</are:ulice>
+      <are:cisloPop>665</are:cisloPop>
+      <are:cisloOr>7c</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>CÍCHA</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Statutarni_organ dza="2013-04-12">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2013-04-12">
+   <are:Clen dza="2013-04-12" dvy="2019-03-31">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>12970123</are:ruianKod>
@@ -139,6 +161,23 @@ Každý z jednatelů jedná za společnost ve všech věcech samostatně.
       <are:ulice>Kollárova</are:ulice>
       <are:cisloPop>130</are:cisloPop>
       <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>CÍCHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26182017</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Drahovice</are:castObce>
+      <are:ulice>Mozartova</are:ulice>
+      <are:cisloPop>665</are:cisloPop>
+      <are:cisloOr>7c</are:cisloOr>
      </are:adresa>
      <are:jmeno>JAROSLAV</are:jmeno>
      <are:prijmeni>CÍCHA</are:prijmeni>
@@ -161,18 +200,18 @@ Každý z jednatelů jedná za společnost ve všech věcech samostatně.
      <are:ObchodniFirma>LICERA s.r.o. v likvidaci</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2017-09-07">
+   <are:Clen dza="2019-03-31">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>12970123</are:ruianKod>
+      <are:ruianKod>26182017</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>35101</are:psc>
-      <are:okres>Cheb</are:okres>
-      <are:obec>Františkovy Lázně</are:obec>
-      <are:castObce>Františkovy Lázně</are:castObce>
-      <are:ulice>Kollárova</are:ulice>
-      <are:cisloPop>130</are:cisloPop>
-      <are:cisloOr>11</are:cisloOr>
+      <are:psc>36001</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Drahovice</are:castObce>
+      <are:ulice>Mozartova</are:ulice>
+      <are:cisloPop>665</are:cisloPop>
+      <are:cisloOr>7c</are:cisloOr>
      </are:adresa>
      <are:jmeno>JAROSLAV</are:jmeno>
      <are:prijmeni>CÍCHA</are:prijmeni>

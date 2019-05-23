@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T17:46:02"
+odpoved_datum_cas="2019-03-27T09:55:19"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>17:46:02</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-27</are:Datum_vypisu>
+   <are:Cas_vypisu>09:55:19</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -63,7 +63,6 @@ musí být vždy připojeno razítko družstva.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Ostrava-Poruba</are:obec>
       <are:ulice>Urxova</are:ulice>
@@ -83,7 +82,6 @@ musí být vždy připojeno razítko družstva.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Ostrava-Poruba</are:obec>
       <are:ulice>Urxova</are:ulice>
@@ -102,7 +100,6 @@ musí být vždy připojeno razítko družstva.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Ostrava-Poruba</are:obec>
       <are:ulice>Urxova</are:ulice>
@@ -122,7 +119,6 @@ musí být vždy připojeno razítko družstva.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Ostrava - Poruba</are:obec>
       <are:ulice>Urxova</are:ulice>
@@ -348,13 +344,15 @@ Předseda představenstva jedná za družstvo navenek; je-li však pro právní 
      <are:prijmeni>Ersepke</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-09-10">
+   <are:Clen dza="2014-09-10" dvy="2019-03-23">
     <are:clenstvi>
      <are:vznikClenstvi>2012-12-04</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-03-04</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda představenstva</are:nazev>
      <are:vznikFunkce>2012-12-04</are:vznikFunkce>
+     <are:zanikFunkce>2018-03-04</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -371,13 +369,15 @@ Předseda představenstva jedná za družstvo navenek; je-li však pro právní 
      <are:prijmeni>CAPANDA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-09-10">
+   <are:Clen dza="2014-09-10" dvy="2019-03-23">
     <are:clenstvi>
      <are:vznikClenstvi>2012-12-04</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-03-04</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>místopředseda představenstva</are:nazev>
      <are:vznikFunkce>2012-12-04</are:vznikFunkce>
+     <are:zanikFunkce>2018-03-04</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -394,9 +394,10 @@ Předseda představenstva jedná za družstvo navenek; je-li však pro právní 
      <are:prijmeni>BOŽOŇOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-09-10">
+   <are:Clen dza="2014-09-10" dvy="2019-03-23">
     <are:clenstvi>
      <are:vznikClenstvi>2012-12-04</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-03-04</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
@@ -406,6 +407,77 @@ Předseda představenstva jedná za družstvo navenek; je-li však pro právní 
       <are:ruianKod>3288129</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>70800</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Urxova</are:ulice>
+      <are:cisloPop>490</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>ERSEPKE</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2019-02-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3288129</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Urxova</are:ulice>
+      <are:cisloPop>490</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>CAPANDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2019-02-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3288129</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Urxova</are:ulice>
+      <are:cisloPop>490</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LIBUŠE</are:jmeno>
+     <are:prijmeni>BOŽOŇOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3288129</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
       <are:obec>Ostrava</are:obec>
       <are:castObce>Poruba</are:castObce>
       <are:ulice>Urxova</are:ulice>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T00:13:42"
+odpoved_datum_cas="2019-04-02T11:22:50"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>00:13:42</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:22:50</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -240,52 +240,6 @@ ové výboru. Kdo za společenství podepisuje, připojí k názvu společenstv�
      <are:prijmeni>Prázdný</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-06-24">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-02-25</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda výboru</are:nazev>
-     <are:vznikFunkce>2014-02-25</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23396326</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>37006</are:psc>
-      <are:obec>České Budějovice</are:obec>
-      <are:castObce>České Budějovice 5</are:castObce>
-      <are:ulice>J. Lomského</are:ulice>
-      <are:cisloPop>1509</are:cisloPop>
-      <are:cisloOr>6</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ROBERT</are:jmeno>
-     <are:prijmeni>FOŠUM</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-06-24">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-02-25</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Místopředseda výboru</are:nazev>
-     <are:vznikFunkce>2014-02-25</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23384484</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>37001</are:psc>
-      <are:obec>České Budějovice</are:obec>
-      <are:castObce>České Budějovice 4</are:castObce>
-      <are:ulice>Rudolfovská tř.</are:ulice>
-      <are:cisloPop>451</are:cisloPop>
-      <are:cisloOr>104</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>JAN</are:jmeno>
-     <are:prijmeni>ČERNÝ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-06-24" dvy="2017-01-30">
     <are:clenstvi>
      <are:vznikClenstvi>2014-02-25</are:vznikClenstvi>
@@ -307,9 +261,60 @@ ové výboru. Kdo za společenství podepisuje, připojí k názvu společenstv�
      <are:prijmeni>FARKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-01-30">
+   <are:Clen dza="2014-06-24" dvy="2019-03-27">
     <are:clenstvi>
      <are:vznikClenstvi>2014-02-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2014-02-25</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23396326</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37006</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 5</are:castObce>
+      <are:ulice>J. Lomského</are:ulice>
+      <are:cisloPop>1509</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROBERT</are:jmeno>
+     <are:prijmeni>FOŠUM</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-06-24" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-02-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2014-02-25</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23384484</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37001</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 4</are:castObce>
+      <are:ulice>Rudolfovská tř.</are:ulice>
+      <are:cisloPop>451</are:cisloPop>
+      <are:cisloOr>104</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>ČERNÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-30" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-02-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-25</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Člen výboru</are:nazev>
@@ -327,6 +332,78 @@ ové výboru. Kdo za společenství podepisuje, připojí k názvu společenstv�
      </are:adresa>
      <are:jmeno>RADEK</are:jmeno>
      <are:prijmeni>FARKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-03-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2019-03-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23396326</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37006</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 5</are:castObce>
+      <are:ulice>J. Lomského</are:ulice>
+      <are:cisloPop>1509</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>ZOUBEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-03-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2019-03-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23396326</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37006</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 5</are:castObce>
+      <are:ulice>J. Lomského</are:ulice>
+      <are:cisloPop>1509</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JITKA</are:jmeno>
+     <are:prijmeni>BUUSOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-03-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23371561</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37001</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 3</are:castObce>
+      <are:ulice>Skuherského</are:ulice>
+      <are:cisloPop>1485</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>HOUSKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

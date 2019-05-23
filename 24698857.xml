@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T12:12:26"
+odpoved_datum_cas="2019-03-22T10:30:10"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>12:12:26</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:30:10</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -31,6 +31,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>13</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2010-06-21</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-17</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost HERBECAR s.r.o. v likvidaci, se sídlem Praha 6 - Bubeneč, Národní obrany 935/13, PSČ 160 00, IČ: 246 98 857 se vymazává z obchodního rejstříku. Právním důvodem výmazu je ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -44,21 +50,20 @@ pronájem nemovitostí, bytů a nebytových prostor
     </are:PredmetCinnosti>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2010-06-21">
+  <are:Statutarni_organ dza="2010-06-21" dvy="2019-03-17">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2010-06-21">
+   <are:ZpusobJednani dza="2010-06-21" dvy="2019-03-17">
     <are:Text>
 Jednatel jedná jménem společnosti navenek samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>m. Karlivka</are:obec>
       <are:castObce>Poltavska oblast</are:castObce>
@@ -69,14 +74,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Herbey</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Kvasy</are:obec>
       <are:castObce>Rachivský okres</are:castObce>
@@ -86,14 +90,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Mykhaylyuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Bohdan</are:obec>
       <are:castObce>Rachivský okres</are:castObce>
@@ -103,14 +106,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Kotlan</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Kostylivka</are:obec>
       <are:castObce>Rachivský okres</are:castObce>
@@ -120,14 +122,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Hryha</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Kos.Poljana</are:obec>
       <are:castObce>Rachivský okres</are:castObce>
@@ -137,14 +138,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Moysyuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Veljatyno</are:obec>
       <are:castObce>Chustský okres</are:castObce>
@@ -154,14 +154,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Tsyfra</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Solotvyno</are:obec>
       <are:castObce>Tjačivský okres</are:castObce>
@@ -171,14 +170,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Maryna</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Ternovo</are:obec>
       <are:castObce>Tjačivský okres</are:castObce>
@@ -188,14 +186,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Melnyk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>m. Svaljava</are:obec>
       <are:castObce>Zakarpatská oblast</are:castObce>
@@ -206,14 +203,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Kryvanych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Sokyrnycja</are:obec>
       <are:castObce>Chustský okres</are:castObce>
@@ -223,14 +219,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Hychka</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Piščanyj-Brod</are:obec>
       <are:castObce>Dobrovelyčykivský okres</are:castObce>
@@ -240,14 +235,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Sas</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Lančyn</are:obec>
       <are:castObce>Nadvirnjanský okres</are:castObce>
@@ -257,14 +251,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Melnychuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Zbora</are:obec>
       <are:castObce>Kalušský okres</are:castObce>
@@ -274,14 +267,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Tsyuper</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Zbora</are:obec>
       <are:castObce>Kalušský okres</are:castObce>
@@ -291,14 +283,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Popadyuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Dubky</are:obec>
       <are:castObce>Horodenkivský okres</are:castObce>
@@ -308,14 +299,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Pasichnyk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>Dubky</are:obec>
       <are:castObce>Horodenkivský okres</are:castObce>
@@ -325,14 +315,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Gerysh</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>498</are:stat>
       <are:obec>Dahnovici</are:obec>
       <are:castObce>Hincesti okres</are:castObce>
@@ -341,14 +330,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Cimpoiesu</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>498</are:stat>
       <are:obec>Caracui</are:obec>
       <are:castObce>Hincesti okres</are:castObce>
@@ -357,14 +345,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Iurceac</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>498</are:stat>
       <are:obec>Loganesti</are:obec>
       <are:castObce>Hincesti okres</are:castObce>
@@ -373,14 +360,13 @@ Jednatel jedná jménem společnosti navenek samostatně.
      <are:prijmeni>Postu</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-21</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>498</are:stat>
       <are:obec>Jora De Jos</are:obec>
       <are:castObce>Orhei okres</are:castObce>
@@ -390,9 +376,9 @@ Jednatel jedná jménem společnosti navenek samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2015-12-30">
+  <are:Statutarni_organ dza="2015-12-30" dvy="2019-03-17">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2015-12-30">
+   <are:Clen dza="2015-12-30" dvy="2019-03-17">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>27518078</are:ruianKod>
@@ -409,12 +395,11 @@ Jednatel jedná jménem společnosti navenek samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2010-06-21">
+  <are:Jiny_organ dza="2010-06-21" dvy="2019-03-17">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2010-06-21">
+   <are:Clen dza="2010-06-21" dvy="2019-03-17">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:obec>m. Karlivka</are:obec>
       <are:castObce>Poltavska oblast</are:castObce>

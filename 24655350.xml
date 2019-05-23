@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-03-19T15:17:53"
+odpoved_datum_cas="2019-03-14T12:38:10"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-03-19</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-03-19</are:Datum_vypisu>
-   <are:Cas_vypisu>15:17:53</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:38:10</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -31,6 +31,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>29</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2010-04-01</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-12</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost Bohemia Company s.r.o. v likvidaci, se sídlem Praha 1 - Nové Město, Spálená 97/29, PSČ 110 00, IČ: 246 55 350 z obchodního rejstříku. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -39,9 +45,9 @@ pronájem nemovitostí, bytů a nebytových prostor
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2010-04-01">
+  <are:Statutarni_organ dza="2010-04-01" dvy="2019-03-12">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2010-04-01">
+   <are:ZpusobJednani dza="2010-04-01" dvy="2019-03-12">
     <are:Text>
 Jednatel jedná za společnost ve všech věcech samostatně v plném rozsahu.
     </are:Text>
@@ -108,7 +114,7 @@ Jednatel jedná za společnost ve všech věcech samostatně v plném rozsahu.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-08-21">
+   <are:Clen dza="2015-08-21" dvy="2019-03-12">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-06-07</are:vznikFunkce>
@@ -132,9 +138,9 @@ Jednatel jedná za společnost ve všech věcech samostatně v plném rozsahu.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2017-08-10">
+  <are:Statutarni_organ dza="2017-08-10" dvy="2019-03-12">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2017-08-10">
+   <are:Clen dza="2017-08-10" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21728615</are:ruianKod>
@@ -154,9 +160,9 @@ Jednatel jedná za společnost ve všech věcech samostatně v plném rozsahu.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2010-04-01">
+  <are:Jiny_organ dza="2010-04-01" dvy="2019-03-12">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-08-21">
+   <are:Clen dza="2015-08-21" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21709742</are:ruianKod>

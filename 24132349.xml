@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T09:10:29"
+odpoved_datum_cas="2019-04-02T11:35:32"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>09:10:29</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:35:32</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -46,26 +46,6 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
 Jménem společnosti jedná každý z jednatelů samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2011-06-30">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2011-06-30</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22379118</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>18000</are:psc>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Libeň</are:castObce>
-      <are:ulice>Kotlaska</are:ulice>
-      <are:cisloPop>554</are:cisloPop>
-      <are:cisloOr>16</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>Gabriela</are:jmeno>
-     <are:prijmeni>Bodenlosová</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2011-06-30" dvy="2017-11-02">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -86,7 +66,27 @@ Jménem společnosti jedná každý z jednatelů samostatně.
      <are:prijmeni>Pytlíček</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-11-02">
+   <are:Clen dza="2011-06-30" dvy="2019-03-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-06-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22379118</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:ulice>Kotlaska</are:ulice>
+      <are:cisloPop>554</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Gabriela</are:jmeno>
+     <are:prijmeni>Bodenlosová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-02" dvy="2019-03-31">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2011-06-30</are:vznikFunkce>
@@ -108,38 +108,72 @@ Jménem společnosti jedná každý z jednatelů samostatně.
      <are:prijmeni>PYTLÍČEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-06-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3779084</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59301</are:psc>
+      <are:okres>Žďár nad Sázavou</are:okres>
+      <are:obec>Býšovec</are:obec>
+      <are:castObce>Býšovec</are:castObce>
+      <are:cisloPop>35</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>GABRIELA</are:jmeno>
+     <are:prijmeni>BODENLOSOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-06-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3779084</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59301</are:psc>
+      <are:okres>Žďár nad Sázavou</are:okres>
+      <are:obec>Býšovec</are:obec>
+      <are:castObce>Býšovec</are:castObce>
+      <are:cisloPop>35</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>PYTLÍČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2011-06-30">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2011-06-30">
+   <are:Clen dza="2019-03-31">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>22379118</are:ruianKod>
+      <are:ruianKod>3779084</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>18000</are:psc>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Libeň</are:castObce>
-      <are:ulice>Kotlaska</are:ulice>
-      <are:cisloPop>554</are:cisloPop>
-      <are:cisloOr>16</are:cisloOr>
+      <are:psc>59301</are:psc>
+      <are:okres>Žďár nad Sázavou</are:okres>
+      <are:obec>Býšovec</are:obec>
+      <are:castObce>Býšovec</are:castObce>
+      <are:cisloPop>35</are:cisloPop>
      </are:adresa>
-     <are:jmeno>Gabriela</are:jmeno>
-     <are:prijmeni>Bodenlosová</are:prijmeni>
+     <are:jmeno>GABRIELA</are:jmeno>
+     <are:prijmeni>BODENLOSOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-11-02">
+   <are:Clen dza="2019-03-31">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>22379118</are:ruianKod>
+      <are:ruianKod>3779084</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>18000</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Libeň</are:castObce>
-      <are:mop>Praha 8</are:mop>
-      <are:ulice>Kotlaska</are:ulice>
-      <are:cisloPop>554</are:cisloPop>
-      <are:cisloOr>16</are:cisloOr>
+      <are:psc>59301</are:psc>
+      <are:okres>Žďár nad Sázavou</are:okres>
+      <are:obec>Býšovec</are:obec>
+      <are:castObce>Býšovec</are:castObce>
+      <are:cisloPop>35</are:cisloPop>
      </are:adresa>
      <are:jmeno>JAROSLAV</are:jmeno>
      <are:prijmeni>PYTLÍČEK</are:prijmeni>

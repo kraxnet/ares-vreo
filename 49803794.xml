@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T02:15:09"
+odpoved_datum_cas="2019-03-27T09:56:12"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>02:15:10</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-27</are:Datum_vypisu>
+   <are:Cas_vypisu>09:56:12</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -37,6 +37,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>82</are:cisloTxt>
    </are:Bydliste>
    <are:DatumZapisu>1994-10-18</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-25</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se podnikatel podnikající pod obchodní firmou Bang Vu Xuan, s místem podnikání Přeštice, Komenského 82, PSČ 33401, identifikační číslo 498 03 794 z obchodního rejstříku včetně všech zapsaných údajů. Výmaz se provádí na návrh podnikatele. Podnikat
+el má od 1. března 2018 přerušené živnostenské oprávnění a nevyvíjí žádnou podnikatelskou činnost. Vzhledem k těmto skutečnostem a k tomu, že nemá žádné závazky ani pohledávky. Není podnikatelem s povinností být zapsán v obchodním rejstříku ve smyslu § 45
+ odst. 1 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -45,9 +53,9 @@ koupě zboží za účelem jeho dalšího prodeje a prodej
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1994-10-18">
+  <are:Statutarni_organ dza="1994-10-18" dvy="2019-03-25">
    <are:Nazev>Podnikatel</are:Nazev>
-   <are:Clen dza="1994-10-18">
+   <are:Clen dza="1994-10-18" dvy="2019-03-25">
     <are:fosoba>
      <are:prijmeni>Bang Vu Xuan</are:prijmeni>
     </are:fosoba>

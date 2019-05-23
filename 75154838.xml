@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-18T15:03:52"
+odpoved_datum_cas="2019-03-18T10:14:44"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-18</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-18</are:Datum_vypisu>
-   <are:Cas_vypisu>15:03:52</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-18</are:Datum_vypisu>
+   <are:Cas_vypisu>10:14:44</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -23,33 +23,24 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Sidlo>
     <are:ruianKod>11990406</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>36472</are:psc>
+    <are:psc>36471</are:psc>
+    <are:okres>Karlovy Vary</are:okres>
     <are:obec>Stružná</are:obec>
     <are:castObce>Stružná</are:castObce>
-    <are:cisloTxt>105</are:cisloTxt>
+    <are:cisloPop>105</are:cisloPop>
    </are:Sidlo>
    <are:DatumVzniku>2008-08-12</are:DatumVzniku>
    <are:DatumZapisu>2009-01-08</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2009-01-08">
+  <are:Statutarni_organ dza="2009-01-08" dvy="2019-03-13">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:Clen dza="2009-01-08">
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>203</are:stat>
-      <are:psc>36472</are:psc>
-      <are:obec>Stružná</are:obec>
-      <are:castObce>Stružná</are:castObce>
-      <are:ulice>Stružná</are:ulice>
-      <are:cisloTxt>104</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Radka</are:jmeno>
-     <are:prijmeni>Wenzlová</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2009-01-08" dvy="2011-05-26">
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
@@ -101,6 +92,26 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:prijmeni>Boor</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2009-01-08" dvy="2019-03-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2013-09-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>36472</are:psc>
+      <are:obec>Stružná</are:obec>
+      <are:castObce>Stružná</are:castObce>
+      <are:ulice>Stružná</are:ulice>
+      <are:cisloTxt>104</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radka</are:jmeno>
+     <are:prijmeni>Wenzlová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
    <are:Clen dza="2011-05-26" dvy="2017-02-18">
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
@@ -117,7 +128,10 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:prijmeni>Paško</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-02-18">
+   <are:Clen dza="2017-02-18" dvy="2019-03-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-01-14</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
     </are:funkce>
@@ -133,6 +147,78 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      </are:adresa>
      <are:jmeno>JAROSLAV</are:jmeno>
      <are:prijmeni>PAŠKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2019-03-13">
+   <are:Nazev>Statutární orgán - výbor</are:Nazev>
+   <are:ZpusobJednani dza="2019-03-13">
+    <are:Text>
+Za výbor jedná navenek samostatně předseda výboru. Jde-li o písemné právní jednání, musí být podepsáno předsedou výboru a dalším členem výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2019-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2019-01-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11990392</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36471</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Stružná</are:obec>
+      <are:castObce>Stružná</are:castObce>
+      <are:cisloPop>104</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RADKA</are:jmeno>
+     <are:prijmeni>WENZLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11990384</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36471</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Stružná</are:obec>
+      <are:castObce>Stružná</are:castObce>
+      <are:cisloPop>103</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>PAŠKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28033485</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36471</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Stružná</are:obec>
+      <are:castObce>Stružná</are:castObce>
+      <are:cisloPop>125</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>REHÁK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

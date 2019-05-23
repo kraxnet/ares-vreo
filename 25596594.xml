@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-29T16:22:12"
+odpoved_datum_cas="2019-03-27T09:57:34"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-29</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-29</are:Datum_vypisu>
-   <are:Cas_vypisu>16:22:12</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-27</are:Datum_vypisu>
+   <are:Cas_vypisu>09:57:34</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -31,6 +31,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>49a</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2000-04-12</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-25</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost se vymazává z obchodního rejstříku včetně všech zapsaných skutečností.
+ 
+Právní důvod výmazu: Společnost se vymazává z obchodního rejstříku po provedené likvidaci na návrh společnosti - likvidátora doručený soudu dne 19.3.2019 dle ust. § 82 zák. č. 304/2013 Sb., pro nedostatek majetku likvidované společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -39,72 +47,6 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2000-04-12">
-   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
-   <are:ZpusobJednani dza="2000-04-12" dvy="2001-01-15">
-    <are:Text>
-Za společnost jedná předseda představenstva samostatně.
-Podepisování za společnost se děje tak, že k vytištěnému nebo
-napsanému názvu společnosti připojí předseda představenstva svůj
-podpis.
-    </are:Text>
-   </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2001-01-15" dvy="2014-05-01">
-    <are:Text>
-Jménem společnosti jedná představenstvo. Za představenstvo jedná
-navenek jménem společnosti každý člen představenstva samostatně.
-    </are:Text>
-   </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-05-01">
-    <are:Text>
-Za společnost jedná a podepisuje člen představenstva.
-    </are:Text>
-   </are:ZpusobJednani>
-   <are:Clen dza="2013-05-16" dvy="2015-01-06">
-    <are:clenstvi>
-     <are:vznikClenstvi>2013-05-10</are:vznikClenstvi>
-     <are:zanikClenstvi>2014-12-09</are:zanikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>13510215</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69667</are:psc>
-      <are:obec>Radějov</are:obec>
-      <are:castObce>Radějov</are:castObce>
-      <are:cisloPop>186</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PAVLÍNA</are:jmeno>
-     <are:prijmeni>ŠMACHOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-01-06">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-12-09</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>4576632</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74714</are:psc>
-      <are:okres>Opava</are:okres>
-      <are:obec>Ludgeřovice</are:obec>
-      <are:castObce>Ludgeřovice</are:castObce>
-      <are:ulice>Markvartovická</are:ulice>
-      <are:cisloPop>52</are:cisloPop>
-      <are:cisloOr>48</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MICHAL</are:jmeno>
-     <are:prijmeni>MOJIK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-  </are:Statutarni_organ>
   <are:Statutarni_organ dza="2000-04-12" dvy="2013-05-16">
    <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
    <are:Clen dza="2000-04-12" dvy="2001-01-15">
@@ -318,7 +260,73 @@ Za společnost jedná a podepisuje člen představenstva.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2015-11-24">
+  <are:Statutarni_organ dza="2000-04-12" dvy="2019-03-25">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2000-04-12" dvy="2001-01-15">
+    <are:Text>
+Za společnost jedná předseda představenstva samostatně.
+Podepisování za společnost se děje tak, že k vytištěnému nebo
+napsanému názvu společnosti připojí předseda představenstva svůj
+podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2001-01-15" dvy="2014-05-01">
+    <are:Text>
+Jménem společnosti jedná představenstvo. Za představenstvo jedná
+navenek jménem společnosti každý člen představenstva samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-05-01" dvy="2019-03-25">
+    <are:Text>
+Za společnost jedná a podepisuje člen představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2013-05-16" dvy="2015-01-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-05-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-12-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13510215</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69667</are:psc>
+      <are:obec>Radějov</are:obec>
+      <are:castObce>Radějov</are:castObce>
+      <are:cisloPop>186</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVLÍNA</are:jmeno>
+     <are:prijmeni>ŠMACHOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-01-06" dvy="2019-03-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-12-09</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4576632</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74714</are:psc>
+      <are:okres>Opava</are:okres>
+      <are:obec>Ludgeřovice</are:obec>
+      <are:castObce>Ludgeřovice</are:castObce>
+      <are:ulice>Markvartovická</are:ulice>
+      <are:cisloPop>52</are:cisloPop>
+      <are:cisloOr>48</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>MOJIK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-11-24" dvy="2019-03-25">
    <are:Nazev>Likvidátor</are:Nazev>
    <are:Clen dza="2015-11-24" dvy="2016-08-31">
     <are:posoba>
@@ -337,7 +345,7 @@ Za společnost jedná a podepisuje člen představenstva.
      <are:ObchodniFirma>Andree Kamil, JUDr., advokát</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2016-08-31">
+   <are:Clen dza="2016-08-31" dvy="2019-03-25">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>26654342</are:ruianKod>
@@ -355,9 +363,9 @@ Za společnost jedná a podepisuje člen představenstva.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2000-04-12">
+  <are:Jiny_organ dza="2000-04-12" dvy="2019-03-25">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2015-01-06">
+   <are:Clen dza="2015-01-06" dvy="2019-03-25">
     <are:clenstvi>
      <are:vznikClenstvi>2014-12-09</are:vznikClenstvi>
     </are:clenstvi>
@@ -379,7 +387,7 @@ Za společnost jedná a podepisuje člen představenstva.
      <are:prijmeni>KRUPA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-01-06">
+   <are:Clen dza="2015-01-06" dvy="2019-03-25">
     <are:clenstvi>
      <are:vznikClenstvi>2014-12-09</are:vznikClenstvi>
     </are:clenstvi>
@@ -402,7 +410,7 @@ Za společnost jedná a podepisuje člen představenstva.
      <are:prijmeni>ZÁSTAVA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-05-02">
+   <are:Clen dza="2018-05-02" dvy="2019-03-25">
     <are:clenstvi>
      <are:vznikClenstvi>2014-12-09</are:vznikClenstvi>
     </are:clenstvi>
@@ -426,9 +434,9 @@ Za společnost jedná a podepisuje člen představenstva.
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
-  <are:Jiny_organ dza="2014-05-01">
+  <are:Jiny_organ dza="2014-05-01" dvy="2019-03-25">
    <are:Nazev>Jediný akcionář</are:Nazev>
-   <are:Clen dza="2015-01-06">
+   <are:Clen dza="2015-01-06" dvy="2019-03-25">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>4576632</are:ruianKod>

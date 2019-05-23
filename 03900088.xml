@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-07-09T07:53:27"
+odpoved_datum_cas="2019-04-02T11:25:52"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-07-08</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-07-09</are:Datum_vypisu>
-   <are:Cas_vypisu>07:53:27</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:25:52</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -45,47 +45,6 @@ sportovní rybolov na čejčském rybníku, jeho údržba a úklid okolí
 Za spolek jednají vždy dva členové statutárního orgánu
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2015-04-08">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-04-08</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>13373196</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69614</are:psc>
-      <are:obec>Čejč</are:obec>
-      <are:castObce>Čejč</are:castObce>
-      <are:cisloPop>254</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JAN</are:jmeno>
-     <are:prijmeni>STÁVEK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-04-08">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-04-08</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>13370910</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69614</are:psc>
-      <are:obec>Čejč</are:obec>
-      <are:castObce>Čejč</are:castObce>
-      <are:cisloPop>14</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JANA</are:jmeno>
-     <are:prijmeni>ESTERKOVÁ</are:prijmeni>
-     <are:titulPred>Mgr.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2015-04-08" dvy="2018-06-30">
     <are:clenstvi>
      <are:vznikClenstvi>2015-04-08</are:vznikClenstvi>
@@ -109,13 +68,58 @@ Za spolek jednají vždy dva členové statutárního orgánu
      <are:prijmeni>ŠIMEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-06-30">
+   <are:Clen dza="2015-04-08" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-04-08</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13373196</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69614</are:psc>
+      <are:obec>Čejč</are:obec>
+      <are:castObce>Čejč</are:castObce>
+      <are:cisloPop>254</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>STÁVEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-08" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-04-08</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13370910</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69614</are:psc>
+      <are:obec>Čejč</are:obec>
+      <are:castObce>Čejč</are:castObce>
+      <are:cisloPop>14</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>ESTERKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-06-30" dvy="2019-03-27">
     <are:clenstvi>
      <are:vznikClenstvi>2018-02-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-20</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda výboru</are:nazev>
      <are:vznikFunkce>2018-02-25</are:vznikFunkce>
+     <are:zanikFunkce>2019-01-20</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -131,22 +135,172 @@ Za spolek jednají vždy dva členové statutárního orgánu
      <are:prijmeni>KOLIBA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda spolku</are:nazev>
+     <are:vznikFunkce>2019-01-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13371380</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69614</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Čejč</are:obec>
+      <are:castObce>Čejč</are:castObce>
+      <are:cisloPop>65</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>KOLIBA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>hospodář</are:nazev>
+     <are:vznikFunkce>2019-01-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13373498</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69614</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Čejč</are:obec>
+      <are:castObce>Čejč</are:castObce>
+      <are:cisloPop>285</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>KRNÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>tajemník</are:nazev>
+     <are:vznikFunkce>2019-01-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13374176</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69614</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Čejč</are:obec>
+      <are:castObce>Čejč</are:castObce>
+      <are:cisloPop>353</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>ŠIMEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13372581</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69614</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Čejč</are:obec>
+      <are:castObce>Čejč</are:castObce>
+      <are:cisloPop>191</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>KODÝTEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13371886</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69614</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Čejč</are:obec>
+      <are:castObce>Čejč</are:castObce>
+      <are:cisloPop>119</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>BRAVENEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26026732</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69614</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Čejč</are:obec>
+      <are:castObce>Čejč</are:castObce>
+      <are:cisloPop>444</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RICHARD</are:jmeno>
+     <are:prijmeni>KUBALA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13374095</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69614</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Čejč</are:obec>
+      <are:castObce>Čejč</are:castObce>
+      <are:cisloPop>345</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>PĚNČÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2015-04-08">
    <are:Nazev>revizní komise</are:Nazev>
-   <are:Clen dza="2015-04-08">
+   <are:Clen dza="2019-03-27">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-04-08</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-20</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>předseda komise</are:nazev>
-     <are:vznikFunkce>2015-04-08</are:vznikFunkce>
+     <are:nazev>člen revizní komise</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>13372840</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>69614</are:psc>
+      <are:okres>Hodonín</are:okres>
       <are:obec>Čejč</are:obec>
       <are:castObce>Čejč</are:castObce>
       <are:cisloPop>217</are:cisloPop>
@@ -155,44 +309,46 @@ Za spolek jednají vždy dva členové statutárního orgánu
      <are:prijmeni>BEDĚRA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-04-08">
+   <are:Clen dza="2019-03-27">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-04-08</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-20</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen komise</are:nazev>
+     <are:nazev>člen revizní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13373196</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69614</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Čejč</are:obec>
+      <are:castObce>Čejč</are:castObce>
+      <are:cisloPop>254</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>STÁVEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen revizní komise</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>13371096</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>69614</are:psc>
+      <are:okres>Hodonín</are:okres>
       <are:obec>Čejč</are:obec>
       <are:castObce>Čejč</are:castObce>
       <are:cisloPop>32</are:cisloPop>
      </are:adresa>
      <are:jmeno>JOSEF</are:jmeno>
      <are:prijmeni>IVIČIČ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-04-08">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-04-08</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>13373498</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69614</are:psc>
-      <are:obec>Čejč</are:obec>
-      <are:castObce>Čejč</are:castObce>
-      <are:cisloPop>285</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>MICHAL</are:jmeno>
-     <are:prijmeni>KRNÝ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-04-11T14:21:18"
+odpoved_datum_cas="2019-04-02T11:32:20"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-04-11</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-04-11</are:Datum_vypisu>
-   <are:Cas_vypisu>14:21:19</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:32:20</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -50,42 +50,6 @@ Výbor zastupuje společenství a navenek za společenství jedná svým předse
 da společně s dalším členem výboru
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2014-02-04">
-    <are:funkce>
-     <are:nazev>předseda výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>12810355</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>25210</are:psc>
-      <are:obec>Mníšek pod Brdy</are:obec>
-      <are:castObce>Mníšek pod Brdy</are:castObce>
-      <are:ulice>Čisovická</are:ulice>
-      <are:cisloPop>21</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>MICHAL</are:jmeno>
-     <are:prijmeni>PALLAGY</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-02-04">
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23525045</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>43003</are:psc>
-      <are:obec>Chomutov</are:obec>
-      <are:castObce>Chomutov</are:castObce>
-      <are:ulice>Komenského</are:ulice>
-      <are:cisloPop>4444</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JANA</are:jmeno>
-     <are:prijmeni>KUKUČOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-02-04" dvy="2014-02-08">
     <are:funkce>
      <are:nazev>místopředseda výboru</are:nazev>
@@ -140,6 +104,50 @@ da společně s dalším členem výboru
      </are:adresa>
      <are:jmeno>VERONIKA</are:jmeno>
      <are:prijmeni>MÚČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-02-04" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-11-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2018-11-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12810355</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25210</are:psc>
+      <are:obec>Mníšek pod Brdy</are:obec>
+      <are:castObce>Mníšek pod Brdy</are:castObce>
+      <are:ulice>Čisovická</are:ulice>
+      <are:cisloPop>21</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>PALLAGY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-02-04" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-11-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:zanikFunkce>2018-11-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23525045</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43003</are:psc>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Komenského</are:ulice>
+      <are:cisloPop>4444</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>KUKUČOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2014-02-08" dvy="2017-05-31">
@@ -226,9 +234,13 @@ da společně s dalším členem výboru
      <are:prijmeni>KUDRNOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-04-07">
+   <are:Clen dza="2018-04-07" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-11-21</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2018-11-21</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -247,7 +259,108 @@ da společně s dalším členem výboru
      <are:prijmeni>KUDRNOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-04-07">
+   <are:Clen dza="2018-04-07" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-11-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:zanikFunkce>2018-11-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>42526990</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11101</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dolní Měcholupy</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Kardausova</are:ulice>
+      <are:cisloPop>567</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VERONIKA</are:jmeno>
+     <are:prijmeni>MÚČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-07" dvy="2019-03-27">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-11-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:zanikFunkce>2018-11-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>42527031</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11101</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dolní Měcholupy</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Kryšpínova</are:ulice>
+      <are:cisloPop>567</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ONDŘEJ</are:jmeno>
+     <are:prijmeni>ČAPEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2019-02-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>42527031</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11101</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dolní Měcholupy</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Kryšpínova</are:ulice>
+      <are:cisloPop>567</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ONDŘEJ</are:jmeno>
+     <are:prijmeni>ČAPEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2019-02-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23525045</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43003</are:psc>
+      <are:okres>Chomutov</are:okres>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Komenského</are:ulice>
+      <are:cisloPop>4444</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>KUKUČOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-21</are:vznikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
     </are:funkce>
@@ -268,7 +381,34 @@ da společně s dalším členem výboru
      <are:prijmeni>MÚČKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-04-07">
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>42526990</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11101</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dolní Měcholupy</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Kardausova</are:ulice>
+      <are:cisloPop>567</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>TICHÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-21</are:vznikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
     </are:funkce>
@@ -285,8 +425,8 @@ da společně s dalším členem výboru
       <are:cisloPop>567</are:cisloPop>
       <are:cisloOr>8</are:cisloOr>
      </are:adresa>
-     <are:jmeno>ONDŘEJ</are:jmeno>
-     <are:prijmeni>ČAPEK</are:prijmeni>
+     <are:jmeno>LUCIE</are:jmeno>
+     <are:prijmeni>ČERMÁKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

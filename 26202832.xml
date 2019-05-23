@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-02-24T13:13:40"
+odpoved_datum_cas="2019-04-02T11:17:22"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-02-24</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-02-24</are:Datum_vypisu>
-   <are:Cas_vypisu>13:13:40</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:17:22</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -82,7 +82,7 @@ Každý z jednatelů je oprávněn jednat za společnost samostatně v obchodně
 všichni jednatelé společně a ve vzájemné shodě.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2000-10-04">
+   <are:Clen dza="2000-10-04" dvy="2019-03-27">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2000-10-04</are:vznikFunkce>
@@ -101,24 +101,6 @@ všichni jednatelé společně a ve vzájemné shodě.
      <are:prijmeni>Chovanec</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-12-21">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2004-10-25</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22368957</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>18200</are:psc>
-      <are:obec>Praha 8</are:obec>
-      <are:ulice>Taussigova</are:ulice>
-      <are:cisloTxt>1172</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Robert</are:jmeno>
-     <are:prijmeni>Kodym</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2004-12-21" dvy="2014-08-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -135,6 +117,24 @@ všichni jednatelé společně a ve vzájemné shodě.
      </are:adresa>
      <are:jmeno>David</are:jmeno>
      <are:prijmeni>Koller</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-12-21" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-10-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22368957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18200</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Taussigova</are:ulice>
+      <are:cisloTxt>1172</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Kodym</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2013-04-17" dvy="2019-02-22">
@@ -203,40 +203,53 @@ všichni jednatelé společně a ve vzájemné shodě.
      <are:prijmeni>DVOŘÁK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2000-10-04">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-07-30">
+   <are:Clen dza="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2000-10-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22441816</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Horní Počernice</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Jeřická</are:ulice>
+      <are:cisloPop>1240</are:cisloPop>
+      <are:cisloOr>37</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>CHOVANEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-10-25</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22368957</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>18200</are:psc>
-      <are:okres>Praha 8</are:okres>
-      <are:obec>Praha 8</are:obec>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kobylisy</are:castObce>
+      <are:mop>Praha 8</are:mop>
       <are:ulice>Taussigova</are:ulice>
-      <are:cisloTxt>1172</are:cisloTxt>
+      <are:cisloPop>1172</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
      </are:adresa>
-     <are:jmeno>Robert</are:jmeno>
-     <are:prijmeni>Kodym</are:prijmeni>
+     <are:jmeno>ROBERT</are:jmeno>
+     <are:prijmeni>KODYM</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-07-30">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22532081</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>19336</are:psc>
-      <are:okres>Praha 9</are:okres>
-      <are:obec>Praha 9</are:obec>
-      <are:castObce>Újezd nad lesy</are:castObce>
-      <are:ulice>Měšínská</are:ulice>
-      <are:cisloTxt>1636</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Petr</are:jmeno>
-     <are:prijmeni>Chovanec</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-10-04">
+   <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2014-08-01">
     <are:fosoba>
      <are:adresa>
@@ -271,6 +284,42 @@ všichni jednatelé společně a ve vzájemné shodě.
      </are:adresa>
      <are:jmeno>MICHAL</are:jmeno>
      <are:prijmeni>DVOŘÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22368957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kobylisy</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Taussigova</are:ulice>
+      <are:cisloPop>1172</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROBERT</are:jmeno>
+     <are:prijmeni>KODYM</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22441816</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Horní Počernice</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Jeřická</are:ulice>
+      <are:cisloPop>1240</are:cisloPop>
+      <are:cisloOr>37</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>CHOVANEC</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

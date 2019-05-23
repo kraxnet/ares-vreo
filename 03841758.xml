@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-11T23:33:41"
+odpoved_datum_cas="2019-03-22T10:27:53"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
-   <are:Cas_vypisu>23:33:41</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:27:53</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -50,31 +50,6 @@ zvýšit profesní sebeúctu členů spolku a podpořit jejich vzájemnou výmě
 Navenek za Spolek jedná předseda výboru samostatně. V případě uzavírání smluv převyšujících svou hodnotou částku 50.000,- Kč (slovy: padesát tisíc korun českých) jedná za Spolek předseda Výboru  společně s dalším členem Výboru.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2015-03-25">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-03-25</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Člen výboru</are:nazev>
-     <are:vznikFunkce>2015-03-25</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22251332</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>16300</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Řepy</are:castObce>
-      <are:mop>Praha 6</are:mop>
-      <are:ulice>Makovského</are:ulice>
-      <are:cisloPop>1145</are:cisloPop>
-      <are:cisloOr>3</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ADAM</are:jmeno>
-     <are:prijmeni>BORZIČ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2015-03-25" dvy="2017-06-01">
     <are:clenstvi>
      <are:vznikClenstvi>2015-03-25</are:vznikClenstvi>
@@ -178,28 +153,30 @@ Navenek za Spolek jedná předseda výboru samostatně. V případě uzavírán�
      <are:prijmeni>GÖBL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-07-08">
+   <are:Clen dza="2015-03-25" dvy="2019-02-14">
     <are:clenstvi>
-     <are:vznikClenstvi>2016-12-03</are:vznikClenstvi>
+     <are:vznikClenstvi>2015-03-25</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen výboru AS</are:nazev>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2015-03-25</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-08</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>21997837</are:ruianKod>
+      <are:ruianKod>22251332</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>14100</are:psc>
+      <are:psc>16300</are:psc>
       <are:okres>Hlavní město Praha</are:okres>
       <are:obec>Praha</are:obec>
-      <are:castObce>Záběhlice</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Choceradská</are:ulice>
-      <are:cisloPop>3120</are:cisloPop>
-      <are:cisloOr>8</are:cisloOr>
+      <are:castObce>Řepy</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Makovského</are:ulice>
+      <are:cisloPop>1145</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
      </are:adresa>
-     <are:jmeno>ONDŘEJ</are:jmeno>
-     <are:prijmeni>LIPÁR</are:prijmeni>
+     <are:jmeno>ADAM</are:jmeno>
+     <are:prijmeni>BORZIČ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2017-07-08">
@@ -226,13 +203,39 @@ Navenek za Spolek jedná předseda výboru samostatně. V případě uzavírán�
      <are:prijmeni>JANOTA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-07-08">
+   <are:Clen dza="2017-07-08" dvy="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-03</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru AS</are:nazev>
+     <are:zanikFunkce>2018-12-08</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21997837</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Záběhlice</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Choceradská</are:ulice>
+      <are:cisloPop>3120</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ONDŘEJ</are:jmeno>
+     <are:prijmeni>LIPÁR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-08" dvy="2019-02-14">
     <are:clenstvi>
      <are:vznikClenstvi>2016-12-03</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda výboru</are:nazev>
      <are:vznikFunkce>2016-12-03</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-08</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -251,12 +254,13 @@ Navenek za Spolek jedná předseda výboru samostatně. V případě uzavírán�
      <are:prijmeni>KRATOCHVÍL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-07-08">
+   <are:Clen dza="2017-07-08" dvy="2019-02-14">
     <are:clenstvi>
      <are:vznikClenstvi>2016-12-03</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
+     <are:zanikFunkce>2018-12-08</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -271,6 +275,101 @@ Navenek za Spolek jedná předseda výboru samostatně. V případě uzavírán�
      </are:adresa>
      <are:jmeno>LUKÁŠ</are:jmeno>
      <are:prijmeni>VAVREČKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-03</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-12-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21997837</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Záběhlice</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Choceradská</are:ulice>
+      <are:cisloPop>3120</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ONDŘEJ</are:jmeno>
+     <are:prijmeni>LIPÁR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21163677</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28002</are:psc>
+      <are:okres>Kolín</are:okres>
+      <are:obec>Kolín</are:obec>
+      <are:castObce>Kolín II</are:castObce>
+      <are:ulice>Na Magistrále</are:ulice>
+      <are:cisloPop>798</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JONÁŠ</are:jmeno>
+     <are:prijmeni>HÁJEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Členka výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21786381</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloPop>1767</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVANA</are:jmeno>
+     <are:prijmeni>MYŠKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Členka výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25362674</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hostivař</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Štěrboholská</are:ulice>
+      <are:cisloPop>1395</are:cisloPop>
+      <are:cisloOr>30</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVETA</are:jmeno>
+     <are:prijmeni>SVOBODOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -326,6 +425,29 @@ Navenek za Spolek jedná předseda výboru samostatně. V případě uzavírán�
      <are:prijmeni>ZMEŠKAL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-03</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen kontrolního orgánu</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19290802</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Černá Pole</are:castObce>
+      <are:ulice>Drobného</are:ulice>
+      <are:cisloPop>319</are:cisloPop>
+      <are:cisloOr>62</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>NĚMEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="2015-03-25">
    <are:Nazev>Rozhodčí komise</are:Nazev>
@@ -351,6 +473,30 @@ Navenek za Spolek jedná předseda výboru samostatně. V případě uzavírán�
      </are:adresa>
      <are:jmeno>JAN</are:jmeno>
      <are:prijmeni>NĚMEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-11-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen rozhodčí komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21692581</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hradčany</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Gogolova</are:ulice>
+      <are:cisloPop>225</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>MARŠÁLEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

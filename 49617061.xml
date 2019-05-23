@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-18T15:26:09"
+odpoved_datum_cas="2019-03-12T15:46:45"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-18</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-18</are:Datum_vypisu>
-   <are:Cas_vypisu>15:26:09</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:46:45</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -23,30 +23,29 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Sidlo>
     <are:ruianKod>22742697</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>16000</are:psc>
-    <are:obec>Praha 6</are:obec>
-    <are:ulice>Na Okraji</are:ulice>
-    <are:cisloTxt>439/44</are:cisloTxt>
+    <are:psc>16200</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Veleslavín</are:castObce>
+    <are:mop>Praha 6</are:mop>
+    <are:ulice>Na okraji</are:ulice>
+    <are:cisloPop>439</are:cisloPop>
+    <are:cisloOr>44</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1992-09-30</are:DatumZapisu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-nákup a prodej telefonních přístrojů a telekomunikační techniky
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona (v rozsahu oboru živností 1 až 79)
      </are:Text>
      <are:Text>
-montáž a opravy telekomunikačních zařízení s vyjímkou činností
-uvedených v § 3,odst. 2 písm. b) živnostenského zákona
+výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení
      </are:Text>
      <are:Text>
-koupě zboží za účelem jeho dalšího prodeje a prodej
+nákup, prodej a zprostředkování prodeje nemovitostí
      </are:Text>
      <are:Text>
-nákup,prodej a zprostředkování prodeje nemovitostí
-     </are:Text>
-     <are:Text>
-zřizování poboček obchodních společností, družstev a
-participace na nich v tuzemsku i zahraničí
+zřizování poboček obchodních společností, družstev a participace na nich v tuzemsku i zahraničí
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
@@ -60,11 +59,16 @@ mostatně,včetně podpisového práca,tak, že k vytištěnému nebo
 napsanému názvu společnosti připojí svůj vlastnoruční podpis
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2000-05-02">
+   <are:ZpusobJednani dza="2000-05-02" dvy="2019-03-09">
     <are:Text>
 Za společnost jednají a podepisují její jednatelé, a to sa-
 mostatně,včetně podpisového práva,tak, že k vytištěnému nebo
 napsanému názvu společnosti připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-09">
+    <are:Text>
+Jednatel jedná za společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1992-09-30" dvy="1992-10-27">
@@ -201,24 +205,6 @@ napsanému názvu společnosti připojí svůj vlastnoruční podpis.
      <are:prijmeni>Hochman</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2000-05-17">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22197079</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>16000</are:psc>
-      <are:okres>Praha 6</are:okres>
-      <are:obec>Praha 6</are:obec>
-      <are:ulice>Na Kodymce</are:ulice>
-      <are:cisloTxt>1052/37</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Pavel</are:jmeno>
-     <are:prijmeni>Hochman</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2000-05-17" dvy="2002-03-09">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
@@ -277,10 +263,10 @@ napsanému názvu společnosti připojí svůj vlastnoruční podpis.
      <are:prijmeni>Burešová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="1992-09-30">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2002-10-30">
+   <are:Clen dza="2000-05-17" dvy="2019-03-09">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22197079</are:ruianKod>
@@ -295,20 +281,46 @@ napsanému názvu společnosti připojí svůj vlastnoruční podpis.
      <are:prijmeni>Hochman</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-11-29">
+   <are:Clen dza="2019-03-09">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>21812632</are:ruianKod>
+      <are:ruianKod>22197079</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>14000</are:psc>
-      <are:obec>Praha 4</are:obec>
-      <are:castObce>Braník</are:castObce>
-      <are:ulice>U družstva práce</are:ulice>
-      <are:cisloPop>1552</are:cisloPop>
-      <are:cisloOr>2a</are:cisloOr>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dejvice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Na Kodymce</are:ulice>
+      <are:cisloPop>1052</are:cisloPop>
+      <are:cisloOr>37</are:cisloOr>
      </are:adresa>
-     <are:jmeno>Jitka</are:jmeno>
-     <are:prijmeni>Hochmanová</are:prijmeni>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>HOCHMAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-09-30">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2019-03-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22197079</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dejvice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Na Kodymce</are:ulice>
+      <are:cisloPop>1052</are:cisloPop>
+      <are:cisloOr>37</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>HOCHMAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

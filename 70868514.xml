@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T10:01:42"
+odpoved_datum_cas="2019-03-12T15:40:24"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,21 +11,108 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>10:01:42</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:40:25</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>SR</are:Rejstrik>
    <are:ICO>70868514</are:ICO>
-   <are:ObchodniFirma>Taneční škola Puls Přerov</are:ObchodniFirma>
+   <are:ObchodniFirma>Taneční škola Duckbeat z.s.</are:ObchodniFirma>
    <are:Sidlo>
     <are:text>Osmek 11</are:text>
    </are:Sidlo>
    <are:DatumVzniku>2000-08-23</are:DatumVzniku>
    <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Výuka tanečních hodin, výuka moderních stylů tance. Organizování kulturních a sportovních akcí vregionu, blízkém okolí či celé České republice. Realizace tanečních a sportovních kurzů pro děti, juniory, dospělé a seniory. Organizování táborů pro děti a ml
+ádež. Organizování kulturních, sportovních  a osvětových akcí pro děti a mládež jako např. dětské karnevaly, taneční workshopy, vánoční besídky, taneční soutěže, výlety za poznáním, kulturou i sportovní činnosti. Realizace zájezdů dětí a mládeže za účelem
+ reprezentace našeho regionu i práce jednotlivých kurzů jako např. soustředění ktanečním republikovým i zahraničním soutěžím apod.
+Organizování sportovních, kulturních, a osvětových akcí vzájmu vytvoření příznivých podmínek pro činnost dětí a mládeže vdobě jejich volného času. Realizace tanečních multižánrových muzikálů a tanečních projektů.
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
   </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2019-03-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2019-03-06">
+    <are:Text>
+Předseda jedná samostatně
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2019-03-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-10-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2018-10-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10659838</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79806</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Otaslavice</are:obec>
+      <are:castObce>Otaslavice</are:castObce>
+      <are:cisloPop>62</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ALENA</are:jmeno>
+     <are:prijmeni>LANGEROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-10-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2018-10-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11226331</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75002</are:psc>
+      <are:okres>Přerov</are:okres>
+      <are:obec>Přerov</are:obec>
+      <are:castObce>Přerov I-Město</are:castObce>
+      <are:ulice>Sadová</are:ulice>
+      <are:cisloPop>1225</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>KŘIŽKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-10-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25856391</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75117</are:psc>
+      <are:okres>Přerov</are:okres>
+      <are:obec>Horní Moštěnice</are:obec>
+      <are:castObce>Horní Moštěnice</are:castObce>
+      <are:ulice>Revoluční</are:ulice>
+      <are:cisloPop>556</are:cisloPop>
+      <are:cisloOr>57</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTINA</are:jmeno>
+     <are:prijmeni>KRČOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
  </are:Vypis_VREO>
 </are:Odpoved>
 </are:Ares_odpovedi>

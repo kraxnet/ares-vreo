@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-12-16T18:49:09"
+odpoved_datum_cas="2019-03-22T10:24:47"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-12-16</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>18:49:09</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:24:47</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -82,12 +82,21 @@ podepisuje samostatně v rozsahu písemného pověření a podepisují
 tak, že k firmě společnosti připojí svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2004-02-14">
+   <are:ZpusobJednani dza="2004-02-14" dvy="2019-03-13">
     <are:Text>
 Způsob jednání:
 Společnost zastupují vždy dva členové představenstva společně.
 Podepisování:
 Za společnost podepisují společně vždy dva členové představenstva a podepisují tak, že k firmě společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-13">
+    <are:Text>
+Způsob jednání:
+Společnost zastupuje člen představenstva. Za společnost podepisují společně vždy dva členové představenstva, z nichž jeden musí být předseda nebo místopředseda představenstva anebo písemně pověřený člen představenstva tak, že k firmě společnosti připojí s
+vůj podpis.
+Podepisování:
+Za společnost podepisují společně vždy dva členové představenstva a podepisují tak, že k firmě společnosti připojí svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1992-08-19" dvy="1996-03-28">
@@ -547,29 +556,6 @@ Za společnost podepisují společně vždy dva členové představenstva a pod
      <are:prijmeni>HEVR</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-08-12">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-06-28</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>3968022</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>76315</are:psc>
-      <are:okres>Zlín</are:okres>
-      <are:obec>Slušovice</are:obec>
-      <are:castObce>Slušovice</are:castObce>
-      <are:ulice>Dlouhá</are:ulice>
-      <are:cisloPop>162</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>MICHAL</are:jmeno>
-     <are:prijmeni>GREPL</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-08-12" dvy="2017-12-22">
     <are:clenstvi>
      <are:vznikClenstvi>2013-06-12</are:vznikClenstvi>
@@ -591,6 +577,29 @@ Za společnost podepisují společně vždy dva členové představenstva a pod
      </are:adresa>
      <are:jmeno>MIROSLAV</are:jmeno>
      <are:prijmeni>VOJÁČEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-08-12" dvy="2019-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3968022</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76315</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Slušovice</are:obec>
+      <are:castObce>Slušovice</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>162</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>GREPL</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
@@ -641,6 +650,75 @@ Za společnost podepisují společně vždy dva členové představenstva a pod
      <are:jmeno>MIROSLAV</are:jmeno>
      <are:prijmeni>VOJÁČEK</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2019-02-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3968022</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76315</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Slušovice</are:obec>
+      <are:castObce>Slušovice</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>162</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>GREPL</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4209231</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Zlín</are:obec>
+      <are:castObce>Zlín</are:castObce>
+      <are:ulice>Sadová</are:ulice>
+      <are:cisloPop>184</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>ŠVEC</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4185706</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76314</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Zlín</are:obec>
+      <are:castObce>Štípa</are:castObce>
+      <are:ulice>Zámecká</are:ulice>
+      <are:cisloPop>294</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>MLČÁK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -740,26 +818,27 @@ Za společnost podepisují společně vždy dva členové představenstva a pod
      <are:titulPred>JUDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-12-14">
+   <are:Clen dza="2019-03-13">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-01-30</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-02-04</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>4209231</are:ruianKod>
+      <are:ruianKod>4250486</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>76001</are:psc>
+      <are:psc>76005</are:psc>
       <are:okres>Zlín</are:okres>
       <are:obec>Zlín</are:obec>
       <are:castObce>Zlín</are:castObce>
-      <are:ulice>Sadová</are:ulice>
-      <are:cisloPop>184</are:cisloPop>
+      <are:ulice>Slezská</are:ulice>
+      <are:cisloPop>4765</are:cisloPop>
      </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>ŠVEC</are:prijmeni>
+     <are:jmeno>ONDŘEJ</are:jmeno>
+     <are:prijmeni>BENEŠ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

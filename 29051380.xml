@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-18T17:17:54"
+odpoved_datum_cas="2019-03-12T15:44:01"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-16</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-18</are:Datum_vypisu>
-   <are:Cas_vypisu>17:17:54</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:44:01</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>44</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2010-03-12</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-07</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost Resekatek s.r.o. v likvidaci, IČ: 29051380, se sídlem Praha 3-Žižkov, Řehořova 27/44, PSČ 130 00, se ke dni nabytí právní moci usnesení o výmazu, vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 162997. Právní d
+ůvod výmazu: Společnost se vymazává po provedené likvidaci, když likvidátor byl jmenován soudem ze seznamu insolvenčních správců a vydal prohlášení s náležitostmi dle § 82 zákona č. 304/2013 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -41,9 +48,9 @@ pronájem nemovitostí, bytů a nebytových prostor
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2010-03-12">
+  <are:Statutarni_organ dza="2010-03-12" dvy="2019-03-07">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2010-03-12">
+   <are:ZpusobJednani dza="2010-03-12" dvy="2019-03-07">
     <are:Text>
 Každý jednatel za společnost jedná samostatně.
     </are:Text>
@@ -243,215 +250,6 @@ Každý jednatel za společnost jedná samostatně.
      <are:prijmeni>Mykola Hertuskyy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:jmeno>VITALIY</are:jmeno>
-     <are:prijmeni>POVKHAN</are:prijmeni>
-     <are:bydliste>
-      <are:stat>804</are:stat>
-      <are:ulice>Antalovi, Užhorodský okres, Zakarpatská oblast</are:ulice>
-     </are:bydliste>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:jmeno>MYKHAYLO</are:jmeno>
-     <are:prijmeni>POHORILYAK</are:prijmeni>
-     <are:bydliste>
-      <are:stat>804</are:stat>
-      <are:ulice>Šyroke, Vynohradivský okres, Zakarpatská oblast</are:ulice>
-     </are:bydliste>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>498</are:stat>
-      <are:ulice>Menžer, Cotovsk</are:ulice>
-     </are:adresa>
-     <are:jmeno>MARIYA</are:jmeno>
-     <are:prijmeni>TABACARU</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:ulice>Hreblja, Iršavský okres, Zakarpateká oblast</are:ulice>
-     </are:adresa>
-     <are:jmeno>MARYANA</are:jmeno>
-     <are:prijmeni>BILAK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:jmeno>VALERIY</are:jmeno>
-     <are:prijmeni>POYDYN</are:prijmeni>
-     <are:bydliste>
-      <are:stat>804</are:stat>
-      <are:ulice>Zaričča, Iršavský okres, Zakarpatská oblast</are:ulice>
-     </are:bydliste>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:ulice>Bilky, Iršavský okres, Zakarpatská oblast</are:ulice>
-     </are:adresa>
-     <are:jmeno>MARIIA</are:jmeno>
-     <are:prijmeni>BERESH</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:jmeno>VIRA</are:jmeno>
-     <are:prijmeni>SOKOLOVA</are:prijmeni>
-     <are:bydliste>
-      <are:stat>804</are:stat>
-      <are:ulice>Holubne, Svaljavský okres 392, Zakarpatská oblast</are:ulice>
-     </are:bydliste>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>498</are:stat>
-      <are:ulice>Belc, T. Vladimiresku 45/33</are:ulice>
-     </are:adresa>
-     <are:jmeno>DIANA</are:jmeno>
-     <are:prijmeni>SCHIOPU</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22496131</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>19900</are:psc>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Letňany</are:castObce>
-      <are:mop>Praha 9</are:mop>
-      <are:ulice>Tupolevova</are:ulice>
-      <are:cisloPop>471</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>IVAN</are:jmeno>
-     <are:prijmeni>POPDYAKUNYK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:jmeno>VALERIYA</are:jmeno>
-     <are:prijmeni>BIHUN</are:prijmeni>
-     <are:bydliste>
-      <are:stat>804</are:stat>
-      <are:ulice>Chust, Zakarpatská oblast</are:ulice>
-     </are:bydliste>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:jmeno>VASYL</are:jmeno>
-     <are:prijmeni>PYTS</are:prijmeni>
-     <are:bydliste>
-      <are:stat>804</are:stat>
-      <are:ulice>Kamin, Rožnjativský okres, Zakarpatská oblast</are:ulice>
-     </are:bydliste>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:jmeno>YAN</are:jmeno>
-     <are:prijmeni>BIALY</are:prijmeni>
-     <are:bydliste>
-      <are:stat>112</are:stat>
-      <are:ulice>Horodno, Indurskoje šosse 4/8</are:ulice>
-     </are:bydliste>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21790655</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>13000</are:psc>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Žižkov</are:castObce>
-      <are:mop>Praha 3</are:mop>
-      <are:ulice>U kněžské louky</are:ulice>
-      <are:cisloPop>2124</are:cisloPop>
-      <are:cisloOr>53</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MARIYA</are:jmeno>
-     <are:prijmeni>BIHUN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-01-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:ulice>V. Kopanja, Vynohradivský okres, Zakarpatská oblast</are:ulice>
-     </are:adresa>
-     <are:jmeno>MYKOLA</are:jmeno>
-     <are:prijmeni>HERTUSKYY</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-01-25" dvy="2017-04-05">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -473,7 +271,216 @@ Každý jednatel za společnost jedná samostatně.
      <are:prijmeni>PEYTER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-04-05">
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:jmeno>VITALIY</are:jmeno>
+     <are:prijmeni>POVKHAN</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:ulice>Antalovi, Užhorodský okres, Zakarpatská oblast</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:jmeno>MYKHAYLO</are:jmeno>
+     <are:prijmeni>POHORILYAK</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:ulice>Šyroke, Vynohradivský okres, Zakarpatská oblast</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:ulice>Menžer, Cotovsk</are:ulice>
+     </are:adresa>
+     <are:jmeno>MARIYA</are:jmeno>
+     <are:prijmeni>TABACARU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:ulice>Hreblja, Iršavský okres, Zakarpateká oblast</are:ulice>
+     </are:adresa>
+     <are:jmeno>MARYANA</are:jmeno>
+     <are:prijmeni>BILAK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:jmeno>VALERIY</are:jmeno>
+     <are:prijmeni>POYDYN</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:ulice>Zaričča, Iršavský okres, Zakarpatská oblast</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:ulice>Bilky, Iršavský okres, Zakarpatská oblast</are:ulice>
+     </are:adresa>
+     <are:jmeno>MARIIA</are:jmeno>
+     <are:prijmeni>BERESH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:jmeno>VIRA</are:jmeno>
+     <are:prijmeni>SOKOLOVA</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:ulice>Holubne, Svaljavský okres 392, Zakarpatská oblast</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:ulice>Belc, T. Vladimiresku 45/33</are:ulice>
+     </are:adresa>
+     <are:jmeno>DIANA</are:jmeno>
+     <are:prijmeni>SCHIOPU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22496131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19900</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Letňany</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Tupolevova</are:ulice>
+      <are:cisloPop>471</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>POPDYAKUNYK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:jmeno>VALERIYA</are:jmeno>
+     <are:prijmeni>BIHUN</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:ulice>Chust, Zakarpatská oblast</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>PYTS</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:ulice>Kamin, Rožnjativský okres, Zakarpatská oblast</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:jmeno>YAN</are:jmeno>
+     <are:prijmeni>BIALY</are:prijmeni>
+     <are:bydliste>
+      <are:stat>112</are:stat>
+      <are:ulice>Horodno, Indurskoje šosse 4/8</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21790655</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>U kněžské louky</are:ulice>
+      <are:cisloPop>2124</are:cisloPop>
+      <are:cisloOr>53</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARIYA</are:jmeno>
+     <are:prijmeni>BIHUN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:ulice>V. Kopanja, Vynohradivský okres, Zakarpatská oblast</are:ulice>
+     </are:adresa>
+     <are:jmeno>MYKOLA</are:jmeno>
+     <are:prijmeni>HERTUSKYY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-05" dvy="2019-03-07">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-03-12</are:vznikFunkce>
@@ -496,9 +503,9 @@ Každý jednatel za společnost jedná samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2017-12-12">
+  <are:Statutarni_organ dza="2017-12-12" dvy="2019-03-07">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2017-12-12">
+   <are:Clen dza="2017-12-12" dvy="2019-03-07">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21705828</are:ruianKod>
@@ -518,9 +525,9 @@ Každý jednatel za společnost jedná samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2010-03-12">
+  <are:Jiny_organ dza="2010-03-12" dvy="2019-03-07">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2016-01-25">
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
     <are:fosoba>
      <are:jmeno>MYKHAYLO</are:jmeno>
      <are:prijmeni>POHORILYAK</are:prijmeni>
@@ -530,7 +537,7 @@ Každý jednatel za společnost jedná samostatně.
      </are:bydliste>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-01-25">
+   <are:Clen dza="2016-01-25" dvy="2019-03-07">
     <are:fosoba>
      <are:jmeno>VITALIY</are:jmeno>
      <are:prijmeni>POVKHAN</are:prijmeni>

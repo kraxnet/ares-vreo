@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T13:57:47"
+odpoved_datum_cas="2019-04-02T11:39:53"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>13:57:47</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:39:53</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>OR</are:Rejstrik>
    <are:ICO>26331365</are:ICO>
-   <are:ObchodniFirma>CIOSK s.r.o.</are:ObchodniFirma>
+   <are:ObchodniFirma>CIOSK s.r.o. v likvidaci</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>26708477</are:ruianKod>
     <are:stat>203</are:stat>
@@ -77,11 +77,42 @@ společnosti připojí svůj podpis.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>276</are:stat>
       <are:text>934 44 Kötzting, Böhmerwaldstr. 8</are:text>
      </are:adresa>
      <are:prijmeni>Heinrich Siegmund Ciosk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2019-04-01">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2019-04-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24524336</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Doudlevce</are:castObce>
+      <are:ulice>Révová</are:ulice>
+      <are:cisloPop>159</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>ZÁRAZ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+     <are:bydliste>
+      <are:ruianKod>24533696</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Jižní Předměstí</are:castObce>
+      <are:ulice>U Radbuzy</are:ulice>
+      <are:cisloPop>429</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:bydliste>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -90,7 +121,6 @@ společnosti připojí svůj podpis.
    <are:Clen dza="2001-07-12">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>276</are:stat>
       <are:obec>Kötzting</are:obec>
       <are:ulice>Böhmerwaldstr.</are:ulice>

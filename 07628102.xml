@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-18T15:17:12"
+odpoved_datum_cas="2019-03-08T10:30:21"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-18</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-18</are:Datum_vypisu>
-   <are:Cas_vypisu>15:17:12</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-08</are:Datum_vypisu>
+   <are:Cas_vypisu>10:30:21</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -51,10 +51,11 @@ poskytování zdravotních služeb - ambulantní péče v oboru dermatovenerolog
 Jednatel zastupuje společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2018-11-08">
+   <are:Clen dza="2018-11-08" dvy="2019-03-05">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2018-11-08</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-21</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -74,27 +75,50 @@ Jednatel zastupuje společnost samostatně.
      <are:titulPred>MUDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-21</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22215263</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hradčany</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Tychonova</are:ulice>
+      <are:cisloPop>44</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>MACHÁČEK</are:prijmeni>
+     <are:titulPred>PhDr. JUDr.</are:titulPred>
+     <are:titulZa>PhD., LL. M.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2018-11-08">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2018-11-08">
-    <are:fosoba>
+   <are:Clen dza="2019-03-05">
+    <are:posoba>
      <are:adresa>
-      <are:ruianKod>22265601</are:ruianKod>
+      <are:ruianKod>22499661</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>16200</are:psc>
+      <are:psc>19000</are:psc>
       <are:okres>Hlavní město Praha</are:okres>
       <are:obec>Praha</are:obec>
-      <are:castObce>Střešovice</are:castObce>
-      <are:mop>Praha 6</are:mop>
-      <are:ulice>Střešovická</are:ulice>
-      <are:cisloPop>853</are:cisloPop>
-      <are:cisloOr>54</are:cisloOr>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Trojmezní</are:ulice>
+      <are:cisloPop>1537</are:cisloPop>
+      <are:cisloOr>46</are:cisloOr>
      </are:adresa>
-     <are:jmeno>JANA</are:jmeno>
-     <are:prijmeni>PŘÍBAŇOVÁ</are:prijmeni>
-     <are:titulPred>MUDr.</are:titulPred>
-    </are:fosoba>
+     <are:ICO>03937879</are:ICO>
+     <are:ObchodniFirma>BAJARD s.r.o.</are:ObchodniFirma>
+    </are:posoba>
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

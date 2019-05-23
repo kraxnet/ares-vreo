@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T02:05:47"
+odpoved_datum_cas="2019-04-02T11:25:14"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>02:05:47</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:25:14</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -32,6 +32,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>4</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2000-12-18</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Výmaz je proveden v souladu s ustanovením §82/1 z.č. 304/2013Sb. Bezúspěšné prověření možnosti uplatnění neplatnosti nebo neúčinnosti právních jednání právnické osoby. Majetek společnosti nepostačuje ani k úhradě nákladů insolvenčního řízení.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -43,9 +49,9 @@ Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2000-12-18">
+  <are:Statutarni_organ dza="2000-12-18" dvy="2019-03-27">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2000-12-18">
+   <are:ZpusobJednani dza="2000-12-18" dvy="2019-03-27">
     <are:Text>
 Způsob zastupování: za společnost jedná a podepisuje jednatel
 tak, že k napsanému nebo vytištěnému názvu společnosti připojí
@@ -108,7 +114,7 @@ svůj podpis.
      <are:prijmeni>Husták</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-09-08">
+   <are:Clen dza="2015-09-08" dvy="2019-03-27">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2015-09-08</are:vznikFunkce>
@@ -129,7 +135,7 @@ svůj podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2017-06-01">
+  <are:Statutarni_organ dza="2017-06-01" dvy="2019-03-27">
    <are:Nazev>Likvidátor</are:Nazev>
    <are:Clen dza="2017-06-01" dvy="2017-10-26">
     <are:posoba>
@@ -159,7 +165,7 @@ svůj podpis.
      <are:ObchodniFirma>Mgr. Vladimír Turoň</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2017-10-28">
+   <are:Clen dza="2017-10-28" dvy="2019-03-27">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>19196091</are:ruianKod>
@@ -177,9 +183,9 @@ svůj podpis.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2000-12-18">
+  <are:Jiny_organ dza="2000-12-18" dvy="2019-03-27">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-09-08">
+   <are:Clen dza="2015-09-08" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>3573176</are:ruianKod>
@@ -194,7 +200,7 @@ svůj podpis.
      <are:prijmeni>KUBÍK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-09-08">
+   <are:Clen dza="2015-09-08" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>26275732</are:ruianKod>

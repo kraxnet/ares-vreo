@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T23:53:23"
+odpoved_datum_cas="2019-03-27T09:55:59"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>23:53:23</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-27</are:Datum_vypisu>
+   <are:Cas_vypisu>09:55:59</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>OR</are:Rejstrik>
    <are:ICO>47903121</are:ICO>
-   <are:ObchodniFirma>Víno Hrabal s.r.o.</are:ObchodniFirma>
+   <are:ObchodniFirma>Vinařství Hrabalovi s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>10033696</are:ruianKod>
     <are:stat>203</are:stat>
@@ -31,7 +31,7 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona (volná živnost v rozsahu oboru činností 1 až 79)
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
@@ -131,37 +131,16 @@ Za společnost jedná jednatel samostatně.
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1992-12-30">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-02-03">
+   <are:Clen dza="2019-03-25">
     <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>9936866</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69185</are:psc>
-      <are:okres>Břeclav</are:okres>
-      <are:obec>Dolní Dunajovice</are:obec>
-      <are:castObce>Dolní Dunajovice</are:castObce>
-      <are:ulice>Poštovní</are:ulice>
-      <are:cisloPop>169</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>LENKA</are:jmeno>
-     <are:prijmeni>HRABALOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-11-03">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>19561687</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>62500</are:psc>
-      <are:okres>Brno-město</are:okres>
-      <are:obec>Brno</are:obec>
-      <are:castObce>Starý Lískovec</are:castObce>
-      <are:ulice>U pošty</are:ulice>
-      <are:cisloPop>279</are:cisloPop>
-      <are:cisloOr>5</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>TOMÁŠ</are:jmeno>
-     <are:prijmeni>MÁŠA</are:prijmeni>
+     <are:jmeno>LADISLAVA</are:jmeno>
+     <are:prijmeni>MUNDTOVÁ</are:prijmeni>
+     <are:bydliste>
+      <are:stat>40</are:stat>
+      <are:psc>6700</are:psc>
+      <are:obec>Bludenz</are:obec>
+      <are:ulice>Innergasse 18c</are:ulice>
+     </are:bydliste>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

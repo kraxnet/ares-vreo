@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T08:29:32"
+odpoved_datum_cas="2019-04-02T11:27:31"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>08:29:32</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:27:31</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -32,10 +32,19 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>3</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2008-08-27</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-26</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní společnost LG MOTO s.r.o. v likvidaci, se sídlem Hankova 1101/3, Jižní Předměstí 301 00  Plzeň, identifikační číslo 280 31 377 z obchodního rejstříku včetně všech zapsaných údajů. Usnesením Krajského soudu v Plzni č.j. 41 Cm 135/2013
+ 27 ze dne 15. 2. 2019 byla schválena závěrečná zpráva o likvidaci společnosti a na základě této podává likvidátor návrh na výmaz společnosti z obchodního rejstříku, neboť nebyl zjištěn a zajištěn žádný faktický majetek, který by mohl být zpeněžen, konsta
+tuje, že zjištěný majetek je nedostačující i k pokrytí nákladů likvidace. Likvidátor má za to, že byly naplněny zákonné podmínky § 82 zákona č.  304/2013 Sb., o veřejných rejstřících, ve znění pozdějších předpisů. Likvidátor zjistil, že společnost nemá do
+statek majetku ani na úhradu nákladů likvidace. Likvidátor prohlašuje, že bezúspěšně prověřil možnost uplatnit neplatnost nebo neúčinnost právních jednání právnické osoby, a že majetek této osoby nepostačuje ani k úhradě nákladů insolvenčního řízení.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2008-08-27">
+  <are:Statutarni_organ dza="2008-08-27" dvy="2019-03-26">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2008-08-27">
+   <are:ZpusobJednani dza="2008-08-27" dvy="2019-03-26">
     <are:Text>
 Způsob jednání:
 Jednatel je oprávněn jednat jménem společnosti ve všech věcech v plném rozsahu samostatně.
@@ -79,7 +88,7 @@ Jednatel je oprávněn jednat jménem společnosti ve všech věcech v plném r
      <are:prijmeni>Ganobják</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2011-08-05">
+   <are:Clen dza="2011-08-05" dvy="2019-03-26">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2011-07-01</are:vznikFunkce>
@@ -98,9 +107,9 @@ Jednatel je oprávněn jednat jménem společnosti ve všech věcech v plném r
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2017-07-10">
+  <are:Statutarni_organ dza="2017-07-10" dvy="2019-03-26">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2017-07-10">
+   <are:Clen dza="2017-07-10" dvy="2019-03-26">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>24556726</are:ruianKod>
@@ -118,9 +127,9 @@ Jednatel je oprávněn jednat jménem společnosti ve všech věcech v plném r
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2008-08-27">
+  <are:Jiny_organ dza="2008-08-27" dvy="2019-03-26">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2011-08-05">
+   <are:Clen dza="2011-08-05" dvy="2019-03-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>20955600</are:ruianKod>

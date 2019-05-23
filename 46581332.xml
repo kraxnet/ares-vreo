@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T22:14:53"
+odpoved_datum_cas="2019-04-02T11:39:38"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>22:14:53</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:39:38</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,20 +33,7 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-koupě zboží za účelem jeho dalšího prodeje a prodej
-     </are:Text>
-     <are:Text>
-automatizované zpracování dat
-     </are:Text>
-     <are:Text>
-poskytování software - prodej hotových programů na základě
-smlouvy s autory nebo vyhotování programů na zakázku
-     </are:Text>
-     <are:Text>
-zprostředkování prací a služeb
-     </are:Text>
-     <are:Text>
-reklama, propagace a inzerce
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
@@ -59,10 +46,15 @@ Zastupování: Jednatelé zastupují společnost každý samostatně a v
 plném rozsahu.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="1995-08-21">
+   <are:ZpusobJednani dza="1995-08-21" dvy="2019-03-27">
     <are:Text>
 Jednání za společnost: jednatelé jednají jménem společnosti
 každý samostatně a v plném rozsahu.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-27">
+    <are:Text>
+Jednatel zastupuje společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1992-05-18" dvy="2009-09-25">
@@ -71,7 +63,6 @@ každý samostatně a v plném rozsahu.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Ostrava 2</are:obec>
       <are:ulice>J. Brabce</are:ulice>
@@ -88,7 +79,6 @@ každý samostatně a v plném rozsahu.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Ostrava 2</are:obec>
       <are:ulice>G. Píky</are:ulice>
@@ -104,7 +94,6 @@ každý samostatně a v plném rozsahu.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Ostrava - Poruba</are:obec>
       <are:ulice>L. Podéště</are:ulice>
@@ -121,7 +110,6 @@ každý samostatně a v plném rozsahu.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Petřvald u Karviné</are:obec>
       <are:ulice>Na parcelaci</are:ulice>
@@ -129,26 +117,6 @@ každý samostatně a v plném rozsahu.
      </are:adresa>
      <are:jmeno>Ivan</are:jmeno>
      <are:prijmeni>Běhunčík</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-09-25">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>1992-05-18</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>3284395</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>70800</are:psc>
-      <are:obec>Ostrava</are:obec>
-      <are:castObce>Poruba</are:castObce>
-      <are:ulice>Záhumenní</are:ulice>
-      <are:cisloTxt>113/61</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Miroslav</are:jmeno>
-     <are:prijmeni>Fojtík</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
@@ -171,10 +139,12 @@ každý samostatně a v plném rozsahu.
      <are:prijmeni>Bělecká</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="1992-05-18">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2009-09-25">
+   <are:Clen dza="2009-09-25" dvy="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1992-05-18</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-04</are:zanikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>3284395</are:ruianKod>
@@ -190,6 +160,72 @@ každý samostatně a v plném rozsahu.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3232077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>71900</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Kunčice</are:castObce>
+      <are:ulice>Vratimovská</are:ulice>
+      <are:cisloPop>1</are:cisloPop>
+      <are:cisloOr>299</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROMANA</are:jmeno>
+     <are:prijmeni>ZMRZLÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27" dvy="2019-04-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3232077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>71900</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Kunčice</are:castObce>
+      <are:ulice>Vratimovská</are:ulice>
+      <are:cisloPop>1</are:cisloPop>
+      <are:cisloOr>299</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MONIKA</are:jmeno>
+     <are:prijmeni>ČERNOCHOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-04-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3232077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>71900</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Kunčice</are:castObce>
+      <are:ulice>Vratimovská</are:ulice>
+      <are:cisloPop>1</are:cisloPop>
+      <are:cisloOr>299</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MONIKA</are:jmeno>
+     <are:prijmeni>ČERNOCHOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-05-18">
+   <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2009-09-25">
     <are:fosoba>
      <are:adresa>

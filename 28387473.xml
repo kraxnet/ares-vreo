@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T12:14:50"
+odpoved_datum_cas="2019-03-22T10:22:55"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>12:14:50</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:22:55</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>RSVJ</are:Rejstrik>
    <are:ICO>28387473</are:ICO>
-   <are:ObchodniFirma>Vila-dům Michle 1494, společenství vlastníků domu</are:ObchodniFirma>
+   <are:ObchodniFirma>Společenství vlastníků U Plynárny 1494/65a, Praha 4</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>26678951</are:ruianKod>
     <are:stat>203</are:stat>
@@ -30,9 +30,22 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>1494/65a</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2008-05-15</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Zajišťování správy domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2008-05-15">
    <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2019-03-12">
+    <are:Text>
+Předseda výboru nebo místopředseda výboru organizuje, svolává a řídí činnost výboru, organizuje běžnou činnost společenství. Navenek jedná za společenství předseda výboru v souladu s jeho přijetým rozhodnutím, není-li přítomen nebo schopen jednat, pak mís
+topředseda. Jde-li o písemný právní úkon, musí být podepsán předsedou a dalším členem výboru.
+    </are:Text>
+   </are:ZpusobJednani>
    <are:Clen dza="2008-05-15" dvy="2013-06-14">
     <are:clenstvi>
      <are:vznikClenstvi>2008-02-27</are:vznikClenstvi>
@@ -95,9 +108,31 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:prijmeni>Vizinová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-06-14">
+   <are:Clen dza="2013-06-14" dvy="2013-06-27">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15851443</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50351</are:psc>
+      <are:obec>Chlumec nad Cidlinou</are:obec>
+      <are:castObce>Chlumec nad Cidlinou I</are:castObce>
+      <are:ulice>Klicperovo náměstí</are:ulice>
+      <are:cisloPop>110</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ODON</are:jmeno>
+     <are:prijmeni>CELLER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-06-14" dvy="2019-03-12">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-02-28</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>místopředseda</are:nazev>
+     <are:zanikFunkce>2018-02-28</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -113,7 +148,10 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:prijmeni>VIZINOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-06-14">
+   <are:Clen dza="2013-06-14" dvy="2019-03-12">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-02-28</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen</are:nazev>
     </are:funkce>
@@ -131,24 +169,6 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      </are:adresa>
      <are:jmeno>MICHAL</are:jmeno>
      <are:prijmeni>KAZIMOUR</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-06-14" dvy="2013-06-27">
-    <are:funkce>
-     <are:nazev>předseda</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>15851443</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>50351</are:psc>
-      <are:obec>Chlumec nad Cidlinou</are:obec>
-      <are:castObce>Chlumec nad Cidlinou I</are:castObce>
-      <are:ulice>Klicperovo náměstí</are:ulice>
-      <are:cisloPop>110</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ODON</are:jmeno>
-     <are:prijmeni>CELLER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2013-06-27" dvy="2017-07-12">
@@ -172,9 +192,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:prijmeni>CELLER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-07-12">
+   <are:Clen dza="2017-07-12" dvy="2019-03-12">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-02-28</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda</are:nazev>
+     <are:zanikFunkce>2018-02-28</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -191,6 +215,83 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      </are:adresa>
      <are:jmeno>ODON SAMUEL</are:jmeno>
      <are:prijmeni>CELLER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-10-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-12-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26678951</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Michle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>U plynárny</are:ulice>
+      <are:cisloPop>1494</are:cisloPop>
+      <are:cisloOr>65a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ODON SAMUEL</are:jmeno>
+     <are:prijmeni>CELLER</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-10-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2018-12-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26678951</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Michle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>U plynárny</are:ulice>
+      <are:cisloPop>1494</are:cisloPop>
+      <are:cisloOr>65a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>KAZIMOUR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-10-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26678951</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Michle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>U plynárny</are:ulice>
+      <are:cisloPop>1494</are:cisloPop>
+      <are:cisloOr>65a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VOJTECH</are:jmeno>
+     <are:prijmeni>ILKO</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

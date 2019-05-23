@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-05-28T13:17:12"
+odpoved_datum_cas="2019-04-02T11:38:17"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-05-27</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-05-28</are:Datum_vypisu>
-   <are:Cas_vypisu>13:17:12</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:38:17</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>RSVJ</are:Rejstrik>
    <are:ICO>28089413</are:ICO>
-   <are:ObchodniFirma>Společenství vlastníků bytů ve Zdíkově čp. 148, 384 72 Zdíkov</are:ObchodniFirma>
+   <are:ObchodniFirma>Společenství vlastníků Zdíkov 148</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>800147</are:ruianKod>
     <are:stat>203</are:stat>
@@ -32,11 +32,11 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:DatumVzniku>2008-05-20</are:DatumVzniku>
    <are:DatumZapisu>2008-10-15</are:DatumZapisu>
    <are:Cinnosti>
-    <are:PredmetCinnosti>
+    <are:Ucel>
      <are:Text>
 správa domu
      </are:Text>
-    </are:PredmetCinnosti>
+    </are:Ucel>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2008-10-15">
@@ -125,50 +125,6 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:prijmeni>Stehlík</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-12-08">
-    <are:clenstvi>
-     <are:vznikClenstvi>2008-06-16</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>místopředseda výboru</are:nazev>
-     <are:vznikFunkce>2008-06-16</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>815829</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>38473</are:psc>
-      <are:okres>Prachatice</are:okres>
-      <are:obec>Stachy</are:obec>
-      <are:castObce>Stachy</are:castObce>
-      <are:ulice>Sídliště</are:ulice>
-      <are:cisloPop>333</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>MARTIN</are:jmeno>
-     <are:prijmeni>STEHLÍK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-12-08">
-    <are:clenstvi>
-     <are:vznikClenstvi>2008-06-16</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>800147</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>38472</are:psc>
-      <are:okres>Prachatice</are:okres>
-      <are:obec>Zdíkov</are:obec>
-      <are:castObce>Zdíkov</are:castObce>
-      <are:cisloPop>148</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JANA</are:jmeno>
-     <are:prijmeni>KOČOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-12-08" dvy="2018-05-25">
     <are:clenstvi>
      <are:vznikClenstvi>2008-06-16</are:vznikClenstvi>
@@ -191,7 +147,51 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:prijmeni>HADRAVOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-05-25">
+   <are:Clen dza="2016-12-08" dvy="2019-03-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-06-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2008-06-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>815829</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38473</are:psc>
+      <are:okres>Prachatice</are:okres>
+      <are:obec>Stachy</are:obec>
+      <are:castObce>Stachy</are:castObce>
+      <are:ulice>Sídliště</are:ulice>
+      <are:cisloPop>333</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>STEHLÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-08" dvy="2019-03-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-06-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>800147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38472</are:psc>
+      <are:okres>Prachatice</are:okres>
+      <are:obec>Zdíkov</are:obec>
+      <are:castObce>Zdíkov</are:castObce>
+      <are:cisloPop>148</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>KOČOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-05-25" dvy="2019-03-30">
     <are:clenstvi>
      <are:vznikClenstvi>2008-06-16</are:vznikClenstvi>
     </are:clenstvi>
@@ -211,6 +211,49 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      </are:adresa>
      <are:jmeno>MIROSLAVA</are:jmeno>
      <are:prijmeni>HADRAVOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2019-02-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>800147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38472</are:psc>
+      <are:okres>Prachatice</are:okres>
+      <are:obec>Zdíkov</are:obec>
+      <are:castObce>Zdíkov</are:castObce>
+      <are:cisloPop>148</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>LINHART</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>799742</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38472</are:psc>
+      <are:okres>Prachatice</are:okres>
+      <are:obec>Zdíkov</are:obec>
+      <are:castObce>Zdíkov</are:castObce>
+      <are:cisloPop>108</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>HAD</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

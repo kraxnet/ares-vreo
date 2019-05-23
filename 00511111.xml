@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-02-22T11:23:03"
+odpoved_datum_cas="2019-03-18T10:19:10"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
-   <are:Cas_vypisu>11:23:03</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-18</are:Datum_vypisu>
+   <are:Cas_vypisu>10:19:11</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -46,13 +46,15 @@ sdružování zájemců a příznivců sportovního a rekreačního létání
 Jménem aeroklubu jedná předseda předsednictva.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2014-04-09">
+   <are:Clen dza="2014-04-09" dvy="2019-03-15">
     <are:clenstvi>
      <are:vznikClenstvi>2014-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-12-02</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda</are:nazev>
      <are:vznikFunkce>2014-01-01</are:vznikFunkce>
+     <are:zanikFunkce>2017-12-02</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -68,9 +70,10 @@ Jménem aeroklubu jedná předseda předsednictva.
      <are:prijmeni>STRÁSKÝ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-04-09">
+   <are:Clen dza="2014-04-09" dvy="2019-03-15">
     <are:clenstvi>
      <are:vznikClenstvi>2014-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-12-02</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen</are:nazev>
@@ -90,9 +93,10 @@ Jménem aeroklubu jedná předseda předsednictva.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-04-09">
+   <are:Clen dza="2014-04-09" dvy="2019-03-15">
     <are:clenstvi>
      <are:vznikClenstvi>2014-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-12-02</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen</are:nazev>
@@ -109,6 +113,73 @@ Jménem aeroklubu jedná předseda předsednictva.
      </are:adresa>
      <are:jmeno>JAROSLAV</are:jmeno>
      <are:prijmeni>HOLEČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-12-03</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2017-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11830409</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37401</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>Trhové Sviny</are:obec>
+      <are:castObce>Trhové Sviny</are:castObce>
+      <are:ulice>Branka</are:ulice>
+      <are:cisloPop>310</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>STRÁSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-12-03</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8746494</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38232</are:psc>
+      <are:okres>Český Krumlov</are:okres>
+      <are:obec>Velešín</are:obec>
+      <are:castObce>Velešín</are:castObce>
+      <are:ulice>Nádraží</are:ulice>
+      <are:cisloPop>612</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>DIVOKÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-12-03</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19772190</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39181</are:psc>
+      <are:okres>Tábor</are:okres>
+      <are:obec>Sviny</are:obec>
+      <are:castObce>Sviny</are:castObce>
+      <are:cisloPop>28</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>DAVID</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

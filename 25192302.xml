@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T15:58:37"
+odpoved_datum_cas="2019-03-14T12:48:01"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>15:58:37</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:48:01</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -198,7 +198,7 @@ Každý jednatel zastupuje společnost samostatně. Při písemném právním je
      <are:prijmeni>HARTMANN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-08-29">
+   <are:Clen dza="2017-08-29" dvy="2019-03-08">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2012-11-02</are:vznikFunkce>
@@ -214,48 +214,25 @@ Každý jednatel zastupuje společnost samostatně. Při písemném právním je
      <are:prijmeni>REUTER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-11-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>93474</are:psc>
+      <are:obec>Arrach</are:obec>
+      <are:ulice>Birkenstr. 56</are:ulice>
+     </are:adresa>
+     <are:jmeno>PETRA ELISABETH GERTRUD</are:jmeno>
+     <are:prijmeni>REUTER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1999-04-09">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2013-12-04">
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>276</are:stat>
-      <are:psc>94034</are:psc>
-      <are:obec>Passau</are:obec>
-      <are:ulice>Wilhelm-Niedernayerstr.</are:ulice>
-      <are:cisloPop>1</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ISOLDE</are:jmeno>
-     <are:prijmeni>NIDA-RÜMELIN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-04">
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>276</are:stat>
-      <are:psc>94133</are:psc>
-      <are:obec>Röhrnbach</are:obec>
-      <are:ulice>Goldener Steig</are:ulice>
-      <are:cisloOr>6</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>UDO</are:jmeno>
-     <are:prijmeni>HEIMES</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-04">
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>276</are:stat>
-      <are:psc>94133</are:psc>
-      <are:obec>Röhrnbach</are:obec>
-      <are:ulice>Goldener Steig</are:ulice>
-      <are:cisloOr>6</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>EDELTRAUD JOHANNA</are:jmeno>
-     <are:prijmeni>HEIMES</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2013-12-04">
     <are:fosoba>
      <are:adresa>
@@ -298,32 +275,6 @@ Každý jednatel zastupuje společnost samostatně. Při písemném právním je
    <are:Clen dza="2013-12-04">
     <are:fosoba>
      <are:adresa>
-      <are:stat>380</are:stat>
-      <are:psc>39031</are:psc>
-      <are:obec>Bruneck</are:obec>
-      <are:ulice>J. Bachtechnerstrasse 7</are:ulice>
-      <are:cisloOr>7</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>SIGRUN MONIKA</are:jmeno>
-     <are:prijmeni>WAGNER</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-04">
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>380</are:stat>
-      <are:psc>39031</are:psc>
-      <are:obec>Bruneck</are:obec>
-      <are:ulice>J. Bachtechnerstrasse 7</are:ulice>
-      <are:cisloOr>7</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>HERBERT</are:jmeno>
-     <are:prijmeni>PESCOLLER</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-04">
-    <are:fosoba>
-     <are:adresa>
       <are:stat>40</are:stat>
       <are:psc>6290</are:psc>
       <are:obec>Mayrhofen</are:obec>
@@ -356,33 +307,6 @@ Každý jednatel zastupuje společnost samostatně. Při písemném právním je
      <are:prijmeni>HANDELS</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-11-11">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>815438</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>38473</are:psc>
-      <are:obec>Stachy</are:obec>
-      <are:castObce>Stachy</are:castObce>
-      <are:ulice>Říhov</are:ulice>
-      <are:cisloPop>292</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>BRIGITTA</are:jmeno>
-     <are:prijmeni>HARTMANN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-08-29">
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>276</are:stat>
-      <are:psc>94252</are:psc>
-      <are:obec>Bayerisch Eisenstein</are:obec>
-      <are:ulice>Dorfstraße 41</are:ulice>
-     </are:adresa>
-     <are:jmeno>PETRA ELISABETH GERTRUD</are:jmeno>
-     <are:prijmeni>REUTER</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2017-08-29">
     <are:fosoba>
      <are:adresa>
@@ -406,6 +330,46 @@ Každý jednatel zastupuje společnost samostatně. Při písemném právním je
      <are:jmeno>ALAN</are:jmeno>
      <are:prijmeni>LEW</are:prijmeni>
     </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>94234</are:psc>
+      <are:obec>Viechtach</are:obec>
+      <are:ulice>Linsprunstr. 22</are:ulice>
+     </are:adresa>
+     <are:jmeno>EDELTRAUD JOHANNA</are:jmeno>
+     <are:prijmeni>HEIMES</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>93474</are:psc>
+      <are:obec>Arrach</are:obec>
+      <are:ulice>Birkenstr. 56</are:ulice>
+     </are:adresa>
+     <are:jmeno>PETRA ELISABETH GERTRUD</are:jmeno>
+     <are:prijmeni>REUTER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-08">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>815438</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38473</are:psc>
+      <are:okres>Prachatice</are:okres>
+      <are:obec>Stachy</are:obec>
+      <are:castObce>Stachy</are:castObce>
+      <are:ulice>Říhov</are:ulice>
+      <are:cisloPop>292</are:cisloPop>
+     </are:adresa>
+     <are:ICO>06735592</are:ICO>
+     <are:ObchodniFirma>Lighthouse z. s.</are:ObchodniFirma>
+    </are:posoba>
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

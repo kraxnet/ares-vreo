@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-29T17:20:55"
+odpoved_datum_cas="2019-03-27T09:56:09"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-29</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-29</are:Datum_vypisu>
-   <are:Cas_vypisu>17:20:55</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-27</are:Datum_vypisu>
+   <are:Cas_vypisu>09:56:10</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -83,7 +83,10 @@ výroba obchod a služby neuvedené v přílohách 1-3 živnostenského zákona
      <are:prijmeni>Honsová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-12-28">
+   <are:Clen dza="2013-12-28" dvy="2019-03-23">
+    <are:funkce>
+     <are:zanikFunkce>2019-01-31</are:zanikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>20432186</are:ruianKod>
@@ -98,193 +101,31 @@ výroba obchod a služby neuvedené v přílohách 1-3 živnostenského zákona
      <are:prijmeni>HONSOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-23">
+    <are:funkce>
+     <are:vznikFunkce>2019-02-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22281541</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Veleslavín</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Maříkova</are:ulice>
+      <are:cisloPop>187</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARKÉTA</are:jmeno>
+     <are:prijmeni>SOUKUPOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2012-05-16">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>předseda dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>27324494</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>70800</are:psc>
-      <are:obec>Ostrava</are:obec>
-      <are:castObce>Poruba</are:castObce>
-      <are:ulice>U Soudu</are:ulice>
-      <are:cisloPop>6199</are:cisloPop>
-      <are:cisloOr>21</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>SOŇA</are:jmeno>
-     <are:prijmeni>ADAMCOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>3281531</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>70030</are:psc>
-      <are:obec>Ostrava</are:obec>
-      <are:castObce>Zábřeh</are:castObce>
-      <are:ulice>Horymírova</are:ulice>
-      <are:cisloPop>2970</are:cisloPop>
-      <are:cisloOr>8</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>LUCIE</are:jmeno>
-     <are:prijmeni>ADÁMKOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>4304004</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74762</are:psc>
-      <are:obec>Mokré Lazce</are:obec>
-      <are:castObce>Mokré Lazce</are:castObce>
-      <are:ulice>Generála Vlachého</are:ulice>
-      <are:cisloPop>184</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>HANA</are:jmeno>
-     <are:prijmeni>HALFAROVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>3336166</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>70900</are:psc>
-      <are:obec>Ostrava</are:obec>
-      <are:castObce>Nová Ves</are:castObce>
-      <are:ulice>Mendělejevova</are:ulice>
-      <are:cisloPop>182</are:cisloPop>
-      <are:cisloOr>10</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>JANA</are:jmeno>
-     <are:prijmeni>KUBOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>28094107</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74282</are:psc>
-      <are:obec>Jistebník</are:obec>
-      <are:castObce>Jistebník</are:castObce>
-      <are:cisloPop>484</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ILONA</are:jmeno>
-     <are:prijmeni>LÖVYOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>26111616</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73911</are:psc>
-      <are:obec>Malenovice</are:obec>
-      <are:castObce>Malenovice</are:castObce>
-      <are:cisloPop>220</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ZDENĚK</are:jmeno>
-     <are:prijmeni>CHLOPČÍK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>4474104</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74706</are:psc>
-      <are:obec>Opava</are:obec>
-      <are:castObce>Podvihov</are:castObce>
-      <are:ulice>Na Nové</are:ulice>
-      <are:cisloPop>124</are:cisloPop>
-      <are:cisloOr>17</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ROMAN</are:jmeno>
-     <are:prijmeni>PAVLÍK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>27343715</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>78373</are:psc>
-      <are:obec>Grygov</are:obec>
-      <are:castObce>Grygov</are:castObce>
-      <are:ulice>Zahradní</are:ulice>
-      <are:cisloPop>414</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PAVEL</are:jmeno>
-     <are:prijmeni>PEKAŘ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>3237362</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>70030</are:psc>
-      <are:obec>Ostrava</are:obec>
-      <are:castObce>Dubina</are:castObce>
-      <are:ulice>Jana Maluchy</are:ulice>
-      <are:cisloPop>127</are:cisloPop>
-      <are:cisloOr>9</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>TOMÁŠ</are:jmeno>
-     <are:prijmeni>POLOCH</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>10254285</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>76701</are:psc>
-      <are:obec>Kroměříž</are:obec>
-      <are:castObce>Vážany</are:castObce>
-      <are:ulice>Osvoboditelů</are:ulice>
-      <are:cisloPop>98</are:cisloPop>
-      <are:cisloOr>72</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ROMAN</are:jmeno>
-     <are:prijmeni>POSOLDA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2013-12-28">
     <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
@@ -304,122 +145,58 @@ výroba obchod a služby neuvedené v přílohách 1-3 živnostenského zákona
      <are:prijmeni>SLANINA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-12-28">
+   <are:Clen dza="2019-03-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-28</are:vznikClenstvi>
+    </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
+     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2019-01-28</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3288226</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>70800</are:psc>
-      <are:obec>Ostrava</are:obec>
-      <are:castObce>Poruba</are:castObce>
-      <are:ulice>U Oblouku</are:ulice>
-      <are:cisloPop>500</are:cisloPop>
-      <are:cisloOr>12</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MICHAL</are:jmeno>
-     <are:prijmeni>UNZEITIG</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-09-16">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>75008033</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>72000</are:psc>
-      <are:okres>Ostrava-město</are:okres>
-      <are:obec>Ostrava</are:obec>
-      <are:castObce>Hrabová</are:castObce>
-      <are:ulice>Na Hurtě</are:ulice>
-      <are:cisloPop>1035</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>LUDĚK</are:jmeno>
-     <are:prijmeni>POLOCH</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2018-04-20">
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>3248259</are:ruianKod>
+      <are:ruianKod>3236897</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>70030</are:psc>
       <are:okres>Ostrava-město</are:okres>
       <are:obec>Ostrava</are:obec>
-      <are:castObce>Hrabůvka</are:castObce>
-      <are:ulice>Úlehlova</are:ulice>
-      <are:cisloPop>1117</are:cisloPop>
-      <are:cisloOr>3</are:cisloOr>
+      <are:castObce>Dubina</are:castObce>
+      <are:ulice>Jaroslava Misky</are:ulice>
+      <are:cisloPop>76</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
      </are:adresa>
-     <are:jmeno>MIROSLAV</are:jmeno>
-     <are:prijmeni>FIALA</are:prijmeni>
+     <are:jmeno>DANIEL</are:jmeno>
+     <are:prijmeni>GRIMM</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27324494</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>U Soudu</are:ulice>
+      <are:cisloPop>6199</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>SOŇA</are:jmeno>
+     <are:prijmeni>ADAMCOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="2012-05-16">
    <are:Nazev>Správní rada</are:Nazev>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>28225481</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73911</are:psc>
-      <are:obec>Janovice</are:obec>
-      <are:castObce>Janovice</are:castObce>
-      <are:cisloPop>659</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>GABRIELA</are:jmeno>
-     <are:prijmeni>MILOTOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23306092</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>77900</are:psc>
-      <are:obec>Olomouc</are:obec>
-      <are:castObce>Nová Ulice</are:castObce>
-      <are:ulice>Dobnerova</are:ulice>
-      <are:cisloPop>524</are:cisloPop>
-      <are:cisloOr>9</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MARTIN</are:jmeno>
-     <are:prijmeni>LOUČKA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-12-28">
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>4479891</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74601</are:psc>
-      <are:obec>Opava</are:obec>
-      <are:castObce>Zlatníky</are:castObce>
-      <are:ulice>6. května</are:ulice>
-      <are:cisloPop>41</are:cisloPop>
-      <are:cisloOr>13</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>VÍTĚZSLAV</are:jmeno>
-     <are:prijmeni>ŘEHULKA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2017-06-23">
     <are:funkce>
      <are:nazev>předseda správní rady</are:nazev>
@@ -436,24 +213,6 @@ výroba obchod a služby neuvedené v přílohách 1-3 živnostenského zákona
      </are:adresa>
      <are:jmeno>RICHARD</are:jmeno>
      <are:prijmeni>GAZDA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-06-23">
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>17112028</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>75656</are:psc>
-      <are:okres>Vsetín</are:okres>
-      <are:obec>Prostřední Bečva</are:obec>
-      <are:castObce>Prostřední Bečva</are:castObce>
-      <are:cisloPop>71</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>DAGMAR</are:jmeno>
-     <are:prijmeni>STODŮLKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2018-08-04">
@@ -474,6 +233,29 @@ výroba obchod a služby neuvedené v přílohách 1-3 živnostenského zákona
      </are:adresa>
      <are:jmeno>JIŘÍ</are:jmeno>
      <are:prijmeni>STEJSKALÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8384002</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74101</are:psc>
+      <are:okres>Nový Jičín</are:okres>
+      <are:obec>Nový Jičín</are:obec>
+      <are:castObce>Nový Jičín</are:castObce>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloPop>271</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KATRIN</are:jmeno>
+     <are:prijmeni>HANÁKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

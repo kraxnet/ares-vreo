@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-08-06T11:05:52"
+odpoved_datum_cas="2019-04-02T11:28:27"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-08-02</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-08-06</are:Datum_vypisu>
-   <are:Cas_vypisu>11:05:52</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:28:27</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -259,22 +259,6 @@ Za společnost jednají vždy dva jednatelé společně.
      <are:prijmeni>TEPASS</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-11-28">
-    <are:funkce>
-     <are:nazev>Jednatel</are:nazev>
-     <are:vznikFunkce>2014-11-05</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>276</are:stat>
-      <are:psc>40223</are:psc>
-      <are:obec>Düsseldorf</are:obec>
-      <are:ulice>Suitbertusstrasse 45</are:ulice>
-     </are:adresa>
-     <are:jmeno>YVONNE CHRISTIN</are:jmeno>
-     <are:prijmeni>BERGKESSEL</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-11-28" dvy="2017-07-17">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
@@ -292,6 +276,22 @@ Za společnost jednají vždy dva jednatelé společně.
      <are:prijmeni>LUDWIG</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2014-11-28" dvy="2019-03-28">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2014-11-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>40223</are:psc>
+      <are:obec>Düsseldorf</are:obec>
+      <are:ulice>Suitbertusstrasse 45</are:ulice>
+     </are:adresa>
+     <are:jmeno>YVONNE CHRISTIN</are:jmeno>
+     <are:prijmeni>BERGKESSEL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
    <are:Clen dza="2016-12-23">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
@@ -306,6 +306,22 @@ Za společnost jednají vždy dva jednatelé společně.
      </are:adresa>
      <are:jmeno>HENDRIK</are:jmeno>
      <are:prijmeni>VOIGT</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-28">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2014-11-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>40223</are:psc>
+      <are:obec>Düsseldorf</are:obec>
+      <are:ulice>Martinstrasse 57</are:ulice>
+     </are:adresa>
+     <are:jmeno>YVONNE CHRISTIN</are:jmeno>
+     <are:prijmeni>BERGKESSEL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

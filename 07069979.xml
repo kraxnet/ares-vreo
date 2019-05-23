@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-02-22T11:15:15"
+odpoved_datum_cas="2019-04-08T11:04:49"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
-   <are:Cas_vypisu>11:15:15</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-08</are:Datum_vypisu>
+   <are:Cas_vypisu>11:04:49</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -44,32 +44,18 @@ Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2018-04-24">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2018-04-24">
+   <are:ZpusobJednani dza="2018-04-24" dvy="2019-04-03">
     <are:Text>
 Jednatel pan August Erwin Braun zastupuje společnost samostatně. Jednatel pan Ing. Jaroslav Hampl zastupuje společnost vždy společně s jednatelem panem Augustem Erwinem Braunem nebo s jednatelem panem Lubošem Vaněčkem. Jednatel pan Luboš Vaněček zastupuje
  společnost vždy společně s jednatelem panem Augustem Erwinem Braunem nebo s jednatelem panem Ing. Jaroslavem Hamplem.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2018-04-24">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2018-04-24</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>72676027</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>37011</are:psc>
-      <are:okres>České Budějovice</are:okres>
-      <are:obec>České Budějovice</are:obec>
-      <are:castObce>České Budějovice 2</are:castObce>
-      <are:ulice>České Vrbné</are:ulice>
-      <are:cisloPop>2390</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>AUGUST ERWIN</are:jmeno>
-     <are:prijmeni>BRAUN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
+   <are:ZpusobJednani dza="2019-04-03">
+    <are:Text>
+V záležitostech, jejichž předmětem je plnění převyšující 200 000,-- Kč nebo zcizování nemovitého majetku, zastupují společnost vždy jednatelé společně. V ostatních záležitostech může společnost zastupovat jednatel Ing. Jaroslav Hampl, narozený 15. října 1
+977, bytem Na Vyhlídce 509, 385 41 Kaplice, samostatně. Jednatel Ing. Jan Horník, narozený 19. července 1991, bytem České Budějovice, České Budějovice 2, Bezdrevská 1150/17, zastupuje společnost vždy s  jednatelem Ing. Jaroslavem Hamplem společně.
+    </are:Text>
+   </are:ZpusobJednani>
    <are:Clen dza="2018-04-24">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -91,10 +77,32 @@ Jednatel pan August Erwin Braun zastupuje společnost samostatně. Jednatel pan 
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-04-24">
+   <are:Clen dza="2018-04-24" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2018-04-24</are:vznikFunkce>
+     <are:zanikFunkce>2019-04-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>72676027</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37011</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 2</are:castObce>
+      <are:ulice>České Vrbné</are:ulice>
+      <are:cisloPop>2390</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>AUGUST ERWIN</are:jmeno>
+     <are:prijmeni>BRAUN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-24" dvy="2019-04-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2018-04-24</are:vznikFunkce>
+     <are:zanikFunkce>2019-04-03</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -108,6 +116,28 @@ Jednatel pan August Erwin Braun zastupuje společnost samostatně. Jednatel pan 
      </are:adresa>
      <are:jmeno>LUBOŠ</are:jmeno>
      <are:prijmeni>VANĚČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-04-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-04-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23353601</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37011</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 2</are:castObce>
+      <are:ulice>Bezdrevská</are:ulice>
+      <are:cisloPop>1150</are:cisloPop>
+      <are:cisloOr>17</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>HORNÍK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

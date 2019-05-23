@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-08-17T13:24:14"
+odpoved_datum_cas="2019-03-14T12:43:37"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-08-17</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-08-17</are:Datum_vypisu>
-   <are:Cas_vypisu>13:24:14</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:43:37</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -30,6 +30,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloPop>87</are:cisloPop>
    </are:Sidlo>
    <are:DatumZapisu>2010-10-08</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-13</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost DAMO INVEST a.s. v likvidaci se sídlem č.p. 87, 273 71  Dřínov, IČO: 247 46 355, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze,oddíl B, vložka 16542. Právním důvodem výmazu je vý
+maz obchodní společnosti na základě ustanovení § 82 odst. 1 zákona č. 304/2013 Sb. o veřejných rejstřících právnických a fyzických osob.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetCinnosti>
      <are:Text>
@@ -38,14 +45,14 @@ pronájem nemovitostí, bytů a nebytových prostor
     </are:PredmetCinnosti>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2010-10-08">
+  <are:Statutarni_organ dza="2010-10-08" dvy="2019-03-13">
    <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
    <are:ZpusobJednani dza="2010-10-08" dvy="2011-03-21">
     <are:Text>
 Jménem společnosti jedná a společnost zavazuje každý člen představenstva samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2011-03-21">
+   <are:ZpusobJednani dza="2011-03-21" dvy="2019-03-13">
     <are:Text>
 Jménem společnosti jedná představenstvo. Za představenstvo jedná každý člen představenstva samostatně.
     </are:Text>
@@ -186,29 +193,6 @@ Jménem společnosti jedná představenstvo. Za představenstvo jedná každý �
      <are:prijmeni>LAŠTOVKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-05-17">
-    <are:clenstvi>
-     <are:vznikClenstvi>2011-01-17</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>18327991</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>29001</are:psc>
-      <are:okres>Nymburk</are:okres>
-      <are:obec>Poděbrady</are:obec>
-      <are:castObce>Poděbrady I</are:castObce>
-      <are:ulice>Jiřího náměstí</are:ulice>
-      <are:cisloPop>20</are:cisloPop>
-      <are:cisloOr>1</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ALEŠ</are:jmeno>
-     <are:prijmeni>FRÁTER</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-05-17" dvy="2017-03-20">
     <are:clenstvi>
      <are:vznikClenstvi>2011-01-17</are:vznikClenstvi>
@@ -233,7 +217,30 @@ Jménem společnosti jedná představenstvo. Za představenstvo jedná každý �
      <are:prijmeni>LAŠTOVKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-20">
+   <are:Clen dza="2016-05-17" dvy="2019-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-01-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18327991</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29001</are:psc>
+      <are:okres>Nymburk</are:okres>
+      <are:obec>Poděbrady</are:obec>
+      <are:castObce>Poděbrady I</are:castObce>
+      <are:ulice>Jiřího náměstí</are:ulice>
+      <are:cisloPop>20</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ALEŠ</are:jmeno>
+     <are:prijmeni>FRÁTER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-03-20" dvy="2019-03-13">
     <are:clenstvi>
      <are:vznikClenstvi>2011-01-17</are:vznikClenstvi>
     </are:clenstvi>
@@ -258,7 +265,7 @@ Jménem společnosti jedná představenstvo. Za představenstvo jedná každý �
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2016-12-19">
+  <are:Statutarni_organ dza="2016-12-19" dvy="2019-03-13">
    <are:Nazev>Likvidátor</are:Nazev>
    <are:Clen dza="2016-12-19" dvy="2018-08-10">
     <are:posoba>
@@ -278,7 +285,7 @@ Jménem společnosti jedná představenstvo. Za představenstvo jedná každý �
      <are:ObchodniFirma>Tomko a partneři, v.o.s.</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2018-08-10">
+   <are:Clen dza="2018-08-10" dvy="2019-03-13">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>21762058</are:ruianKod>
@@ -297,9 +304,9 @@ Jménem společnosti jedná představenstvo. Za představenstvo jedná každý �
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2010-10-08">
+  <are:Jiny_organ dza="2010-10-08" dvy="2019-03-13">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2016-05-17">
+   <are:Clen dza="2016-05-17" dvy="2019-03-13">
     <are:clenstvi>
      <are:vznikClenstvi>2011-01-17</are:vznikClenstvi>
     </are:clenstvi>
@@ -324,7 +331,7 @@ Jménem společnosti jedná představenstvo. Za představenstvo jedná každý �
      <are:prijmeni>TICHÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-05-17">
+   <are:Clen dza="2016-05-17" dvy="2019-03-13">
     <are:clenstvi>
      <are:vznikClenstvi>2011-01-17</are:vznikClenstvi>
     </are:clenstvi>
@@ -345,7 +352,7 @@ Jménem společnosti jedná představenstvo. Za představenstvo jedná každý �
      <are:prijmeni>VESELÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-05-17">
+   <are:Clen dza="2016-05-17" dvy="2019-03-13">
     <are:clenstvi>
      <are:vznikClenstvi>2011-01-17</are:vznikClenstvi>
     </are:clenstvi>

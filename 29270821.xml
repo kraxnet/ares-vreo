@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-12-03T09:09:58"
+odpoved_datum_cas="2019-04-03T12:05:04"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-12-03</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-12-03</are:Datum_vypisu>
-   <are:Cas_vypisu>09:09:58</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-03</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-03</are:Datum_vypisu>
+   <are:Cas_vypisu>12:05:04</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,8 +33,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>42</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2011-04-01</are:DatumZapisu>
+   <are:DatumVymazu>2019-04-02</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost Gedel international company s.r.o. v likvidaci, se sídlem Kubelíkova 1224/42, Žižkov, 130 00 Praha 3, IČ: 292 70 821 se vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 240977. Právním důvodem výmazu je ukončení
+ likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2011-04-01">
+  <are:Statutarni_organ dza="2011-04-01" dvy="2019-04-02">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2011-04-01" dvy="2012-06-19">
     <are:Text>
@@ -46,7 +53,7 @@ Způsob jednání: Jménem společnosti jedná a podepisuje jednatel samostatn�
 Jménem společnosti jedná jednatel samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-12-05">
+   <are:ZpusobJednani dza="2014-12-05" dvy="2019-04-02">
     <are:Text>
 Za společnost jedná jednatel samostatně. Podepisování za společnost se děje tak, že k předepsané nebo předtištěné obchodní firmě společnosti připojí jednatel svůj podpis.
     </are:Text>
@@ -109,7 +116,7 @@ Za společnost jedná jednatel samostatně. Podepisování za společnost se dě
      <are:prijmeni>HORÁČEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-12-05">
+   <are:Clen dza="2014-12-05" dvy="2019-04-02">
     <are:funkce>
      <are:vznikFunkce>2014-08-28</are:vznikFunkce>
     </are:funkce>
@@ -124,9 +131,9 @@ Za společnost jedná jednatel samostatně. Podepisování za společnost se dě
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-11-28">
+  <are:Statutarni_organ dza="2018-11-28" dvy="2019-04-02">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-11-28">
+   <are:Clen dza="2018-11-28" dvy="2019-04-02">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>14078511</are:ruianKod>
@@ -146,9 +153,9 @@ Za společnost jedná jednatel samostatně. Podepisování za společnost se dě
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2011-04-01">
+  <are:Jiny_organ dza="2011-04-01" dvy="2019-04-02">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-12-05">
+   <are:Clen dza="2014-12-05" dvy="2019-04-02">
     <are:fosoba>
      <are:adresa>
       <are:stat>288</are:stat>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-02-04T12:54:22"
+odpoved_datum_cas="2019-04-02T11:17:02"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-02-04</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-02-04</are:Datum_vypisu>
-   <are:Cas_vypisu>12:54:22</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:17:02</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -28,15 +28,21 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>13 č.p.1425</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2004-09-29</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost BODIK 5, s.r.o. v likvidaci, se sídlem Praha 4, Kloboučnická 13 č.p.1425, IČ: 271 84 048 z obchodního rejstříku. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2004-09-29">
+  <are:Statutarni_organ dza="2004-09-29" dvy="2019-03-27">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2004-09-29">
+   <are:ZpusobJednani dza="2004-09-29" dvy="2019-03-27">
     <are:Text>
 Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel se bude za společnost podepisovat tak, že k napsané či natištěné firmě společnosti připojí svůj vlastnoruční podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2004-09-29</are:vznikFunkce>
@@ -54,9 +60,9 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-05-31">
+  <are:Statutarni_organ dza="2018-05-31" dvy="2019-03-27">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-05-31">
+   <are:Clen dza="2018-05-31" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21704945</are:ruianKod>
@@ -76,9 +82,9 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2004-09-29">
+  <are:Jiny_organ dza="2004-09-29" dvy="2019-03-27">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Zakarpatská oblast, Rachivský okres, Roztoky 670</are:text>
@@ -87,7 +93,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Karplyuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Zakarpatská oblast, Rachivský okres, Bilyn 457</are:text>
@@ -96,7 +102,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Pidmalivskyy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Ivano-Frankivská oblast, Dolynský okres, Verchnij Strutyn</are:text>
@@ -105,7 +111,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Taras</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Ternopilská oblast, Husjatynský okres, Chorostkiv 75</are:text>
@@ -114,7 +120,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Shubala</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Zakarpatská oblast, Iršavský okres, Nehrovo</are:text>
@@ -123,7 +129,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Ohar</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Zakarpatská oblast, Tjačivský okres, Hurevo</are:text>
@@ -132,7 +138,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Hulyayeva</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Moldávie, Lazovský okres, Aleksandryna</are:text>
@@ -141,7 +147,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Groza</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Zakarpatská oblast, Mižhirja</are:text>
@@ -150,7 +156,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Hrymut</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Lviv,Ul. Plužkina 519</are:text>
@@ -159,7 +165,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Saran</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Zakarpatská oblast, Mukačivský okres, Davydkovo</are:text>
@@ -168,7 +174,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Skyba</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Zakarpatská oblast, Iršavský okres, Pidhirne</are:text>
@@ -177,7 +183,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Kopyn</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Vinnycja, Ul. Ratušnoji 130</are:text>
@@ -186,7 +192,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Shevchuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Zakarpatská oblast, Chustský okres, Rokosovo 5</are:text>
@@ -195,7 +201,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Shyposh</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Lvivská oblast, Boryslav, ul. Danyla Halyckoho 6/17</are:text>
@@ -204,7 +210,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Vasylyak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Lvivská oblast, Boryslav, ul. Ševčenka 20/29</are:text>
@@ -213,7 +219,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Urushchak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Lvivská oblast, Sambirský okres, Vykoty, Chmelnyckoho 23</are:text>
@@ -222,7 +228,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Petryk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Lvivská oblast, Sambir, ul. Ševčenka 72/16,</are:text>
@@ -231,7 +237,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Mysko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Čerkasy, Ul. Kalinina 11/2</are:text>
@@ -240,7 +246,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Babiy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Ivano-Frankivská oblast, Roznjativský okres, Ilemnja</are:text>
@@ -249,7 +255,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Gutak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Ivano-Frankivská oblast, Roznjitivský okres, Ilemnja</are:text>
@@ -258,7 +264,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Gutak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Lvivská oblast, Sambirský okres, V. Sučycja</are:text>
@@ -267,7 +273,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Zaritskyy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Ivano-Frankivská oblast, Kaluš, Lytvyna 7/61</are:text>
@@ -276,7 +282,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Grygoriv</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Ivano-Frankivská oblast, Kalušský okres, Kadobna</are:text>
@@ -285,7 +291,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Kazhuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Iva-Frankivská oblast, Kalušský okres, Kadobna, ul. Ivana-Franka 221</are:text>
@@ -294,7 +300,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Lazoryshyn</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Ivano-Frankivská oblast, Kalušský okres, Holyn</are:text>
@@ -303,7 +309,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Grytsak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Ivano-Frankivská oblast, Kalušský okres, Kropivnyk</are:text>
@@ -312,7 +318,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Popovych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>25735365</are:ruianKod>
@@ -324,7 +330,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Savko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-09-29">
+   <are:Clen dza="2004-09-29" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:text>Ukrajina, Ivano-Frankivská oblast, Kaluš, Hoholja 4</are:text>
@@ -333,7 +339,7 @@ Jednatel společnosti je oprávněn jednat za společnost samostatně. Jednatel 
      <are:prijmeni>Sondey</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2019-01-30">
+   <are:Clen dza="2019-01-30" dvy="2019-03-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>8766410</are:ruianKod>

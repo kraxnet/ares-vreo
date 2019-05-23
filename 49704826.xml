@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T02:06:55"
+odpoved_datum_cas="2019-03-22T10:40:05"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>02:06:55</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:40:05</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -52,7 +52,6 @@ z jednatelů svůj vlastnoruční podpis.
    <are:Clen dza="1993-08-19" dvy="1997-10-27">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Lysá n/L</are:obec>
       <are:ulice>Sídliště 1491</are:ulice>
@@ -68,7 +67,6 @@ z jednatelů svůj vlastnoruční podpis.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Praha 9 - Horní Počernice</are:obec>
       <are:ulice>Mezilesí 2063</are:ulice>
@@ -83,7 +81,6 @@ z jednatelů svůj vlastnoruční podpis.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Praha 8 - Ďáblice</are:obec>
       <are:ulice>Šenovská 700/47</are:ulice>
@@ -131,7 +128,7 @@ z jednatelů svůj vlastnoruční podpis.
      <are:prijmeni>REZEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-10-13">
+   <are:Clen dza="2014-10-13" dvy="2019-03-21">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
     </are:funkce>
@@ -147,6 +144,28 @@ z jednatelů svůj vlastnoruční podpis.
       <are:ulice>Kpt. Stránského</are:ulice>
       <are:cisloPop>959</are:cisloPop>
       <are:cisloOr>39</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>TOMÁŠ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22436570</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Horní Počernice</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Náchodská</are:ulice>
+      <are:cisloPop>708</are:cisloPop>
+      <are:cisloOr>79</are:cisloOr>
      </are:adresa>
      <are:jmeno>PAVEL</are:jmeno>
      <are:prijmeni>TOMÁŠ</are:prijmeni>
@@ -174,19 +193,19 @@ z jednatelů svůj vlastnoruční podpis.
      <are:prijmeni>REZEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-10-13">
+   <are:Clen dza="2019-03-21">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>22692622</are:ruianKod>
+      <are:ruianKod>22436570</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>19800</are:psc>
+      <are:psc>19300</are:psc>
       <are:okres>Hlavní město Praha</are:okres>
       <are:obec>Praha</are:obec>
-      <are:castObce>Černý Most</are:castObce>
+      <are:castObce>Horní Počernice</are:castObce>
       <are:mop>Praha 9</are:mop>
-      <are:ulice>Kpt. Stránského</are:ulice>
-      <are:cisloPop>959</are:cisloPop>
-      <are:cisloOr>39</are:cisloOr>
+      <are:ulice>Náchodská</are:ulice>
+      <are:cisloPop>708</are:cisloPop>
+      <are:cisloOr>79</are:cisloOr>
      </are:adresa>
      <are:jmeno>PAVEL</are:jmeno>
      <are:prijmeni>TOMÁŠ</are:prijmeni>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-31T15:34:24"
+odpoved_datum_cas="2019-03-14T12:39:06"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-31</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-31</are:Datum_vypisu>
-   <are:Cas_vypisu>15:34:24</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:39:06</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -31,6 +31,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloPop>88</are:cisloPop>
    </are:Sidlo>
    <are:DatumZapisu>2001-07-27</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-12</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se dle ust. § 82 zák. č. 304/2013 po ukončené likvidaci ke dni nabytí právní moci tohoto usnesení z veřejného rejstříku společnost FRUNZE PLUS s.r.o. v likvidaci, IČO 260 37 696, sídlem náměstí Míru 88, 375 01 Týn nad Vltavou, včetně všech zapsan
+ých skutečností.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -48,16 +55,16 @@ výroba textilního zboží (kromě oděvů a oděvních doplňků)
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2001-07-27">
+  <are:Statutarni_organ dza="2001-07-27" dvy="2019-03-12">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2001-07-27">
+   <are:ZpusobJednani dza="2001-07-27" dvy="2019-03-12">
     <are:Text>
 Jednatel jedná jménem společnosti navenek samostatně a
 podepisuje se tak, že k nadepsanému nebo k natištěnému
 obchodnímu jménu společnosti připojí svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2001-07-27</are:vznikFunkce>
@@ -72,9 +79,9 @@ obchodnímu jménu společnosti připojí svůj podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2013-11-25">
+  <are:Statutarni_organ dza="2013-11-25" dvy="2019-03-12">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2013-11-25">
+   <are:Clen dza="2013-11-25" dvy="2019-03-12">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>8994781</are:ruianKod>
@@ -90,9 +97,9 @@ obchodnímu jménu společnosti připojí svůj podpis.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2001-07-27">
+  <are:Jiny_organ dza="2001-07-27" dvy="2019-03-12">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -102,7 +109,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Kohut</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -112,7 +119,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Komisar</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -122,7 +129,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Tsubera</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -132,7 +139,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Benko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -142,7 +149,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Zyzen</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -152,7 +159,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Bas</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -162,7 +169,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Krulko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -172,7 +179,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Zyzen</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -182,7 +189,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Hornychar</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -192,7 +199,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Zyzen</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -202,7 +209,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Chendey</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -212,7 +219,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Prodan</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -222,7 +229,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Ponomarova</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -232,7 +239,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Kaluya</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -242,7 +249,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Chellenyuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -252,7 +259,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Mahula</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -262,7 +269,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Deket</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -272,7 +279,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Bychok</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -282,7 +289,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Krulko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -292,7 +299,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Krulko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -302,7 +309,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Romanchak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -312,7 +319,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Brynzyanyk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -322,7 +329,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Hudak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -332,7 +339,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Krulko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -342,7 +349,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Volos</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -352,7 +359,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Dupych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -362,7 +369,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Tokar</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -372,7 +379,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Zelenchuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -382,7 +389,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Krulko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -392,7 +399,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Krulko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -402,7 +409,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Krulko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -412,7 +419,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Roshko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -422,7 +429,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Tomyshynets</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -432,7 +439,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Vovkanets</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -442,7 +449,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Kovalyk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -452,7 +459,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Yazhyk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -462,7 +469,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Koshilka</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -472,7 +479,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Zyzen</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -482,7 +489,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Kutsyn</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -492,7 +499,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Zyzen</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -502,7 +509,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Popovych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -512,7 +519,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Kutsyn</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -522,7 +529,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Shobey</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-07-27">
+   <are:Clen dza="2001-07-27" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -532,7 +539,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Vakiy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2001-10-29">
+   <are:Clen dza="2001-10-29" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -542,7 +549,7 @@ obchodnímu jménu společnosti připojí svůj podpis.
      <are:prijmeni>Popovych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2003-08-19">
+   <are:Clen dza="2003-08-19" dvy="2019-03-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>

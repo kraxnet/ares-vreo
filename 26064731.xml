@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T13:59:29"
+odpoved_datum_cas="2019-03-22T10:38:50"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>13:59:29</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:38:50</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -30,6 +30,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>125</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2003-08-08</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-21</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní společnost Prestige Group, s.r.o. v likvidaci, se sídlem Zruč - Senec - Zruč, Sluneční 125, PSČ 330 08, identifikační číslo 260 64 731 z obchodního rejstříku včetně všech zapsaných údajů. Výmaz se provádí na návrh společnosti, za níž
+jedná likvidátor ustanovený Krajským soudem v Plzni z moci úřední, po skončení likvidace společnosti na základě ustanovení § 172 odst. 1, písm. d) a ust. § 82 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob a o evidenci svěřen
+ských fondů, kdy součástí návrhu je čestné prohlášení likvidátora jmenovaného soudem, že prověřil bezúspěšně možnost uplatnit neplatnost nebo neúčinnost právních jednání právnické osoby a že majetek této osoby nepostačuje ani k úhradě nákladů insolvenčníh
+o řízení.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -47,9 +56,9 @@ zprostředkování služeb
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2003-08-08">
+  <are:Statutarni_organ dza="2003-08-08" dvy="2019-03-21">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2003-08-08">
+   <are:ZpusobJednani dza="2003-08-08" dvy="2019-03-21">
     <are:Text>
 Jménem společnosti jedná jednatel samostatně. Podepisuje se tak, že k vytištěné nebo strojem vypsané obchodní firmě připojí svůj vlastnoruční podpis.
     </are:Text>
@@ -94,9 +103,9 @@ Jménem společnosti jedná jednatel samostatně. Podepisuje se tak, že k vyti�
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-10-08">
+  <are:Statutarni_organ dza="2018-10-08" dvy="2019-03-21">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-10-08">
+   <are:Clen dza="2018-10-08" dvy="2019-03-21">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>26031990</are:ruianKod>
@@ -112,9 +121,9 @@ Jménem společnosti jedná jednatel samostatně. Podepisuje se tak, že k vyti�
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2003-08-08">
+  <are:Jiny_organ dza="2003-08-08" dvy="2019-03-21">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2006-02-13">
+   <are:Clen dza="2006-02-13" dvy="2019-03-21">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>25567837</are:ruianKod>

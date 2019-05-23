@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T16:04:04"
+odpoved_datum_cas="2019-04-08T11:12:40"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>16:04:04</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-08</are:Datum_vypisu>
+   <are:Cas_vypisu>11:12:40</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>9</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2011-09-06</are:DatumZapisu>
+   <are:DatumVymazu>2019-04-03</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost DABVIS s.r.o. v likvidaci, Slavníkova 2357/9, Břevnov, 169 00 Praha 6, ič 241 58 259 se ke dni právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 184010. Právním důvodem výmazu je uko
+nčení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -41,9 +48,9 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2011-09-06">
+  <are:Statutarni_organ dza="2011-09-06" dvy="2019-04-03">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2011-09-06">
+   <are:ZpusobJednani dza="2011-09-06" dvy="2019-04-03">
     <are:Text>
 Jednatel jedná jménem společnosti ve všech úkonech samostatně.
     </are:Text>
@@ -91,7 +98,7 @@ Jednatel jedná jménem společnosti ve všech úkonech samostatně.
      <are:prijmeni>Phamová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-11-09">
+   <are:Clen dza="2017-11-09" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2017-08-01</are:vznikFunkce>
@@ -109,7 +116,7 @@ Jednatel jedná jménem společnosti ve všech úkonech samostatně.
      </are:adresa>
      <are:ICO>24279277</are:ICO>
      <are:ObchodniFirma>QUADOM s.r.o.</are:ObchodniFirma>
-     <are:Zastoupeni dza="2017-11-09">
+     <are:Zastoupeni dza="2017-11-09" dvy="2019-04-03">
       <are:fosoba>
        <are:adresa>
         <are:ruianKod>19259344</are:ruianKod>
@@ -129,9 +136,9 @@ Jednatel jedná jménem společnosti ve všech úkonech samostatně.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-05-07">
+  <are:Statutarni_organ dza="2018-05-07" dvy="2019-04-03">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-05-07">
+   <are:Clen dza="2018-05-07" dvy="2019-04-03">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>3192571</are:ruianKod>
@@ -150,9 +157,9 @@ Jednatel jedná jménem společnosti ve všech úkonech samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2011-09-06">
+  <are:Jiny_organ dza="2011-09-06" dvy="2019-04-03">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2017-11-09">
+   <are:Clen dza="2017-11-09" dvy="2019-04-03">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>22082638</are:ruianKod>

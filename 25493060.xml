@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T18:24:00"
+odpoved_datum_cas="2019-04-08T11:08:11"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>18:24:00</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-08</are:Datum_vypisu>
+   <are:Cas_vypisu>11:08:11</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -50,7 +50,7 @@ poskytování telekomunikačních služeb
 Předseda družstva jedná navenek samostatně. Předseda družstva se za družstvo podepisuje tak, že k napsané nebo natištěné obchodní firmě družstva připojí svůj vlastnoruční podpis s uvedením funkce.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2011-02-02">
+   <are:Clen dza="2011-02-02" dvy="2019-04-03">
     <are:funkce>
      <are:nazev>předseda</are:nazev>
      <are:vznikFunkce>2010-09-30</are:vznikFunkce>
@@ -66,6 +66,26 @@ Předseda družstva jedná navenek samostatně. Předseda družstva se za družs
      </are:adresa>
      <are:jmeno>Marie</are:jmeno>
      <are:prijmeni>Skácelová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-04-03">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2010-09-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14988984</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41752</are:psc>
+      <are:okres>Teplice</are:okres>
+      <are:obec>Hostomice</are:obec>
+      <are:castObce>Hostomice</are:castObce>
+      <are:ulice>Mlýnská</are:ulice>
+      <are:cisloPop>158</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>SKÁCELOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

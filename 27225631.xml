@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T18:07:51"
+odpoved_datum_cas="2019-04-02T11:31:33"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>18:07:51</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:31:33</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>11</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2005-03-07</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-28</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Obchodní korporace DT-consulting a.s. v likvidaci, IČO 272 25 631, se sídlem  Hradčanské náměstí 61/11, Hradčany, 118 00 Praha 1 se vymazává ke dni právní moci tohoto rozhodnutí z obchodního rejstříku včetně všech zapsaných skutečností. Právní důvod výmaz
+u:  likvidace navrhovatele byla ukončena.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -41,7 +48,7 @@ Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2005-03-07">
+  <are:Statutarni_organ dza="2005-03-07" dvy="2019-03-28">
    <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
    <are:ZpusobJednani dza="2005-03-07" dvy="2006-06-05">
     <are:Text>
@@ -53,7 +60,7 @@ Jménem společnosti jedná jako statutární orgán představenstvo za předsta
 Jménem společnosti jedná předseda představenstva samostatně. Má-li společnost pouze jediného člena představenstva, pak tento člen jedná samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-09-19">
+   <are:ZpusobJednani dza="2014-09-19" dvy="2019-03-28">
     <are:Text>
 Za společnost jedná představenstvo. Za představenstvo jedná jménem společnosti samostatně člen představenstva.
     </are:Text>
@@ -193,7 +200,7 @@ Za společnost jedná představenstvo. Za představenstvo jedná jménem společ
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-07-01">
+   <are:Clen dza="2016-07-01" dvy="2019-03-28">
     <are:clenstvi>
      <are:vznikClenstvi>2011-01-26</are:vznikClenstvi>
     </are:clenstvi>
@@ -217,9 +224,9 @@ Za společnost jedná představenstvo. Za představenstvo jedná jménem společ
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-11-05">
+  <are:Statutarni_organ dza="2018-11-05" dvy="2019-03-28">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-11-05">
+   <are:Clen dza="2018-11-05" dvy="2019-03-28">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>25987933</are:ruianKod>
@@ -236,9 +243,9 @@ Za společnost jedná představenstvo. Za představenstvo jedná jménem společ
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2005-03-07">
+  <are:Jiny_organ dza="2005-03-07" dvy="2019-03-28">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2014-09-19">
+   <are:Clen dza="2014-09-19" dvy="2019-03-28">
     <are:clenstvi>
      <are:vznikClenstvi>2011-01-26</are:vznikClenstvi>
     </are:clenstvi>
@@ -261,9 +268,9 @@ Za společnost jedná představenstvo. Za představenstvo jedná jménem společ
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
-  <are:Jiny_organ dza="2006-06-05">
+  <are:Jiny_organ dza="2006-06-05" dvy="2019-03-28">
    <are:Nazev>Jediný akcionář</are:Nazev>
-   <are:Clen dza="2016-07-01">
+   <are:Clen dza="2016-07-01" dvy="2019-03-28">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>25987933</are:ruianKod>

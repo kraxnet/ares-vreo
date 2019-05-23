@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T02:58:21"
+odpoved_datum_cas="2019-03-27T10:03:24"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>02:58:21</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-27</are:Datum_vypisu>
+   <are:Cas_vypisu>10:03:24</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,13 +21,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>05571367</are:ICO>
    <are:ObchodniFirma>SPOLEK TANEC S RADOSTÍ</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>17279453</are:ruianKod>
+    <are:ruianKod>23009799</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>26272</are:psc>
+    <are:psc>26101</are:psc>
     <are:okres>Příbram</are:okres>
-    <are:obec>Ostrov</are:obec>
-    <are:castObce>Ostrov</are:castObce>
-    <are:cisloPop>21</are:cisloPop>
+    <are:obec>Příbram</are:obec>
+    <are:castObce>Příbram VI-Březové Hory</are:castObce>
+    <are:ulice>Na Valdeku</are:ulice>
+    <are:cisloPop>172</are:cisloPop>
    </are:Sidlo>
    <are:DatumZapisu>2016-12-23</are:DatumZapisu>
    <are:Cinnosti>
@@ -52,8 +53,33 @@ JMÉNEM SPOLKU JSOU OPRÁVNĚNI JEDNAT: PŘEDSEDA, POKLADNÍK A ČLEN VÝBORU. V
      <are:vznikClenstvi>2016-12-23</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
+     <are:nazev>ČLEN VÝBORU SPOLKU</are:nazev>
+     <are:vznikFunkce>2016-12-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23015853</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26101</are:psc>
+      <are:okres>Příbram</are:okres>
+      <are:obec>Příbram</are:obec>
+      <are:castObce>Příbram VII</are:castObce>
+      <are:ulice>Gen. Kholla</are:ulice>
+      <are:cisloPop>190</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>KOČNAROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-23" dvy="2019-03-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-09-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
      <are:nazev>PŘEDSEDA VÝBORU SPOLKU</are:nazev>
      <are:vznikFunkce>2016-12-23</are:vznikFunkce>
+     <are:zanikFunkce>2017-09-19</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -69,13 +95,15 @@ JMÉNEM SPOLKU JSOU OPRÁVNĚNI JEDNAT: PŘEDSEDA, POKLADNÍK A ČLEN VÝBORU. V
      <are:prijmeni>KOŇASOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-12-23">
+   <are:Clen dza="2016-12-23" dvy="2019-03-23">
     <are:clenstvi>
      <are:vznikClenstvi>2016-12-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-09-26</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>POKLADNÍK VÝBORU SPOLKU</are:nazev>
      <are:vznikFunkce>2016-12-23</are:vznikFunkce>
+     <are:zanikFunkce>2017-09-26</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -93,27 +121,51 @@ JMÉNEM SPOLKU JSOU OPRÁVNĚNI JEDNAT: PŘEDSEDA, POKLADNÍK A ČLEN VÝBORU. V
      <are:titulPred>ING.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-12-23">
+   <are:Clen dza="2019-03-23">
     <are:clenstvi>
-     <are:vznikClenstvi>2016-12-23</are:vznikClenstvi>
+     <are:vznikClenstvi>2017-09-26</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>ČLEN VÝBORU SPOLKU</are:nazev>
-     <are:vznikFunkce>2016-12-23</are:vznikFunkce>
+     <are:nazev>PŘEDSEDA VÝBORU SPOLKU</are:nazev>
+     <are:vznikFunkce>2017-09-26</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>23015853</are:ruianKod>
+      <are:ruianKod>28289234</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>26101</are:psc>
       <are:okres>Příbram</are:okres>
       <are:obec>Příbram</are:obec>
-      <are:castObce>Příbram VII</are:castObce>
-      <are:ulice>Gen. Kholla</are:ulice>
-      <are:cisloPop>190</are:cisloPop>
+      <are:castObce>Příbram V-Zdaboř</are:castObce>
+      <are:ulice>Zdabořská</are:ulice>
+      <are:cisloPop>621</are:cisloPop>
      </are:adresa>
-     <are:jmeno>LENKA</are:jmeno>
-     <are:prijmeni>KOČNAROVÁ</are:prijmeni>
+     <are:jmeno>JAROSLAVA</are:jmeno>
+     <are:prijmeni>ŽŮČKOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-09-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>POKLADNÍK SPOLKU</are:nazev>
+     <are:vznikFunkce>2017-09-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23007095</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26101</are:psc>
+      <are:okres>Příbram</are:okres>
+      <are:obec>Příbram</are:obec>
+      <are:castObce>Příbram V-Zdaboř</are:castObce>
+      <are:ulice>Slunná</are:ulice>
+      <are:cisloPop>292</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>NADĚŽDA</are:jmeno>
+     <are:prijmeni>VRBOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

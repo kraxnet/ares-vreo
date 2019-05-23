@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-02-22T11:01:02"
+odpoved_datum_cas="2019-03-22T10:27:20"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
-   <are:Cas_vypisu>11:01:02</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:27:20</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -24,6 +24,7 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:ruianKod>24373401</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>74601</are:psc>
+    <are:okres>Opava</are:okres>
     <are:obec>Opava</are:obec>
     <are:castObce>Město</are:castObce>
     <are:ulice>Masarykova třída</are:ulice>
@@ -34,48 +35,33 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-a) podpora malým a středním podnikatelům při zakládání podniku
+1.1. v oblasti sociální zodpovědnosti:
+a) podpora živnostníkům, malým a středním podnikům a svobodným povoláním při zakládání, rozšiřování a zřizování nových pracovních míst
+b) podpora ekonomické spolupráce a výměny s německy mluvícími zeměmi
      </are:Text>
      <are:Text>
-b) podpora malým a středním podnikatelům při rozšiřování jejich podniku
+1.2 v oblasti vzdělávání a kultury:
+c) podpora mimoškolního vzdělávání a výuky jazyků
+d) podpora vzdělávání dětí, mládeže i dospělých se zaměřením na výuku němčiny
+e) pořádání dětských a mládežnických táborů
+f) pořádání kulturních a vzdělávacích setkání, rozvíjení česko-německých vztahů prostřednictvím seminářů apod.
      </are:Text>
      <are:Text>
-c) podpora malým a středním podnikatelům při zřizování nových pracovních míst
-v oblasti vzdělávání:
-     </are:Text>
-     <are:Text>
-d) mimoškolské vzdělávání a výuka jazyků
-     </are:Text>
-     <are:Text>
-e) vzdělávání dětí a mládeže se zaměřením na výuku němčiny
-     </are:Text>
-     <are:Text>
-f) pořádání dětských a mládežnických táborů
-     </are:Text>
-     <are:Text>
-g) pořádání kulturních a vzdělávacích akcí
-     </are:Text>
-     <are:Text>
-h) rozvíjení česko-německých vztahů pomocí seminářů apod.
-v oblasti sociální:
-     </are:Text>
-     <are:Text>
-i) organizace a rozdělování podpor z darů, dotací a vlastních příjmů
-     </are:Text>
-     <are:Text>
-j) organizace a rozdělování podpor při živelných pohromách
-     </are:Text>
-     <are:Text>
-k) zřizování a provozování rekondičních stanic
-     </are:Text>
-     <are:Text>
-l) organizování a provozování ozdravných pobytů
+1.3 v oblasti humanitární:
+g) podpora v souvislosti s ozdravnými pobyty
+h) podpora a organizace rozdělování podpor z darů a dotací a vlastních příjmů
+i) organizace a rozdělování podpor při živelných pohromách
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2011-03-17">
    <are:Nazev>Statutární orgán - ředitel</are:Nazev>
+   <are:ZpusobJednani dza="2019-03-19">
+    <are:Text>
+Ředitel společnosti je statutárním orgánem obecně prospěšné společnosti, který řídí její činnost ajedná jejím jménem.
+    </are:Text>
+   </are:ZpusobJednani>
    <are:Clen dza="2011-03-17" dvy="2014-06-07">
     <are:fosoba>
      <are:adresa>
@@ -93,7 +79,24 @@ l) organizování a provozování ozdravných pobytů
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-06-07">
+   <are:Clen dza="2014-06-07" dvy="2019-03-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14059746</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79401</are:psc>
+      <are:obec>Krnov</are:obec>
+      <are:castObce>Pod Bezručovým vrchem</are:castObce>
+      <are:ulice>Maxima Gorkého</are:ulice>
+      <are:cisloPop>848</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RICHARD</are:jmeno>
+     <are:prijmeni>NEUGEBAUER</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>14059746</are:ruianKod>
@@ -113,9 +116,10 @@ l) organizování a provozování ozdravných pobytů
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1999-06-14">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2014-06-07">
+   <are:Clen dza="2019-03-19">
     <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
+     <are:vznikFunkce>2016-05-28</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -131,12 +135,13 @@ l) organizování a provozování ozdravných pobytů
      <are:prijmeni>CHYLÍKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-06-07">
+   <are:Clen dza="2019-03-19">
     <are:clenstvi>
      <are:vznikClenstvi>2014-01-11</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
+     <are:vznikFunkce>2017-01-11</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -153,12 +158,13 @@ l) organizování a provozování ozdravných pobytů
      <are:prijmeni>SLÍŽOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-04-30">
+   <are:Clen dza="2019-03-19">
     <are:clenstvi>
      <are:vznikClenstvi>2015-03-14</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
+     <are:vznikFunkce>2018-03-14</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -176,28 +182,10 @@ l) organizování a provozování ozdravných pobytů
   </are:Jiny_organ>
   <are:Jiny_organ dza="1999-06-14">
    <are:Nazev>Správní rada</are:Nazev>
-   <are:Clen dza="2013-04-26">
+   <are:Clen dza="2019-03-19">
     <are:funkce>
      <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>4292634</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74716</are:psc>
-      <are:obec>Hať</are:obec>
-      <are:castObce>Hať</are:castObce>
-      <are:ulice>Sportovců</are:ulice>
-      <are:cisloPop>567</are:cisloPop>
-      <are:cisloOr>32</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>DANA</are:jmeno>
-     <are:prijmeni>BINDAČOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-06-07">
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
+     <are:vznikFunkce>2017-06-15</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -215,9 +203,10 @@ l) organizování a provozování ozdravných pobytů
      <are:titulPred>JUDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-06-07">
+   <are:Clen dza="2019-03-19">
     <are:funkce>
      <are:nazev>člen správní rady</are:nazev>
+     <are:vznikFunkce>2018-11-01</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -234,12 +223,33 @@ l) organizování a provozování ozdravných pobytů
      <are:prijmeni>SCHRIMPELOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-06-07">
+   <are:Clen dza="2019-03-19">
+    <are:funkce>
+     <are:nazev>člen správní rady</are:nazev>
+     <are:vznikFunkce>2019-03-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4292634</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74716</are:psc>
+      <are:obec>Hať</are:obec>
+      <are:castObce>Hať</are:castObce>
+      <are:ulice>Sportovců</are:ulice>
+      <are:cisloPop>567</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANA</are:jmeno>
+     <are:prijmeni>BINDAČOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
     <are:clenstvi>
      <are:vznikClenstvi>2014-05-01</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen správní rady</are:nazev>
+     <are:vznikFunkce>2017-05-01</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -256,35 +266,13 @@ l) organizování a provozování ozdravných pobytů
      <are:prijmeni>ŠVÁBOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-07-19">
-    <are:clenstvi>
-     <are:vznikClenstvi>2018-06-15</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>19051760</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>62000</are:psc>
-      <are:okres>Brno-město</are:okres>
-      <are:obec>Brno</are:obec>
-      <are:castObce>Brněnské Ivanovice</are:castObce>
-      <are:ulice>Kudrnova</are:ulice>
-      <are:cisloPop>251</are:cisloPop>
-      <are:cisloOr>2</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>LEOPOLD</are:jmeno>
-     <are:prijmeni>HRABÁLEK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2019-02-15">
+   <are:Clen dza="2019-03-19">
     <are:clenstvi>
      <are:vznikClenstvi>2014-11-08</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen správní rady</are:nazev>
+     <are:vznikFunkce>2017-11-08</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -302,6 +290,30 @@ l) organizování a provozování ozdravných pobytů
      <are:jmeno>PAVEL</are:jmeno>
      <are:prijmeni>KERN</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-06-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen správní rady</are:nazev>
+     <are:vznikFunkce>2018-06-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19051760</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62000</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Brněnské Ivanovice</are:castObce>
+      <are:ulice>Kudrnova</are:ulice>
+      <are:cisloPop>251</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LEOPOLD</are:jmeno>
+     <are:prijmeni>HRABÁLEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

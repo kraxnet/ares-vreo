@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-08-06T11:08:49"
+odpoved_datum_cas="2019-03-22T10:36:01"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-08-02</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-08-06</are:Datum_vypisu>
-   <are:Cas_vypisu>11:08:49</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:36:01</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -31,8 +31,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloPop>313</are:cisloPop>
     <are:cisloOr>6</are:cisloOr>
    </are:Sidlo>
-   <are:DatumVzniku>1997-03-10</are:DatumVzniku>
    <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-20</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Pobočný spolek Základní organizace Českého zahrádkářského svazu Kopřivnice - město, IČO 661 83 219 se ke dni právní moci tohoto rozhodnutí vymazává ze spolkového rejstříku. Právní důvod výmazu: zrušení vlastním rozhodnutím podle § 34 odst. 3 a odst. 6 sta
+nov ČZS. Pobočný spolek nemá v době výmazu žádný majetek, dluhy ani pohledávky.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:Ucel>
      <are:Text>
@@ -41,83 +47,13 @@ Zahrádkářská činnost
     </are:Ucel>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2015-11-26">
+  <are:Statutarni_organ dza="2015-11-26" dvy="2019-03-20">
    <are:Nazev>Statutární orgán - výbor</are:Nazev>
-   <are:ZpusobJednani dza="2015-11-26">
+   <are:ZpusobJednani dza="2015-11-26" dvy="2019-03-20">
     <are:Text>
 Rozhodování většinou hlasů, zastupování navenek předseda a pověřený člen.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2015-11-26">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-05-27</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda</are:nazev>
-     <are:vznikFunkce>2014-05-27</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>8452130</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74221</are:psc>
-      <are:obec>Kopřivnice</are:obec>
-      <are:castObce>Kopřivnice</are:castObce>
-      <are:ulice>Česká</are:ulice>
-      <are:cisloPop>478</are:cisloPop>
-      <are:cisloOr>39</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>SVATAVA</are:jmeno>
-     <are:prijmeni>KUNČAROVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-26">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-05-27</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Tajemník</are:nazev>
-     <are:vznikFunkce>2014-05-27</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>8458529</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74221</are:psc>
-      <are:obec>Kopřivnice</are:obec>
-      <are:castObce>Kopřivnice</are:castObce>
-      <are:ulice>Štefánikova</are:ulice>
-      <are:cisloPop>1154</are:cisloPop>
-      <are:cisloOr>3</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>IVO</are:jmeno>
-     <are:prijmeni>KUNČAR</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-26">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-05-27</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Člen</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>8457883</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74221</are:psc>
-      <are:obec>Kopřivnice</are:obec>
-      <are:castObce>Kopřivnice</are:castObce>
-      <are:ulice>I. Šustaly</are:ulice>
-      <are:cisloPop>1088</are:cisloPop>
-      <are:cisloOr>16</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ANTONÍN</are:jmeno>
-     <are:prijmeni>POLÁŠEK</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2015-11-26" dvy="2018-07-24">
     <are:clenstvi>
      <are:vznikClenstvi>2014-05-27</are:vznikClenstvi>
@@ -141,10 +77,80 @@ Rozhodování většinou hlasů, zastupování navenek předseda a pověřený �
      <are:prijmeni>HAVLOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2015-11-26" dvy="2019-03-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-05-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+     <are:vznikFunkce>2014-05-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8452130</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74221</are:psc>
+      <are:obec>Kopřivnice</are:obec>
+      <are:castObce>Kopřivnice</are:castObce>
+      <are:ulice>Česká</are:ulice>
+      <are:cisloPop>478</are:cisloPop>
+      <are:cisloOr>39</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>SVATAVA</are:jmeno>
+     <are:prijmeni>KUNČAROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-26" dvy="2019-03-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-05-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Tajemník</are:nazev>
+     <are:vznikFunkce>2014-05-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8458529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74221</are:psc>
+      <are:obec>Kopřivnice</are:obec>
+      <are:castObce>Kopřivnice</are:castObce>
+      <are:ulice>Štefánikova</are:ulice>
+      <are:cisloPop>1154</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVO</are:jmeno>
+     <are:prijmeni>KUNČAR</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-26" dvy="2019-03-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-05-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8457883</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74221</are:psc>
+      <are:obec>Kopřivnice</are:obec>
+      <are:castObce>Kopřivnice</are:castObce>
+      <are:ulice>I. Šustaly</are:ulice>
+      <are:cisloPop>1088</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANTONÍN</are:jmeno>
+     <are:prijmeni>POLÁŠEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2015-11-26">
+  <are:Jiny_organ dza="2015-11-26" dvy="2019-03-20">
    <are:Nazev>Kontrolní orgán</are:Nazev>
-   <are:Clen dza="2015-11-26">
+   <are:Clen dza="2015-11-26" dvy="2019-03-20">
     <are:clenstvi>
      <are:vznikClenstvi>2014-05-27</are:vznikClenstvi>
     </are:clenstvi>
@@ -167,9 +173,9 @@ Rozhodování většinou hlasů, zastupování navenek předseda a pověřený �
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
-  <are:Jiny_organ dza="2014-01-01">
+  <are:Jiny_organ dza="2014-01-01" dvy="2019-03-20">
    <are:Nazev>Zakladatel</are:Nazev>
-   <are:Clen dza="2014-01-01">
+   <are:Clen dza="2014-01-01" dvy="2019-03-20">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>21770042</are:ruianKod>

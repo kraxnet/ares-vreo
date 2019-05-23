@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-05-14T10:45:49"
+odpoved_datum_cas="2019-03-14T12:38:55"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-05-14</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-05-14</are:Datum_vypisu>
-   <are:Cas_vypisu>10:45:49</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:38:55</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -31,10 +31,17 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>38</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2012-08-30</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-08</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní korporace SORBO MAX s.r.o. v likvidaci, se sídlem Praha - Libeň, Primátorská 296/38, PSČ 18000, IČO: 24265195. Právní důvod výmazu: ukončení likvidace (obchodní korporace byla zrušena s likvidací, a to rozhodnutím soudu) - výmaz dle u
+st. § 82 odst. 1 zákona č. 304/2013 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2012-08-30">
+  <are:Statutarni_organ dza="2012-08-30" dvy="2019-03-08">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2012-08-30">
+   <are:ZpusobJednani dza="2012-08-30" dvy="2019-03-08">
     <are:Text>
  Jménem společnosti jedná jednatel samostatně.
     </are:Text>
@@ -58,7 +65,7 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:prijmeni>Maurová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2012-11-07">
+   <are:Clen dza="2012-11-07" dvy="2019-03-08">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2012-10-23</are:vznikFunkce>
@@ -77,9 +84,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-02-20">
+  <are:Statutarni_organ dza="2018-02-20" dvy="2019-03-08">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-02-20">
+   <are:Clen dza="2018-02-20" dvy="2019-03-08">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>19582536</are:ruianKod>
@@ -99,9 +106,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2012-08-30">
+  <are:Jiny_organ dza="2012-08-30" dvy="2019-03-08">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-05-07">
+   <are:Clen dza="2014-05-07" dvy="2019-03-08">
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

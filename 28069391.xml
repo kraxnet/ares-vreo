@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-18T17:06:02"
+odpoved_datum_cas="2019-04-03T12:04:05"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-16</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-18</are:Datum_vypisu>
-   <are:Cas_vypisu>17:06:02</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-03</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-03</are:Datum_vypisu>
+   <are:Cas_vypisu>12:04:05</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,15 +21,16 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>28069391</are:ICO>
    <are:ObchodniFirma>TENERA s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>25432940</are:ruianKod>
+    <are:ruianKod>21715084</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>37001</are:psc>
-    <are:okres>České Budějovice</are:okres>
-    <are:obec>České Budějovice</are:obec>
-    <are:castObce>České Budějovice 4</are:castObce>
-    <are:ulice>Vrbenská</are:ulice>
-    <are:cisloPop>197</are:cisloPop>
-    <are:cisloOr>23</are:cisloOr>
+    <are:psc>11000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Staré Město</are:castObce>
+    <are:mop>Praha 1</are:mop>
+    <are:ulice>Kaprova</are:ulice>
+    <are:cisloPop>42</are:cisloPop>
+    <are:cisloOr>14</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2007-07-30</are:DatumZapisu>
    <are:Cinnosti>
@@ -112,10 +113,11 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>Janoušková</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-09-13">
+   <are:Clen dza="2014-09-13" dvy="2019-03-20">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2008-04-17</are:vznikFunkce>
+     <are:zanikFunkce>2019-03-20</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -132,23 +134,41 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>JANOUŠKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-03-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26380412</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38241</are:psc>
+      <are:okres>Český Krumlov</are:okres>
+      <are:obec>Omlenice</are:obec>
+      <are:castObce>Omlenička</are:castObce>
+      <are:cisloPop>80</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>BULKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2007-07-30">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-09-13">
+   <are:Clen dza="2019-03-20">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>28175786</are:ruianKod>
+      <are:ruianKod>26380412</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>37001</are:psc>
-      <are:obec>České Budějovice</are:obec>
-      <are:castObce>České Budějovice 7</are:castObce>
-      <are:ulice>Boletická</are:ulice>
-      <are:cisloPop>2222</are:cisloPop>
-      <are:cisloOr>1a</are:cisloOr>
+      <are:psc>38241</are:psc>
+      <are:okres>Český Krumlov</are:okres>
+      <are:obec>Omlenice</are:obec>
+      <are:castObce>Omlenička</are:castObce>
+      <are:cisloPop>80</are:cisloPop>
      </are:adresa>
-     <are:jmeno>PETRA</are:jmeno>
-     <are:prijmeni>JANOUŠKOVÁ</are:prijmeni>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>BULKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-08-27T18:44:13"
+odpoved_datum_cas="2019-03-08T10:30:07"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-08-27</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-08-27</are:Datum_vypisu>
-   <are:Cas_vypisu>18:44:13</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-08</are:Datum_vypisu>
+   <are:Cas_vypisu>10:30:07</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -30,8 +30,17 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:ulice>Mírové nám.</are:ulice>
     <are:cisloPop>90</are:cisloPop>
    </are:Sidlo>
-   <are:DatumVzniku>2001-01-02</are:DatumVzniku>
    <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-06</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se ze spolkového rejstříku včetně všech zapsaných údajů pobočný spolek Svaz tělesně postižených v České republice z. s. krajská organizace Královéhradeckého kraje v likvidaci, se sídlem Mírové nám. 90, 517 21  Týniště nad Orlicí, identifikační čí
+slo 709 01 481, vedený pod spisovou značkou L 48338/MSPH, u veřejného rejstříku Městského soudu v Praze. Právním důvodem výmazu je ukončení likvidace.
+ 
+Hlasováním krajského shromáždění pobočného spolku bylo rozhodnuto o zrušení pobočného spolku k datu 31. 7. 2018. Likvidace pobočného spolku byla ukončena dne 31. 12. 2018. Byla vypracována konečná zpráva o průběhu likvidace. Pobočný spolek dlouhodobě nevy
+konává podnikatelskou činnost a nemá žádné zaměstnance. Po celou dobu likvidace pobočný spolek vykazuje nulové hospodářské výsledky. S ohledem na shora uvedené tak nebyl zjištěn žádný likvidační zůstatek určený k vypořádání.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:Ucel>
      <are:Text>
@@ -43,7 +52,7 @@ stižením a seniorů, a to na regionální úrovni, včetně projektů financov
     </are:Ucel>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2016-02-10">
+  <are:Statutarni_organ dza="2016-02-10" dvy="2019-03-06">
    <are:Nazev>Statutární orgán - Krajský  výbor</are:Nazev>
    <are:ZpusobJednani dza="2016-02-10" dvy="2016-03-30">
     <are:Text>
@@ -51,96 +60,12 @@ Výbor místní organizace je kolektivním statutárním orgánem místní organ
 ganizace nebo jiný člen výboru místní organizace písemně pověřený výborem.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2016-03-30">
+   <are:ZpusobJednani dza="2016-03-30" dvy="2019-03-06">
     <are:Text>
 Výbor krajské organizace je kolektivním statutárním orgánem krajské organizace s tím, že jménem výboru krajské organizace jedná navenek a podepisuje předseda krajské organizace. Předsedu krajské organizace v jeho nepřítomnosti zastupuje místopředseda kraj
 ské organizace nebo jiný člen výboru krajské organizace písemně pověřený výborem.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2016-02-10">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-11-19</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>9817301</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>51721</are:psc>
-      <are:obec>Týniště nad Orlicí</are:obec>
-      <are:castObce>Týniště nad Orlicí</are:castObce>
-      <are:ulice>V. Opatrného</are:ulice>
-      <are:cisloPop>384</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>ZAHRÁDKA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-02-10">
-    <are:clenstvi>
-     <are:vznikClenstvi>2013-06-20</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>1697463</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>50782</are:psc>
-      <are:obec>Pecka</are:obec>
-      <are:castObce>Bělá u Pecky</are:castObce>
-      <are:cisloPop>52</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JAROSLAV</are:jmeno>
-     <are:prijmeni>HERBRYCH</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-02-10">
-    <are:clenstvi>
-     <are:vznikClenstvi>2013-06-20</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>2358891</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>54233</are:psc>
-      <are:obec>Rtyně v Podkrkonoší</are:obec>
-      <are:castObce>Rtyně v Podkrkonoší</are:castObce>
-      <are:ulice>Úpická</are:ulice>
-      <are:cisloPop>36</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>ČAPEK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-02-10">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-11-19</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23928662</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>50011</are:psc>
-      <are:obec>Hradec Králové</are:obec>
-      <are:castObce>Moravské Předměstí</are:castObce>
-      <are:ulice>Štefánikova</are:ulice>
-      <are:cisloPop>304</are:cisloPop>
-      <are:cisloOr>2</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>EVA</are:jmeno>
-     <are:prijmeni>PIŠVEJCOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-02-10" dvy="2016-04-21">
     <are:clenstvi>
      <are:vznikClenstvi>2013-06-20</are:vznikClenstvi>
@@ -211,6 +136,90 @@ ské organizace nebo jiný člen výboru krajské organizace písemně pověřen
      <are:prijmeni>KUPCOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2016-02-10" dvy="2019-03-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-11-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9817301</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51721</are:psc>
+      <are:obec>Týniště nad Orlicí</are:obec>
+      <are:castObce>Týniště nad Orlicí</are:castObce>
+      <are:ulice>V. Opatrného</are:ulice>
+      <are:cisloPop>384</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>ZAHRÁDKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-02-10" dvy="2019-03-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-06-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1697463</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50782</are:psc>
+      <are:obec>Pecka</are:obec>
+      <are:castObce>Bělá u Pecky</are:castObce>
+      <are:cisloPop>52</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>HERBRYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-02-10" dvy="2019-03-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-06-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2358891</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54233</are:psc>
+      <are:obec>Rtyně v Podkrkonoší</are:obec>
+      <are:castObce>Rtyně v Podkrkonoší</are:castObce>
+      <are:ulice>Úpická</are:ulice>
+      <are:cisloPop>36</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>ČAPEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-02-10" dvy="2019-03-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-11-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23928662</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50011</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Moravské Předměstí</are:castObce>
+      <are:ulice>Štefánikova</are:ulice>
+      <are:cisloPop>304</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>PIŠVEJCOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
    <are:Clen dza="2016-04-21" dvy="2016-04-26">
     <are:clenstvi>
      <are:vznikClenstvi>2013-06-20</are:vznikClenstvi>
@@ -236,7 +245,7 @@ ské organizace nebo jiný člen výboru krajské organizace písemně pověřen
      <are:prijmeni>KÁBRT</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-07-02">
+   <are:Clen dza="2016-07-02" dvy="2019-03-06">
     <are:clenstvi>
      <are:vznikClenstvi>2013-06-20</are:vznikClenstvi>
     </are:clenstvi>
@@ -260,7 +269,7 @@ ské organizace nebo jiný člen výboru krajské organizace písemně pověřen
      <are:prijmeni>VÍZNEROVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-07-02">
+   <are:Clen dza="2016-07-02" dvy="2019-03-06">
     <are:clenstvi>
      <are:vznikClenstvi>2015-11-28</are:vznikClenstvi>
     </are:clenstvi>
@@ -283,7 +292,7 @@ ské organizace nebo jiný člen výboru krajské organizace písemně pověřen
      <are:prijmeni>KUPCOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-07-02">
+   <are:Clen dza="2016-07-02" dvy="2019-03-06">
     <are:clenstvi>
      <are:vznikClenstvi>2016-05-26</are:vznikClenstvi>
     </are:clenstvi>
@@ -306,9 +315,9 @@ ské organizace nebo jiný člen výboru krajské organizace písemně pověřen
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-08-21">
+  <are:Statutarni_organ dza="2018-08-21" dvy="2019-03-06">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-08-21">
+   <are:Clen dza="2018-08-21" dvy="2019-03-06">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>23811820</are:ruianKod>
@@ -326,9 +335,9 @@ ské organizace nebo jiný člen výboru krajské organizace písemně pověřen
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2016-02-10">
+  <are:Jiny_organ dza="2016-02-10" dvy="2019-03-06">
    <are:Nazev>Revizní komise</are:Nazev>
-   <are:Clen dza="2016-07-02">
+   <are:Clen dza="2016-07-02" dvy="2019-03-06">
     <are:clenstvi>
      <are:vznikClenstvi>2013-06-20</are:vznikClenstvi>
     </are:clenstvi>
@@ -350,7 +359,7 @@ ské organizace nebo jiný člen výboru krajské organizace písemně pověřen
      <are:prijmeni>LÍBALOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-07-02">
+   <are:Clen dza="2016-07-02" dvy="2019-03-06">
     <are:clenstvi>
      <are:vznikClenstvi>2014-09-18</are:vznikClenstvi>
     </are:clenstvi>
@@ -371,7 +380,7 @@ ské organizace nebo jiný člen výboru krajské organizace písemně pověřen
      <are:prijmeni>HLAVATÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-17">
+   <are:Clen dza="2017-03-17" dvy="2019-03-06">
     <are:clenstvi>
      <are:vznikClenstvi>2017-01-16</are:vznikClenstvi>
     </are:clenstvi>
@@ -394,9 +403,9 @@ ské organizace nebo jiný člen výboru krajské organizace písemně pověřen
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
-  <are:Jiny_organ dza="2014-01-01">
+  <are:Jiny_organ dza="2014-01-01" dvy="2019-03-06">
    <are:Nazev>Zakladatel</are:Nazev>
-   <are:Clen dza="2014-01-01">
+   <are:Clen dza="2014-01-01" dvy="2019-03-06">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>22349120</are:ruianKod>

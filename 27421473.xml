@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T17:16:30"
+odpoved_datum_cas="2019-03-12T15:51:06"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>17:16:31</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:51:06</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -131,60 +131,41 @@ Jednatel zastupuje společnost samostatně.
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2006-02-07">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2015-02-03">
+   <are:Clen dza="2019-03-06">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-01-01</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
+     <are:nazev>Člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>21271216</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>29401</are:psc>
-      <are:obec>Bakov nad Jizerou</are:obec>
-      <are:castObce>Bakov nad Jizerou</are:castObce>
-      <are:ulice>Rybní důl</are:ulice>
-      <are:cisloPop>219</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>MARTIN</are:jmeno>
-     <are:prijmeni>HRADISKÝ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-02-03">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-01-01</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21253013</are:ruianKod>
+      <are:ruianKod>21248753</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>29301</are:psc>
+      <are:okres>Mladá Boleslav</are:okres>
       <are:obec>Mladá Boleslav</are:obec>
       <are:castObce>Mladá Boleslav II</are:castObce>
       <are:ulice>tř. Václava Klementa</are:ulice>
-      <are:cisloPop>1236</are:cisloPop>
+      <are:cisloPop>804</are:cisloPop>
      </are:adresa>
-     <are:jmeno>TOMÁŠ</are:jmeno>
-     <are:prijmeni>ZAJÍČEK</are:prijmeni>
+     <are:jmeno>LUBOŠ</are:jmeno>
+     <are:prijmeni>DVOŘÁK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-02-03">
+   <are:Clen dza="2019-03-06">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-01-01</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
+     <are:nazev>Člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21266352</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>29301</are:psc>
+      <are:okres>Mladá Boleslav</are:okres>
       <are:obec>Mladá Boleslav</are:obec>
       <are:castObce>Mladá Boleslav III</are:castObce>
       <are:ulice>Na Dubcích</are:ulice>
@@ -194,18 +175,19 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>LAURÝN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-02-03">
+   <are:Clen dza="2019-03-06">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-01-01</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
+     <are:nazev>Člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21236674</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>29301</are:psc>
+      <are:okres>Mladá Boleslav</are:okres>
       <are:obec>Mladá Boleslav</are:obec>
       <are:castObce>Mladá Boleslav I</are:castObce>
       <are:ulice>Vodkova</are:ulice>
@@ -216,18 +198,19 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>SERVUS</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-02-03">
+   <are:Clen dza="2019-03-06">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-01-01</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
+     <are:nazev>Člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21249300</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>29301</are:psc>
+      <are:okres>Mladá Boleslav</are:okres>
       <are:obec>Mladá Boleslav</are:obec>
       <are:castObce>Mladá Boleslav II</are:castObce>
       <are:ulice>Purkyňova</are:ulice>
@@ -237,26 +220,26 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>HNÁTEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-02-03">
+   <are:Clen dza="2019-03-06">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-01-01</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
+     <are:nazev>Člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>21243727</are:ruianKod>
+      <are:ruianKod>25210360</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>29301</are:psc>
+      <are:okres>Mladá Boleslav</are:okres>
       <are:obec>Mladá Boleslav</are:obec>
       <are:castObce>Mladá Boleslav II</are:castObce>
-      <are:ulice>mjr. Frymla</are:ulice>
-      <are:cisloPop>296</are:cisloPop>
-      <are:cisloOr>8</are:cisloOr>
+      <are:ulice>Svojsíkova</are:ulice>
+      <are:cisloPop>1349</are:cisloPop>
      </are:adresa>
-     <are:jmeno>IVA</are:jmeno>
-     <are:prijmeni>BÍLKOVÁ</are:prijmeni>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>ŘEHÁK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

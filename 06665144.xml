@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-02-22T15:19:25"
+odpoved_datum_cas="2019-03-18T10:13:39"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-02-22</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-02-22</are:Datum_vypisu>
-   <are:Cas_vypisu>15:19:25</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-18</are:Datum_vypisu>
+   <are:Cas_vypisu>10:13:39</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -60,26 +60,6 @@ Za společnost jedná každý jednatel samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>23792531</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>41801</are:psc>
-      <are:okres>Teplice</are:okres>
-      <are:obec>Bílina</are:obec>
-      <are:castObce>Teplické Předměstí</are:castObce>
-      <are:ulice>Sídliště Za Chlumem</are:ulice>
-      <are:cisloPop>793</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ANDREA</are:jmeno>
-     <are:prijmeni>KADLECOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-12-13">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2017-12-13</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
       <are:ruianKod>41521307</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>19600</are:psc>
@@ -95,10 +75,11 @@ Za společnost jedná každý jednatel samostatně.
      <are:prijmeni>JANDOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2017-12-13">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2017-12-13">
+   <are:Clen dza="2017-12-13" dvy="2019-03-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-12-13</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>23792531</are:ruianKod>
@@ -114,6 +95,31 @@ Za společnost jedná každý jednatel samostatně.
      <are:prijmeni>KADLECOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-12-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>41199774</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Na Petynce</are:ulice>
+      <are:cisloPop>2445</are:cisloPop>
+      <are:cisloOr>27</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANDREA</are:jmeno>
+     <are:prijmeni>KADLECOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2017-12-13">
+   <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2017-12-13">
     <are:fosoba>
      <are:adresa>
@@ -142,6 +148,24 @@ Za společnost jedná každý jednatel samostatně.
      </are:adresa>
      <are:jmeno>MAURIZIO</are:jmeno>
      <are:prijmeni>BARZAGO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>41199774</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Na Petynce</are:ulice>
+      <are:cisloPop>2445</are:cisloPop>
+      <are:cisloOr>27</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANDREA</are:jmeno>
+     <are:prijmeni>KADLECOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

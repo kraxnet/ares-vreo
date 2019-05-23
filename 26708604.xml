@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-07-06T11:40:01"
+odpoved_datum_cas="2019-03-14T12:38:13"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-07-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-07-06</are:Datum_vypisu>
-   <are:Cas_vypisu>11:40:01</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:38:13</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>8</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2002-07-15</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-08</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost REVATTI Food s.r.o. v likvidaci, se sídlem Revoluční 1082/8, Nové Město, 110 00 Praha 1, IČ: 267 08 604 se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 88770. Práv
+ní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetCinnosti>
      <are:Text>
@@ -43,7 +50,7 @@ nemovitostí, bytů a nebytových prostor (§ 4 ŽZ)
     </are:PredmetCinnosti>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2002-07-15">
+  <are:Statutarni_organ dza="2002-07-15" dvy="2019-03-08">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2002-07-15" dvy="2012-06-25">
     <are:Text>
@@ -52,7 +59,7 @@ jménem společnosti podepisují tak, že k obchodní firmě
 společnosti společně připojí svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2012-06-25">
+   <are:ZpusobJednani dza="2012-06-25" dvy="2019-03-08">
     <are:Text>
 Jednatel jedná jménem společnosti samostatně.
     </are:Text>
@@ -153,7 +160,7 @@ Jednatel jedná jménem společnosti samostatně.
      <are:prijmeni>Tuček</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-04-04">
+   <are:Clen dza="2013-04-04" dvy="2019-03-08">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2013-03-06</are:vznikFunkce>
@@ -176,9 +183,9 @@ Jednatel jedná jménem společnosti samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-02-26">
+  <are:Statutarni_organ dza="2018-02-26" dvy="2019-03-08">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-02-26">
+   <are:Clen dza="2018-02-26" dvy="2019-03-08">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21705828</are:ruianKod>
@@ -198,9 +205,9 @@ Jednatel jedná jménem společnosti samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2002-07-15">
+  <are:Jiny_organ dza="2002-07-15" dvy="2019-03-08">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2018-06-30">
+   <are:Clen dza="2018-06-30" dvy="2019-03-08">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>21709149</are:ruianKod>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T04:04:10"
+odpoved_datum_cas="2019-04-08T11:02:38"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>04:04:10</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-08</are:Datum_vypisu>
+   <are:Cas_vypisu>11:02:38</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -29,6 +29,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>505/8</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2003-03-27</are:DatumZapisu>
+   <are:DatumVymazu>2019-04-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z veřejného rejstříku, včetně všech zapsaných skutečností příspěvková organizace Středisko sociálních služeb Městské části Praha 9, identifikační číslo 613 84 941. Právní důvod výmazu příspěvkové organizace z veřejného rejstříku: Rozhodnutí zř
+izovatele o zrušení příspěvkové organizace ke dni 31.3.2019 dle § 27 odst. 9 zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění pozdějších předpisů (usnesení 3. Zastupitelstva městské části Praha 9 č. Us ZMČ 30/19 ze dne 5.3.201
+9). Veškeré činnosti příspěvkové organizace převzal a nadále provozuje ústav Sociální služby Praha 9, z.ú., identifikační číslo 052 58 031.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetCinnosti>
      <are:Text>
@@ -37,9 +45,9 @@ Poskytování součinnosti k plnění úkolů zapsaného ústavu Sociální slu�
     </are:PredmetCinnosti>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2003-03-27">
+  <are:Statutarni_organ dza="2003-03-27" dvy="2019-04-01">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2003-03-27">
+   <are:ZpusobJednani dza="2003-03-27" dvy="2019-04-01">
     <are:Text>
 Jménem právnické osoby samostatně ve smyslu jmenovací listiny
     </are:Text>
@@ -99,7 +107,7 @@ Jménem právnické osoby samostatně ve smyslu jmenovací listiny
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2012-05-31">
+   <are:Clen dza="2012-05-31" dvy="2019-04-01">
     <are:funkce>
      <are:nazev>ředitelka</are:nazev>
      <are:vznikFunkce>2009-05-01</are:vznikFunkce>

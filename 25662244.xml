@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-05-09T10:30:59"
+odpoved_datum_cas="2019-04-03T12:02:32"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-05-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-05-09</are:Datum_vypisu>
-   <are:Cas_vypisu>10:30:59</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-03</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-03</are:Datum_vypisu>
+   <are:Cas_vypisu>12:02:32</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>12</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1998-04-23</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-31</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost FLY TRADE, s.r.o. v likvidaci, se sídlem Táborská 614/12, Nusle, 140 00 Praha 4, IČ: 256 62 244 z obchodního rejstříku. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -42,16 +48,16 @@ zboží uvedeného v příloze 1, 2 a 3 cit. zákona).
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1998-04-23">
+  <are:Statutarni_organ dza="1998-04-23" dvy="2019-03-31">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="1998-04-23">
+   <are:ZpusobJednani dza="1998-04-23" dvy="2019-03-31">
     <are:Text>
 Společnost zastupuje každý z jednatelů samostatně. Podepisování
 za společnost se děje tak, že k obchodnímu jménu společnosti
 připojí kterýkoliv z jednatelů svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="1998-04-23">
+   <are:Clen dza="1998-04-23" dvy="2019-03-31">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22686631</are:ruianKod>
@@ -65,9 +71,9 @@ připojí kterýkoliv z jednatelů svůj podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-05-04">
+  <are:Statutarni_organ dza="2018-05-04" dvy="2019-03-31">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-05-04">
+   <are:Clen dza="2018-05-04" dvy="2019-03-31">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21704945</are:ruianKod>
@@ -87,9 +93,9 @@ připojí kterýkoliv z jednatelů svůj podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1998-04-23">
+  <are:Jiny_organ dza="1998-04-23" dvy="2019-03-31">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="1998-04-23">
+   <are:Clen dza="1998-04-23" dvy="2019-03-31">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22686631</are:ruianKod>
@@ -102,7 +108,7 @@ připojí kterýkoliv z jednatelů svůj podpis.
      <are:prijmeni>Slobodan Petkovic`, nar. 6.9.1960</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="1998-04-23">
+   <are:Clen dza="1998-04-23" dvy="2019-03-31">
     <are:fosoba>
      <are:adresa>
       <are:stat>891</are:stat>
@@ -113,7 +119,7 @@ připojí kterýkoliv z jednatelů svůj podpis.
      <are:prijmeni>Vesna Petkovic`, nar. 17.2.1970</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="1998-04-23">
+   <are:Clen dza="1998-04-23" dvy="2019-03-31">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21771511</are:ruianKod>

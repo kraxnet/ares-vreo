@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T07:53:46"
+odpoved_datum_cas="2019-03-22T10:32:02"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>07:53:46</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:32:02</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -24,9 +24,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:ruianKod>25983164</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>79601</are:psc>
+    <are:okres>Prostějov</are:okres>
     <are:obec>Prostějov</are:obec>
+    <are:castObce>Prostějov</are:castObce>
     <are:ulice>Svatoplukova</are:ulice>
-    <are:cisloTxt>4378/28</are:cisloTxt>
+    <are:cisloPop>4378</are:cisloPop>
+    <are:cisloOr>28</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2005-03-23</are:DatumZapisu>
    <are:Cinnosti>
@@ -124,7 +127,7 @@ u a podnájmu, udělení plné moci právnímu zástupci, jednají jménem spol
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2011-02-23">
+   <are:Clen dza="2011-02-23" dvy="2019-03-19">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2005-03-23</are:vznikFunkce>
@@ -186,23 +189,31 @@ u a podnájmu, udělení plné moci právnímu zástupci, jednají jménem spol
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-03-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24841978</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Šárka</are:ulice>
+      <are:cisloPop>3480</are:cisloPop>
+      <are:cisloOr>17</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>ČÉPE</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2005-03-23">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2005-03-23">
-    <are:posoba>
-     <are:adresa>
-      <are:ruianKod>24840220</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>79601</are:psc>
-      <are:obec>Prostějov</are:obec>
-      <are:ulice>Šárka</are:ulice>
-      <are:cisloTxt>3331/40</are:cisloTxt>
-     </are:adresa>
-     <are:ICO>26236907</are:ICO>
-     <are:ObchodniFirma>společnost s firmou Setura s.r.o.</are:ObchodniFirma>
-    </are:posoba>
-   </are:Clen>
    <are:Clen dza="2016-10-07">
     <are:fosoba>
      <are:adresa>
@@ -236,6 +247,20 @@ u a podnájmu, udělení plné moci právnímu zástupci, jednají jménem spol
      <are:prijmeni>TABERY</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>24840220</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Šárka</are:ulice>
+      <are:cisloTxt>3331/40</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>26236907</are:ICO>
+     <are:ObchodniFirma>Setura s.r.o.</are:ObchodniFirma>
+    </are:posoba>
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

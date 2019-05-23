@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T18:12:16"
+odpoved_datum_cas="2019-03-27T09:59:42"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>18:12:16</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-27</are:Datum_vypisu>
+   <are:Cas_vypisu>09:59:42</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>97</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2008-03-26</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-26</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost Dicont GROUP s.r.o. v likvidaci, IČO: 27353842, sídlem Plzeňská 1270/97, 150 00 Praha 5 z obchodního rejstříku. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -41,14 +47,14 @@ pronájem nemovitostí, bytů a nebytových prostor bez poskytování jiných n
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2008-03-26">
+  <are:Statutarni_organ dza="2008-03-26" dvy="2019-03-26">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2008-03-26" dvy="2009-05-04">
     <are:Text>
 Jménem společnosti jedná jednatel samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2009-05-04">
+   <are:ZpusobJednani dza="2009-05-04" dvy="2019-03-26">
     <are:Text>
 Jednatel jedná jménem společnosti samostatně. Má-li společnost více jednatelů, jednají jménem společnosti každý samostatně. Při podepisování jménem společnosti připojí jednatel k obchodní firmě společnosti svůj podpis.
     </are:Text>
@@ -219,7 +225,7 @@ Jednatel jedná jménem společnosti samostatně. Má-li společnost více jedna
      <are:prijmeni>Némová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-06-22">
+   <are:Clen dza="2016-06-22" dvy="2019-03-26">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2012-11-21</are:vznikFunkce>
@@ -240,9 +246,9 @@ Jednatel jedná jménem společnosti samostatně. Má-li společnost více jedna
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-09-18">
+  <are:Statutarni_organ dza="2018-09-18" dvy="2019-03-26">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-09-18">
+   <are:Clen dza="2018-09-18" dvy="2019-03-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>26031990</are:ruianKod>
@@ -259,9 +265,9 @@ Jednatel jedná jménem společnosti samostatně. Má-li společnost více jedna
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2008-03-26">
+  <are:Jiny_organ dza="2008-03-26" dvy="2019-03-26">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2018-02-19">
+   <are:Clen dza="2018-02-19" dvy="2019-03-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>9863265</are:ruianKod>

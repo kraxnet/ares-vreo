@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T00:02:42"
+odpoved_datum_cas="2019-03-08T10:30:11"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>00:02:42</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-08</are:Datum_vypisu>
+   <are:Cas_vypisu>10:30:11</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -48,72 +48,6 @@ Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
 Každý z jednatelů zastupuje společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2015-05-29">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2015-05-29</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>42032300</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14900</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Háje</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Prašná</are:ulice>
-      <are:cisloPop>980</are:cisloPop>
-      <are:cisloOr>40</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>KHANH THIEN</are:jmeno>
-     <are:prijmeni>LUONG</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-05-29">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2015-05-29</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22624074</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>10000</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Strašnice</are:castObce>
-      <are:mop>Praha 10</are:mop>
-      <are:ulice>V úžlabině</are:ulice>
-      <are:cisloPop>2054</are:cisloPop>
-      <are:cisloOr>12</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>QUOC TUAN</are:jmeno>
-     <are:prijmeni>VU</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-05-29">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2015-05-29</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21827222</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14900</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Chodov</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Květnového vítězství</are:ulice>
-      <are:cisloPop>60</are:cisloPop>
-      <are:cisloOr>13</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>HAI LONG</are:jmeno>
-     <are:prijmeni>LUONG</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2015-05-29" dvy="2015-05-29">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -136,28 +70,12 @@ Každý z jednatelů zastupuje společnost samostatně.
      <are:prijmeni>LUONG</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2015-05-29">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-05-29">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21827222</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14900</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Chodov</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Květnového vítězství</are:ulice>
-      <are:cisloPop>60</are:cisloPop>
-      <are:cisloOr>13</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>HAI LONG</are:jmeno>
-     <are:prijmeni>LUONG</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-05-29">
+   <are:Clen dza="2015-05-29" dvy="2019-03-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-05-29</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-11</are:zanikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>42032300</are:ruianKod>
@@ -175,6 +93,121 @@ Každý z jednatelů zastupuje společnost samostatně.
      <are:prijmeni>LUONG</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2015-05-29" dvy="2019-03-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-05-29</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22624074</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Strašnice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>V úžlabině</are:ulice>
+      <are:cisloPop>2054</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>QUOC TUAN</are:jmeno>
+     <are:prijmeni>VU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-29" dvy="2019-03-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-05-29</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21827222</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Květnového vítězství</are:ulice>
+      <are:cisloPop>60</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HAI LONG</are:jmeno>
+     <are:prijmeni>LUONG</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21838631</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Doubravická</are:ulice>
+      <are:cisloPop>1311</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VAN PHONG</are:jmeno>
+     <are:prijmeni>VU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21841284</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Mikulova</are:ulice>
+      <are:cisloPop>1574</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VAN MINH</are:jmeno>
+     <are:prijmeni>NGUYEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21844780</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Klírova</are:ulice>
+      <are:cisloPop>1920</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DUC VUONG</are:jmeno>
+     <are:prijmeni>HA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2015-05-29">
+   <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2015-05-29">
     <are:fosoba>
      <are:adresa>
@@ -196,42 +229,6 @@ Každý z jednatelů zastupuje společnost samostatně.
    <are:Clen dza="2015-05-29">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>22624074</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>10000</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Strašnice</are:castObce>
-      <are:mop>Praha 10</are:mop>
-      <are:ulice>V úžlabině</are:ulice>
-      <are:cisloPop>2054</are:cisloPop>
-      <are:cisloOr>12</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>QUOC TUAN</are:jmeno>
-     <are:prijmeni>VU</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-05-29">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21836329</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14900</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Chodov</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Leopoldova</are:ulice>
-      <are:cisloPop>946</are:cisloPop>
-      <are:cisloOr>1</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>VAN PHONG</are:jmeno>
-     <are:prijmeni>VU</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-05-29">
-    <are:fosoba>
-     <are:adresa>
       <are:ruianKod>21831343</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>14900</are:psc>
@@ -245,77 +242,6 @@ Každý z jednatelů zastupuje společnost samostatně.
      </are:adresa>
      <are:jmeno>DUC TUYEN</are:jmeno>
      <are:prijmeni>LUONG</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-05-29">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21836329</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14900</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Chodov</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Leopoldova</are:ulice>
-      <are:cisloPop>946</are:cisloPop>
-      <are:cisloOr>1</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>VAN QUANG</are:jmeno>
-     <are:prijmeni>PHAM</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-05-29">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22536761</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>19017</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Vinoř</are:castObce>
-      <are:mop>Praha 9</are:mop>
-      <are:ulice>Mladoboleslavská</are:ulice>
-      <are:cisloPop>82</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>VAN HOC</are:jmeno>
-     <are:prijmeni>NGUYEN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-05-29">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>42032300</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14900</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Háje</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Prašná</are:ulice>
-      <are:cisloPop>980</are:cisloPop>
-      <are:cisloOr>40</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>THI NINH GIANG</are:jmeno>
-     <are:prijmeni>DOAN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-05-29">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21827222</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14900</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Chodov</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Květnového vítězství</are:ulice>
-      <are:cisloPop>60</are:cisloPop>
-      <are:cisloOr>13</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>THI HONG LAN</are:jmeno>
-     <are:prijmeni>NGUYEN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2015-05-29">
@@ -352,6 +278,132 @@ Každý z jednatelů zastupuje společnost samostatně.
      </are:adresa>
      <are:jmeno>HONG VAN</are:jmeno>
      <are:prijmeni>VU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>77529529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malešice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Malešická</are:ulice>
+      <are:cisloPop>713</are:cisloPop>
+      <are:cisloOr>115</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>QUOC TUAN</are:jmeno>
+     <are:prijmeni>VU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21838631</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Doubravická</are:ulice>
+      <are:cisloPop>1311</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VAN PHONG</are:jmeno>
+     <are:prijmeni>VU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22279865</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Veleslavín</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Za vokovickou vozovnou</are:ulice>
+      <are:cisloPop>23</are:cisloPop>
+      <are:cisloOr>2a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VAN QUANG</are:jmeno>
+     <are:prijmeni>PHAM</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21742294</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Varšavská</are:ulice>
+      <are:cisloPop>290</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VAN THIEU</are:jmeno>
+     <are:prijmeni>NGUYEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21844780</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Klírova</are:ulice>
+      <are:cisloPop>1920</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DUC VUONG</are:jmeno>
+     <are:prijmeni>HA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>42032300</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Háje</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Prašná</are:ulice>
+      <are:cisloPop>980</are:cisloPop>
+      <are:cisloOr>40</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANG TRUNG</are:jmeno>
+     <are:prijmeni>LUONG</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21841284</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Mikulova</are:ulice>
+      <are:cisloPop>1574</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VAN MINH</are:jmeno>
+     <are:prijmeni>NGUYEN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

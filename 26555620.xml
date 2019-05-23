@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-02-22T10:57:28"
+odpoved_datum_cas="2019-03-14T12:42:43"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
-   <are:Cas_vypisu>10:57:28</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-14</are:Datum_vypisu>
+   <are:Cas_vypisu>12:42:43</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -154,31 +154,6 @@ Předseda představenstva spolku a v jeho nepřítomnosti či z jeho pověření
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>22499857</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>19000</are:psc>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Libeň</are:castObce>
-      <are:mop>Praha 9</are:mop>
-      <are:ulice>Drahobejlova</are:ulice>
-      <are:cisloPop>1600</are:cisloPop>
-      <are:cisloOr>37</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ANTONÍN</are:jmeno>
-     <are:prijmeni>LOJEK</are:prijmeni>
-     <are:titulPred>JUDr.</are:titulPred>
-     <are:titulZa>Ph.D.</are:titulZa>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-09-05">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-06-30</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
       <are:ruianKod>6560903</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>25401</are:psc>
@@ -190,6 +165,31 @@ Předseda představenstva spolku a v jeho nepřítomnosti či z jeho pověření
      <are:jmeno>JAKUB</are:jmeno>
      <are:prijmeni>RAZIM</are:prijmeni>
      <are:titulPred>PhDr. Mgr.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-06-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16842812</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41002</are:psc>
+      <are:okres>Litoměřice</are:okres>
+      <are:obec>Lovosice</are:obec>
+      <are:castObce>Lovosice</are:castObce>
+      <are:ulice>Terezínská</are:ulice>
+      <are:cisloPop>296</are:cisloPop>
+      <are:cisloOr>36</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANTONÍN</are:jmeno>
+     <are:prijmeni>LOJEK</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
      <are:titulZa>Ph.D.</are:titulZa>
     </are:fosoba>
    </are:Clen>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-03-01T13:41:50"
+odpoved_datum_cas="2019-03-22T10:38:32"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-03-01</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-03-01</are:Datum_vypisu>
-   <are:Cas_vypisu>13:41:50</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:38:32</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -112,54 +112,6 @@ konzervace a speciální analýzy archeologických nálezů
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2013-03-19">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2016-05-06">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-01-14</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda dozorčí rady</are:nazev>
-     <are:vznikFunkce>2016-01-14</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>5083893</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>43401</are:psc>
-      <are:okres>Most</are:okres>
-      <are:obec>Most</are:obec>
-      <are:castObce>Most</are:castObce>
-      <are:ulice>K. H. Borovského</are:ulice>
-      <are:cisloPop>133</are:cisloPop>
-      <are:cisloOr>9</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>ŠLAJSNA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-05-06">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-01-14</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22395539</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>18200</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Střížkov</are:castObce>
-      <are:mop>Praha 8</are:mop>
-      <are:ulice>Červenkova</are:ulice>
-      <are:cisloPop>524</are:cisloPop>
-      <are:cisloOr>8</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>KAREL</are:jmeno>
-     <are:prijmeni>SVOBODA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-09-15">
     <are:clenstvi>
      <are:vznikClenstvi>2016-07-21</are:vznikClenstvi>
@@ -182,55 +134,58 @@ konzervace a speciální analýzy archeologických nálezů
      <are:prijmeni>MÄRC</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2019-01-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5083893</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:okres>Most</are:okres>
+      <are:obec>Most</are:obec>
+      <are:castObce>Most</are:castObce>
+      <are:ulice>K. H. Borovského</are:ulice>
+      <are:cisloPop>133</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>ŠLAJSNA</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22395539</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Střížkov</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Červenkova</are:ulice>
+      <are:cisloPop>524</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>SVOBODA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="2013-03-19">
    <are:Nazev>Správní rada</are:Nazev>
-   <are:Clen dza="2016-05-06">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-01-14</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>8676011</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>38101</are:psc>
-      <are:okres>Český Krumlov</are:okres>
-      <are:obec>Český Krumlov</are:obec>
-      <are:castObce>Nádražní Předměstí</are:castObce>
-      <are:ulice>Za Nádražím</are:ulice>
-      <are:cisloPop>213</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>KAREL</are:jmeno>
-     <are:prijmeni>KAŠÁK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-02-08">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-01-14</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda správní rady</are:nazev>
-     <are:vznikFunkce>2016-01-14</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23320001</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>77900</are:psc>
-      <are:okres>Olomouc</are:okres>
-      <are:obec>Olomouc</are:obec>
-      <are:castObce>Olomouc</are:castObce>
-      <are:ulice>Panská</are:ulice>
-      <are:cisloPop>175</are:cisloPop>
-      <are:cisloOr>4</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>PETER</are:jmeno>
-     <are:prijmeni>KOVÁČIK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2019-02-27">
     <are:clenstvi>
      <are:vznikClenstvi>2017-08-21</are:vznikClenstvi>
@@ -252,6 +207,55 @@ konzervace a speciální analýzy archeologických nálezů
      </are:adresa>
      <are:jmeno>VÍT</are:jmeno>
      <are:prijmeni>HADRAVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda správní rady</are:nazev>
+     <are:vznikFunkce>2019-01-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23320001</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>Panská</are:ulice>
+      <are:cisloPop>175</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETER</are:jmeno>
+     <are:prijmeni>KOVÁČIK</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8676011</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38101</are:psc>
+      <are:okres>Český Krumlov</are:okres>
+      <are:obec>Český Krumlov</are:obec>
+      <are:castObce>Nádražní Předměstí</are:castObce>
+      <are:ulice>Za Nádražím</are:ulice>
+      <are:cisloPop>213</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>KAŠÁK</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

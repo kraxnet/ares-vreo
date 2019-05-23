@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-14T15:49:29"
+odpoved_datum_cas="2019-04-02T11:15:41"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-14</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-14</are:Datum_vypisu>
-   <are:Cas_vypisu>15:49:29</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-04-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-04-02</are:Datum_vypisu>
+   <are:Cas_vypisu>11:15:41</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -60,7 +60,7 @@ nebo převzetí ručitelského závazku,
 jednají a podepisují jménem společnosti vždy všichni její jednatelé společně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-08-22">
+   <are:ZpusobJednani dza="2014-08-22" dvy="2019-03-27">
     <are:Text>
 Způsob jednání za společnost:
 Jménem společnosti jedná každý jednatel v plném rozsahu samostatně.
@@ -73,6 +73,18 @@ nebo převzetí ručitelského závazku,
 jednají a podepisují jménem společnosti vždy všichni její jednatelé společně.
  
 Počet členů statutárního orgánu: 3
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-27">
+    <are:Text>
+Jednatel zastupuje společnost samostatně. Je-li předmětem právního jednání:
+- nabývání či převod nemovitých věcí;
+- uzavření smlouvy o úvěru, zápůjčce či jiné obdobné smlouvy ohledně závazku převyšujícího 100.000,- Kč,
+- uzavření smlouvy o prodeji  závodu či jeho části, smlouvy o pachtu závodu;
+- rozhodnutí o kapitálové účasti společnosti v jiných právnických osobách;
+- uzavření zástavní smlouvy týkající se majetku společnosti a jiných smluv, jimiž jsou nemovitosti v majetku společnosti zatěžovány věcnými právy;
+- převzetí ručitelského závazku;
+zastupují společnost vždy všichni její jednatelé společně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2012-04-18" dvy="2014-08-22">
@@ -150,10 +162,11 @@ Počet členů statutárního orgánu: 3
      <are:prijmeni>MATHIAS</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-06-02">
+   <are:Clen dza="2017-06-02" dvy="2019-03-27">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2013-08-12</are:vznikFunkce>
+     <are:zanikFunkce>2019-03-26</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -169,6 +182,47 @@ Počet členů statutárního orgánu: 3
      </are:adresa>
      <are:jmeno>MILAN</are:jmeno>
      <are:prijmeni>NĚMEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-03-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4323416</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74901</are:psc>
+      <are:okres>Opava</are:okres>
+      <are:obec>Vítkov</are:obec>
+      <are:castObce>Vítkov</are:castObce>
+      <are:ulice>Fučíkova</are:ulice>
+      <are:cisloPop>383</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>KOŠŤÁL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-03-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26066483</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74901</are:psc>
+      <are:okres>Opava</are:okres>
+      <are:obec>Vítkov</are:obec>
+      <are:castObce>Vítkov</are:castObce>
+      <are:ulice>Skřivánčí pole</are:ulice>
+      <are:cisloPop>972</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ANTONÍN</are:jmeno>
+     <are:prijmeni>GAZDÍK</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -202,22 +256,39 @@ Počet členů statutárního orgánu: 3
      <are:prijmeni>FRACKOWIAK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-06-02">
+   <are:Clen dza="2019-03-27">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>4504623</are:ruianKod>
+      <are:ruianKod>4323416</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>74601</are:psc>
+      <are:psc>74901</are:psc>
       <are:okres>Opava</are:okres>
-      <are:obec>Opava</are:obec>
-      <are:castObce>Město</are:castObce>
-      <are:ulice>U Jaktařské brány</are:ulice>
-      <are:cisloPop>153</are:cisloPop>
-      <are:cisloOr>2</are:cisloOr>
+      <are:obec>Vítkov</are:obec>
+      <are:castObce>Vítkov</are:castObce>
+      <are:ulice>Fučíkova</are:ulice>
+      <are:cisloPop>383</are:cisloPop>
      </are:adresa>
-     <are:jmeno>MILAN</are:jmeno>
-     <are:prijmeni>NĚMEC</are:prijmeni>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>KOŠŤÁL</are:prijmeni>
     </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-27">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21709149</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Revoluční</are:ulice>
+      <are:cisloPop>1082</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:ICO>06860818</are:ICO>
+     <are:ObchodniFirma>Simply You Vision, a. s.</are:ObchodniFirma>
+    </are:posoba>
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>
