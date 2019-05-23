@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T03:45:30"
+odpoved_datum_cas="2019-02-28T12:33:35"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>03:45:30</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:33:35</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,41 +33,29 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-činnost podnikatelských, finančních, organizačních a
-ekonomických poradců
-     </are:Text>
-     <are:Text>
-pořádání odborných kurzů, školení a jiných vzdělávacích akcí
-včetně lektorské činnosti
-     </are:Text>
-     <are:Text>
-zprostředkování obchodu
-     </are:Text>
-     <are:Text>
-zprostředkování služeb
-     </are:Text>
-     <are:Text>
-velkoobchod
-     </are:Text>
-     <are:Text>
-specializovaný maloobchod
-     </are:Text>
-     <are:Text>
-maloobchod motorovými vozidly a jejich příslušenstvím
-     </are:Text>
-     <are:Text>
 oceňování majetku pro věci movité
+     </are:Text>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+činnosti samostatného zprostředkovatele dle zákona o distribuci pojištění a zajištění
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2001-01-05">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2001-01-05">
+   <are:ZpusobJednani dza="2001-01-05" dvy="2019-02-25">
     <are:Text>
 Jednatel jedná jménem společnosti samostatně a podepisuje se
 tak, že k napsané nebo vytištěné formě společnosti připojí svůj
 podpis s označením &quot;jednatel&quot;.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-25">
+    <are:Text>
+Jednatelé jsou oprávněni jednat za společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2001-01-05" dvy="2016-12-07">
@@ -161,10 +149,11 @@ podpis s označením &quot;jednatel&quot;.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-12-07">
+   <are:Clen dza="2016-12-07" dvy="2019-02-25">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2001-10-03</are:vznikFunkce>
+     <are:zanikFunkce>2018-10-10</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -180,15 +169,17 @@ podpis s označením &quot;jednatel&quot;.
      <are:prijmeni>TROJANOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2001-01-05">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2013-04-16">
+   <are:Clen dza="2019-02-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2018-10-10</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>16397002</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>26263</are:psc>
+      <are:okres>Příbram</are:okres>
       <are:obec>Kamýk nad Vltavou</are:obec>
       <are:castObce>Kamýk nad Vltavou</are:castObce>
       <are:cisloPop>11</are:cisloPop>
@@ -197,6 +188,9 @@ podpis s označením &quot;jednatel&quot;.
      <are:prijmeni>TROJAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-01-05">
+   <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2016-12-07">
     <are:fosoba>
      <are:adresa>
@@ -211,6 +205,21 @@ podpis s označením &quot;jednatel&quot;.
      <are:jmeno>MILOŠ</are:jmeno>
      <are:prijmeni>TROJAN</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16397002</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26263</are:psc>
+      <are:okres>Příbram</are:okres>
+      <are:obec>Kamýk nad Vltavou</are:obec>
+      <are:castObce>Kamýk nad Vltavou</are:castObce>
+      <are:cisloPop>11</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOŠ</are:jmeno>
+     <are:prijmeni>TROJAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

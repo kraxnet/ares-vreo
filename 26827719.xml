@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-01-04T21:41:15"
+odpoved_datum_cas="2019-02-22T11:25:15"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-01-04</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-01-04</are:Datum_vypisu>
-   <are:Cas_vypisu>21:41:15</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:25:15</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -588,9 +588,10 @@ Za společnost jedná představenstvo navenek tak, že jednají společně vždy
      <are:titulPred>PhDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-06-09">
+   <are:Clen dza="2017-06-09" dvy="2019-02-16">
     <are:clenstvi>
      <are:vznikClenstvi>2017-03-29</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-10-12</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
@@ -658,6 +659,30 @@ Za společnost jedná představenstvo navenek tak, že jednají společně vždy
      </are:adresa>
      <are:jmeno>MICHAELA</are:jmeno>
      <are:prijmeni>BACHORÍKOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3385779</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>72100</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Svinov</are:castObce>
+      <are:ulice>Polanecká</are:ulice>
+      <are:cisloPop>68</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>FILIPOVÁ</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
@@ -790,52 +815,6 @@ Za společnost jedná představenstvo navenek tak, že jednají společně vždy
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>20425473</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73801</are:psc>
-      <are:okres>Frýdek-Místek</are:okres>
-      <are:obec>Frýdek-Místek</are:obec>
-      <are:castObce>Frýdek</are:castObce>
-      <are:ulice>Jiráskova</are:ulice>
-      <are:cisloPop>457</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>VZIENTEK</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-03-25">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-12-22</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>26691108</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73601</are:psc>
-      <are:okres>Karviná</are:okres>
-      <are:obec>Havířov</are:obec>
-      <are:castObce>Životice</are:castObce>
-      <are:ulice>Přátelství</are:ulice>
-      <are:cisloPop>264</are:cisloPop>
-      <are:cisloOr>2c</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>VOJTĚCH</are:jmeno>
-     <are:prijmeni>FILSÁK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-03-25">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-12-22</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
       <are:ruianKod>8268495</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>74251</are:psc>
@@ -872,6 +851,52 @@ Za společnost jedná představenstvo navenek tak, že jednají společně vždy
      <are:prijmeni>UNUCKA</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
      <are:titulZa>MBA</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20438141</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73801</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Frýdek-Místek</are:obec>
+      <are:castObce>Frýdek</are:castObce>
+      <are:ulice>tř. T. G. Masaryka</are:ulice>
+      <are:cisloPop>2320</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARCEL</are:jmeno>
+     <are:prijmeni>SIKORA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>78057523</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74714</are:psc>
+      <are:okres>Opava</are:okres>
+      <are:obec>Ludgeřovice</are:obec>
+      <are:castObce>Ludgeřovice</are:castObce>
+      <are:ulice>Nová</are:ulice>
+      <are:cisloPop>1516</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANIEL</are:jmeno>
+     <are:prijmeni>HAVLÍK</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

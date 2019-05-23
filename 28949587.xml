@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-09-25T16:24:18"
+odpoved_datum_cas="2019-02-22T11:03:17"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-09-25</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-09-25</are:Datum_vypisu>
-   <are:Cas_vypisu>16:24:18</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:03:18</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -71,7 +71,12 @@ s poskytováním investičních nebo doplňkových služeb.
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2009-08-24">
    <are:Nazev>Statutární orgán zřizovatele - zahraniční osoby</are:Nazev>
-   <are:Clen dza="2009-08-24">
+   <are:ZpusobJednani dza="2019-02-15">
+    <are:Text>
+Společnost podepisuje celá rada ředitelů nebo jeden člen manažerské rady spolu s předsedou nebo místopředsedou rady ředitelů.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2009-08-24" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>předseda představenstva</are:nazev>
     </are:funkce>
@@ -84,7 +89,7 @@ s poskytováním investičních nebo doplňkových služeb.
      <are:prijmeni>Thufason</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-08-24">
+   <are:Clen dza="2009-08-24" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
     </are:funkce>
@@ -96,7 +101,7 @@ s poskytováním investičních nebo doplňkových služeb.
      <are:prijmeni>Dionysios Nicolaos Matamatinas</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-08-24">
+   <are:Clen dza="2009-08-24" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
     </are:funkce>
@@ -108,7 +113,7 @@ s poskytováním investičních nebo doplňkových služeb.
      <are:prijmeni>Julian Michael Simmonds</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-08-24">
+   <are:Clen dza="2009-08-24" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
     </are:funkce>
@@ -120,7 +125,7 @@ s poskytováním investičních nebo doplňkových služeb.
      <are:prijmeni>Florian Wendelstadt</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-08-24">
+   <are:Clen dza="2009-08-24" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
     </are:funkce>
@@ -130,6 +135,124 @@ s poskytováním investičních nebo doplňkových služeb.
       <are:text>Vedbaek, Trorod, Nyvangledet 3</are:text>
      </are:adresa>
      <are:prijmeni>John Korso Jensen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>člen manažerské rady (CEO)</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>208</are:stat>
+      <are:psc>2850</are:psc>
+      <are:obec>N rum</are:obec>
+      <are:ulice>Skodsborgvej 242 A</are:ulice>
+     </are:adresa>
+     <are:jmeno>KIM</are:jmeno>
+     <are:prijmeni>FOURNAIS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>člen manažerské rady (COO)</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>208</are:stat>
+      <are:psc>2830</are:psc>
+      <are:obec>Virum</are:obec>
+      <are:ulice>Fures vej 137 A</are:ulice>
+     </are:adresa>
+     <are:jmeno>S REN</are:jmeno>
+     <are:prijmeni>KYHL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>člen manažerské rady (CFRO)</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>208</are:stat>
+      <are:psc>2950</are:psc>
+      <are:obec>Vedb k</are:obec>
+      <are:ulice>Vedb k Strandvej 361</are:ulice>
+     </are:adresa>
+     <are:jmeno>STEEN</are:jmeno>
+     <are:prijmeni>BLAAFALK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>předseda rady ředitelů</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>156</are:stat>
+      <are:obec>Peking, Čchao-jang</are:obec>
+      <are:ulice>Wangjing Xiyuan č. 1006, budova 411, blok 4</are:ulice>
+     </are:adresa>
+     <are:jmeno>DONGHUI</are:jmeno>
+     <are:prijmeni>LI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>místopředseda rady ředitelů</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>246</are:stat>
+      <are:psc>FIN-00171</are:psc>
+      <are:obec>Helsinky</are:obec>
+      <are:ulice>Fabianinkatu 34, P.O.Box 249</are:ulice>
+     </are:adresa>
+     <are:jmeno>HENRIK MICHAEL</are:jmeno>
+     <are:prijmeni>NORMANN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>člen rady ředitelů</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>246</are:stat>
+      <are:psc>FI-00330</are:psc>
+      <are:obec>Helsinky</are:obec>
+      <are:ulice>Ritokalliontie 1, As 6</are:ulice>
+     </are:adresa>
+     <are:jmeno>JOHN PATRICK STURE</are:jmeno>
+     <are:prijmeni>LAPVETELÄINEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>člen rady ředitelů</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>344</are:stat>
+      <are:obec>Hongkong</are:obec>
+      <are:ulice>Ka Lung Court, Aberdeen, byt 1409, 14/F, blok D</are:ulice>
+     </are:adresa>
+     <are:jmeno>YI IAN</are:jmeno>
+     <are:prijmeni>ZHANG</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>člen rady ředitelů</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>208</are:stat>
+      <are:psc>2840</are:psc>
+      <are:obec>Holte</are:obec>
+      <are:ulice>Tesch Alle 11</are:ulice>
+     </are:adresa>
+     <are:jmeno>PREBEN DAMGAARD</are:jmeno>
+     <are:prijmeni>NIELSEN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

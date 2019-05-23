@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T23:11:42"
+odpoved_datum_cas="2019-02-28T12:33:21"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>23:11:42</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:33:21</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -31,8 +31,7 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
 Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
      <are:Text>
-Zprostředkovatelská činnost v obchodě, v investiční výstavbě a
-ve strojírenství
+Zprostředkovatelská činnost v obchodě, v investiční výstavbě a ve strojírenství
      </are:Text>
      <are:Text>
 Živočišná a rostlinná výroba
@@ -44,11 +43,7 @@ ve strojírenství
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2001-03-02" dvy="2014-06-17">
     <are:Text>
-Způsob jednání za společnost:
-Společnost zastupují a jednají jejím jménem jednatelé, každý
-samostatně. Podepisování za společnost se děje tak, že k
-vytištěnému či napsanému názvu společnosti připojí svůj podpis
-jeden z jednatelů společnosti.
+Společnost zastupují a jednají jejím jménem jednatelé, každý samostatně. Podepisování za společnost se děje tak, že k vytištěnému či napsanému názvu společnosti připojí svůj podpis jeden z jednatelů společnosti.
     </are:Text>
    </are:ZpusobJednani>
    <are:ZpusobJednani dza="2014-06-17">
@@ -56,24 +51,6 @@ jeden z jednatelů společnosti.
 Statutárním orgánem společnosti jsou tři jednatelé. Každý z jednatelů zastupuje společnost samostatně. Podepisování za společnost se děje tak, že k vytištěné nebo vypsané firmě společnosti připojí jednatel svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2001-03-02">
-    <are:funkce>
-     <are:nazev>Jednatel</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>53501</are:psc>
-      <are:obec>Přelouč</are:obec>
-      <are:ulice>Valy</are:ulice>
-      <are:cisloTxt>4</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Jaroslav</are:jmeno>
-     <are:prijmeni>Zima</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2001-03-02" dvy="2014-01-11">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
@@ -110,49 +87,12 @@ Statutárním orgánem společnosti jsou tři jednatelé. Každý z jednatelů z
      <are:prijmeni>Jirka</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-01-11">
+   <are:Clen dza="2001-03-02" dvy="2019-02-25">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>7709145</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>53002</are:psc>
-      <are:obec>Pardubice</are:obec>
-      <are:castObce>Zelené Předměstí</are:castObce>
-      <are:ulice>Jindřišská</are:ulice>
-      <are:cisloPop>2041</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PAVEL</are:jmeno>
-     <are:prijmeni>NEVEČEŘAL</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-06-24">
-    <are:funkce>
-     <are:nazev>Jednatel</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>7714351</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>53002</are:psc>
-      <are:obec>Pardubice</are:obec>
-      <are:castObce>Zelené Předměstí</are:castObce>
-      <are:ulice>Boženy Vikové-Kunětické</are:ulice>
-      <are:cisloPop>2569</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>MIROSLAV</are:jmeno>
-     <are:prijmeni>JIRKA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2001-03-02">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2001-03-02">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>53501</are:psc>
       <are:obec>Přelouč</are:obec>
@@ -165,6 +105,64 @@ Statutárním orgánem společnosti jsou tři jednatelé. Každý z jednatelů z
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2014-01-11">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7709145</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>Jindřišská</are:ulice>
+      <are:cisloPop>2041</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>NEVEČEŘAL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-06-24">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7714351</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>Boženy Vikové-Kunětické</are:ulice>
+      <are:cisloPop>2569</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>JIRKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-25">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7640129</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53501</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Valy</are:obec>
+      <are:castObce>Valy</are:castObce>
+      <are:cisloPop>4</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>ZIMA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-03-02">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2014-01-11">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>7709145</are:ruianKod>
@@ -192,6 +190,22 @@ Statutárním orgánem společnosti jsou tři jednatelé. Každý z jednatelů z
      </are:adresa>
      <are:jmeno>MIROSLAV</are:jmeno>
      <are:prijmeni>JIRKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7640129</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53501</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Valy</are:obec>
+      <are:castObce>Valy</are:castObce>
+      <are:cisloPop>4</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>ZIMA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

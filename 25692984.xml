@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-09T15:55:37"
+odpoved_datum_cas="2019-02-22T11:02:21"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-09</are:Datum_vypisu>
-   <are:Cas_vypisu>15:55:37</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:02:21</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>4</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1998-09-08</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-14</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Z obchodního rejstříku se vymazává společnost VM - TRACK, společnost s ručením omzeným v likvidaci, se sídlem K Václavce 1238/4, 148 00 Praha 4, IČ: 25692984, spisová značka: C  61721, včetně všech zapsaných skutečností. Výmaz obchodní společnosti na zákl
+adě ustanovení § 82 odst. 1 zákona č. 304/2013 Sb. O veřejných rejstřících právnických a fyzických osob.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -42,9 +49,9 @@ poskytování základních služeb spojených s pronájmem
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1998-09-08">
+  <are:Statutarni_organ dza="1998-09-08" dvy="2019-02-14">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="1998-09-08">
+   <are:ZpusobJednani dza="1998-09-08" dvy="2019-02-14">
     <are:Text>
 Způsob jednání za společnost: Jednatel je oprávněn jednat jménem
 společnosti samostatně v plném rozsahu. Podepisování za
@@ -85,7 +92,7 @@ obchodnímu jménu společnosti připojí jednatel svůj podpis.
      <are:prijmeni>Steblev</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-12-08">
+   <are:Clen dza="2016-12-08" dvy="2019-02-14">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
     </are:funkce>
@@ -102,9 +109,9 @@ obchodnímu jménu společnosti připojí jednatel svůj podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-03-23">
+  <are:Statutarni_organ dza="2018-03-23" dvy="2019-02-14">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-03-23">
+   <are:Clen dza="2018-03-23" dvy="2019-02-14">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>17796245</are:ruianKod>
@@ -123,9 +130,9 @@ obchodnímu jménu společnosti připojí jednatel svůj podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1998-09-08">
+  <are:Jiny_organ dza="1998-09-08" dvy="2019-02-14">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="1998-09-08">
+   <are:Clen dza="1998-09-08" dvy="2019-02-14">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -137,7 +144,7 @@ obchodnímu jménu společnosti připojí jednatel svůj podpis.
      <are:prijmeni>Kirpitchnikova</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="1998-09-08">
+   <are:Clen dza="1998-09-08" dvy="2019-02-14">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -149,7 +156,7 @@ obchodnímu jménu společnosti připojí jednatel svůj podpis.
      <are:prijmeni>Kirpitchnikov</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="1998-09-08">
+   <are:Clen dza="1998-09-08" dvy="2019-02-14">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -161,7 +168,7 @@ obchodnímu jménu společnosti připojí jednatel svůj podpis.
      <are:prijmeni>Litvinenko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="1998-09-08">
+   <are:Clen dza="1998-09-08" dvy="2019-02-14">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -173,7 +180,7 @@ obchodnímu jménu společnosti připojí jednatel svůj podpis.
      <are:prijmeni>Litvinenko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="1998-09-08">
+   <are:Clen dza="1998-09-08" dvy="2019-02-14">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T03:21:36"
+odpoved_datum_cas="2019-02-28T12:45:27"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>03:21:36</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:45:27</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -34,14 +34,26 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:Text>
 Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
+     <are:Text>
+Pronájem nemovitých věcí, bytů a nebytových prostor
+     </are:Text>
+     <are:Text>
+Správa vlastního majetku, včetně kapitálových účastí
+     </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2007-01-12">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2007-01-12">
+   <are:ZpusobJednani dza="2007-01-12" dvy="2019-02-26">
     <are:Text>
 Jménem společnosti jedná jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-26">
+    <are:Text>
+Každý jednatel jedná za společnost samostatně ve všech záležitostech, jejíchž hodnota nepřesahuje částku 5.000.000,-Kč. V záležitostech, jejichž hodnota přesahuje částku 5.000.000,-Kč, nebo jejichž předmětem je vystavení směnky společností (jako jejím výs
+tavcem), převzetí cizích nebo ručitelských závazků v jakékoliv formě, včetně směnečného ručení, jednají za společnost vždy nejméně 2 jednatelé společně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2007-01-12" dvy="2009-08-11">
@@ -63,25 +75,6 @@ Jménem společnosti jedná jednatel samostatně.
      <are:prijmeni>Nevřala</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-08-11">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-07-23</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23380764</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>37004</are:psc>
-      <are:obec>České Budějovice</are:obec>
-      <are:ulice>Holečkova</are:ulice>
-      <are:cisloTxt>2538/5</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Jan</are:jmeno>
-     <are:prijmeni>Stejskal</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2009-08-11" dvy="2009-11-18">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -101,10 +94,12 @@ Jménem společnosti jedná jednatel samostatně.
      <are:prijmeni>Navrátil</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2007-01-12">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2009-11-18">
+   <are:Clen dza="2009-08-11" dvy="2019-02-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-07-23</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-26</are:zanikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>23380764</are:ruianKod>
@@ -119,6 +114,74 @@ Jménem společnosti jedná jednatel samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23380764</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37004</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 3</are:castObce>
+      <are:ulice>Holečkova</are:ulice>
+      <are:cisloPop>2538</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>STEJSKAL</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17601568</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37341</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>Hluboká nad Vltavou</are:obec>
+      <are:castObce>Hluboká nad Vltavou</are:castObce>
+      <are:ulice>Švermova</are:ulice>
+      <are:cisloPop>830</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ALEŠ</are:jmeno>
+     <are:prijmeni>MÁROVEC</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28289404</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37008</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 6</are:castObce>
+      <are:ulice>Jasmínová</are:ulice>
+      <are:cisloPop>1834</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>STEJSKAL</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2007-01-12">
+   <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2017-02-08">
     <are:fosoba>
      <are:adresa>
@@ -133,6 +196,42 @@ Jménem společnosti jedná jednatel samostatně.
      </are:adresa>
      <are:jmeno>ALEŠ</are:jmeno>
      <are:prijmeni>MÁROVEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23380764</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37004</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 3</are:castObce>
+      <are:ulice>Holečkova</are:ulice>
+      <are:cisloPop>2538</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>STEJSKAL</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28289404</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37008</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 6</are:castObce>
+      <are:ulice>Jasmínová</are:ulice>
+      <are:cisloPop>1834</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>STEJSKAL</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

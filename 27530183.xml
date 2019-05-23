@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T01:54:31"
+odpoved_datum_cas="2019-02-22T11:02:46"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>01:54:32</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:02:46</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -235,6 +235,27 @@ Jménem společnosti navenek jedná předseda představenstva samostatně.
    </are:Clen>
    <are:Clen dza="2015-11-24">
     <are:clenstvi>
+     <are:vznikClenstvi>2012-08-09</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12603333</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29402</are:psc>
+      <are:obec>Kněžmost</are:obec>
+      <are:castObce>Kněžmost</are:castObce>
+      <are:ulice>Za Sokolovnou</are:ulice>
+      <are:cisloPop>94</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>DRAGON</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-24" dvy="2019-02-15">
+    <are:clenstvi>
      <are:vznikClenstvi>2008-01-16</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
@@ -255,25 +276,29 @@ Jménem společnosti navenek jedná předseda představenstva samostatně.
      <are:titulZa>DiS.</are:titulZa>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-11-24">
+   <are:Clen dza="2019-02-15">
     <are:clenstvi>
-     <are:vznikClenstvi>2012-08-09</are:vznikClenstvi>
+     <are:vznikClenstvi>2008-01-16</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>12603333</are:ruianKod>
+      <are:ruianKod>21953261</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>29402</are:psc>
-      <are:obec>Kněžmost</are:obec>
-      <are:castObce>Kněžmost</are:castObce>
-      <are:ulice>Za Sokolovnou</are:ulice>
-      <are:cisloPop>94</are:cisloPop>
+      <are:psc>14000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nusle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Boleslavova</are:ulice>
+      <are:cisloPop>1528</are:cisloPop>
+      <are:cisloOr>26</are:cisloOr>
      </are:adresa>
-     <are:jmeno>TOMÁŠ</are:jmeno>
-     <are:prijmeni>DRAGON</are:prijmeni>
+     <are:jmeno>JARMILA</are:jmeno>
+     <are:prijmeni>HENDRYCHOVÁ</are:prijmeni>
+     <are:titulZa>DiS.</are:titulZa>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

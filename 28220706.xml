@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T17:02:00"
+odpoved_datum_cas="2019-02-22T11:12:52"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>17:02:00</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:12:52</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -30,6 +30,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>1121/5</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2008-01-14</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-16</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost EU URAL s.r.o. v likvidaci , se sídlem Trytova 1121/5, 190 00 Praha, IČO 282 20 706 , z obchodního rejstříku. Právním důvodem výmazu je ukončení likvidace výmaz podle § 82 odst. 1 zák. č. 304/2013 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetCinnosti>
      <are:Text>
@@ -38,14 +44,14 @@ Pronájem nemovitostí, bytů a nebytových prostor bez poskytování jiných ne
     </are:PredmetCinnosti>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2008-01-14">
+  <are:Statutarni_organ dza="2008-01-14" dvy="2019-02-16">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2008-01-14">
+   <are:ZpusobJednani dza="2008-01-14" dvy="2019-02-16">
     <are:Text>
 Jednatel jedná jménem společnosti v plném rozsahu samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2008-01-14">
+   <are:Clen dza="2008-01-14" dvy="2019-02-16">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2008-01-14</are:vznikFunkce>
@@ -59,9 +65,9 @@ Jednatel jedná jménem společnosti v plném rozsahu samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-05-11">
+  <are:Statutarni_organ dza="2018-05-11" dvy="2019-02-16">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-05-11">
+   <are:Clen dza="2018-05-11" dvy="2019-02-16">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>21734151</are:ruianKod>
@@ -80,9 +86,9 @@ Jednatel jedná jménem společnosti v plném rozsahu samostatně.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2008-01-14">
+  <are:Jiny_organ dza="2008-01-14" dvy="2019-02-16">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2008-01-14">
+   <are:Clen dza="2008-01-14" dvy="2019-02-16">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -91,7 +97,7 @@ Jednatel jedná jménem společnosti v plném rozsahu samostatně.
      <are:prijmeni>Alexandr Zamyatin</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-01-14">
+   <are:Clen dza="2008-01-14" dvy="2019-02-16">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -100,7 +106,7 @@ Jednatel jedná jménem společnosti v plném rozsahu samostatně.
      <are:prijmeni>Olga Zamyatina</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-01-14">
+   <are:Clen dza="2008-01-14" dvy="2019-02-16">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -109,7 +115,7 @@ Jednatel jedná jménem společnosti v plném rozsahu samostatně.
      <are:prijmeni>Alexandr Solomatov</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-01-14">
+   <are:Clen dza="2008-01-14" dvy="2019-02-16">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -118,7 +124,7 @@ Jednatel jedná jménem společnosti v plném rozsahu samostatně.
      <are:prijmeni>Mariya Solomatova</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-01-14">
+   <are:Clen dza="2008-01-14" dvy="2019-02-16">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -127,7 +133,7 @@ Jednatel jedná jménem společnosti v plném rozsahu samostatně.
      <are:prijmeni>Darya Nozdrina</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-01-14">
+   <are:Clen dza="2008-01-14" dvy="2019-02-16">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -136,7 +142,7 @@ Jednatel jedná jménem společnosti v plném rozsahu samostatně.
      <are:prijmeni>Alexandr Rategov</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-01-14">
+   <are:Clen dza="2008-01-14" dvy="2019-02-16">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T12:27:19"
+odpoved_datum_cas="2019-02-28T12:38:02"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>12:27:19</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:38:02</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -39,9 +39,14 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2008-06-17">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2008-06-17">
+   <are:ZpusobJednani dza="2008-06-17" dvy="2019-02-26">
     <are:Text>
 Statutárním orgánem společnosti je jeden nebo více jednatelů. Každý jednatel je oprávněn jednat jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-26">
+    <are:Text>
+Statutárním orgánem společnosti je jeden jednatel. Jednatel je oprávněn jednat jménem společnosti samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2008-06-17" dvy="2014-08-02">
@@ -82,10 +87,11 @@ Statutárním orgánem společnosti je jeden nebo více jednatelů. Každý jedn
      <are:prijmeni>Vácha</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-10-13">
+   <are:Clen dza="2013-10-13" dvy="2019-02-26">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2011-03-21</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-05</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -104,10 +110,11 @@ Statutárním orgánem společnosti je jeden nebo více jednatelů. Každý jedn
      <are:prijmeni>VÁCHA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-08-02">
+   <are:Clen dza="2014-08-02" dvy="2019-02-26">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2008-06-17</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-05</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -124,46 +131,44 @@ Statutárním orgánem společnosti je jeden nebo více jednatelů. Každý jedn
      </are:adresa>
      <are:jmeno>LUBOMÍR</are:jmeno>
      <are:prijmeni>BREBURDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18511562</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41741</are:psc>
+      <are:okres>Teplice</are:okres>
+      <are:obec>Krupka</are:obec>
+      <are:castObce>Bohosudov</are:castObce>
+      <are:ulice>Sídliště Nad plovárnou</are:ulice>
+      <are:cisloPop>512</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>HOKR</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2008-06-17">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2013-10-13">
-    <are:fosoba>
+   <are:Clen dza="2019-02-26">
+    <are:posoba>
      <are:adresa>
-      <are:ruianKod>21954330</are:ruianKod>
+      <are:ruianKod>18533787</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>14000</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Nusle</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Pod vilami</are:ulice>
-      <are:cisloPop>1631</are:cisloPop>
-      <are:cisloOr>15</are:cisloOr>
+      <are:psc>41712</are:psc>
+      <are:obec>Proboštov</are:obec>
+      <are:ulice>Na lučinách</are:ulice>
+      <are:cisloTxt>541</are:cisloTxt>
      </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>VÁCHA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-08-02">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21967041</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14700</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Podolí</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Na sypčině</are:ulice>
-      <are:cisloPop>823</are:cisloPop>
-      <are:cisloOr>10</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>LUBOMÍR</are:jmeno>
-     <are:prijmeni>BREBURDA</are:prijmeni>
-    </are:fosoba>
+     <are:ICO>61534196</are:ICO>
+     <are:ObchodniFirma>HORZ spol. s r.o.</are:ObchodniFirma>
+    </are:posoba>
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-14T15:57:11"
+odpoved_datum_cas="2019-02-28T12:34:04"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-14</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-14</are:Datum_vypisu>
-   <are:Cas_vypisu>15:57:12</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:34:04</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -72,9 +72,30 @@ stva při vzniku, změně, či zániku právních jednání, jejichž předpokl�
 případě opakujících se či trvajících plnění).
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2017-12-20">
+   <are:ZpusobJednani dza="2017-12-20" dvy="2019-02-26">
     <are:Text>
 Za společnost jedná předseda představenstva spolu s jedním členem představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-26">
+    <are:Text>
+Za společnost jedná předseda představenstva spolu s jedním členem představenstva. Po dobu, po kterou bude členem představenstva pan Josef Vorel, datum narození 03. 08. 1969, bytem Klínec 217, Praha - Západ, PSČ 252 10, bude tato osoba tímto jednajícím čle
+nem představenstva při všech úkonech, kde je třeba souhlasu kvalifikované 95 % (devadesáti pěti procentní) většiny všech akcionářů tak, jak to vyplývá z bodu 9.3. těchto stanov společnosti ze dne 19. 2. 2019, tj. při níže uvedeném právním jednání:
+(a) volba a odvolání členů představenstva nebo statutárního ředitele, pokud stanovy neurčují, že tato působnost náleží dozorčí radě,
+(b) volba a odvolání členů dozorčí nebo správní rady a jiných orgánů, určených stanovami, s výjimkou členů dozorčí rady, které nevolí valná hromada,
+(c) rozhodnutí o zrušení společnosti s likvidací,
+(d) schválení návrhu rozdělení likvidačního zůstatku,
+(e) rozhodnutí o štěpení nebo spojení akcií, o změně formy nebo druhu akcií, o omezení převoditelnosti akcií nebo její změně,
+(f) rozhodování o naložení se ziskem společnosti,
+(g) rozhodování o přijetí a nebo poskytnutí ručení či jistot, vyjma zajišťovacích instrumentů, které bezprostředně souvisí s nákupem elektřiny a plynu a ze kterých vyplývá povinnost k plnění ve výši více než 5.000.000,- Kč (pět milionů korun českých) jedn
+orázově nebo v průběhu jednoho kalendářního roku,
+(h) rozhodování o přijetí a nebo poskytnutí zápůjček, úvěrů a nebo hypoték,
+(i) rozhodování o nákupu či prodeji jakýchkoli nemovitých věcí nebo zřizování jakýchkoliv věcných práv k nim,
+(j) rozhodování o koupi a nebo prodeji závodu,
+(k) rozhodování o schválení smlouvy o tichém společenství, včetně schválení jejích změn,
+(l) rozhodování o změně stanov, nejde-li o změnu v důsledku zvýšení základního kapitálu pověřeným představenstvem nebo o změnu, ke které došlo na základě jiných právních skutečností,
+(m) schválení smlouvy o výkonu funkce včetně jejích změn,
+(n) schválení jiných plnění ve prospěch osoby, která je členem voleného orgánu, a osob jim blízkým podle § 61 zákona o obchodních korporacích.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2012-06-12" dvy="2013-05-17">
@@ -185,31 +206,6 @@ Za společnost jedná předseda představenstva spolu s jedním členem předsta
      <are:prijmeni>Reich</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-03-26">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-03-06</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen představenstva</are:nazev>
-     <are:vznikFunkce>2014-03-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>28382684</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>19000</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Hrdlořezy</are:castObce>
-      <are:mop>Praha 9</are:mop>
-      <are:ulice>Mezitraťová</are:ulice>
-      <are:cisloPop>234</are:cisloPop>
-      <are:cisloOr>9</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MARTIN</are:jmeno>
-     <are:prijmeni>KADLEC</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-03-26" dvy="2014-07-25">
     <are:clenstvi>
      <are:vznikClenstvi>2014-03-06</are:vznikClenstvi>
@@ -258,6 +254,33 @@ Za společnost jedná předseda představenstva spolu s jedním členem předsta
      <are:prijmeni>SMIČKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2014-03-26" dvy="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-06</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2014-03-06</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28382684</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hrdlořezy</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Mezitraťová</are:ulice>
+      <are:cisloPop>234</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>KADLEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
    <are:Clen dza="2014-07-25" dvy="2016-09-15">
     <are:clenstvi>
      <are:vznikClenstvi>2014-03-06</are:vznikClenstvi>
@@ -280,30 +303,6 @@ Za společnost jedná předseda představenstva spolu s jedním členem předsta
       <are:cisloOr>6</are:cisloOr>
      </are:adresa>
      <are:jmeno>ONDŘEJ</are:jmeno>
-     <are:prijmeni>TALÁB</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-09-15">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-08-17</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>27211223</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>10200</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Štěrboholy</are:castObce>
-      <are:mop>Praha 10</are:mop>
-      <are:ulice>Laudonova</are:ulice>
-      <are:cisloPop>435</are:cisloPop>
-      <are:cisloOr>8</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>RADOMÍR</are:jmeno>
      <are:prijmeni>TALÁB</are:prijmeni>
     </are:fosoba>
    </are:Clen>
@@ -332,13 +331,40 @@ Za společnost jedná předseda představenstva spolu s jedním členem předsta
      <are:prijmeni>TALÁB</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-08-06">
+   <are:Clen dza="2016-09-15" dvy="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-08-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27211223</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Štěrboholy</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Laudonova</are:ulice>
+      <are:cisloPop>435</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RADOMÍR</are:jmeno>
+     <are:prijmeni>TALÁB</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-08-06" dvy="2019-02-26">
     <are:clenstvi>
      <are:vznikClenstvi>2014-03-06</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-19</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda představenstva</are:nazev>
      <are:vznikFunkce>2016-08-17</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-19</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -379,16 +405,110 @@ Za společnost jedná předseda představenstva spolu s jedním členem předsta
      <are:prijmeni>VOREL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2019-02-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28280784</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Korunní</are:ulice>
+      <are:cisloPop>2569</are:cisloPop>
+      <are:cisloOr>108h</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ONDŘEJ</are:jmeno>
+     <are:prijmeni>TALÁB</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27211223</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Štěrboholy</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Laudonova</are:ulice>
+      <are:cisloPop>435</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RADOMÍR</are:jmeno>
+     <are:prijmeni>TALÁB</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28382684</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hrdlořezy</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Mezitraťová</are:ulice>
+      <are:cisloPop>234</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>KADLEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27634604</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25210</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Klínec</are:obec>
+      <are:castObce>Klínec</are:castObce>
+      <are:cisloPop>217</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>VOREL</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2012-06-12">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2016-09-15">
+   <are:Clen dza="2019-02-26">
     <are:clenstvi>
-     <are:vznikClenstvi>2016-08-17</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-02-19</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>předseda dozorčí rady</are:nazev>
-     <are:vznikFunkce>2016-08-17</are:vznikFunkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -404,6 +524,7 @@ Za společnost jedná předseda představenstva spolu s jedním členem předsta
      </are:adresa>
      <are:jmeno>JAKUB</are:jmeno>
      <are:prijmeni>SMIČKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

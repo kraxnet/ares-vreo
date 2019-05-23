@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T04:52:41"
+odpoved_datum_cas="2019-03-06T14:28:35"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>04:52:41</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:28:35</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -124,7 +124,10 @@ Za představenstvo jedná navenek jménem společnosti a společnost zavazuje p
 Společnost zastupuje vůči třetím osobám, před soudy a před jinými orgány v celém rozsahu statutární ředitel
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2014-09-17">
+   <are:Clen dza="2014-09-17" dvy="2019-03-02">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-06-27</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>statutární ředitel</are:nazev>
      <are:vznikFunkce>2014-06-27</are:vznikFunkce>
@@ -134,6 +137,27 @@ Společnost zastupuje vůči třetím osobám, před soudy a před jinými orgá
       <are:ruianKod>14080681</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>79401</are:psc>
+      <are:obec>Krnov</are:obec>
+      <are:castObce>Pod Cvilínem</are:castObce>
+      <are:ulice>Na Dolním pastvišti</are:ulice>
+      <are:cisloPop>742</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>TOBIÁŠEK</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-02">
+    <are:funkce>
+     <are:vznikFunkce>2017-06-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14080681</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79401</are:psc>
+      <are:okres>Bruntál</are:okres>
       <are:obec>Krnov</are:obec>
       <are:castObce>Pod Cvilínem</are:castObce>
       <are:ulice>Na Dolním pastvišti</are:ulice>
@@ -168,19 +192,20 @@ Společnost zastupuje vůči třetím osobám, před soudy a před jinými orgá
   </are:Jiny_organ>
   <are:Jiny_organ dza="2014-09-17">
    <are:Nazev>Správní rada</are:Nazev>
-   <are:Clen dza="2014-09-17">
+   <are:Clen dza="2019-03-02">
     <are:clenstvi>
-     <are:vznikClenstvi>2014-06-27</are:vznikClenstvi>
+     <are:vznikClenstvi>2017-06-28</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda správní rady</are:nazev>
-     <are:vznikFunkce>2014-06-27</are:vznikFunkce>
+     <are:vznikFunkce>2017-06-28</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>14080681</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>79401</are:psc>
+      <are:okres>Bruntál</are:okres>
       <are:obec>Krnov</are:obec>
       <are:castObce>Pod Cvilínem</are:castObce>
       <are:ulice>Na Dolním pastvišti</are:ulice>

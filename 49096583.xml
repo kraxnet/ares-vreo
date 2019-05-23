@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T01:18:24"
+odpoved_datum_cas="2019-02-28T12:41:03"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>01:18:24</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:41:03</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -32,6 +32,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>332</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1993-08-25</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-26</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost ZDROJ - UNION spol. s r.o. se sídlem Masarykova 624, Ústí nad Labem,  identifikační číslo: 490 96 583, ke dni právní moci tohoto usnesení, včetně všech zapsaných skutečností.
+Právní důvod výmazu: Společnost byla vymazána na základě usnesení Krajského soudu v Ústí nad Labem ze dne 13.4.2005, č.j. 27 K 142/97-579, kterým byl zrušen po splnění rozvrhového usnesení konkurs na majetek úpadce ZDROJ - UNION spol. s r.o. se sídlem Úst
+í nad Labem, Masarykova 624,  identifikační číslo: 490 96 583. Usnesení nabylo právní moci dne 2.11.2005.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -46,7 +54,7 @@ Hostinská činnost
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1993-08-25">
+  <are:Statutarni_organ dza="1993-08-25" dvy="2019-02-26">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="1993-08-25" dvy="1994-12-05">
     <are:Text>
@@ -56,7 +64,7 @@ Podepisování za společnost se děje tak, že k obchodnímu jménu
 společnosti připojí svůj podpis některý z jednatelů.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="1994-12-05">
+   <are:ZpusobJednani dza="1994-12-05" dvy="2019-02-26">
     <are:Text>
 Za společnost jedná jménem společnosti samostatně,s vyjímkou
 zcizení, zatížení a pronájmu movitého majetku v hodnotě nad
@@ -131,9 +139,9 @@ s předchozím souhlasem valné hromady.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1993-08-25">
+  <are:Jiny_organ dza="1993-08-25" dvy="2019-02-26">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2016-10-07">
+   <are:Clen dza="2016-10-07" dvy="2019-02-26">
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

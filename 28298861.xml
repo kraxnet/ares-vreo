@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T11:28:41"
+odpoved_datum_cas="2019-03-06T14:23:46"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>11:28:41</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:23:46</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -24,9 +24,11 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:ruianKod>13679317</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>69603</are:psc>
+    <are:okres>Hodonín</are:okres>
     <are:obec>Dubňany</are:obec>
+    <are:castObce>Dubňany</are:castObce>
     <are:ulice>Jos. Chludila</are:ulice>
-    <are:cisloTxt>683</are:cisloTxt>
+    <are:cisloPop>683</are:cisloPop>
    </are:Sidlo>
    <are:DatumZapisu>2008-08-13</are:DatumZapisu>
    <are:Cinnosti>
@@ -47,29 +49,16 @@ silniční motorová doprava - nákladní provozovaná vozidly nebo jízdními s
 Způsob zastupování: Jménem společnosti jedná samostatně jednatel společnosti.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-06-26">
+   <are:ZpusobJednani dza="2014-06-26" dvy="2019-03-04">
     <are:Text>
 Způsob zastupování: Společnost zastupuje samostatně každý jednatel společnosti. Jednatel se za společnost podepisuje tak, že k obchodní firmě společnosti připojí svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2008-08-13">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2008-08-13</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>13683845</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69603</are:psc>
-      <are:obec>Dubňany</are:obec>
-      <are:ulice>Nádražní</are:ulice>
-      <are:cisloTxt>1144</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Eliška</are:jmeno>
-     <are:prijmeni>Matějíčková</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
+   <are:ZpusobJednani dza="2019-03-04">
+    <are:Text>
+Společnost zastupuje samostatně každý jednatel společnosti
+    </are:Text>
+   </are:ZpusobJednani>
    <are:Clen dza="2008-08-13" dvy="2016-11-07">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -108,52 +97,11 @@ Způsob zastupování: Společnost zastupuje samostatně každý jednatel spole�
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-07">
+   <are:Clen dza="2008-08-13" dvy="2019-03-04">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2008-08-13</are:vznikFunkce>
     </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>13683845</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69603</are:psc>
-      <are:okres>Hodonín</are:okres>
-      <are:obec>Dubňany</are:obec>
-      <are:castObce>Dubňany</are:castObce>
-      <are:ulice>Nádražní</are:ulice>
-      <are:cisloPop>1144</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ROMAN</are:jmeno>
-     <are:prijmeni>MATĚJÍČEK</are:prijmeni>
-     <are:titulPred>Mgr.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-11-07">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2008-08-13</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>13683845</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69603</are:psc>
-      <are:okres>Hodonín</are:okres>
-      <are:obec>Dubňany</are:obec>
-      <are:castObce>Dubňany</are:castObce>
-      <are:ulice>Nádražní</are:ulice>
-      <are:cisloPop>1144</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>VÁCLAV</are:jmeno>
-     <are:prijmeni>MATĚJÍČEK</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2008-08-13">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-06-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>13683845</are:ruianKod>
@@ -168,6 +116,32 @@ Způsob zastupování: Společnost zastupuje samostatně každý jednatel spole�
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2016-11-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-08-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13683845</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69603</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Dubňany</are:obec>
+      <are:castObce>Dubňany</are:castObce>
+      <are:ulice>Nádražní</are:ulice>
+      <are:cisloPop>1144</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>MATĚJÍČEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-07" dvy="2019-03-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-08-13</are:vznikFunkce>
+     <are:zanikFunkce>2019-03-04</are:zanikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>13683845</are:ruianKod>
@@ -184,6 +158,29 @@ Způsob zastupování: Společnost zastupuje samostatně každý jednatel spole�
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-08-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13683845</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69603</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Dubňany</are:obec>
+      <are:castObce>Dubňany</are:castObce>
+      <are:ulice>Nádražní</are:ulice>
+      <are:cisloPop>1144</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ELIŠKA</are:jmeno>
+     <are:prijmeni>MATĚJÍČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-08-13">
+   <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2016-11-07">
     <are:fosoba>
      <are:adresa>
@@ -199,6 +196,22 @@ Způsob zastupování: Společnost zastupuje samostatně každý jednatel spole�
      <are:jmeno>VÁCLAV</are:jmeno>
      <are:prijmeni>MATĚJÍČEK</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13683845</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69603</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Dubňany</are:obec>
+      <are:castObce>Dubňany</are:castObce>
+      <are:ulice>Nádražní</are:ulice>
+      <are:cisloPop>1144</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ELIŠKA</are:jmeno>
+     <are:prijmeni>MATĚJÍČKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

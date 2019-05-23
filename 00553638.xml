@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-11T18:37:34"
+odpoved_datum_cas="2019-02-28T12:34:54"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
-   <are:Cas_vypisu>18:37:34</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:34:54</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -73,32 +73,6 @@ pověřen. V případě nakládání s nemovitým majetkem jednoty se k jednán�
      </are:adresa>
      <are:jmeno>MILAN</are:jmeno>
      <are:prijmeni>PROCHÁZKA</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-10-08">
-    <are:clenstvi>
-     <are:vznikClenstvi>2001-01-01</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>místostarosta tělocvičné jednoty</are:nazev>
-     <are:vznikFunkce>2013-03-23</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22554254</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>10700</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Dubeč</are:castObce>
-      <are:mop>Praha 10</are:mop>
-      <are:ulice>Nezdova</are:ulice>
-      <are:cisloPop>189</are:cisloPop>
-      <are:cisloOr>8</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>TOMÁŠ</are:jmeno>
-     <are:prijmeni>VOJTĚCHOVSKÝ</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
@@ -230,12 +204,65 @@ pověřen. V případě nakládání s nemovitým majetkem jednoty se k jednán�
      <are:prijmeni>ŠKUDRNA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-05-18">
+   <are:Clen dza="2014-10-08" dvy="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-04-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místostarosta tělocvičné jednoty</are:nazev>
+     <are:vznikFunkce>2013-03-23</are:vznikFunkce>
+     <are:zanikFunkce>2018-04-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22554254</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dubeč</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Nezdova</are:ulice>
+      <are:cisloPop>189</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>VOJTĚCHOVSKÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-05-18" dvy="2019-02-26">
     <are:clenstvi>
      <are:vznikClenstvi>2017-03-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-04-15</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28339274</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dubeč</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Za pavilónem</are:ulice>
+      <are:cisloPop>666</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTINA</are:jmeno>
+     <are:prijmeni>ŠTĚPÁNKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-04-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místostarosta tělocvičné jednoty</are:nazev>
+     <are:vznikFunkce>2018-04-15</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -331,7 +358,7 @@ pověřen. V případě nakládání s nemovitým majetkem jednoty se k jednán�
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
-  <are:Jiny_organ dza="2014-10-08">
+  <are:Jiny_organ dza="2014-01-01">
    <are:Nazev>Zakladatelé</are:Nazev>
    <are:Clen dza="2014-10-08">
     <are:posoba>

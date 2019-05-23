@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-12-10T09:50:37"
+odpoved_datum_cas="2019-02-22T10:48:01"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-12-10</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-12-10</are:Datum_vypisu>
-   <are:Cas_vypisu>09:50:37</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:48:01</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -48,9 +48,15 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
 Každý z jednatelů je oprávněn jednat jménem společnosti samostatně s výjimkou právních úkonů, kdy hodnota předmětu plnění je rovna nebo vyšší než 500.000,- Kč (slovy: pět set tisíc korun českých), kdy jednají vždy dva jednatelé společně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-09-24">
+   <are:ZpusobJednani dza="2014-09-24" dvy="2019-02-13">
     <are:Text>
 Každý z jednatelů je oprávněn jednat za Společnost samostatně. Při právních jednáních s hodnotou plnění nad 500.000,- Kč ročně se vyžaduje společné jednání obou jednatelů, ledaže by k takovému konkrétnímu právnímu jednání byl takový jednatel zmocněn druhý
+m jednatelem.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-13">
+    <are:Text>
+Každý z jednatelů je oprávněn jednat za společnost samostatně. Při právních jednáních s hodnotou plnění nad 500.000,- Kč ročně se vyžaduje společné jednání obou jednatelů, ledaže by k takovému konkrétnímu právnímu jednání byl takový jednatel zmocněn druhý
 m jednatelem.
     </are:Text>
    </are:ZpusobJednani>
@@ -88,10 +94,11 @@ m jednatelem.
      <are:prijmeni>Klíma</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-07-22">
+   <are:Clen dza="2013-07-22" dvy="2019-02-13">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2013-07-09</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-12</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -110,10 +117,11 @@ m jednatelem.
      <are:prijmeni>FRÝVALDSKÝ-BETINSKÝ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-04">
+   <are:Clen dza="2016-11-04" dvy="2019-02-13">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2011-08-31</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-12</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -132,24 +140,11 @@ m jednatelem.
      <are:prijmeni>KLÍMA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2011-08-31">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-09-24">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21427810</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>34192</are:psc>
-      <are:obec>Modrava</are:obec>
-      <are:castObce>Modrava</are:castObce>
-      <are:cisloPop>14</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ZDENĚK</are:jmeno>
-     <are:prijmeni>BAKALA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-09-24">
+   <are:Clen dza="2019-02-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-12</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22586547</are:ruianKod>
@@ -165,25 +160,44 @@ m jednatelem.
      </are:adresa>
      <are:jmeno>MARTIN</are:jmeno>
      <are:prijmeni>KLÍMA</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-12-07">
+   <are:Clen dza="2019-02-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-12</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>21699585</are:ruianKod>
+      <are:ruianKod>22004726</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>11800</are:psc>
+      <are:psc>15200</are:psc>
       <are:okres>Hlavní město Praha</are:okres>
       <are:obec>Praha</are:obec>
-      <are:castObce>Malá Strana</are:castObce>
-      <are:mop>Praha 1</are:mop>
-      <are:ulice>Maltézské náměstí</are:ulice>
-      <are:cisloPop>474</are:cisloPop>
-      <are:cisloOr>3</are:cisloOr>
+      <are:castObce>Hlubočepy</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Lamačova</are:ulice>
+      <are:cisloPop>633</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
      </are:adresa>
-     <are:jmeno>DANIEL</are:jmeno>
-     <are:prijmeni>VÁVRA</are:prijmeni>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>FRÝVALDSKÝ-BETINSKÝ</are:prijmeni>
     </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2011-08-31">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2019-02-13">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>40</are:stat>
+      <are:psc>A-6604</are:psc>
+      <are:obec>Hoefen</are:obec>
+      <are:ulice>Gewerbegebiet 1</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>Koch Media GmbH</are:ObchodniFirma>
+    </are:posoba>
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

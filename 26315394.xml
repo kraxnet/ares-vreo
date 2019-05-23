@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-18T15:14:24"
+odpoved_datum_cas="2019-02-22T11:04:06"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-18</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-18</are:Datum_vypisu>
-   <are:Cas_vypisu>15:14:24</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:04:06</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -30,6 +30,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>517/2</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2000-11-01</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-12</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost BAU INPRO a.s. se sídlem Praha 5 - Smíchov, Kmochova 517/2, PSČ 15000, IČO: 26315394 je po právní moci tohoto usnesení vymazána z obchodního rejstříku včetně všech zapsaných skutečností. Právní důvod výmazu je pravomocné usnesení Městského soud
+u v Praze č.j. MSPH 79 INS 760/2013-B-73 ze dne 20.9.2018, kterým byl zrušen konkurs na majetek dlužníka z důvodu, že pro uspokojení věřitelů je majetek dlužníka zcela nepostačující.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -41,9 +48,66 @@ Provádění staveb, jejich změn a odstraňování
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2000-11-01">
+  <are:Statutarni_organ dza="2000-11-01" dvy="2002-09-25">
    <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
-   <are:ZpusobJednani dza="2000-11-01">
+   <are:Clen dza="2000-11-01" dvy="2002-09-25">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20735057</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>T.G. Masaryka</are:ulice>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kalianko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-11-01" dvy="2002-09-25">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25279343</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36020</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Boční</are:ulice>
+      <are:cisloTxt>409/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Kučera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-11-01" dvy="2002-09-25">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20740981</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Varšavská</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Prokop</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2000-11-01" dvy="2019-02-12">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2000-11-01" dvy="2019-02-12">
     <are:Text>
 Způsob jednání společnosti:
 Za představenstvo jedná navenek jménem společnosti každý člen
@@ -356,7 +420,7 @@ funkce v představenstvu.
      <are:prijmeni>Knížek</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-10-14">
+   <are:Clen dza="2008-10-14" dvy="2019-02-12">
     <are:clenstvi>
      <are:vznikClenstvi>2008-09-10</are:vznikClenstvi>
     </are:clenstvi>
@@ -376,63 +440,6 @@ funkce v představenstvu.
      </are:adresa>
      <are:jmeno>Pavel</are:jmeno>
      <are:prijmeni>Dvořáček</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-  </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2000-11-01" dvy="2002-09-25">
-   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
-   <are:Clen dza="2000-11-01" dvy="2002-09-25">
-    <are:funkce>
-     <are:nazev>předseda představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>20735057</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>36001</are:psc>
-      <are:okres>Karlovy Vary</are:okres>
-      <are:obec>Karlovy Vary</are:obec>
-      <are:ulice>T.G. Masaryka</are:ulice>
-      <are:cisloTxt>12</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Petr</are:jmeno>
-     <are:prijmeni>Kalianko</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2000-11-01" dvy="2002-09-25">
-    <are:funkce>
-     <are:nazev>místopředseda představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>25279343</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>36020</are:psc>
-      <are:okres>Karlovy Vary</are:okres>
-      <are:obec>Karlovy Vary</are:obec>
-      <are:ulice>Boční</are:ulice>
-      <are:cisloTxt>409/2</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Stanislav</are:jmeno>
-     <are:prijmeni>Kučera</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2000-11-01" dvy="2002-09-25">
-    <are:funkce>
-     <are:nazev>místopředseda představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>20740981</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>36001</are:psc>
-      <are:okres>Karlovy Vary</are:okres>
-      <are:obec>Karlovy Vary</are:obec>
-      <are:ulice>Varšavská</are:ulice>
-      <are:cisloTxt>5</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Jaroslav</are:jmeno>
-     <are:prijmeni>Prokop</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

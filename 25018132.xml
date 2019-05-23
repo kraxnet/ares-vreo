@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-12-13T15:32:27"
+odpoved_datum_cas="2019-03-06T14:29:41"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-12-13</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>15:32:27</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:29:41</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -647,6 +647,24 @@ Za představenstvo jednají navenek jménem společnosti vždy alespoň dva čle
      <are:prijmeni>SKORWIDER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>40</are:stat>
+      <are:psc>A-8600</are:psc>
+      <are:obec>Bruck an der Mur</are:obec>
+      <are:ulice>Martin Luther Strasse 14</are:ulice>
+     </are:adresa>
+     <are:jmeno>ENZO</are:jmeno>
+     <are:prijmeni>ZADRA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="2013-01-01">
    <are:Nazev>Společníci</are:Nazev>
@@ -677,7 +695,7 @@ Za představenstvo jednají navenek jménem společnosti vždy alespoň dva čle
      <are:ObchodniFirma>Norske Skog Papier Recycling GmbH</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2016-11-17">
+   <are:Clen dza="2019-03-02">
     <are:posoba>
      <are:adresa>
       <are:stat>246</are:stat>
@@ -685,7 +703,7 @@ Za představenstvo jednají navenek jménem společnosti vždy alespoň dva čle
       <are:obec>Helsinki</are:obec>
       <are:ulice>Alvar Aallon katu 1</are:ulice>
      </are:adresa>
-     <are:ObchodniFirma>UPM Paper ENA Oy</are:ObchodniFirma>
+     <are:ObchodniFirma>UPM Communication Papers Oy</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
   </are:Jiny_organ>

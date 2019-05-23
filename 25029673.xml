@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-04-23T16:04:25"
+odpoved_datum_cas="2019-02-22T10:35:03"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-04-23</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-04-23</are:Datum_vypisu>
-   <are:Cas_vypisu>16:04:25</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:35:03</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -689,7 +689,10 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-05-01">
+   <are:Clen dza="2015-05-01" dvy="2019-02-08">
+    <are:clenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
      <are:vznikFunkce>2013-01-01</are:vznikFunkce>
@@ -733,9 +736,10 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
      <are:prijmeni>RICHTER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-03-11">
+   <are:Clen dza="2016-03-11" dvy="2019-02-08">
     <are:clenstvi>
      <are:vznikClenstvi>2016-02-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
@@ -754,9 +758,10 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
      <are:prijmeni>SONNEWEND</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-23">
+   <are:Clen dza="2016-11-23" dvy="2019-02-08">
     <are:clenstvi>
      <are:vznikClenstvi>2016-10-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
@@ -772,9 +777,10 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
      <are:prijmeni>ČERNÝ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-12-30">
+   <are:Clen dza="2016-12-30" dvy="2019-02-08">
     <are:clenstvi>
      <are:vznikClenstvi>2011-08-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
@@ -797,9 +803,10 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-01-03">
+   <are:Clen dza="2017-01-03" dvy="2019-02-08">
     <are:clenstvi>
      <are:vznikClenstvi>2011-08-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
@@ -845,12 +852,14 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
      <are:prijmeni>HOFFMANN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-07-01">
+   <are:Clen dza="2017-07-01" dvy="2019-02-08">
     <are:clenstvi>
      <are:vznikClenstvi>2011-08-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda představenstva</are:nazev>
+     <are:zanikFunkce>2019-01-31</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -870,9 +879,10 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-07-01">
+   <are:Clen dza="2017-07-01" dvy="2019-02-08">
     <are:clenstvi>
      <are:vznikClenstvi>2011-08-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
@@ -893,9 +903,10 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-04-07">
+   <are:Clen dza="2018-04-07" dvy="2019-02-08">
     <are:clenstvi>
      <are:vznikClenstvi>2013-05-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
@@ -917,30 +928,214 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
      <are:prijmeni>HOFFMANN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="1997-12-15">
-   <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2014-06-18">
+   <are:Clen dza="2019-02-08">
     <are:clenstvi>
-     <are:vznikClenstvi>2014-05-03</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>Předseda dozorčí rady</are:nazev>
-     <are:vznikFunkce>2014-05-03</are:vznikFunkce>
+     <are:nazev>člen představenstva</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:stat>250</are:stat>
-      <are:obec>Fontainebleau</are:obec>
-      <are:ulice>Rue d´Avon 59</are:ulice>
+      <are:ruianKod>22590927</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malešice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Počernická</are:ulice>
+      <are:cisloPop>513</are:cisloPop>
+      <are:cisloOr>56</are:cisloOr>
      </are:adresa>
-     <are:jmeno>JEAN-LUC</are:jmeno>
-     <are:prijmeni>GARDAZ</are:prijmeni>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>ROSÁK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-09-16">
+   <are:Clen dza="2019-02-08">
     <are:clenstvi>
-     <are:vznikClenstvi>2005-08-11</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1227807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28802</are:psc>
+      <are:okres>Nymburk</are:okres>
+      <are:obec>Nymburk</are:obec>
+      <are:castObce>Nymburk</are:castObce>
+      <are:ulice>Tyršova</are:ulice>
+      <are:cisloPop>1634</are:cisloPop>
+      <are:cisloOr>47</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>KRUMPOLEC</are:prijmeni>
+     <are:titulPred>PaeDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23095881</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54401</are:psc>
+      <are:okres>Trutnov</are:okres>
+      <are:obec>Dvůr Králové nad Labem</are:obec>
+      <are:castObce>Dvůr Králové nad Labem</are:castObce>
+      <are:ulice>Čelakovského</are:ulice>
+      <are:cisloPop>1016</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROBERT</are:jmeno>
+     <are:prijmeni>KAZDA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27801241</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25164</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Mnichovice</are:obec>
+      <are:castObce>Myšlín</are:castObce>
+      <are:ulice>Kozí</are:ulice>
+      <are:cisloPop>150</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>MACHÁČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25781995</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11101</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dolní Měcholupy</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Za kovárnou</are:ulice>
+      <are:cisloPop>448</are:cisloPop>
+      <are:cisloOr>27</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>NIKOLA</are:jmeno>
+     <are:prijmeni>HOFFMANN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27319865</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26701</are:psc>
+      <are:okres>Beroun</are:okres>
+      <are:obec>Králův Dvůr</are:obec>
+      <are:castObce>Zahořany</are:castObce>
+      <are:ulice>Luční</are:ulice>
+      <are:cisloPop>110</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LIBOR</are:jmeno>
+     <are:prijmeni>SONNEWEND</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>94901</are:psc>
+      <are:obec>Nitra</are:obec>
+      <are:ulice>Partizánska</are:ulice>
+     </are:adresa>
+     <are:jmeno>RADOSLAV</are:jmeno>
+     <are:prijmeni>ČERNÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:psc>31-340</are:psc>
+      <are:obec>Krakow</are:obec>
+      <are:ulice>Jozefa Chelmonskiego 112E/2</are:ulice>
+     </are:adresa>
+     <are:jmeno>JAKUB</are:jmeno>
+     <are:prijmeni>KOTALA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1997-12-15">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22719890</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Ruzyně</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Letecká</are:ulice>
+      <are:cisloPop>1029</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROBERT</are:jmeno>
+     <are:prijmeni>KUDRNA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-31</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
@@ -950,6 +1145,7 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
       <are:ruianKod>73019801</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>37005</are:psc>
+      <are:okres>České Budějovice</are:okres>
       <are:obec>České Budějovice</are:obec>
       <are:castObce>České Budějovice 2</are:castObce>
       <are:ulice>Ke Střelnici</are:ulice>
@@ -959,29 +1155,6 @@ Splečnost zastupují v plném rozsahu vždy společně dva členové představe
      <are:jmeno>ROBERT</are:jmeno>
      <are:prijmeni>MIKEŠ</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2018-03-29">
-    <are:clenstvi>
-     <are:vznikClenstvi>2018-01-01</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>203</are:stat>
-      <are:psc>10100</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Vinohrady</are:castObce>
-      <are:mop>Praha 10</are:mop>
-      <are:ulice>Korunní</are:ulice>
-      <are:cisloPop>810</are:cisloPop>
-      <are:cisloOr>104</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ANNA</are:jmeno>
-     <are:prijmeni>SZWED</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

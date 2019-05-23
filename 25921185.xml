@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-07T10:18:22"
+odpoved_datum_cas="2019-02-22T10:33:53"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-07</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-07</are:Datum_vypisu>
-   <are:Cas_vypisu>10:18:23</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:33:53</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -360,21 +360,6 @@ Každý jednatel zastupuje společnost samostatně.
      <are:ObchodniFirma>PTN - VESTRA, s.r.o.</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2014-08-21">
-    <are:posoba>
-     <are:adresa>
-      <are:ruianKod>6620647</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>39165</are:psc>
-      <are:okres>Tábor</are:okres>
-      <are:obec>Bechyně</are:obec>
-      <are:ulice>Hodonice</are:ulice>
-      <are:cisloTxt>75</are:cisloTxt>
-     </are:adresa>
-     <are:ICO>25171666</are:ICO>
-     <are:ObchodniFirma>STN-ESOX, spol. s r.o.</are:ObchodniFirma>
-    </are:posoba>
-   </are:Clen>
    <are:Clen dza="2018-01-03">
     <are:posoba>
      <are:adresa>
@@ -406,6 +391,22 @@ Každý jednatel zastupuje společnost samostatně.
      </are:adresa>
      <are:ICO>46905138</are:ICO>
      <are:ObchodniFirma>NTC, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>26102145</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39137</are:psc>
+      <are:okres>Tábor</are:okres>
+      <are:obec>Chotoviny</are:obec>
+      <are:castObce>Červené Záhoří</are:castObce>
+      <are:ulice>U Písničky</are:ulice>
+      <are:cisloPop>204</are:cisloPop>
+     </are:adresa>
+     <are:ICO>25171666</are:ICO>
+     <are:ObchodniFirma>STN-ESOX, spol. s r.o.</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
   </are:Jiny_organ>

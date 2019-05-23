@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-11T23:13:55"
+odpoved_datum_cas="2019-03-06T14:10:50"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
-   <are:Cas_vypisu>23:13:55</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:10:50</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -32,6 +32,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloPop>680</are:cisloPop>
    </are:Sidlo>
    <are:DatumZapisu>2014-12-31</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost AUSTIS výroba s.r.o., se sídlem K Austisu 680, Slivenec, Praha 5, PSČ 154 00, IČ 036 75 084, zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl C, vložka 236342, se vymazává z obchodního rejstříku včetně všech zapsaných skuteč
+ností. Právní důvod výmazu:  Společnost AUSTIS výroba s.r.o., se sídlem K Austisu 680, Slivenec, Praha 5, PSČ 154 00, IČ 036 75 084, zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl C, vložka 236342, zanikla v důsledku fúze sloučením,
+kdy její jmění přešlo na nástupnickou společnost AUSTIS a.s., se sídlem Praha 5,  Slivenec, K Austisu 680, PSČ 154 00, Identifikační číslo: 005 50 655, zapsanou v obchodním rejstříku vedeném Městským soudem v Praze, oddíl B, vložka 9026.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -43,14 +51,14 @@ výroba nebezpečných chemických látek a nebezpečných chemických směsí a
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2014-12-31">
+  <are:Statutarni_organ dza="2014-12-31" dvy="2019-03-01">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2014-12-31">
+   <are:ZpusobJednani dza="2014-12-31" dvy="2019-03-01">
     <are:Text>
 Za společnost jednají dva jednatelé společně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2014-12-31">
+   <are:Clen dza="2014-12-31" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2014-12-30</are:vznikFunkce>
@@ -71,7 +79,7 @@ Za společnost jednají dva jednatelé společně.
      <are:prijmeni>JANDA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-12-31">
+   <are:Clen dza="2014-12-31" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2014-12-30</are:vznikFunkce>
@@ -89,7 +97,7 @@ Za společnost jednají dva jednatelé společně.
      <are:prijmeni>HORÁK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-12-31">
+   <are:Clen dza="2014-12-31" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2014-12-30</are:vznikFunkce>
@@ -112,9 +120,9 @@ Za společnost jednají dva jednatelé společně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2014-12-31">
+  <are:Jiny_organ dza="2014-12-31" dvy="2019-03-01">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-12-31">
+   <are:Clen dza="2014-12-31" dvy="2019-03-01">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22752676</are:ruianKod>
@@ -131,7 +139,7 @@ Za společnost jednají dva jednatelé společně.
      <are:prijmeni>JANDA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-12-31">
+   <are:Clen dza="2014-12-31" dvy="2019-03-01">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>25601547</are:ruianKod>
@@ -149,7 +157,7 @@ Za společnost jednají dva jednatelé společně.
      <are:prijmeni>LUKAVSKÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-12-31">
+   <are:Clen dza="2014-12-31" dvy="2019-03-01">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>15534332</are:ruianKod>

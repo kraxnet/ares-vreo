@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T23:16:19"
+odpoved_datum_cas="2019-02-22T10:34:38"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>23:16:19</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:34:38</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,7 +21,6 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>25955403</are:ICO>
    <are:ObchodniFirma>Společenství vlastníků domu čp. 11 Nekoř</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>999999999</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>56163</are:psc>
     <are:okres>Ústí nad Orlicí</are:okres>
@@ -30,11 +29,11 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    </are:Sidlo>
    <are:DatumZapisu>2001-07-12</are:DatumZapisu>
    <are:Cinnosti>
-    <are:PredmetCinnosti>
+    <are:Ucel>
      <are:Text>
-Správa domu.
+Správa domu
      </are:Text>
-    </are:PredmetCinnosti>
+    </are:Ucel>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2001-07-12">
@@ -44,7 +43,7 @@ Správa domu.
 Za společenství jedná pověřený vlastník
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2009-03-10">
+   <are:ZpusobJednani dza="2009-03-10" dvy="2019-02-08">
     <are:Text>
 Způsob jednání za společenství:
 Pověřený vlastník rozhoduje o všech záležitostech společenství, pokud si rozhodování v určitých věcech nevyhradilo shromáždění. Pověřený vlastník plní usnesení shromáždění a odpovídá mu za svou činnost.
@@ -59,7 +58,6 @@ K písemnému právnímu úkonu postačuje podpis pověřeného vlastníka.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>999999999</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>56163</are:psc>
       <are:obec>Nekoř</are:obec>
@@ -69,16 +67,42 @@ K písemnému právnímu úkonu postačuje podpis pověřeného vlastníka.
      <are:prijmeni>Bělský</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-02-04">
+   <are:Clen dza="2014-02-04" dvy="2019-02-08">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-12-20</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>pověřený vlastník</are:nazev>
      <are:vznikFunkce>2013-12-19</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-20</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>18030955</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>56163</are:psc>
+      <are:obec>Nekoř</are:obec>
+      <are:castObce>Nekoř</are:castObce>
+      <are:cisloPop>11</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>BĚLSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda společenství vlastníků</are:nazev>
+     <are:vznikFunkce>2018-12-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18030955</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56163</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
       <are:obec>Nekoř</are:obec>
       <are:castObce>Nekoř</are:castObce>
       <are:cisloPop>11</are:cisloPop>
@@ -96,7 +120,6 @@ K písemnému právnímu úkonu postačuje podpis pověřeného vlastníka.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>999999999</are:ruianKod>
       <are:stat>203</are:stat>
       <are:okres>Ústí nad Orlicí</are:okres>
       <are:obec>Nekoř</are:obec>
@@ -113,7 +136,6 @@ K písemnému právnímu úkonu postačuje podpis pověřeného vlastníka.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>999999999</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>56163</are:psc>
       <are:okres>Ústí nad Orlicí</are:okres>
@@ -129,9 +151,9 @@ K písemnému právnímu úkonu postačuje podpis pověřeného vlastníka.
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>23:16:19</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:34:39</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>

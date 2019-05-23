@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-24T10:38:50"
+odpoved_datum_cas="2019-03-01T13:47:54"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-24</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-24</are:Datum_vypisu>
-   <are:Cas_vypisu>10:38:50</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-01</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-01</are:Datum_vypisu>
+   <are:Cas_vypisu>13:47:54</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>4</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2014-07-10</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-25</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Obchodní společnost INESTO, s.r.o., se sídlem náměstí Přátelství 1518/4, Hostivař, 102 00  Praha 10, IČ: 031 89 171 se vymazává ke dni právní moci usnesení o výmazu zveřejného rejstříku. Právní důvod výmazu: Usnesením Městského soudu v Praze ze dne 29. 11
+. 2018, č. j. MSPH 78 INS 19927/2017-B-20, bylo pro nedostatek majetku dle ustanovení § 308 odst. 1 písm. d) insolvenčního zákona rozhodnuto o zrušení konkurzu prohlášeného na majetek insolvenčního dlužníka INESTO, s.r.o., IČO: 03189171s e sídlem Praha 10
+, Přátelství 1514/4, PSČ 102 00.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -41,14 +49,14 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2014-07-10">
+  <are:Statutarni_organ dza="2014-07-10" dvy="2019-02-25">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2014-07-10">
+   <are:ZpusobJednani dza="2014-07-10" dvy="2019-02-25">
     <are:Text>
 Jednatel zastupuje společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2014-07-10">
+   <are:Clen dza="2014-07-10" dvy="2019-02-25">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2014-07-10</are:vznikFunkce>
@@ -71,9 +79,9 @@ Jednatel zastupuje společnost samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2014-07-10">
+  <are:Jiny_organ dza="2014-07-10" dvy="2019-02-25">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-07-10">
+   <are:Clen dza="2014-07-10" dvy="2019-02-25">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21778574</are:ruianKod>

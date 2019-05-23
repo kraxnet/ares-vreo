@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-18T15:07:16"
+odpoved_datum_cas="2019-02-22T10:58:06"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-18</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-18</are:Datum_vypisu>
-   <are:Cas_vypisu>15:07:16</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:58:06</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -46,25 +46,6 @@ Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
 Společnost má dva jednatele, přičemž každý jednatel jedná za společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2015-09-22">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2015-09-22</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>27562999</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>25301</are:psc>
-      <are:obec>Hostivice</are:obec>
-      <are:castObce>Hostivice</are:castObce>
-      <are:ulice>Unhošťská</are:ulice>
-      <are:cisloPop>1629</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>BAKEŠ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2015-09-22" dvy="2019-01-11">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -84,6 +65,25 @@ Společnost má dva jednatele, přičemž každý jednatel jedná za společnost
      <are:prijmeni>TŘÍSKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2015-09-22" dvy="2019-02-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-09-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27562999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25301</are:psc>
+      <are:obec>Hostivice</are:obec>
+      <are:castObce>Hostivice</are:castObce>
+      <are:ulice>Unhošťská</are:ulice>
+      <are:cisloPop>1629</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>BAKEŠ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
    <are:Clen dza="2019-01-11">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -104,24 +104,29 @@ Společnost má dva jednatele, přičemž každý jednatel jedná za společnost
      <are:prijmeni>TŘÍSKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2015-09-22">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-09-22">
+   <are:Clen dza="2019-02-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-09-22</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>27562999</are:ruianKod>
+      <are:ruianKod>1450093</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>25301</are:psc>
-      <are:obec>Hostivice</are:obec>
-      <are:castObce>Hostivice</are:castObce>
-      <are:ulice>Unhošťská</are:ulice>
-      <are:cisloPop>1629</are:cisloPop>
+      <are:psc>27204</are:psc>
+      <are:okres>Kladno</are:okres>
+      <are:obec>Kladno</are:obec>
+      <are:castObce>Rozdělov</are:castObce>
+      <are:ulice>Tolstého</are:ulice>
+      <are:cisloPop>801</are:cisloPop>
      </are:adresa>
      <are:jmeno>PETR</are:jmeno>
      <are:prijmeni>BAKEŠ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2015-09-22">
+   <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2019-01-11">
     <are:fosoba>
      <are:adresa>
@@ -136,6 +141,22 @@ Společnost má dva jednatele, přičemž každý jednatel jedná za společnost
      </are:adresa>
      <are:jmeno>JAROSLAV</are:jmeno>
      <are:prijmeni>TŘÍSKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1450093</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27204</are:psc>
+      <are:okres>Kladno</are:okres>
+      <are:obec>Kladno</are:obec>
+      <are:castObce>Rozdělov</are:castObce>
+      <are:ulice>Tolstého</are:ulice>
+      <are:cisloPop>801</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>BAKEŠ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

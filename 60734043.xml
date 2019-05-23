@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-28T12:21:04"
+odpoved_datum_cas="2019-02-22T10:47:53"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-28</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-28</are:Datum_vypisu>
-   <are:Cas_vypisu>12:21:04</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:47:53</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -32,8 +32,18 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>16</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1995-03-06</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-12</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost se vymazává z veřejného rejstříku po právní moci tohoto usnesení se všemi zápisy.
+Právní důvod výmazu:  Usnesením Krajského soudu v Brně ze dne 20.2.2014, č.j. KSBR 32 INS 37858/2013-A-9, byl osvědčen úpadek dlužníka: WELDOTHERM
+Czech s.r.o., Brno, Křižíkova 68, PSČ 612 00, IČO: 607 34 043. Usnesením Krajského soudu v Brně ze dne 5.10.2018, č.j. KSBR 32 INS 37858/2013-B-66 byl konkurs na majetek dlužníka zrušen z důvodu, že pro uspokojení věřitelů je majetek dlužníka zcela nepost
+ačující.
+Tímto byla společnost dle § 173 odst. 2 o.z. zrušena se bez likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1995-03-06">
+  <are:Statutarni_organ dza="1995-03-06" dvy="2019-02-12">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="1995-03-06" dvy="2005-10-25">
     <are:Text>
@@ -46,7 +56,7 @@ za společnost jedná a podepisuje jednatel nebo prokurista
 Způsob jednání: Za společnost jedná a podepisuje jednatel.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2011-02-03">
+   <are:ZpusobJednani dza="2011-02-03" dvy="2019-02-12">
     <are:Text>
 Způsob jednání: Jménem společnosti jedná a podepisuje každý jednatel samostatně, výjma jednání v případech, jejichž předmětem je vznik, změna nebo zánik práva nebo závazku k plnění vyššímu než 1.000.000,-Kč (jeden milion korun českých), při nichž jménem s
 polečnosti jednají vždy společně oba jednatelé
@@ -104,22 +114,6 @@ polečnosti jednají vždy společně oba jednatelé
      <are:prijmeni>Jež</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2011-02-03">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2010-12-01</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>276</are:stat>
-      <are:obec>Essen</are:obec>
-      <are:ulice>Ruschenstrasse</are:ulice>
-      <are:cisloPop>8</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>Karl</are:jmeno>
-     <are:prijmeni>Görner</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2011-02-03" dvy="2014-05-06">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -137,6 +131,22 @@ polečnosti jednají vždy společně oba jednatelé
      </are:adresa>
      <are:jmeno>Martin</are:jmeno>
      <are:prijmeni>Milec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-03" dvy="2019-02-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-12-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:obec>Essen</are:obec>
+      <are:ulice>Ruschenstrasse</are:ulice>
+      <are:cisloPop>8</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Karl</are:jmeno>
+     <are:prijmeni>Görner</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2014-05-06" dvy="2015-05-08">
@@ -159,7 +169,7 @@ polečnosti jednají vždy společně oba jednatelé
      <are:prijmeni>MILEC</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-05-08">
+   <are:Clen dza="2015-05-08" dvy="2019-02-12">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-12-01</are:vznikFunkce>
@@ -180,9 +190,9 @@ polečnosti jednají vždy společně oba jednatelé
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1995-03-06">
+  <are:Jiny_organ dza="1995-03-06" dvy="2019-02-12">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2011-02-03">
+   <are:Clen dza="2011-02-03" dvy="2019-02-12">
     <are:posoba>
      <are:adresa>
       <are:stat>40</are:stat>
@@ -193,7 +203,7 @@ polečnosti jednají vždy společně oba jednatelé
      <are:ObchodniFirma>WELDOTHERM - Gesellschaft für Wärmetechnik GmbH</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2018-03-31">
+   <are:Clen dza="2018-03-31" dvy="2019-02-12">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>77775716</are:ruianKod>

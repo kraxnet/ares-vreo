@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T23:32:26"
+odpoved_datum_cas="2019-02-28T12:45:30"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>23:32:26</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:45:30</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,7 +21,6 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>25981161</are:ICO>
    <are:ObchodniFirma>Společenství vlastníků ČSA 1404 Hlinsko</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>3</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>53901</are:psc>
     <are:obec>Hlinsko</are:obec>
@@ -58,7 +57,6 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>53901</are:psc>
       <are:obec>Hlinsko</are:obec>
@@ -67,27 +65,6 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
      </are:adresa>
      <are:jmeno>Josef</are:jmeno>
      <are:prijmeni>Novák</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2003-02-04">
-    <are:clenstvi>
-     <are:vznikClenstvi>2002-11-22</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Místopředseda výboru</are:nazev>
-     <are:vznikFunkce>2002-11-22</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>53901</are:psc>
-      <are:obec>Hlinsko</are:obec>
-      <are:ulice>ČSA</are:ulice>
-      <are:cisloTxt>1404</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Vladimír</are:jmeno>
-     <are:prijmeni>Zahálka</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2003-02-04" dvy="2010-01-05">
@@ -100,7 +77,6 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>53901</are:psc>
       <are:obec>Hlinsko</are:obec>
@@ -109,6 +85,26 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
      </are:adresa>
      <are:jmeno>Iva</are:jmeno>
      <are:prijmeni>Tuhá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-04" dvy="2019-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2002-11-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2002-11-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>53901</are:psc>
+      <are:obec>Hlinsko</are:obec>
+      <are:ulice>ČSA</are:ulice>
+      <are:cisloTxt>1404</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Zahálka</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2010-01-05">
@@ -129,6 +125,29 @@ zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího
      </are:adresa>
      <are:jmeno>Pavel</are:jmeno>
      <are:prijmeni>Pilný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2002-11-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2002-11-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5390991</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53901</are:psc>
+      <are:okres>Chrudim</are:okres>
+      <are:obec>Hlinsko</are:obec>
+      <are:castObce>Hlinsko</are:castObce>
+      <are:ulice>Československé armády</are:ulice>
+      <are:cisloPop>1404</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>ZAHÁLKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

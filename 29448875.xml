@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T18:21:59"
+odpoved_datum_cas="2019-02-28T12:27:25"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>18:21:59</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:27:26</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,14 +21,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>29448875</are:ICO>
    <are:ObchodniFirma>Nadační fond Zdravé české ruce</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>23282525</are:ruianKod>
+    <are:ruianKod>10603638</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>77900</are:psc>
-    <are:obec>Olomouc</are:obec>
-    <are:castObce>Hodolany</are:castObce>
-    <are:ulice>Masarykova třída</are:ulice>
-    <are:cisloPop>873</are:cisloPop>
-    <are:cisloOr>25</are:cisloOr>
+    <are:psc>79817</are:psc>
+    <are:okres>Prostějov</are:okres>
+    <are:obec>Smržice</are:obec>
+    <are:castObce>Smržice</are:castObce>
+    <are:ulice>J. Krezy</are:ulice>
+    <are:cisloPop>43</are:cisloPop>
+    <are:cisloOr>6</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2012-07-17</are:DatumZapisu>
    <are:Cinnosti>
@@ -69,9 +70,14 @@ Osvětovou publikační a poradenskou činností:
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2012-07-17">
    <are:Nazev>Správní rada</are:Nazev>
-   <are:ZpusobJednani dza="2012-07-17">
+   <are:ZpusobJednani dza="2012-07-17" dvy="2019-02-18">
     <are:Text>
 Jménem nadačního fondu jednají předseda správní rady společně s kterýmkoliv členem správní rady.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-18">
+    <are:Text>
+Nadační fond zastupuje předseda správní rady samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2012-07-17" dvy="2014-05-16">
@@ -132,7 +138,10 @@ Jménem nadačního fondu jednají předseda správní rady společně s kterým
      <are:prijmeni>Fajmon</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-05-16">
+   <are:Clen dza="2014-05-16" dvy="2019-02-18">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-07-17</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen správní rady</are:nazev>
     </are:funkce>
@@ -152,9 +161,13 @@ Jménem nadačního fondu jednají předseda správní rady společně s kterým
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-07-14">
+   <are:Clen dza="2014-07-14" dvy="2019-02-18">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-07-17</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda správní rady</are:nazev>
+     <are:zanikFunkce>2017-07-17</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -192,7 +205,10 @@ Jménem nadačního fondu jednají předseda správní rady společně s kterým
      <are:prijmeni>FAJMON</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-10-07">
+   <are:Clen dza="2016-10-07" dvy="2019-02-18">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-07-17</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen správní rady</are:nazev>
     </are:funkce>
@@ -211,38 +227,170 @@ Jménem nadačního fondu jednají předseda správní rady společně s kterým
      <are:prijmeni>FAJMON</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2012-07-17">
-   <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2015-11-25">
+   <are:Clen dza="2019-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-09-30</are:vznikClenstvi>
+    </are:clenstvi>
     <are:funkce>
-     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:nazev>Člen správní rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>21731764</are:ruianKod>
+      <are:ruianKod>22579583</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>12800</are:psc>
+      <are:psc>10300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
       <are:obec>Praha</are:obec>
-      <are:castObce>Nové Město</are:castObce>
-      <are:mop>Praha 2</are:mop>
-      <are:ulice>Plavecká</are:ulice>
-      <are:cisloPop>1291</are:cisloPop>
-      <are:cisloOr>3</are:cisloOr>
+      <are:castObce>Kolovraty</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Nad zbrojnicí</are:ulice>
+      <are:cisloPop>155</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
      </are:adresa>
-     <are:jmeno>RICHARD</are:jmeno>
-     <are:prijmeni>MACHAN</are:prijmeni>
+     <are:jmeno>BLAHOSLAV</are:jmeno>
+     <are:prijmeni>FAJMON</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-11-25">
+   <are:Clen dza="2019-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
+     <are:nazev>Člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10603638</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79817</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Smržice</are:obec>
+      <are:castObce>Smržice</are:castObce>
+      <are:ulice>J. Krezy</are:ulice>
+      <are:cisloPop>43</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JITKA</are:jmeno>
+     <are:prijmeni>ZÁLEŠÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-18" dvy="2019-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-09-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-01-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>78401</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Litovel</are:obec>
+      <are:castObce>Litovel</are:castObce>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloPop>244</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>JUREČKA</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-18" dvy="2019-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-09-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda správní rady</are:nazev>
+     <are:vznikFunkce>2017-09-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>79817</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Smržice</are:obec>
+      <are:castObce>Smržice</are:castObce>
+      <are:ulice>J. Krezy</are:ulice>
+      <are:cisloPop>43</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BOHUMIL</are:jmeno>
+     <are:prijmeni>ZÁLEŠÁK</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-09-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda správní rady</are:nazev>
+     <are:vznikFunkce>2017-09-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10603638</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79817</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Smržice</are:obec>
+      <are:castObce>Smržice</are:castObce>
+      <are:ulice>J. Krezy</are:ulice>
+      <are:cisloPop>43</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BOHUMIL</are:jmeno>
+     <are:prijmeni>ZÁLEŠÁK</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2012-07-17">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2019-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-09-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21961271</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>242</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETROS</are:jmeno>
+     <are:prijmeni>CHRISTODOULOU</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-09-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2017-09-30</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>7795700</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>53009</are:psc>
+      <are:okres>Pardubice</are:okres>
       <are:obec>Pardubice</are:obec>
       <are:castObce>Polabiny</are:castObce>
       <are:ulice>Partyzánů</are:ulice>
@@ -253,15 +401,19 @@ Jménem nadačního fondu jednají předseda správní rady společně s kterým
      <are:titulPred>MUDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-11-25">
+   <are:Clen dza="2019-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-09-30</are:vznikClenstvi>
+    </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
+     <are:nazev>Člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>7966555</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>78701</are:psc>
+      <are:okres>Šumperk</are:okres>
       <are:obec>Bratrušov</are:obec>
       <are:castObce>Bratrušov</are:castObce>
       <are:cisloPop>141</are:cisloPop>

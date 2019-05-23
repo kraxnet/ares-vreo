@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-29T15:59:45"
+odpoved_datum_cas="2019-02-28T12:39:07"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-29</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-29</are:Datum_vypisu>
-   <are:Cas_vypisu>15:59:45</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:39:07</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -98,23 +98,38 @@ Společnost zastupuje jednatel samostatně.
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2018-06-01">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2018-06-01">
+   <are:Clen dza="2019-02-26">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>22354841</are:ruianKod>
+      <are:ruianKod>22370731</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>18600</are:psc>
+      <are:psc>18200</are:psc>
       <are:okres>Hlavní město Praha</are:okres>
       <are:obec>Praha</are:obec>
-      <are:castObce>Karlín</are:castObce>
+      <are:castObce>Kobylisy</are:castObce>
       <are:mop>Praha 8</are:mop>
-      <are:ulice>Molákova</are:ulice>
-      <are:cisloPop>577</are:cisloPop>
-      <are:cisloOr>34</are:cisloOr>
+      <are:ulice>Střekovská</are:ulice>
+      <are:cisloPop>1345</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
      </are:adresa>
-     <are:jmeno>FILIP</are:jmeno>
-     <are:prijmeni>ENDAL</are:prijmeni>
-     <are:titulPred>Ing. arch.</are:titulPred>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>ŠVÁRA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8651884</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26901</are:psc>
+      <are:okres>Rakovník</are:okres>
+      <are:obec>Rakovník</are:obec>
+      <are:castObce>Rakovník II</are:castObce>
+      <are:ulice>Zdenky Havlíčkové</are:ulice>
+      <are:cisloPop>1023</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>TRUXA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

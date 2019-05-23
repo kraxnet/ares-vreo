@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T09:04:24"
+odpoved_datum_cas="2019-02-28T12:32:50"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>09:04:24</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:32:50</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,20 +21,20 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>68464371</are:ICO>
    <are:ObchodniFirma>Olena Gulova</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>1</are:ruianKod>
+    <are:ruianKod>7791071</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>53006</are:psc>
-    <are:obec>Pardubice, Svítkov</are:obec>
-    <are:ulice>Kostnická</are:ulice>
-    <are:cisloTxt>588</are:cisloTxt>
+    <are:psc>53003</are:psc>
+    <are:okres>Pardubice</are:okres>
+    <are:obec>Pardubice</are:obec>
+    <are:castObce>Bílé Předměstí</are:castObce>
+    <are:ulice>Na Drážce</are:ulice>
+    <are:cisloPop>1556</are:cisloPop>
    </are:Sidlo>
    <are:Bydliste>
-    <are:ruianKod>101</are:ruianKod>
     <are:stat>804</are:stat>
     <are:text>Prospekt Lenina 174/A, Záporoží</are:text>
    </are:Bydliste>
    <are:Pobyt>
-    <are:ruianKod>1</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>53006</are:psc>
     <are:obec>Pardubice, Svítkov</are:obec>
@@ -42,20 +42,51 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>588</are:cisloTxt>
    </are:Pobyt>
    <are:DatumZapisu>1999-01-05</are:DatumZapisu>
-   <are:Cinnosti>
-    <are:PredmetPodnikani>
-     <are:Text>
-Výuka cizích jazyků - anglického, ruského a ukrajinského
-     </are:Text>
-    </are:PredmetPodnikani>
-   </are:Cinnosti>
+   <are:DatumVymazu>2019-02-25</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z obchodního rejstříku podnikatel Olena Gulova, identifikační číslo 684 64 371, právní důvod výmazu: úmrtí podnikající fyzické osoby
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1999-01-05">
+  <are:Statutarni_organ dza="1999-01-05" dvy="2019-02-25">
    <are:Nazev>Podnikatel</are:Nazev>
-   <are:Clen dza="1999-01-05">
+   <are:Clen dza="1999-01-05" dvy="2019-02-14">
     <are:fosoba>
      <are:jmeno>Olena</are:jmeno>
      <are:prijmeni>Gulova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-14" dvy="2019-02-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7791071</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53003</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Bílé Předměstí</are:castObce>
+      <are:ulice>Na Drážce</are:ulice>
+      <are:cisloPop>1556</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>OLENA</are:jmeno>
+     <are:prijmeni>GULOVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-22" dvy="2019-02-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7791071</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53003</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Bílé Předměstí</are:castObce>
+      <are:ulice>Na Drážce</are:ulice>
+      <are:cisloPop>1556</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>OLENA</are:jmeno>
+     <are:prijmeni>GULOVA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

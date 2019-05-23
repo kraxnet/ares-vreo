@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T18:25:53"
+odpoved_datum_cas="2019-02-22T11:00:42"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>18:25:53</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:00:42</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -124,149 +124,42 @@ f)	poskytování informací, projektování a podpora podnikatelských aktivit a
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2012-11-28">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2015-09-24">
+   <are:Clen dza="2019-02-15">
     <are:clenstvi>
-     <are:vznikClenstvi>2012-11-28</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>14108542</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73953</are:psc>
-      <are:obec>Hnojník</are:obec>
-      <are:castObce>Hnojník</are:castObce>
-      <are:cisloPop>350</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>TOMÁŠ</are:jmeno>
-     <are:prijmeni>PETEREK</are:prijmeni>
-     <are:titulPred>Mgr.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-10-10">
-    <are:clenstvi>
-     <are:vznikClenstvi>2012-11-28</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-30</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda dozorčí rady</are:nazev>
-     <are:vznikFunkce>2015-04-01</are:vznikFunkce>
+     <are:vznikFunkce>2019-01-30</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>14106442</are:ruianKod>
+      <are:ruianKod>41038495</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>73953</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
       <are:obec>Hnojník</are:obec>
       <are:castObce>Hnojník</are:castObce>
-      <are:cisloPop>139</are:cisloPop>
+      <are:cisloPop>439</are:cisloPop>
      </are:adresa>
-     <are:jmeno>BOHUSLAV</are:jmeno>
-     <are:prijmeni>KUDLÁČEK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-10-10">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-03-01</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>14106329</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73953</are:psc>
-      <are:obec>Hnojník</are:obec>
-      <are:castObce>Hnojník</are:castObce>
-      <are:cisloPop>127</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>EVA</are:jmeno>
-     <are:prijmeni>GRZEGORZOVÁ</are:prijmeni>
-     <are:titulPred>MUDr.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-  </are:Jiny_organ>
-  <are:Jiny_organ dza="2012-11-28">
-   <are:Nazev>Správní rada</are:Nazev>
-   <are:Clen dza="2015-09-24">
-    <are:clenstvi>
-     <are:vznikClenstvi>2012-11-28</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>12560359</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73961</are:psc>
-      <are:obec>Třinec</are:obec>
-      <are:castObce>Staré Město</are:castObce>
-      <are:ulice>Polní</are:ulice>
-      <are:cisloPop>411</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>BOHUSLAV</are:jmeno>
-     <are:prijmeni>HAMROZI</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-09-24">
-    <are:clenstvi>
-     <are:vznikClenstvi>2012-11-28</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>24872717</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73601</are:psc>
-      <are:obec>Havířov</are:obec>
-      <are:castObce>Šumbark</are:castObce>
-      <are:ulice>Moravská</are:ulice>
-      <are:cisloPop>478</are:cisloPop>
-      <are:cisloOr>37</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ZDENĚK</are:jmeno>
-     <are:prijmeni>MALÍNEK</are:prijmeni>
+     <are:jmeno>ZBYŠEK</are:jmeno>
+     <are:prijmeni>PIETER</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-09-24">
+   <are:Clen dza="2019-02-15">
     <are:clenstvi>
-     <are:vznikClenstvi>2012-11-28</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-30</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>14106175</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73953</are:psc>
-      <are:obec>Hnojník</are:obec>
-      <are:castObce>Hnojník</are:castObce>
-      <are:cisloPop>112</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>CALETKA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-10-10">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-03-01</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>předseda správní rady</are:nazev>
-     <are:vznikFunkce>2015-04-01</are:vznikFunkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>14108135</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>73953</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
       <are:obec>Hnojník</are:obec>
       <are:castObce>Hnojník</are:castObce>
       <are:cisloPop>309</are:cisloPop>
@@ -276,44 +169,95 @@ f)	poskytování informací, projektování a podpora podnikatelských aktivit a
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-10-10">
+   <are:Clen dza="2019-02-15">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-03-01</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-30</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
+     <are:nazev>člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>27274250</are:ruianKod>
+      <are:ruianKod>14108721</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>73953</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
       <are:obec>Hnojník</are:obec>
       <are:castObce>Hnojník</are:castObce>
-      <are:cisloPop>404</are:cisloPop>
+      <are:cisloPop>368</are:cisloPop>
      </are:adresa>
-     <are:jmeno>LUKÁŠ</are:jmeno>
-     <are:prijmeni>VITÁSEK</are:prijmeni>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>KASPER</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-10-10">
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2012-11-28">
+   <are:Nazev>Správní rada</are:Nazev>
+   <are:Clen dza="2019-02-15">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-03-01</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-01-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda správní rady</are:nazev>
+     <are:vznikFunkce>2019-01-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14105373</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73953</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Hnojník</are:obec>
+      <are:castObce>Hnojník</are:castObce>
+      <are:cisloPop>32</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>HECZKO</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-30</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen správní rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>14108381</are:ruianKod>
+      <are:ruianKod>14108551</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>73953</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
       <are:obec>Hnojník</are:obec>
       <are:castObce>Hnojník</are:castObce>
-      <are:cisloPop>334</are:cisloPop>
+      <are:cisloPop>351</are:cisloPop>
      </are:adresa>
-     <are:jmeno>KAREL</are:jmeno>
-     <are:prijmeni>VITÁSEK</are:prijmeni>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>MOLIN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14107678</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73953</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Hnojník</are:obec>
+      <are:castObce>Hnojník</are:castObce>
+      <are:cisloPop>263</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDEŇKA</are:jmeno>
+     <are:prijmeni>NOVÁKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

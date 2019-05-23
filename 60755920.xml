@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T15:03:58"
+odpoved_datum_cas="2019-02-22T11:06:02"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>15:03:58</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:06:02</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -93,7 +93,6 @@ Každý jednatel jedná a podepisuje jménem společnosti ve všech věcech sam
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Praha 4 - Háje</are:obec>
       <are:ulice>Mendelova</are:ulice>
@@ -102,23 +101,6 @@ Každý jednatel jedná a podepisuje jménem společnosti ve všech věcech sam
      <are:jmeno>Jaromír</are:jmeno>
      <are:prijmeni>Chlad</are:prijmeni>
      <are:titulPred>ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-02-27">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>8905126</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>39601</are:psc>
-      <are:obec>Humpolec</are:obec>
-      <are:ulice>Dolní náměstí</are:ulice>
-      <are:cisloTxt>512</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Zdeněk</are:jmeno>
-     <are:prijmeni>Vašíček</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2009-02-27">
@@ -140,23 +122,45 @@ Každý jednatel jedná a podepisuje jménem společnosti ve všech věcech sam
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="1995-06-08">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2009-02-27">
+   <are:Clen dza="2009-02-27" dvy="2019-02-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>4</are:ruianKod>
+      <are:ruianKod>8905126</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>39601</are:psc>
       <are:obec>Humpolec</are:obec>
       <are:ulice>Dolní náměstí</are:ulice>
-      <are:cisloTxt>502</are:cisloTxt>
+      <are:cisloTxt>512</are:cisloTxt>
      </are:adresa>
      <are:jmeno>Zdeněk</are:jmeno>
      <are:prijmeni>Vašíček</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8905126</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39601</are:psc>
+      <are:okres>Pelhřimov</are:okres>
+      <are:obec>Humpolec</are:obec>
+      <are:castObce>Humpolec</are:castObce>
+      <are:ulice>Dolní náměstí</are:ulice>
+      <are:cisloPop>512</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>VAŠÍČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-06-08">
+   <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2009-02-27">
     <are:fosoba>
      <are:adresa>
@@ -171,6 +175,22 @@ Každý jednatel jedná a podepisuje jménem společnosti ve všech věcech sam
      <are:jmeno>Jaromír</are:jmeno>
      <are:prijmeni>Chlad</are:prijmeni>
      <are:titulPred>Ing</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8905126</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39601</are:psc>
+      <are:okres>Pelhřimov</are:okres>
+      <are:obec>Humpolec</are:obec>
+      <are:castObce>Humpolec</are:castObce>
+      <are:ulice>Dolní náměstí</are:ulice>
+      <are:cisloPop>512</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>VAŠÍČEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

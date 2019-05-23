@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T14:56:38"
+odpoved_datum_cas="2019-02-28T12:40:34"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>14:56:38</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:40:34</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -95,11 +95,17 @@ terý k tomu byl představenstvem písemně pověřen.
 V souladu s ustanovením § 164 odst. 3) zákona č. 89/2012 Sb., občanského zákoníku, je jednáním vůči zaměstnancům pověřen člen představenstva Ing. Lukáš Maršálek.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2016-09-19">
+   <are:ZpusobJednani dza="2016-09-19" dvy="2019-02-27">
     <are:Text>
 Členové představenstva můžou zastupovat společnost ve všech záležitostech, a to tak, že společnost zastupují navenek předseda představenstva společně s dalším členem představenstva nebo tři členové představenstva společně nebo jeden člen představenstva, k
 terý k tomu byl představenstvem písemně pověřen.
 V souladu s ustanovením § 164 odst. 3) zákona č. 89/2012 Sb., občanského zákoníku, je jednáním vůči zaměstnancům pověřen člen představenstva Ing. Pavel Snášel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-27">
+    <are:Text>
+Členové představenstva můžou zastupovat společnost ve všech záležitostech, a to tak, že společnost zastupují navenek předseda představenstva společně s dalším členem představenstva nebo tři členové představenstva společně nebo jeden člen představenstva, k
+terý k tomu byl představenstvem písemně pověřen.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2010-08-01" dvy="2011-05-24">
@@ -503,51 +509,6 @@ V souladu s ustanovením § 164 odst. 3) zákona č. 89/2012 Sb., občanského z
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-04-29">
-    <are:clenstvi>
-     <are:vznikClenstvi>2011-04-06</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23870991</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>50002</are:psc>
-      <are:obec>Hradec Králové</are:obec>
-      <are:castObce>Hradec Králové</are:castObce>
-      <are:ulice>Ulrichovo náměstí</are:ulice>
-      <are:cisloPop>762</are:cisloPop>
-      <are:cisloOr>6</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ZDENĚK</are:jmeno>
-     <are:prijmeni>FINK</are:prijmeni>
-     <are:titulPred>MUDr.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-04-29">
-    <are:clenstvi>
-     <are:vznikClenstvi>2011-05-02</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>18888887</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>53701</are:psc>
-      <are:obec>Chrudim</are:obec>
-      <are:castObce>Chrudim III</are:castObce>
-      <are:ulice>Jungmannovo nábřeží</are:ulice>
-      <are:cisloPop>399</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>ŘEZNÍČEK</are:prijmeni>
-     <are:titulPred>Mgr.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2015-03-17">
     <are:clenstvi>
      <are:vznikClenstvi>2015-02-05</are:vznikClenstvi>
@@ -612,6 +573,55 @@ V souladu s ustanovením § 164 odst. 3) zákona č. 89/2012 Sb., občanského z
      <are:jmeno>STANISLAV</are:jmeno>
      <are:prijmeni>ONDRÁČEK</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18901891</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53701</are:psc>
+      <are:okres>Chrudim</are:okres>
+      <are:obec>Chrudim</are:obec>
+      <are:castObce>Chrudim IV</are:castObce>
+      <are:ulice>Nezvalova</are:ulice>
+      <are:cisloPop>1033</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>PILNÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>MBA</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23816830</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50012</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Nový Hradec Králové</are:castObce>
+      <are:ulice>Durychova</are:ulice>
+      <are:cisloPop>1389</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ALEXANDR</are:jmeno>
+     <are:prijmeni>HRABÁLEK</are:prijmeni>
+     <are:titulPred>Prof. PharmDr.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

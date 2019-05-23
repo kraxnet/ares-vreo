@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-03-19T15:14:48"
+odpoved_datum_cas="2019-02-22T11:26:49"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-03-19</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-03-19</are:Datum_vypisu>
-   <are:Cas_vypisu>15:14:48</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:26:49</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -29,6 +29,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>3250/9</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2007-11-23</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-21</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost Guardfest s.r.o. v likvidaci, se sídlem Praha 10 - Záběhlice, Mikanova 3250/9, IČ: 281 95 655 z obchodního rejstříku. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetCinnosti>
      <are:Text>
@@ -37,14 +43,14 @@ pronájem nemovitostí, bytů a nebytových prostor bez poskytování jiných ne
     </are:PredmetCinnosti>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2007-11-23">
+  <are:Statutarni_organ dza="2007-11-23" dvy="2019-02-21">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2007-11-23">
+   <are:ZpusobJednani dza="2007-11-23" dvy="2019-02-21">
     <are:Text>
 Jednatel společnosti za společnost jedná samostatně, a k napsané či natištěné firmě společnosti připojí svůj vlastnoruční podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2007-11-23</are:vznikFunkce>
@@ -61,9 +67,9 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-03-16">
+  <are:Statutarni_organ dza="2018-03-16" dvy="2019-02-21">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-03-16">
+   <are:Clen dza="2018-03-16" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22283315</are:ruianKod>
@@ -83,9 +89,9 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2007-11-23">
+  <are:Jiny_organ dza="2007-11-23" dvy="2019-02-21">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -97,7 +103,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Fedyshak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -110,7 +116,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Khodanych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -123,7 +129,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Vagylevych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -136,7 +142,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Vynnyk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -149,7 +155,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Kachur</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -162,7 +168,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Pazyak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -175,7 +181,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Nazarova</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -188,7 +194,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Keshelya</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -201,7 +207,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Slyusarenko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -213,7 +219,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Borynskyy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -226,7 +232,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Lubynskyy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -238,7 +244,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Morykit</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -251,7 +257,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Baluba</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -263,7 +269,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Chvorsyuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -276,7 +282,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Berezovskyy</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -288,7 +294,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Tabakov</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>498</are:stat>
@@ -300,7 +306,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Ungureanu</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -313,7 +319,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Khusnutdinov</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -326,7 +332,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Peshkova</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -339,7 +345,7 @@ Jednatel společnosti za společnost jedná samostatně, a k napsané či nati
      <are:prijmeni>Akhtyamov</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2007-11-23">
+   <are:Clen dza="2007-11-23" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-31T15:00:42"
+odpoved_datum_cas="2019-03-01T13:45:23"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-31</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-31</are:Datum_vypisu>
-   <are:Cas_vypisu>15:00:42</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-01</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-01</are:Datum_vypisu>
+   <are:Cas_vypisu>13:45:23</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -57,7 +57,6 @@ společnosti napsané nebo natištěné připojí svůj podpis.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Liberec 30 - Vratislavice</are:obec>
       <are:ulice>Rumburská</are:ulice>
@@ -88,14 +87,13 @@ společnosti napsané nebo natištěné připojí svůj podpis.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>528</are:stat>
       <are:text>Koppelsbrink 32, 7622 CW, Borne</are:text>
      </are:adresa>
      <are:prijmeni>Marten Jan Bakker</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-01-25">
+   <are:Clen dza="2013-01-25" dvy="2019-02-27">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2013-01-23</are:vznikFunkce>
@@ -112,29 +110,32 @@ společnosti napsané nebo natištěné připojí svůj podpis.
      <are:prijmeni>BAKKER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2001-09-10">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2013-01-25">
+   <are:Clen dza="2019-02-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-01-23</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:stat>528</are:stat>
-      <are:psc>7622En</are:psc>
-      <are:obec>Borne</are:obec>
-      <are:ulice>Ennekerdijk 13</are:ulice>
+      <are:psc>7523JL</are:psc>
+      <are:obec>Enschede</are:obec>
+      <are:ulice>Het Roombeekhofje 22</are:ulice>
      </are:adresa>
-     <are:jmeno>FRERIK EDDY</are:jmeno>
+     <are:jmeno>FROUKJE</are:jmeno>
      <are:prijmeni>BAKKER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-01-25">
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-09-10">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2019-02-27">
     <are:fosoba>
      <are:adresa>
       <are:stat>528</are:stat>
-      <are:psc>7622En</are:psc>
-      <are:obec>Borne</are:obec>
-      <are:ulice>Ennekerdijk</are:ulice>
-      <are:cisloTxt>13</are:cisloTxt>
+      <are:psc>7523JL</are:psc>
+      <are:obec>Enschede</are:obec>
+      <are:ulice>Het Roombeekhofje 22</are:ulice>
      </are:adresa>
      <are:jmeno>FROUKJE</are:jmeno>
      <are:prijmeni>BAKKER</are:prijmeni>

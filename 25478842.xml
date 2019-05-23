@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T18:49:09"
+odpoved_datum_cas="2019-02-28T12:34:33"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>18:49:10</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:34:33</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -27,20 +27,27 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:ulice>Masarykova č.p.</are:ulice>
     <are:cisloTxt>755/113</are:cisloTxt>
    </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
    <are:DatumZapisu>2003-12-04</are:DatumZapisu>
    <are:Cinnosti>
-    <are:PredmetCinnosti>
+    <are:Ucel>
      <are:Text>
-správa domu
+správa domu a pozemku
      </are:Text>
-    </are:PredmetCinnosti>
+    </are:Ucel>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2003-12-04">
    <are:Nazev>Statutární orgán - výbor společenství</are:Nazev>
-   <are:ZpusobJednani dza="2003-12-04">
+   <are:ZpusobJednani dza="2003-12-04" dvy="2019-02-26">
     <are:Text>
 Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-26">
+    <are:Text>
+Navenek zastupuje společenství předseda výboru a v jeho nepřítomnosti místopředseda nebo člen výboru. Písemná právní jednání za společenství podepisuje předseda výboru společně s místopředsedou nebo dalším členem výboru, v době nepřítomnosti předsedy výbo
+ru podepisují za společenství místopředseda a člen výboru. Kdo za společenství podepisuje, připojí k názvu společenství svůj podpis a údaj o své funkci.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2003-12-04" dvy="2005-08-12">
@@ -107,47 +114,6 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:prijmeni>Pešková</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2005-08-12">
-    <are:clenstvi>
-     <are:vznikClenstvi>2005-04-26</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda</are:nazev>
-     <are:vznikFunkce>2005-04-26</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>17802903</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>40001</are:psc>
-      <are:obec>Ústí nad Labem</are:obec>
-      <are:ulice>Masarykova</are:ulice>
-      <are:cisloTxt>755/113</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Petr</are:jmeno>
-     <are:prijmeni>Košvica</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2005-08-12">
-    <are:clenstvi>
-     <are:vznikClenstvi>2005-04-26</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Člen</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>17802903</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>40001</are:psc>
-      <are:obec>Ústí nad Labem</are:obec>
-      <are:ulice>Masarykova</are:ulice>
-      <are:cisloTxt>755/113</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Vladimíra</are:jmeno>
-     <are:prijmeni>Pešková</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2005-08-12" dvy="2017-11-01">
     <are:clenstvi>
      <are:vznikClenstvi>2005-04-26</are:vznikClenstvi>
@@ -170,13 +136,59 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-11-01">
+   <are:Clen dza="2005-08-12" dvy="2019-02-26">
     <are:clenstvi>
      <are:vznikClenstvi>2005-04-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2007-04-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+     <are:vznikFunkce>2005-04-26</are:vznikFunkce>
+     <are:zanikFunkce>2007-04-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17802903</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40001</are:psc>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloTxt>755/113</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Košvica</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-08-12" dvy="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-04-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2007-04-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17802903</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40001</are:psc>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloTxt>755/113</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimíra</are:jmeno>
+     <are:prijmeni>Pešková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-01" dvy="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-04-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2007-04-26</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Místopředseda</are:nazev>
      <are:vznikFunkce>2005-04-26</are:vznikFunkce>
+     <are:zanikFunkce>2007-04-26</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -193,6 +205,77 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:jmeno>VLASTIMÍR</are:jmeno>
      <are:prijmeni>MUCHA</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-03-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-03-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17802903</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40001</are:psc>
+      <are:okres>Ústí nad Labem</are:okres>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:castObce>Klíše</are:castObce>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloPop>755</are:cisloPop>
+      <are:cisloOr>113</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>KOŠVICA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-03-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2018-03-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17803934</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40001</are:psc>
+      <are:okres>Ústí nad Labem</are:okres>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:castObce>Klíše</are:castObce>
+      <are:ulice>Resslova</are:ulice>
+      <are:cisloPop>854</are:cisloPop>
+      <are:cisloOr>24</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLASTIMÍR</are:jmeno>
+     <are:prijmeni>MUCHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-03-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17802903</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40001</are:psc>
+      <are:okres>Ústí nad Labem</are:okres>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:castObce>Klíše</are:castObce>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloPop>755</are:cisloPop>
+      <are:cisloOr>113</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>NOVÁK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-08-06T08:53:57"
+odpoved_datum_cas="2019-03-06T14:29:59"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-08-02</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-08-06</are:Datum_vypisu>
-   <are:Cas_vypisu>08:53:57</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:29:59</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -34,25 +34,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-výroba vína
+Výroba vína
      </are:Text>
      <are:Text>
-výroba alkoholických nápojů studenou cestou z nakoupeného lihu
+Výroba alkoholických nápojů studenou cestou z nakoupeného lihu
      </are:Text>
      <are:Text>
-specializovaný maloobchod
-     </are:Text>
-     <are:Text>
-velkoobchod
-     </are:Text>
-     <are:Text>
-zprostředkování obchodu
-     </are:Text>
-     <are:Text>
-zprostředkování služeb
-     </are:Text>
-     <are:Text>
-výroba nápojů
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
@@ -65,10 +53,15 @@ Způsob zastupování:
 za společnost jednají a podepisují jednatelé společně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2001-10-10">
+   <are:ZpusobJednani dza="2001-10-10" dvy="2019-03-05">
     <are:Text>
 Způsob zastupování:
 za společnost jedná a podepisuje každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-05">
+    <are:Text>
+Za společnost jedná a podepisuje každý jednatel samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2000-06-22" dvy="2001-10-10">
@@ -212,24 +205,6 @@ za společnost jedná a podepisuje každý jednatel samostatně.
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2000-06-22">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2016-09-21">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>19701802</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>61200</are:psc>
-      <are:okres>Brno-město</are:okres>
-      <are:obec>Brno</are:obec>
-      <are:castObce>Královo Pole</are:castObce>
-      <are:ulice>Jungmannova</are:ulice>
-      <are:cisloPop>881</are:cisloPop>
-      <are:cisloOr>40</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>ŠEBELE</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-09-21">
     <are:fosoba>
      <are:adresa>

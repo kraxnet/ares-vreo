@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T06:16:07"
+odpoved_datum_cas="2019-02-22T10:32:49"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>06:16:07</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:32:49</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -24,78 +24,45 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:ruianKod>3204669</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>70200</are:psc>
+    <are:okres>Ostrava-město</are:okres>
     <are:obec>Ostrava</are:obec>
     <are:castObce>Přívoz</are:castObce>
     <are:ulice>Palackého</are:ulice>
-    <are:cisloTxt>963/11</are:cisloTxt>
+    <are:cisloPop>963</are:cisloPop>
+    <are:cisloOr>11</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2003-05-19</are:DatumZapisu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-specializovaný maloobchod
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
      <are:Text>
-velkoobchod
+Hostinská činnost
      </are:Text>
      <are:Text>
-zprostředkování obchodu
+Silniční motorová doprava - nákladní provozovaná vozidly nebo jízdními soupravami o největší povolené hmotnosti přesahující 3,5 tuny, jsou-li určeny k přepravě zvířat nebo věcí, - nákladní provozovaná vozidly nebo jízdními soupravami o největší povolené h
+motnosti nepřesahující 3,5 tuny, jsou-li určeny k přepravě zvířat nebo věcí
      </are:Text>
      <are:Text>
-realitní činnost
-     </are:Text>
-     <are:Text>
-výroba potravinářských výrobků
-     </are:Text>
-     <are:Text>
-hostinská činnost
-     </are:Text>
-     <are:Text>
-silniční motorová doprava nákladní
-- vnitrostátní doprava provozovaná vozidly do 3,5 tuny celkové hmotnosti
-- vnitrostátní doprava provozovaná vozidly nad 3,5 tuny celkové hmotnosti
-- mezinárodní doprava provozovaná vozidly do 3,5 tuny celkové hmotnosti
-- mezinárodní doprava provozovaná vozidly nad 3,5 tuny celkové hmotnosti
-     </are:Text>
-     <are:Text>
-provádění staveb, jejich změn a odstraňování
-     </are:Text>
-     <are:Text>
-provozování čerpacích stanic s pohonnými hmotami
-     </are:Text>
-     <are:Text>
-zasilatelství
+Provádění staveb, jejich změn a odstraňování
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2003-05-19">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2003-05-19">
+   <are:ZpusobJednani dza="2003-05-19" dvy="2019-02-08">
     <are:Text>
 Způsob jednání za společnost:
 Jménem společnosti jednají jednatelé samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2003-05-19">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2003-05-19</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>4602064</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74801</are:psc>
-      <are:obec>Hlučín</are:obec>
-      <are:castObce>Bobrovníky</are:castObce>
-      <are:ulice>K Olšině</are:ulice>
-      <are:cisloTxt>5/249</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Karel</are:jmeno>
-     <are:prijmeni>Dunaj</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
+   <are:ZpusobJednani dza="2019-02-08">
+    <are:Text>
+Jménem společnosti jednají jednatelé samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
    <are:Clen dza="2003-05-19" dvy="2005-01-24">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -115,7 +82,26 @@ Jménem společnosti jednají jednatelé samostatně.
      <are:prijmeni>Dunaj</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2005-01-24">
+   <are:Clen dza="2003-05-19" dvy="2019-02-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-05-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4602064</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Bobrovníky</are:castObce>
+      <are:ulice>K Olšině</are:ulice>
+      <are:cisloTxt>5/249</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Dunaj</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-01-24" dvy="2019-02-08">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2003-05-19</are:vznikFunkce>
@@ -134,37 +120,83 @@ Jménem společnosti jednají jednatelé samostatně.
      <are:prijmeni>Dunaj</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2003-05-19">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2003-05-19">
+   <are:Clen dza="2019-02-08">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2003-05-19</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>4602064</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>74801</are:psc>
+      <are:okres>Opava</are:okres>
       <are:obec>Hlučín</are:obec>
       <are:castObce>Bobrovníky</are:castObce>
       <are:ulice>K Olšině</are:ulice>
-      <are:cisloTxt>5/249</are:cisloTxt>
+      <are:cisloPop>249</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
      </are:adresa>
-     <are:jmeno>Karel</are:jmeno>
-     <are:prijmeni>Dunaj</are:prijmeni>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>DUNAJ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2005-01-24">
+   <are:Clen dza="2019-02-08">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2003-05-19</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>25398768</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>74801</are:psc>
+      <are:okres>Opava</are:okres>
       <are:obec>Hlučín</are:obec>
       <are:castObce>Bobrovníky</are:castObce>
       <are:ulice>K Olšině</are:ulice>
-      <are:cisloTxt>351/21</are:cisloTxt>
+      <are:cisloPop>351</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
      </are:adresa>
-     <are:jmeno>Rostislav</are:jmeno>
-     <are:prijmeni>Dunaj</are:prijmeni>
+     <are:jmeno>ROSTISLAV</are:jmeno>
+     <are:prijmeni>DUNAJ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-05-19">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2019-02-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4602064</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:okres>Opava</are:okres>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Bobrovníky</are:castObce>
+      <are:ulice>K Olšině</are:ulice>
+      <are:cisloPop>249</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>DUNAJ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25398768</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:okres>Opava</are:okres>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Bobrovníky</are:castObce>
+      <are:ulice>K Olšině</are:ulice>
+      <are:cisloPop>351</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROSTISLAV</are:jmeno>
+     <are:prijmeni>DUNAJ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

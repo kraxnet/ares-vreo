@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T00:55:16"
+odpoved_datum_cas="2019-03-06T14:17:23"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>00:55:16</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:17:23</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,16 +21,16 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>04589882</are:ICO>
    <are:ObchodniFirma>KSB czech s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>21809313</are:ruianKod>
+    <are:ruianKod>22575537</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>14700</are:psc>
+    <are:psc>10200</are:psc>
     <are:okres>Hlavní město Praha</are:okres>
     <are:obec>Praha</are:obec>
-    <are:castObce>Braník</are:castObce>
-    <are:mop>Praha 4</are:mop>
-    <are:ulice>V závitu</are:ulice>
-    <are:cisloPop>1240</are:cisloPop>
-    <are:cisloOr>3</are:cisloOr>
+    <are:castObce>Hostivař</are:castObce>
+    <are:mop>Praha 10</are:mop>
+    <are:ulice>Chudenická</are:ulice>
+    <are:cisloPop>1057</are:cisloPop>
+    <are:cisloOr>34</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2015-11-25</are:DatumZapisu>
    <are:Cinnosti>
@@ -38,20 +38,29 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:Text>
 výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
+     <are:Text>
+hostinská činnost
+     </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2015-11-25">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2015-11-25">
+   <are:ZpusobJednani dza="2015-11-25" dvy="2019-03-01">
     <are:Text>
 Jednatelé Ingeborg Jilemnická a Ilona Benešová zastupují společnost samostatně. Jednatel Jan Polesný jedná vždy společně buď s Ingeborg Jilemnickou nebo Ilonou Benešovou.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2015-11-25">
+   <are:ZpusobJednani dza="2019-03-01">
+    <are:Text>
+Jednatel zastupuje společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2015-11-25" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2015-11-25</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-26</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -69,10 +78,11 @@ Jednatelé Ingeborg Jilemnická a Ilona Benešová zastupují společnost samost
      <are:prijmeni>JILEMNICKÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-11-25">
+   <are:Clen dza="2015-11-25" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2015-11-25</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-26</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -90,10 +100,11 @@ Jednatelé Ingeborg Jilemnická a Ilona Benešová zastupují společnost samost
      <are:prijmeni>BENEŠOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-11-25">
+   <are:Clen dza="2015-11-25" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2015-11-25</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-26</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -109,41 +120,43 @@ Jednatelé Ingeborg Jilemnická a Ilona Benešová zastupují společnost samost
      <are:prijmeni>POLESNÝ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5980186</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27301</are:psc>
+      <are:okres>Kladno</are:okres>
+      <are:obec>Kamenné Žehrovice</are:obec>
+      <are:castObce>Kamenné Žehrovice</are:castObce>
+      <are:ulice>Kladenská</are:ulice>
+      <are:cisloPop>335</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>KOHUTOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2015-11-25">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-11-25">
+   <are:Clen dza="2019-03-01">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>21809313</are:ruianKod>
+      <are:ruianKod>5980186</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>14700</are:psc>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Braník</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>V závitu</are:ulice>
-      <are:cisloPop>1240</are:cisloPop>
-      <are:cisloOr>3</are:cisloOr>
+      <are:psc>27301</are:psc>
+      <are:okres>Kladno</are:okres>
+      <are:obec>Kamenné Žehrovice</are:obec>
+      <are:castObce>Kamenné Žehrovice</are:castObce>
+      <are:ulice>Kladenská</are:ulice>
+      <are:cisloPop>335</are:cisloPop>
      </are:adresa>
-     <are:jmeno>INGEBORG</are:jmeno>
-     <are:prijmeni>JILEMNICKÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-11-25">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22713166</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>15200</are:psc>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Hlubočepy</are:castObce>
-      <are:mop>Praha 5</are:mop>
-      <are:ulice>Pivcova</are:ulice>
-      <are:cisloPop>957</are:cisloPop>
-      <are:cisloOr>8</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ILONA</are:jmeno>
-     <are:prijmeni>BENEŠOVÁ</are:prijmeni>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>KOHUTOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

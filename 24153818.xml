@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T16:03:09"
+odpoved_datum_cas="2019-02-22T10:46:37"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>16:03:09</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:46:37</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>OR</are:Rejstrik>
    <are:ICO>24153818</are:ICO>
-   <are:ObchodniFirma>DEUXIEME Group s.r.o.</are:ObchodniFirma>
+   <are:ObchodniFirma>DEUXIEME Group s.r.o. v likvidaci</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>21745251</are:ruianKod>
     <are:stat>203</are:stat>
@@ -30,6 +30,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>92</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2011-08-29</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-06</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost DEUXIEME Group s.r.o. v likvidaci, se sídlem Praha 2, Bělehradská 568/92, PSČ 120 00, IČ: 241 53 818 se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 183594. Právní
+m důvodem výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -41,9 +48,9 @@ Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského z
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2011-08-29">
+  <are:Statutarni_organ dza="2011-08-29" dvy="2019-02-06">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2011-08-29">
+   <are:ZpusobJednani dza="2011-08-29" dvy="2019-02-06">
     <are:Text>
 Jménem společnosti jedná jednatel samostatně.
     </are:Text>
@@ -78,7 +85,6 @@ Jménem společnosti jedná jednatel samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>276</are:stat>
       <are:psc>91278</are:psc>
       <are:obec>Pottenstein</are:obec>
@@ -113,7 +119,7 @@ Jménem společnosti jedná jednatel samostatně.
      <are:prijmeni>ORAY</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-01-08">
+   <are:Clen dza="2014-01-08" dvy="2019-02-06">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2013-12-31</are:vznikFunkce>
@@ -129,9 +135,26 @@ Jménem společnosti jedná jednatel samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2011-08-29">
+  <are:Statutarni_organ dza="2018-08-02" dvy="2019-02-06">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-08-02" dvy="2019-02-06">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21731225</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Ječná</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>27588106</are:ICO>
+     <are:ObchodniFirma>NEŠTICKÁ - NEŠTICKÝ v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2011-08-29" dvy="2019-02-06">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-01-08">
+   <are:Clen dza="2014-01-08" dvy="2019-02-06">
     <are:fosoba>
      <are:adresa>
       <are:stat>100</are:stat>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T07:20:14"
+odpoved_datum_cas="2019-02-24T13:13:23"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>07:20:14</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-24</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-24</are:Datum_vypisu>
+   <are:Cas_vypisu>13:13:23</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>RSVJ</are:Rejstrik>
    <are:ICO>26911141</are:ICO>
-   <are:ObchodniFirma>Společenství vlastníků jednotek domu čp. 658 ve Zlín</are:ObchodniFirma>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu čp. 658 ve Zlíně</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>4213173</are:ruianKod>
     <are:stat>203</are:stat>
@@ -30,6 +30,7 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:ulice>Štefánikova</are:ulice>
     <are:cisloPop>658</are:cisloPop>
    </are:Sidlo>
+   <are:DatumVzniku>2002-01-30</are:DatumVzniku>
    <are:DatumZapisu>2004-01-03</are:DatumZapisu>
    <are:Cinnosti>
     <are:PredmetCinnosti>
@@ -139,9 +140,13 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:prijmeni>KUTROVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-05-18">
+   <are:Clen dza="2016-05-18" dvy="2019-02-21">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-11-15</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2017-11-15</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -158,9 +163,13 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:prijmeni>HLOŽEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-05-18">
+   <are:Clen dza="2016-05-18" dvy="2019-02-21">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-11-15</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2017-11-15</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -177,7 +186,10 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:prijmeni>ČABLA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-05-18">
+   <are:Clen dza="2016-05-18" dvy="2019-02-21">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-11-15</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
     </are:funkce>
@@ -196,7 +208,10 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:prijmeni>CVEŠPER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-05-18">
+   <are:Clen dza="2016-05-18" dvy="2019-02-21">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-11-15</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
     </are:funkce>
@@ -214,6 +229,114 @@ Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený �
      <are:jmeno>VLASTA</are:jmeno>
      <are:prijmeni>KUTROVÁ</are:prijmeni>
     </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2019-01-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4213173</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Zlín</are:obec>
+      <are:castObce>Zlín</are:castObce>
+      <are:ulice>Štefánikova</are:ulice>
+      <are:cisloPop>658</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>HLOŽEK</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+     <are:titulZa>DiS.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2019-01-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4213173</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Zlín</are:obec>
+      <are:castObce>Zlín</are:castObce>
+      <are:ulice>Štefánikova</are:ulice>
+      <are:cisloPop>658</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>ČABLA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4213173</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Zlín</are:obec>
+      <are:castObce>Zlín</are:castObce>
+      <are:ulice>Štefánikova</are:ulice>
+      <are:cisloPop>658</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RENATA</are:jmeno>
+     <are:prijmeni>ČABLOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>8461074</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74221</are:psc>
+      <are:obec>Kopřivnice</are:obec>
+      <are:castObce>Lubina</are:castObce>
+      <are:cisloPop>103</are:cisloPop>
+     </are:adresa>
+     <are:ICO>29306337</are:ICO>
+     <are:ObchodniFirma>Kouzelná animace, s.r.o.</are:ObchodniFirma>
+     <are:Zastoupeni dza="2019-02-21">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>8461074</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>74221</are:psc>
+        <are:okres>Nový Jičín</are:okres>
+        <are:obec>Kopřivnice</are:obec>
+        <are:castObce>Lubina</are:castObce>
+        <are:cisloPop>103</are:cisloPop>
+       </are:adresa>
+       <are:jmeno>PETR</are:jmeno>
+       <are:prijmeni>BABINEC</are:prijmeni>
+      </are:fosoba>
+     </are:Zastoupeni>
+    </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
   <are:Statutarni_organ dza="2004-01-03" dvy="2013-01-18">

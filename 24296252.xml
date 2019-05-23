@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T11:27:01"
+odpoved_datum_cas="2019-02-22T10:48:14"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>11:27:01</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:48:14</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -31,6 +31,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloPop>308</are:cisloPop>
    </are:Sidlo>
    <are:DatumZapisu>2012-05-26</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-07</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost Happy garden s.r.o. v likvidaci se sídlem Slunečná 308, Černé Budy, 285 06 Sázava, IČO: 24296252 je po právní moci tohoto usnesení vymazána z obchodního rejstříku včetně všech zapsaných skutečností. Právní důvod výmazu je zrušení společnosti s
+likvidací a její ukončení.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -39,9 +46,9 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2012-05-26">
+  <are:Statutarni_organ dza="2012-05-26" dvy="2019-02-07">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2012-05-26">
+   <are:ZpusobJednani dza="2012-05-26" dvy="2019-02-07">
     <are:Text>
 Každý jednatel jedná jménem společnosti samostatně.
     </are:Text>
@@ -104,7 +111,7 @@ Každý jednatel jedná jménem společnosti samostatně.
      <are:prijmeni>Dvořák</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-10-30">
+   <are:Clen dza="2015-10-30" dvy="2019-02-07">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2012-05-26</are:vznikFunkce>
@@ -123,7 +130,7 @@ Každý jednatel jedná jménem společnosti samostatně.
      <are:prijmeni>LEPIČ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-10-30">
+   <are:Clen dza="2015-10-30" dvy="2019-02-07">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2012-05-26</are:vznikFunkce>
@@ -142,7 +149,7 @@ Každý jednatel jedná jménem společnosti samostatně.
      <are:prijmeni>JIRKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-10-30">
+   <are:Clen dza="2015-10-30" dvy="2019-02-07">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2012-05-26</are:vznikFunkce>
@@ -162,9 +169,9 @@ Každý jednatel jedná jménem společnosti samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2016-11-04">
+  <are:Statutarni_organ dza="2016-11-04" dvy="2019-02-07">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2016-11-04">
+   <are:Clen dza="2016-11-04" dvy="2019-02-07">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>25933183</are:ruianKod>
@@ -181,9 +188,9 @@ Každý jednatel jedná jménem společnosti samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2012-05-26">
+  <are:Jiny_organ dza="2012-05-26" dvy="2019-02-07">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-10-30">
+   <are:Clen dza="2015-10-30" dvy="2019-02-07">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>11509287</are:ruianKod>
@@ -198,7 +205,7 @@ Každý jednatel jedná jménem společnosti samostatně.
      <are:prijmeni>LEPIČ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-10-30">
+   <are:Clen dza="2015-10-30" dvy="2019-02-07">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>25933183</are:ruianKod>
@@ -213,7 +220,7 @@ Každý jednatel jedná jménem společnosti samostatně.
      <are:prijmeni>JIRKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-10-30">
+   <are:Clen dza="2015-10-30" dvy="2019-02-07">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>27778657</are:ruianKod>

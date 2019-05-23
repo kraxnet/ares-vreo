@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T15:08:14"
+odpoved_datum_cas="2019-03-06T14:31:15"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>15:08:14</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:31:15</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -29,8 +29,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>846/1</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2002-02-27</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-05</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost CZECH Engineering, s.r.o. v likvidaci se sídlem Praha 1, Václavské náměstí 846/1, PSČ 11000, IČO: 265 12 432, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze,oddíl C, vložka 86845.
+ Právním důvodem výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2002-02-27">
+  <are:Statutarni_organ dza="2002-02-27" dvy="2019-03-05">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2002-02-27" dvy="2004-12-22">
     <are:Text>
@@ -48,7 +55,7 @@ Jednatel jedná a podepisuje jménem společnosti vždy samostatně.
 Jménem společnosti jedná a podepisuje samostatně každý z jednatelů.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2008-02-21">
+   <are:ZpusobJednani dza="2008-02-21" dvy="2019-03-05">
     <are:Text>
 Jednatel jedná a podepisuje jménem společnosti samostatně.
     </are:Text>
@@ -150,7 +157,7 @@ Jednatel jedná a podepisuje jménem společnosti samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-10-21">
+   <are:Clen dza="2015-10-21" dvy="2019-03-05">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2006-08-25</are:vznikFunkce>
@@ -174,9 +181,9 @@ Jednatel jedná a podepisuje jménem společnosti samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-02-06">
+  <are:Statutarni_organ dza="2018-02-06" dvy="2019-03-05">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-02-06">
+   <are:Clen dza="2018-02-06" dvy="2019-03-05">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21775231</are:ruianKod>
@@ -196,9 +203,9 @@ Jednatel jedná a podepisuje jménem společnosti samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2002-02-27">
+  <are:Jiny_organ dza="2002-02-27" dvy="2019-03-05">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2008-08-08">
+   <are:Clen dza="2008-08-08" dvy="2019-03-05">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -207,9 +214,9 @@ Jednatel jedná a podepisuje jménem společnosti samostatně.
      <are:prijmeni>Galina Sergejevna Korostělevová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2012-09-03">
+   <are:Clen dza="2012-09-03" dvy="2019-03-05">
    </are:Clen>
-   <are:Clen dza="2015-10-21">
+   <are:Clen dza="2015-10-21" dvy="2019-03-05">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22696784</are:ruianKod>

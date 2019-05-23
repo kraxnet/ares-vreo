@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-05-24T13:02:58"
+odpoved_datum_cas="2019-02-22T11:31:59"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-05-24</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-05-24</are:Datum_vypisu>
-   <are:Cas_vypisu>13:02:58</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:31:59</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -89,7 +89,7 @@ i společně.
      <are:prijmeni>VARMUŽOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-08-03">
+   <are:Clen dza="2015-08-03" dvy="2019-02-21">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2015-04-29</are:vznikFunkce>
@@ -103,6 +103,26 @@ i společně.
       <are:obec>Prušánky</are:obec>
       <are:castObce>Prušánky</are:castObce>
       <are:cisloPop>832</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MICHAELA</are:jmeno>
+     <are:prijmeni>KREJČIŘÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-04-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23165502</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69611</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Mutěnice</are:obec>
+      <are:castObce>Mutěnice</are:castObce>
+      <are:ulice>Nová</are:ulice>
+      <are:cisloPop>859</are:cisloPop>
      </are:adresa>
      <are:jmeno>MICHAELA</are:jmeno>
      <are:prijmeni>KREJČIŘÍKOVÁ</are:prijmeni>
@@ -126,21 +146,6 @@ i společně.
      <are:prijmeni>ŠTĚPÁNEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-08-03">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>72967447</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69621</are:psc>
-      <are:okres>Hodonín</are:okres>
-      <are:obec>Prušánky</are:obec>
-      <are:castObce>Prušánky</are:castObce>
-      <are:cisloPop>832</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>MICHAELA</are:jmeno>
-     <are:prijmeni>KREJČIŘÍKOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2018-05-22">
     <are:fosoba>
      <are:adresa>
@@ -157,6 +162,22 @@ i společně.
      <are:jmeno>PETR</are:jmeno>
      <are:prijmeni>HANÁK</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23165502</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69611</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Mutěnice</are:obec>
+      <are:castObce>Mutěnice</are:castObce>
+      <are:ulice>Nová</are:ulice>
+      <are:cisloPop>859</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MICHAELA</are:jmeno>
+     <are:prijmeni>KREJČIŘÍKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

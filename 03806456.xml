@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-09-25T17:01:08"
+odpoved_datum_cas="2019-02-22T11:14:17"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-09-25</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-09-25</are:Datum_vypisu>
-   <are:Cas_vypisu>17:01:08</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:14:17</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -41,9 +41,9 @@ zajišťování správy domu a pozemku
     </are:Ucel>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2015-03-18">
+  <are:Statutarni_organ dza="2015-03-18" dvy="2019-02-19">
    <are:Nazev>Statutární orgán - výbor</are:Nazev>
-   <are:ZpusobJednani dza="2015-03-18">
+   <are:ZpusobJednani dza="2015-03-18" dvy="2019-02-19">
     <are:Text>
 Společenství zastupuje předseda. V době nepřítomnosti předsedy společenství zastupuje místopředseda výboru a v době nepřítomnosti předsedy i místopředsedy zastupuje společenství
 člen výboru (v pořadí, které určí svým usnesením výbor při volbě předsedy a místopředsedy, pokud je zvoleno více členů výboru). Písemné právní jednání, které činí výbor za společenství,
@@ -151,31 +151,6 @@ podepisuje předseda nebo v jeho zastoupení místopředseda, spolu s dalším �
      <are:titulZa>MBA</are:titulZa>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-06-03">
-    <are:clenstvi>
-     <are:vznikClenstvi>2016-01-27</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen výboru</are:nazev>
-     <are:vznikFunkce>2016-01-27</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22122371</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>15500</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Stodůlky</are:castObce>
-      <are:mop>Praha 5</are:mop>
-      <are:ulice>Amforová</are:ulice>
-      <are:cisloPop>1893</are:cisloPop>
-      <are:cisloOr>28</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MARTIN</are:jmeno>
-     <are:prijmeni>ROZKOVEC</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-06-03" dvy="2016-12-28">
     <are:clenstvi>
      <are:vznikClenstvi>2015-03-18</are:vznikClenstvi>
@@ -201,13 +176,42 @@ podepisuje předseda nebo v jeho zastoupení místopředseda, spolu s dalším �
      <are:titulZa>MBA</are:titulZa>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-09-14">
+   <are:Clen dza="2016-06-03" dvy="2019-02-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-01-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-12-03</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2016-01-27</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22122371</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15500</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Amforová</are:ulice>
+      <are:cisloPop>1893</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>ROZKOVEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-09-14" dvy="2019-02-19">
     <are:clenstvi>
      <are:vznikClenstvi>2015-03-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-12-03</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Místopředseda výboru</are:nazev>
      <are:vznikFunkce>2015-03-18</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-03</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -227,13 +231,48 @@ podepisuje předseda nebo v jeho zastoupení místopředseda, spolu s dalším �
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-09-19">
+   <are:Clen dza="2018-09-19" dvy="2019-02-19">
     <are:clenstvi>
      <are:vznikClenstvi>2015-03-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-12-03</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Předseda výboru</are:nazev>
      <are:vznikFunkce>2015-03-18</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21163570</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28002</are:psc>
+      <are:okres>Kolín</are:okres>
+      <are:obec>Kolín</are:obec>
+      <are:castObce>Kolín II</are:castObce>
+      <are:ulice>Dělnická</are:ulice>
+      <are:cisloPop>788</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAVA</are:jmeno>
+     <are:prijmeni>HOLÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2019-02-19">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2019-02-19">
+    <are:Text>
+Předseda je výkonným orgánem společenství. Řídí a organizuje běžnou činnost společenství a rozhoduje ve věcech spojených se správou s výjimkou těch věcí, které jsou podle občanského zákoníku a těchto stanov v působnosti shromáždění, anebo si je shromážděn
+í k rozhodnutí vyhradilo. Předseda je statutárním orgánem společenství, zastupuje společenství a za společenství navenek jedná, Činí právní jednání za společenství a podepisuje je tak, že k vypsanému či otištěnému názvu společenství připojí svůj podpis. Z
+a svou činnost odpovídá společenství.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2019-02-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-03</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda společenství</are:nazev>
+     <are:vznikFunkce>2018-12-03</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-10T11:55:15"
+odpoved_datum_cas="2019-02-22T10:55:09"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-10</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-10</are:Datum_vypisu>
-   <are:Cas_vypisu>11:55:15</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:55:09</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -42,58 +42,14 @@ stí pohybu.
     </are:Ucel>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2015-10-22">
+  <are:Statutarni_organ dza="2015-10-22" dvy="2019-02-14">
    <are:Nazev>Výbor místní organizace</are:Nazev>
-   <are:ZpusobJednani dza="2015-10-22">
+   <are:ZpusobJednani dza="2015-10-22" dvy="2019-02-14">
     <are:Text>
 Výbor místní organizace je kolektivním statutárním orgánem místní organizace s tím, že jménem výboru místní organizace jedná navenek a podepisuje předseda místní organizace. Předsedu místní organizace v jeho nepřítomnosti zastupuje místopředseda místní or
 ganizace nebo jiný člen výboru místní organizace písemně pověřený výborem.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2015-10-22">
-    <are:clenstvi>
-     <are:vznikClenstvi>2013-01-18</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda místní organizace</are:nazev>
-     <are:vznikFunkce>2013-01-18</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>13636081</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69642</are:psc>
-      <are:obec>Vracov</are:obec>
-      <are:castObce>Vracov</are:castObce>
-      <are:ulice>Soboňská</are:ulice>
-      <are:cisloPop>1311</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>LIBUŠE</are:jmeno>
-     <are:prijmeni>GASPAROVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-10-22">
-    <are:clenstvi>
-     <are:vznikClenstvi>2013-01-18</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Hospodář místní organizace</are:nazev>
-     <are:vznikFunkce>2013-01-18</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>13632175</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69642</are:psc>
-      <are:obec>Vracov</are:obec>
-      <are:castObce>Vracov</are:castObce>
-      <are:ulice>Skoronská</are:ulice>
-      <are:cisloPop>922</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>VOJTEK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2015-10-22" dvy="2016-07-12">
     <are:clenstvi>
      <are:vznikClenstvi>2013-01-18</are:vznikClenstvi>
@@ -160,9 +116,56 @@ ganizace nebo jiný člen výboru místní organizace písemně pověřený výb
      <are:prijmeni>VAŠINOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-07-12">
+   <are:Clen dza="2015-10-22" dvy="2019-02-14">
     <are:clenstvi>
      <are:vznikClenstvi>2013-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda místní organizace</are:nazev>
+     <are:vznikFunkce>2013-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13636081</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69642</are:psc>
+      <are:obec>Vracov</are:obec>
+      <are:castObce>Vracov</are:castObce>
+      <are:ulice>Soboňská</are:ulice>
+      <are:cisloPop>1311</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LIBUŠE</are:jmeno>
+     <are:prijmeni>GASPAROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-22" dvy="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-01-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-12-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Hospodář místní organizace</are:nazev>
+     <are:vznikFunkce>2013-01-18</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13632175</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69642</are:psc>
+      <are:obec>Vracov</are:obec>
+      <are:castObce>Vracov</are:castObce>
+      <are:ulice>Skoronská</are:ulice>
+      <are:cisloPop>922</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>VOJTEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-07-12" dvy="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-01-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-12-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Člen výboru</are:nazev>
@@ -181,9 +184,10 @@ ganizace nebo jiný člen výboru místní organizace písemně pověřený výb
      <are:prijmeni>ŠPIČÁKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-07-12">
+   <are:Clen dza="2016-07-12" dvy="2019-02-14">
     <are:clenstvi>
      <are:vznikClenstvi>2013-01-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-12-31</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Člen výboru</are:nazev>
@@ -202,7 +206,60 @@ ganizace nebo jiný člen výboru místní organizace písemně pověřený výb
      <are:prijmeni>PŘIKRYLOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-10-02">
+   <are:Clen dza="2018-10-02" dvy="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-02-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda místní organizace</are:nazev>
+     <are:vznikFunkce>2018-03-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13630849</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69642</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Vracov</are:obec>
+      <are:castObce>Vracov</are:castObce>
+      <are:ulice>Jezerní</are:ulice>
+      <are:cisloPop>789</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DRAHOMÍRA</are:jmeno>
+     <are:prijmeni>GASNÁRKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2019-02-14">
+   <are:Nazev>Statutární orgán - předsednictvo</are:Nazev>
+   <are:ZpusobJednani dza="2019-02-14">
+    <are:Text>
+Předsednictvo místní organizace je kolektivním statutárním orgánem místní organizace. Za předsednictvo jedná navenek předseda místní organizace nebo místopředseda místní organizace, a to každý samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2019-02-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda místní organizace</are:nazev>
+     <are:vznikFunkce>2013-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13636081</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69642</are:psc>
+      <are:obec>Vracov</are:obec>
+      <are:castObce>Vracov</are:castObce>
+      <are:ulice>Soboňská</are:ulice>
+      <are:cisloPop>1311</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LIBUŠE</are:jmeno>
+     <are:prijmeni>GASPAROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-14">
     <are:clenstvi>
      <are:vznikClenstvi>2018-02-16</are:vznikClenstvi>
     </are:clenstvi>

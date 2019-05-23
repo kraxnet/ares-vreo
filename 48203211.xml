@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-04-16T11:59:37"
+odpoved_datum_cas="2019-03-06T14:14:28"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-04-16</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-04-16</are:Datum_vypisu>
-   <are:Cas_vypisu>11:59:37</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:14:28</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -32,10 +32,17 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>6</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1993-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se dle ust. § 82 zák. č. 304/2013 po ukončené likvidaci ke dni nabytí právní moci tohoto usnesení z veřejného rejstříku společnost AGNES s.r.o. v likvidaci, IČO 482 03 211, sídlem Kubatova 1240/6, České Budějovice 3, 370 04 České Budějovice, včet
+ně všech zapsaných skutečností.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1993-01-01">
+  <are:Statutarni_organ dza="1993-01-01" dvy="2019-03-01">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="1993-01-01">
+   <are:ZpusobJednani dza="1993-01-01" dvy="2019-03-01">
     <are:Text>
 Způsob jednání jménem společnosti: Jménem společnosti jednají
 oba společníci a jednatelé. Je-li k dispozici pouze jeden
@@ -75,26 +82,6 @@ jménu společnosti připojí svůj podpis kterýkoliv z jednatelů.
      <are:prijmeni>Schusterová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-10-06">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23409835</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>37008</are:psc>
-      <are:okres>České Budějovice</are:okres>
-      <are:obec>České Budějovice</are:obec>
-      <are:castObce>České Budějovice 6</are:castObce>
-      <are:ulice>Šeříková</are:ulice>
-      <are:cisloPop>1113</are:cisloPop>
-      <are:cisloOr>5</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>LADISLAV</are:jmeno>
-     <are:prijmeni>TUPÝ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2016-10-06" dvy="2017-11-25">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -115,7 +102,27 @@ jménu společnosti připojí svůj podpis kterýkoliv z jednatelů.
      <are:prijmeni>SCHUSTEROVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-11-25">
+   <are:Clen dza="2016-10-06" dvy="2019-03-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23409835</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37008</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 6</are:castObce>
+      <are:ulice>Šeříková</are:ulice>
+      <are:cisloPop>1113</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>TUPÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-25" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
     </are:funkce>
@@ -134,9 +141,9 @@ jménu společnosti připojí svůj podpis kterýkoliv z jednatelů.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-04-13">
+  <are:Statutarni_organ dza="2018-04-13" dvy="2019-03-01">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-04-13">
+   <are:Clen dza="2018-04-13" dvy="2019-03-01">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>25292480</are:ruianKod>
@@ -153,9 +160,9 @@ jménu společnosti připojí svůj podpis kterýkoliv z jednatelů.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1998-04-22">
+  <are:Jiny_organ dza="1998-04-22" dvy="2019-03-01">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2016-10-06">
+   <are:Clen dza="2016-10-06" dvy="2019-03-01">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>23409835</are:ruianKod>
@@ -172,7 +179,7 @@ jménu společnosti připojí svůj podpis kterýkoliv z jednatelů.
      <are:prijmeni>TUPÝ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-11-25">
+   <are:Clen dza="2017-11-25" dvy="2019-03-01">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>19976305</are:ruianKod>

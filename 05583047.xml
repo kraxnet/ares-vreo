@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T03:00:04"
+odpoved_datum_cas="2019-02-22T11:23:09"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>03:00:04</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:23:09</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -57,6 +57,26 @@ Jednatelé jednají za společnost samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
+      <are:ruianKod>3892131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76326</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Luhačovice</are:obec>
+      <are:castObce>Luhačovice</are:castObce>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloPop>57</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>THI THUAN</are:jmeno>
+     <are:prijmeni>DINH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-22" dvy="2019-02-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2016-11-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
       <are:ruianKod>3872301</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>76331</are:psc>
@@ -70,24 +90,24 @@ Jednatelé jednají za společnost samostatně.
      <are:prijmeni>DINH</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-22">
+   <are:Clen dza="2019-02-20">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2016-11-22</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3892131</are:ruianKod>
+      <are:ruianKod>3871673</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>76326</are:psc>
+      <are:psc>76331</are:psc>
       <are:okres>Zlín</are:okres>
-      <are:obec>Luhačovice</are:obec>
-      <are:castObce>Luhačovice</are:castObce>
-      <are:ulice>Masarykova</are:ulice>
-      <are:cisloPop>57</are:cisloPop>
+      <are:obec>Brumov-Bylnice</are:obec>
+      <are:castObce>Brumov</are:castObce>
+      <are:ulice>H. Synkové</are:ulice>
+      <are:cisloPop>942</are:cisloPop>
      </are:adresa>
-     <are:jmeno>THI THUAN</are:jmeno>
-     <are:prijmeni>DINH</are:prijmeni>
+     <are:jmeno>THI THU HIEN</are:jmeno>
+     <are:prijmeni>DINHOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -96,22 +116,6 @@ Jednatelé jednají za společnost samostatně.
    <are:Clen dza="2016-11-22">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3872301</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>76331</are:psc>
-      <are:okres>Zlín</are:okres>
-      <are:obec>Brumov-Bylnice</are:obec>
-      <are:castObce>Brumov</are:castObce>
-      <are:ulice>1. května</are:ulice>
-      <are:cisloPop>1009</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>THI THU HIEN</are:jmeno>
-     <are:prijmeni>DINH</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2016-11-22">
-    <are:fosoba>
-     <are:adresa>
       <are:ruianKod>3892131</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>76326</are:psc>
@@ -123,6 +127,22 @@ Jednatelé jednají za společnost samostatně.
      </are:adresa>
      <are:jmeno>THI THUAN</are:jmeno>
      <are:prijmeni>DINH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3871673</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76331</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Brumov-Bylnice</are:obec>
+      <are:castObce>Brumov</are:castObce>
+      <are:ulice>H. Synkové</are:ulice>
+      <are:cisloPop>942</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>THI THU HIEN</are:jmeno>
+     <are:prijmeni>DINHOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T23:26:21"
+odpoved_datum_cas="2019-02-22T10:59:41"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>23:26:21</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:59:42</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -36,7 +36,7 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Cinnosti>
     <are:Ucel>
      <are:Text>
-Správa domu
+Správa nemovitosti
      </are:Text>
     </are:Ucel>
    </are:Cinnosti>
@@ -138,13 +138,15 @@ podpis předsedy a dalšího člena výboru.
      <are:prijmeni>Leníček</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-02-25">
+   <are:Clen dza="2015-02-25" dvy="2019-02-15">
     <are:clenstvi>
      <are:vznikClenstvi>2002-07-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-12-06</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Předseda výboru</are:nazev>
      <are:vznikFunkce>2002-07-25</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-06</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -161,9 +163,10 @@ podpis předsedy a dalšího člena výboru.
      <are:prijmeni>VLČEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-02-25">
+   <are:Clen dza="2015-02-25" dvy="2019-02-15">
     <are:clenstvi>
      <are:vznikClenstvi>2012-02-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-12-06</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
@@ -183,9 +186,10 @@ podpis předsedy a dalšího člena výboru.
      <are:prijmeni>LENÍČEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-02-25">
+   <are:Clen dza="2015-02-25" dvy="2019-02-15">
     <are:clenstvi>
      <are:vznikClenstvi>2014-11-06</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-12-06</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen výboru</are:nazev>
@@ -195,6 +199,94 @@ podpis předsedy a dalšího člena výboru.
       <are:ruianKod>18929532</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>56802</are:psc>
+      <are:obec>Svitavy</are:obec>
+      <are:castObce>Předměstí</are:castObce>
+      <are:ulice>Kollárova</are:ulice>
+      <are:cisloPop>1646</are:cisloPop>
+      <are:cisloOr>24</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANUŠKA</are:jmeno>
+     <are:prijmeni>STRNADOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-12-06</are:vznikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>18917593</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56802</are:psc>
+      <are:okres>Svitavy</are:okres>
+      <are:obec>Svitavy</are:obec>
+      <are:castObce>Předměstí</are:castObce>
+      <are:ulice>Školní</are:ulice>
+      <are:cisloPop>335</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:ICO>00045853</are:ICO>
+     <are:ObchodniFirma>Bytové družstvo Svitavy</are:ObchodniFirma>
+     <are:Zastoupeni dza="2019-02-15">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>18917381</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>56802</are:psc>
+        <are:okres>Svitavy</are:okres>
+        <are:obec>Svitavy</are:obec>
+        <are:castObce>Předměstí</are:castObce>
+        <are:ulice>Kapitána Nálepky</are:ulice>
+        <are:cisloPop>277</are:cisloPop>
+        <are:cisloOr>8</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>VIKTOR</are:jmeno>
+       <are:prijmeni>NOVÁČEK</are:prijmeni>
+       <are:titulPred>Ing.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18929532</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56802</are:psc>
+      <are:okres>Svitavy</are:okres>
+      <are:obec>Svitavy</are:obec>
+      <are:castObce>Předměstí</are:castObce>
+      <are:ulice>Kollárova</are:ulice>
+      <are:cisloPop>1646</are:cisloPop>
+      <are:cisloOr>24</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>LENÍČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18929532</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56802</are:psc>
+      <are:okres>Svitavy</are:okres>
       <are:obec>Svitavy</are:obec>
       <are:castObce>Předměstí</are:castObce>
       <are:ulice>Kollárova</are:ulice>

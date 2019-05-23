@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T05:28:19"
+odpoved_datum_cas="2019-02-28T12:31:49"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>05:28:19</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:31:49</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -31,10 +31,17 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>930/71</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2002-07-03</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-21</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Právnická osoba CERTECO s.r.o. v likvidaci se sídlem Praha 9 - Kbely, Toužimská 930/71, PSČ 19700, identifikační číslo 26708493 se vymazává z obchodního rejstříku. Právním důvodem výmazu je ukončení likvidace ve spojení s prohlášením likvidátora v souladu
+ s ust. § 82 odst. 1 zák.č. 304/2013 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2002-07-03">
+  <are:Statutarni_organ dza="2002-07-03" dvy="2019-02-21">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2002-07-03">
+   <are:ZpusobJednani dza="2002-07-03" dvy="2019-02-21">
     <are:Text>
 Jednatelé jednají samostatně. Za společnost podepisuje
 statutární orgán tak, že k názvu společnosti připojí svůj podpis
@@ -77,7 +84,7 @@ s označením funkce, kterou ve společnosti zastává.
      <are:prijmeni>Luxová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-05-22">
+   <are:Clen dza="2016-05-22" dvy="2019-02-21">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2002-07-03</are:vznikFunkce>
@@ -97,7 +104,7 @@ s označením funkce, kterou ve společnosti zastává.
      <are:prijmeni>LUX</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-06-30">
+   <are:Clen dza="2017-06-30" dvy="2019-02-21">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2002-07-03</are:vznikFunkce>
@@ -118,9 +125,9 @@ s označením funkce, kterou ve společnosti zastává.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2016-06-27">
+  <are:Statutarni_organ dza="2016-06-27" dvy="2019-02-21">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2016-06-27">
+   <are:Clen dza="2016-06-27" dvy="2019-02-21">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>27518078</are:ruianKod>
@@ -138,9 +145,9 @@ s označením funkce, kterou ve společnosti zastává.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2002-07-03">
+  <are:Jiny_organ dza="2002-07-03" dvy="2019-02-21">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2017-07-03">
+   <are:Clen dza="2017-07-03" dvy="2019-02-21">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>25481037</are:ruianKod>

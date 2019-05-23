@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T09:25:35"
+odpoved_datum_cas="2019-03-06T14:30:57"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>09:25:35</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:30:57</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,14 +21,17 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>27148408</are:ICO>
    <are:ObchodniFirma>TimoCar s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>25390147</are:ruianKod>
+    <are:ruianKod>26678489</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>15000</are:psc>
-    <are:obec>Praha 5</are:obec>
-    <are:castObce>Smíchov</are:castObce>
-    <are:ulice>Nový Zlíchov</are:ulice>
-    <are:cisloPop>3172</are:cisloPop>
-    <are:cisloOr>6</are:cisloOr>
+    <are:psc>16100</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Ruzyně</are:castObce>
+    <are:mop>Praha 6</are:mop>
+    <are:ulice>Aviatická</are:ulice>
+    <are:cisloPop>1092</are:cisloPop>
+    <are:cisloOr>8</are:cisloOr>
+    <are:doplnujiciText>Airport Business Centre REGUS</are:doplnujiciText>
    </are:Sidlo>
    <are:DatumZapisu>2004-05-14</are:DatumZapisu>
    <are:Cinnosti>
@@ -69,7 +72,6 @@ Jednatel jedná a podepisuje za společnost ve všech samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>498</are:stat>
       <are:text>Glodeni, Balatino, ul.Tolstoj 11</are:text>
      </are:adresa>
@@ -77,7 +79,7 @@ Jednatel jedná a podepisuje za společnost ve všech samostatně.
      <are:prijmeni>Ceban</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2012-06-27">
+   <are:Clen dza="2012-06-27" dvy="2019-03-05">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2012-05-10</are:vznikFunkce>
@@ -91,7 +93,7 @@ Jednatel jedná a podepisuje za společnost ve všech samostatně.
      <are:prijmeni>Timohin</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2012-06-27">
+   <are:Clen dza="2012-06-27" dvy="2019-03-05">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2012-05-10</are:vznikFunkce>
@@ -103,29 +105,89 @@ Jednatel jedná a podepisuje za společnost ve všech samostatně.
      </are:adresa>
      <are:jmeno>Olga</are:jmeno>
      <are:prijmeni>Timohina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-05-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22717188</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Petržílkova</are:ulice>
+      <are:cisloPop>2265</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAXIM</are:jmeno>
+     <are:prijmeni>TIMOHIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-05-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22717188</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Petržílkova</are:ulice>
+      <are:cisloPop>2265</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>OLGA</are:jmeno>
+     <are:prijmeni>TIMOHINA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2004-05-14">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2012-06-27">
+   <are:Clen dza="2019-03-05">
     <are:fosoba>
      <are:adresa>
+      <are:ruianKod>22717188</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:text>Praha 10, Záběhlice, Ve Slatinách 3243/1, PSČ: 106 00</are:text>
+      <are:psc>15800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Petržílkova</are:ulice>
+      <are:cisloPop>2265</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
      </are:adresa>
-     <are:jmeno>Maxim</are:jmeno>
-     <are:prijmeni>Timohin</are:prijmeni>
+     <are:jmeno>MAXIM</are:jmeno>
+     <are:prijmeni>TIMOHIN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2012-06-27">
+   <are:Clen dza="2019-03-05">
     <are:fosoba>
      <are:adresa>
+      <are:ruianKod>22717188</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:text>Praha 10, Záběhlice, Ve Slatinách 3243/1, PSČ: 106 00</are:text>
+      <are:psc>15800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Petržílkova</are:ulice>
+      <are:cisloPop>2265</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
      </are:adresa>
-     <are:jmeno>Olga</are:jmeno>
-     <are:prijmeni>Timohina</are:prijmeni>
+     <are:jmeno>OLGA</are:jmeno>
+     <are:prijmeni>TIMOHINA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

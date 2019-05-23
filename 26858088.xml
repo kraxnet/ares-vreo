@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T06:44:40"
+odpoved_datum_cas="2019-02-28T12:33:44"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>06:44:40</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:33:44</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -24,10 +24,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:ruianKod>3165132</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>72200</are:psc>
+    <are:okres>Ostrava-město</are:okres>
     <are:obec>Ostrava</are:obec>
     <are:castObce>Třebovice</are:castObce>
     <are:ulice>Třebovická</are:ulice>
-    <are:cisloTxt>5114/106</are:cisloTxt>
+    <are:cisloPop>5114</are:cisloPop>
+    <are:cisloOr>106</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2005-04-11</are:DatumZapisu>
    <are:Cinnosti>
@@ -46,11 +48,16 @@ Způsob jednání jménem společnosti:
 Jednatelé jednají jménem společnosti samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-06-05">
+   <are:ZpusobJednani dza="2014-06-05" dvy="2019-02-25">
     <are:Text>
 Každý z jednatelů zastupuje společnost samostatně a v plném rozsahu.
  
 Počet členů statutárního orgánu: 2
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-25">
+    <are:Text>
+Každý z jednatelů zastupuje společnost samostatně a v plném rozsahu.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2005-04-11" dvy="2014-06-05">
@@ -93,7 +100,7 @@ Počet členů statutárního orgánu: 2
      <are:titulPred>MUDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-06-05">
+   <are:Clen dza="2014-06-05" dvy="2019-02-25">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2005-04-11</are:vznikFunkce>
@@ -114,9 +121,51 @@ Počet členů statutárního orgánu: 2
      <are:titulPred>MUDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-06-05">
+   <are:Clen dza="2014-06-05" dvy="2019-02-25">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-04-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3294943</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Jaselská</are:ulice>
+      <are:cisloPop>1159</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>BORTLÍK</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-25">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2005-04-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3274861</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Zábřeh</are:castObce>
+      <are:ulice>Patrice Lumumby</are:ulice>
+      <are:cisloPop>2272</are:cisloPop>
+      <are:cisloOr>86</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÍT</are:jmeno>
+     <are:prijmeni>ŠMAJSTRLA</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-25">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2005-04-11</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>

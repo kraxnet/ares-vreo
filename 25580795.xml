@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-12-30T12:44:30"
+odpoved_datum_cas="2019-02-22T11:12:14"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-12-30</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-12-30</are:Datum_vypisu>
-   <are:Cas_vypisu>12:44:30</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:12:14</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,16 +21,16 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>25580795</are:ICO>
    <are:ObchodniFirma>TRADE DHB s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>21771308</are:ruianKod>
+    <are:ruianKod>22575553</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>13000</are:psc>
+    <are:psc>10200</are:psc>
     <are:okres>Hlavní město Praha</are:okres>
     <are:obec>Praha</are:obec>
-    <are:castObce>Žižkov</are:castObce>
-    <are:mop>Praha 3</are:mop>
-    <are:ulice>Vlkova</are:ulice>
-    <are:cisloPop>454</are:cisloPop>
-    <are:cisloOr>14</are:cisloOr>
+    <are:castObce>Hostivař</are:castObce>
+    <are:mop>Praha 10</are:mop>
+    <are:ulice>Chudenická</are:ulice>
+    <are:cisloPop>1059</are:cisloPop>
+    <are:cisloOr>30</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1999-11-09</are:DatumZapisu>
    <are:Cinnosti>
@@ -68,9 +68,14 @@ připojí jednatel svůj podpis.
 Způsob zastupování společnosti: Jménem společnosti jedná jednatel. Činí-li jednatel jménem společnosti písemné právní úkony, podepisuje je tak, že k obchodní firmě společnosti připojí svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2018-12-20">
+   <are:ZpusobJednani dza="2018-12-20" dvy="2019-02-18">
     <are:Text>
 Jednatel zastupuje společnost samostatně v plném rozsahu.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-18">
+    <are:Text>
+Jednatel jedná za společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1999-11-09" dvy="2002-11-20">
@@ -132,7 +137,7 @@ Jednatel zastupuje společnost samostatně v plném rozsahu.
      <are:prijmeni>DOLEŽEL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-12-20">
+   <are:Clen dza="2018-12-20" dvy="2019-02-18">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2018-12-19</are:vznikFunkce>
@@ -154,26 +159,60 @@ Jednatel zastupuje společnost samostatně v plném rozsahu.
      <are:prijmeni>PEJSAR</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-01-21</are:vznikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>3368009</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>72400</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Stará Bělá</are:castObce>
+      <are:ulice>Plzeňská</are:ulice>
+      <are:cisloPop>466</are:cisloPop>
+      <are:cisloOr>359</are:cisloOr>
+     </are:adresa>
+     <are:ICO>28595319</are:ICO>
+     <are:ObchodniFirma>Goodway real estate s.r.o.</are:ObchodniFirma>
+     <are:Zastoupeni dza="2019-02-18">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>28206231</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>25101</are:psc>
+        <are:okres>Praha-východ</are:okres>
+        <are:obec>Babice</are:obec>
+        <are:castObce>Babice</are:castObce>
+        <are:ulice>Janovická</are:ulice>
+        <are:cisloPop>324</are:cisloPop>
+       </are:adresa>
+       <are:jmeno>MARTIN</are:jmeno>
+       <are:prijmeni>ŠAFRÁNEK</are:prijmeni>
+      </are:fosoba>
+     </are:Zastoupeni>
+    </are:posoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1999-11-09">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2018-12-20">
-    <are:fosoba>
+   <are:Clen dza="2019-02-18">
+    <are:posoba>
      <are:adresa>
-      <are:ruianKod>22307524</are:ruianKod>
+      <are:ruianKod>3368009</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>17000</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Holešovice</are:castObce>
-      <are:mop>Praha 7</are:mop>
-      <are:ulice>U průhonu</are:ulice>
-      <are:cisloPop>1137</are:cisloPop>
-      <are:cisloOr>30</are:cisloOr>
+      <are:psc>72400</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Stará Bělá</are:castObce>
+      <are:ulice>Plzeňská</are:ulice>
+      <are:cisloPop>466</are:cisloPop>
+      <are:cisloOr>359</are:cisloOr>
      </are:adresa>
-     <are:jmeno>DANIEL</are:jmeno>
-     <are:prijmeni>PEJSAR</are:prijmeni>
-    </are:fosoba>
+     <are:ICO>28595319</are:ICO>
+     <are:ObchodniFirma>Goodway real estate s.r.o.</are:ObchodniFirma>
+    </are:posoba>
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

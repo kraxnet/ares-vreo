@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-31T15:58:23"
+odpoved_datum_cas="2019-02-28T12:41:45"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-31</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-31</are:Datum_vypisu>
-   <are:Cas_vypisu>15:58:23</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:41:45</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,16 +21,16 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>00139866</are:ICO>
    <are:ObchodniFirma>BALNEX 1 a.s.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>26678802</are:ruianKod>
+    <are:ruianKod>21803749</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>15000</are:psc>
+    <are:psc>14700</are:psc>
     <are:okres>Hlavní město Praha</are:okres>
     <are:obec>Praha</are:obec>
-    <are:castObce>Smíchov</are:castObce>
-    <are:mop>Praha 5</are:mop>
-    <are:ulice>Karla Engliše</are:ulice>
-    <are:cisloPop>3219</are:cisloPop>
-    <are:cisloOr>4</are:cisloOr>
+    <are:castObce>Braník</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>U dubu</are:ulice>
+    <are:cisloPop>691</are:cisloPop>
+    <are:cisloOr>48</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1988-02-29</are:DatumZapisu>
    <are:Cinnosti>
@@ -60,7 +60,7 @@ nestátní zdravotnické zařízení
 směnárenská činnost
      </are:Text>
      <are:Text>
-Prodej kvasného lihu, konzumního lihu a lihovin
+prodej kvasného lihu, konzumního lihu a lihovin
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
@@ -121,9 +121,14 @@ Jménem společnosti jedná předseda představenstva samostatně nebo dva člen
 Společnost zastupuje předseda představenstva samostatně nebo dva členové představenstva společně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2018-07-13">
+   <are:ZpusobJednani dza="2018-07-13" dvy="2019-02-27">
     <are:Text>
 Společnost zastupuje každý člen představenstva samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-27">
+    <are:Text>
+Člen představenstva zastupuje společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1988-02-29" dvy="1990-09-13">
@@ -548,13 +553,15 @@ Společnost zastupuje každý člen představenstva samostatně.
      </are:bydliste>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-07-19">
+   <are:Clen dza="2018-07-19" dvy="2019-02-27">
     <are:clenstvi>
      <are:vznikClenstvi>2018-06-29</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-27</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Předseda představentsva</are:nazev>
      <are:vznikFunkce>2018-06-29</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-27</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -568,9 +575,10 @@ Společnost zastupuje každý člen představenstva samostatně.
      <are:titulPred>Mag.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-07-19">
+   <are:Clen dza="2018-07-19" dvy="2019-02-27">
     <are:clenstvi>
      <are:vznikClenstvi>2018-06-29</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-27</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Člen představentsva</are:nazev>
@@ -593,86 +601,68 @@ Společnost zastupuje každý člen představenstva samostatně.
      <are:titulPred>Dipl. Ing</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16841930</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41002</are:psc>
+      <are:okres>Litoměřice</are:okres>
+      <are:obec>Lovosice</are:obec>
+      <are:castObce>Lovosice</are:castObce>
+      <are:ulice>L. Janáčka</are:ulice>
+      <are:cisloPop>119</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETRA</are:jmeno>
+     <are:prijmeni>DRYJE</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1992-06-19">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2015-10-07">
+   <are:Clen dza="2019-02-27">
     <are:clenstvi>
-     <are:vznikClenstvi>2014-12-21</are:vznikClenstvi>
+     <are:vznikClenstvi>2019-02-27</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>předseda dozorčí rady</are:nazev>
-     <are:vznikFunkce>2014-12-21</are:vznikFunkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:stat>40</are:stat>
-      <are:psc>1130</are:psc>
-      <are:obec>Wien</are:obec>
-      <are:ulice>Einsiedeleigasse</are:ulice>
-     </are:adresa>
-     <are:jmeno>FRANZ</are:jmeno>
-     <are:prijmeni>JURKOWITSCH</are:prijmeni>
-     <are:titulPred>Dr.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-10-07">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-12-21</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>40</are:stat>
-      <are:psc>1060</are:psc>
-      <are:obec>Wien</are:obec>
-      <are:ulice>Köstlergasse</are:ulice>
-     </are:adresa>
-     <are:jmeno>GEORG</are:jmeno>
-     <are:prijmeni>FOLIAN</are:prijmeni>
-     <are:titulPred>Dkfm.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-10-07">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-12-21</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22739483</are:ruianKod>
+      <are:ruianKod>28355288</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>18200</are:psc>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Libeň</are:castObce>
-      <are:mop>Praha 8</are:mop>
-      <are:ulice>Společná</are:ulice>
-      <are:cisloPop>2193</are:cisloPop>
-      <are:cisloOr>7</are:cisloOr>
+      <are:psc>36263</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Dalovice</are:obec>
+      <are:castObce>Vysoká</are:castObce>
+      <are:ulice>Jílová</are:ulice>
+      <are:cisloPop>114</are:cisloPop>
      </are:adresa>
-     <are:jmeno>MIROSLAV</are:jmeno>
-     <are:prijmeni>LEJKO</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>HEJRET</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="2009-02-25">
    <are:Nazev>Jediný akcionář</are:Nazev>
-   <are:Clen dza="2010-02-01">
-    <are:posoba>
+   <are:Clen dza="2019-02-27">
+    <are:fosoba>
      <are:adresa>
-      <are:stat>40</are:stat>
-      <are:psc>1210</are:psc>
-      <are:obec>Wien</are:obec>
-      <are:ulice>Floridsdorfer Hauptstrasse</are:ulice>
-      <are:cisloTxt>1</are:cisloTxt>
+      <are:stat>784</are:stat>
+      <are:obec>Dubaj</are:obec>
+      <are:ulice>St. No. 65, Vila No. 10A, Jumeirah 1</are:ulice>
      </are:adresa>
-     <are:ObchodniFirma>Warimpex Finanz - und Beteiligungs Aktiengesellschaft</are:ObchodniFirma>
-    </are:posoba>
+     <are:jmeno>ALI FARDAN ALI</are:jmeno>
+     <are:prijmeni>ALFARDAN</are:prijmeni>
+    </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

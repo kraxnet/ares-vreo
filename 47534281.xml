@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-03-28T14:28:37"
+odpoved_datum_cas="2019-02-22T10:52:57"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-03-28</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-03-28</are:Datum_vypisu>
-   <are:Cas_vypisu>14:28:37</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:52:57</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>1</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1992-12-17</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-09</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost V &amp; V, spol. s r.o. v likvidaci, se sídlem Nademlejnská 600/1, Hloubětín, 198 00 Praha 9, IČ: 475 34 281 se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 15738. Prá
+vním důvodem výmazu je ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -44,7 +51,7 @@ vodoinstalatérství, topenářství
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1992-12-17">
+  <are:Statutarni_organ dza="1992-12-17" dvy="2019-02-09">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="1992-12-17" dvy="2009-03-31">
     <are:Text>
@@ -59,7 +66,7 @@ připojí svůj podpis jednatel nebo prokurista.
 Jménem společnosti jedná každý z jednatelů samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2015-07-08">
+   <are:ZpusobJednani dza="2015-07-08" dvy="2019-02-09">
     <are:Text>
 Jednatel zastupuje společnost samostatně.
     </are:Text>
@@ -117,7 +124,7 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>VOPAŘILOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-08">
+   <are:Clen dza="2015-07-08" dvy="2019-02-09">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2015-06-11</are:vznikFunkce>
@@ -140,9 +147,9 @@ Jednatel zastupuje společnost samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-03-26">
+  <are:Statutarni_organ dza="2018-03-26" dvy="2019-02-09">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-03-26">
+   <are:Clen dza="2018-03-26" dvy="2019-02-09">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>3192571</are:ruianKod>
@@ -162,9 +169,9 @@ Jednatel zastupuje společnost samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1992-12-17">
+  <are:Jiny_organ dza="1992-12-17" dvy="2019-02-09">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-07-08">
+   <are:Clen dza="2015-07-08" dvy="2019-02-09">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21770484</are:ruianKod>

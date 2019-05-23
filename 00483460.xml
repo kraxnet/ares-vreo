@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-08-22T09:35:09"
+odpoved_datum_cas="2019-02-28T12:32:29"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-08-22</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-08-22</are:Datum_vypisu>
-   <are:Cas_vypisu>09:35:09</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:32:29</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -526,51 +526,6 @@ erý člen představenstva bez ohledu na funkci v představenstvu.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-08-27">
-    <are:clenstvi>
-     <are:vznikClenstvi>2013-05-21</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda představenstva</are:nazev>
-     <are:vznikFunkce>2013-05-21</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>40786226</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>41501</are:psc>
-      <are:obec>Teplice</are:obec>
-      <are:castObce>Trnovany</are:castObce>
-      <are:ulice>Severní</are:ulice>
-      <are:cisloPop>1976</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>MILETÍN</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-08-27">
-    <are:clenstvi>
-     <are:vznikClenstvi>2013-05-21</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Člen představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>20240589</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>41501</are:psc>
-      <are:obec>Teplice</are:obec>
-      <are:castObce>Trnovany</are:castObce>
-      <are:ulice>Gagarinova</are:ulice>
-      <are:cisloPop>1435</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>MILETÍN</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2013-08-27" dvy="2018-08-18">
     <are:clenstvi>
      <are:vznikClenstvi>2013-05-21</are:vznikClenstvi>
@@ -592,9 +547,58 @@ erý člen představenstva bez ohledu na funkci v představenstvu.
      <are:prijmeni>MILETÍN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-08-18">
+   <are:Clen dza="2013-08-27" dvy="2019-02-21">
     <are:clenstvi>
      <are:vznikClenstvi>2013-05-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-05-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:vznikFunkce>2013-05-21</are:vznikFunkce>
+     <are:zanikFunkce>2018-05-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>40786226</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41501</are:psc>
+      <are:obec>Teplice</are:obec>
+      <are:castObce>Trnovany</are:castObce>
+      <are:ulice>Severní</are:ulice>
+      <are:cisloPop>1976</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>MILETÍN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-27" dvy="2019-02-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-05-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-05-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20240589</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41501</are:psc>
+      <are:obec>Teplice</are:obec>
+      <are:castObce>Trnovany</are:castObce>
+      <are:ulice>Gagarinova</are:ulice>
+      <are:cisloPop>1435</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>MILETÍN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-08-18" dvy="2019-02-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-05-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-05-21</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Člen představenstva</are:nazev>
@@ -614,12 +618,102 @@ erý člen představenstva bez ohledu na funkci v představenstvu.
      <are:prijmeni>MILETÍN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-06-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:vznikFunkce>2018-06-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>40786226</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41501</are:psc>
+      <are:okres>Teplice</are:okres>
+      <are:obec>Teplice</are:obec>
+      <are:castObce>Trnovany</are:castObce>
+      <are:ulice>Severní</are:ulice>
+      <are:cisloPop>1976</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>MILETÍN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-06-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představentva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25994522</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25242</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Jesenice</are:obec>
+      <are:castObce>Osnice</are:castObce>
+      <are:ulice>Kalinová</are:ulice>
+      <are:cisloPop>337</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VUKA ANA</are:jmeno>
+     <are:prijmeni>MATONIČKIN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-06-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představentva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9115846</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43902</are:psc>
+      <are:okres>Louny</are:okres>
+      <are:obec>Cítoliby</are:obec>
+      <are:castObce>Cítoliby</are:castObce>
+      <are:ulice>Tyršovo náměstí</are:ulice>
+      <are:cisloPop>55</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>MILETÍN</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1993-05-31">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2005-05-13">
+   <are:Clen dza="2019-02-21">
     <are:clenstvi>
-     <are:vznikClenstvi>2003-11-20</are:vznikClenstvi>
+     <are:vznikClenstvi>2018-06-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2018-06-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>D-63801</are:psc>
+      <are:obec>Kleinostheim</are:obec>
+      <are:ulice>Alte Poststrasse 62</are:ulice>
+     </are:adresa>
+     <are:jmeno>MICHAEL</are:jmeno>
+     <are:prijmeni>ADAM</are:prijmeni>
+     <are:titulPred>Dipl.-Ing. Betriebswirt</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-06-05</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Člen dozorčí rady</are:nazev>
@@ -627,32 +721,17 @@ erý člen představenstva bez ohledu na funkci v představenstvu.
     <are:fosoba>
      <are:adresa>
       <are:stat>276</are:stat>
-      <are:text>Streitwaldstr. 24, D - 63801, Kleinostheim,</are:text>
+      <are:psc>D-63801</are:psc>
+      <are:obec>Kleinostheim</are:obec>
+      <are:ulice>Strietwaldstr. 24</are:ulice>
      </are:adresa>
-     <are:jmeno>Gabriele</are:jmeno>
-     <are:prijmeni>Welk</are:prijmeni>
+     <are:jmeno>GABRIELE</are:jmeno>
+     <are:prijmeni>WELK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2005-05-13">
+   <are:Clen dza="2019-02-21">
     <are:clenstvi>
-     <are:vznikClenstvi>2003-11-20</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda dozorčí rady</are:nazev>
-     <are:vznikFunkce>2003-11-20</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>276</are:stat>
-      <are:text>Bergstrasse 18, D - 63801 Kleinostheim</are:text>
-     </are:adresa>
-     <are:jmeno>Michael</are:jmeno>
-     <are:prijmeni>Adam</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-08-27">
-    <are:clenstvi>
-     <are:vznikClenstvi>2013-05-21</are:vznikClenstvi>
+     <are:vznikClenstvi>2018-06-05</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>Člen dozorčí rady</are:nazev>
@@ -662,13 +741,15 @@ erý člen představenstva bez ohledu na funkci v představenstvu.
       <are:ruianKod>20240589</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>41501</are:psc>
+      <are:okres>Teplice</are:okres>
       <are:obec>Teplice</are:obec>
       <are:castObce>Trnovany</are:castObce>
       <are:ulice>Gagarinova</are:ulice>
       <are:cisloPop>1435</are:cisloPop>
      </are:adresa>
-     <are:jmeno>OLGA</are:jmeno>
-     <are:prijmeni>MILETÍNOVÁ</are:prijmeni>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>MILETÍN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-09T15:55:24"
+odpoved_datum_cas="2019-02-22T11:01:51"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-09</are:Datum_vypisu>
-   <are:Cas_vypisu>15:55:24</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:01:51</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -155,7 +155,7 @@ Každý jednatel zastupuje společnost samostatně. Podepisování za společnos
      <are:prijmeni>Žáková</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-02-02">
+   <are:Clen dza="2010-02-02" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-03-25</are:vznikFunkce>
@@ -194,6 +194,28 @@ Každý jednatel zastupuje společnost samostatně. Podepisování za společnos
      <are:jmeno>ZDENĚK</are:jmeno>
      <are:prijmeni>ŽÁK</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-03-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26057867</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vysočany</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Paříkova</are:ulice>
+      <are:cisloPop>910</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>ŽÁKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

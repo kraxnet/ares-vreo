@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T08:30:44"
+odpoved_datum_cas="2019-02-22T10:37:48"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>08:30:45</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:37:48</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,16 +21,16 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>67397689</are:ICO>
    <are:ObchodniFirma>Gennady Shipilov</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>22362576</are:ruianKod>
+    <are:ruianKod>5071984</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>18200</are:psc>
-    <are:okres>Praha 8</are:okres>
-    <are:obec>Praha 8</are:obec>
-    <are:ulice>Neratovická</are:ulice>
-    <are:cisloTxt>604/17</are:cisloTxt>
+    <are:psc>43513</are:psc>
+    <are:okres>Most</are:okres>
+    <are:obec>Meziboří</are:obec>
+    <are:castObce>Meziboří</are:castObce>
+    <are:ulice>nám. 8. května</are:ulice>
+    <are:cisloPop>400</are:cisloPop>
    </are:Sidlo>
    <are:Bydliste>
-    <are:ruianKod>101</are:ruianKod>
     <are:stat>643</are:stat>
     <are:text>Džandosova 69, Almata</are:text>
    </are:Bydliste>
@@ -62,9 +62,25 @@ dokončovací stavební práce
      <are:prijmeni>Gennadiy Shipilov</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2003-07-28">
+   <are:Clen dza="2003-07-28" dvy="2019-02-08">
     <are:fosoba>
      <are:prijmeni>Gennady Shipilov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5071984</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43513</are:psc>
+      <are:okres>Most</are:okres>
+      <are:obec>Meziboří</are:obec>
+      <are:castObce>Meziboří</are:castObce>
+      <are:ulice>nám. 8. května</are:ulice>
+      <are:cisloPop>400</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>GENNADY</are:jmeno>
+     <are:prijmeni>SHIPILOV</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>

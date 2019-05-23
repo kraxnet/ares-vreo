@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-27T17:15:59"
+odpoved_datum_cas="2019-02-22T10:49:54"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-27</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-27</are:Datum_vypisu>
-   <are:Cas_vypisu>17:15:59</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:49:54</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,8 +33,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>20</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1991-09-09</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-12</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Z obchodního rejstříku se vymazává společnost TALENT CONNECTION, spol. s r.o. v likvidaci, se sídlem Rytířská 401/20, Staré Město, 110 00 Praha 1, IČ: 411 86 818. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1991-09-09">
+  <are:Statutarni_organ dza="1991-09-09" dvy="2019-02-12">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="1991-09-09" dvy="1993-05-25">
     <are:Text>
@@ -47,7 +53,7 @@ vytištěnému názvu společnosti připojí svůj podpis osoba
 oprávněná k zastupování.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="1993-05-25">
+   <are:ZpusobJednani dza="1993-05-25" dvy="2019-02-12">
     <are:Text>
 Za společnost jednají jednatelé společnosti, a to každý
 samostatně. Podepisování za společnost se děje tak, že
@@ -160,7 +166,7 @@ z jednatelů společnosti.
      <are:prijmeni>Lupoměský</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-09-06">
+   <are:Clen dza="2013-09-06" dvy="2019-02-12">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
     </are:funkce>
@@ -181,7 +187,7 @@ z jednatelů společnosti.
      <are:prijmeni>SEVERA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-19">
+   <are:Clen dza="2016-11-19" dvy="2019-02-12">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
     </are:funkce>
@@ -200,7 +206,7 @@ z jednatelů společnosti.
      <are:prijmeni>PAVLÍČEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-19">
+   <are:Clen dza="2016-11-19" dvy="2019-02-12">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
     </are:funkce>
@@ -222,9 +228,9 @@ z jednatelů společnosti.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-04-09">
+  <are:Statutarni_organ dza="2018-04-09" dvy="2019-02-12">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-04-09">
+   <are:Clen dza="2018-04-09" dvy="2019-02-12">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>22322728</are:ruianKod>
@@ -243,9 +249,9 @@ z jednatelů společnosti.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1991-09-09">
+  <are:Jiny_organ dza="1991-09-09" dvy="2019-02-12">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2016-11-19">
+   <are:Clen dza="2016-11-19" dvy="2019-02-12">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>12834114</are:ruianKod>
@@ -261,7 +267,7 @@ z jednatelů společnosti.
      <are:prijmeni>PAVLÍČEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-19">
+   <are:Clen dza="2016-11-19" dvy="2019-02-12">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21705330</are:ruianKod>
@@ -279,7 +285,7 @@ z jednatelů společnosti.
      <are:prijmeni>LUPOMĚSKÝ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-19">
+   <are:Clen dza="2016-11-19" dvy="2019-02-12">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22004718</are:ruianKod>
@@ -297,7 +303,7 @@ z jednatelů společnosti.
      <are:prijmeni>SMETANOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-19">
+   <are:Clen dza="2016-11-19" dvy="2019-02-12">
     <are:fosoba>
      <are:adresa>
       <are:stat>703</are:stat>

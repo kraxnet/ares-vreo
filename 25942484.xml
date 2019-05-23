@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-06-25T17:53:41"
+odpoved_datum_cas="2019-02-22T11:03:40"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-06-25</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-06-25</are:Datum_vypisu>
-   <are:Cas_vypisu>17:53:41</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:03:40</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -52,10 +52,7 @@ Příprava a vypracování technických návrhů
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2000-09-19">
     <are:Text>
-Způsob jednání za společnost:
-Společnost zastupuje a jedná jejím jménem jednatel samostatně.
-Podepisování za společnost se děje tak, že k natištěnému nebo
-napsanému názvu společnosti připojí svůj podpis jednatel.
+Společnost zastupuje a jedná jejím jménem jednatel samostatně. Podepisování za společnost se děje tak, že k natištěnému nebo napsanému názvu společnosti připojí svůj podpis jednatel.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2000-09-19" dvy="2009-01-27">
@@ -111,7 +108,7 @@ napsanému názvu společnosti připojí svůj podpis jednatel.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-01-27">
+   <are:Clen dza="2009-01-27" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2000-09-19</are:vznikFunkce>
@@ -129,7 +126,7 @@ napsanému názvu společnosti připojí svůj podpis jednatel.
      <are:prijmeni>Hubáček</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-01-27">
+   <are:Clen dza="2009-01-27" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2000-09-19</are:vznikFunkce>
@@ -148,7 +145,7 @@ napsanému názvu společnosti připojí svůj podpis jednatel.
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-01-27">
+   <are:Clen dza="2009-01-27" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2001-06-12</are:vznikFunkce>
@@ -167,52 +164,71 @@ napsanému názvu společnosti připojí svůj podpis jednatel.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2000-09-19">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2009-01-27">
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2000-09-19</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>5678781</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
       <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
       <are:ulice>Na Křepčích</are:ulice>
-      <are:cisloTxt>1497</are:cisloTxt>
+      <are:cisloPop>1497</are:cisloPop>
      </are:adresa>
-     <are:jmeno>Stanislava</are:jmeno>
-     <are:prijmeni>Hubáčková</are:prijmeni>
+     <are:jmeno>JINDŘICH</are:jmeno>
+     <are:prijmeni>HUBÁČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2000-09-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5678781</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Na Křepčích</are:ulice>
+      <are:cisloPop>1497</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>STANISLAVA</are:jmeno>
+     <are:prijmeni>HUBÁČKOVÁ</are:prijmeni>
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-01-27">
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2001-06-12</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>5668930</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
       <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
       <are:ulice>Kollárova</are:ulice>
-      <are:cisloTxt>512</are:cisloTxt>
+      <are:cisloPop>512</are:cisloPop>
      </are:adresa>
-     <are:jmeno>Stanislav</are:jmeno>
-     <are:prijmeni>Calda</are:prijmeni>
+     <are:jmeno>STANISLAV</are:jmeno>
+     <are:prijmeni>CALDA</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-06-10">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>5678781</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>56501</are:psc>
-      <are:obec>Choceň</are:obec>
-      <are:ulice>Na Křepčích</are:ulice>
-     </are:adresa>
-     <are:jmeno>Jindřich</are:jmeno>
-     <are:prijmeni>Hubáček</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-09-19">
+   <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2014-06-10">
     <are:fosoba>
      <are:adresa>
@@ -244,6 +260,56 @@ napsanému názvu společnosti připojí svůj podpis jednatel.
      <are:jmeno>ONDŘEJ</are:jmeno>
      <are:prijmeni>CALDA</are:prijmeni>
      <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5678781</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Na Křepčích</are:ulice>
+      <are:cisloPop>1497</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JINDŘICH</are:jmeno>
+     <are:prijmeni>HUBÁČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5678781</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Na Křepčích</are:ulice>
+      <are:cisloPop>1497</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>STANISLAVA</are:jmeno>
+     <are:prijmeni>HUBÁČKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5668930</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Kollárova</are:ulice>
+      <are:cisloPop>512</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>STANISLAV</are:jmeno>
+     <are:prijmeni>CALDA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

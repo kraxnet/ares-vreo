@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-15T23:15:41"
+odpoved_datum_cas="2019-02-22T11:00:21"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-15</are:Datum_vypisu>
-   <are:Cas_vypisu>23:15:41</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:00:21</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>OR</are:Rejstrik>
    <are:ICO>27317145</are:ICO>
-   <are:ObchodniFirma>Macrocon s.r.o.</are:ObchodniFirma>
+   <are:ObchodniFirma>Skye Holding Group s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>23492783</are:ruianKod>
     <are:stat>203</are:stat>
@@ -32,22 +32,21 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-činnost podnikatelských, finančních, organizačních a ekonomických poradců
-     </are:Text>
-     <are:Text>
-realitní činnost
-     </are:Text>
-     <are:Text>
-zprostředkování obchodu a služeb
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2007-03-28">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2007-03-28">
+   <are:ZpusobJednani dza="2007-03-28" dvy="2019-02-15">
     <are:Text>
 Jménem společnosti jedná jednatel (jednatelé) zcela samostatně a bez omezení. Podepisování za společnost bude prováděno tak, že k napsané nebo vytištěné firmě připojí jednatel (jednatelé) svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-15">
+    <are:Text>
+Jednatel zastupuje společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2007-03-28" dvy="2008-09-09">
@@ -68,10 +67,11 @@ Jménem společnosti jedná jednatel (jednatelé) zcela samostatně a bez omeze
      <are:prijmeni>Stanková</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-09">
+   <are:Clen dza="2008-09-09" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2007-03-28</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-13</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -86,21 +86,76 @@ Jménem společnosti jedná jednatel (jednatelé) zcela samostatně a bez omeze
      <are:prijmeni>Hájková</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23530375</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43001</are:psc>
+      <are:okres>Chomutov</are:okres>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Přemyslova</are:ulice>
+      <are:cisloPop>4978</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KATEŘINA</are:jmeno>
+     <are:prijmeni>PROUZOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2007-03-28">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2007-03-28">
+   <are:Clen dza="2019-02-15">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
-      <are:stat>756</are:stat>
-      <are:psc>6403</are:psc>
-      <are:obec>Küssnacht</are:obec>
-      <are:ulice>Spitzebnetring</are:ulice>
-      <are:cisloTxt>16</are:cisloTxt>
+      <are:ruianKod>23530375</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43001</are:psc>
+      <are:okres>Chomutov</are:okres>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Přemyslova</are:ulice>
+      <are:cisloPop>4978</are:cisloPop>
      </are:adresa>
-     <are:jmeno>Uwe</are:jmeno>
-     <are:prijmeni>Weibel</are:prijmeni>
+     <are:jmeno>KATEŘINA</are:jmeno>
+     <are:prijmeni>PROUZOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23520108</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43003</are:psc>
+      <are:okres>Chomutov</are:okres>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Komenského</are:ulice>
+      <are:cisloPop>3946</are:cisloPop>
+      <are:cisloOr>23</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>MODER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23496070</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43001</are:psc>
+      <are:okres>Chomutov</are:okres>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Meisnerova</are:ulice>
+      <are:cisloPop>1133</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>PROUZA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T23:08:04"
+odpoved_datum_cas="2019-02-22T11:07:29"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>23:08:04</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:07:29</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,7 +21,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>25943294</are:ICO>
    <are:ObchodniFirma>TROLL ELEKTRO s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:text>530 02 Pardubice, Labská 1815</are:text>
+    <are:ruianKod>25714562</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>53002</are:psc>
+    <are:okres>Pardubice</are:okres>
+    <are:obec>Pardubice</are:obec>
+    <are:castObce>Bílé Předměstí</are:castObce>
+    <are:ulice>Labská</are:ulice>
+    <are:cisloPop>1815</are:cisloPop>
    </are:Sidlo>
    <are:DatumZapisu>2000-10-16</are:DatumZapisu>
    <are:Cinnosti>
@@ -36,8 +43,7 @@ Výroba, instalace a opravy elektronických zařízení
 Ubytovací služby
      </are:Text>
      <are:Text>
-Zprostředkovatelská činnost v oblasti obchodu, školení
-a seminářů v oboru elektrotechniky
+Zprostředkovatelská činnost v oblasti obchodu, školení a seminářů v oboru elektrotechniky
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
@@ -46,10 +52,7 @@ a seminářů v oboru elektrotechniky
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2000-10-16">
     <are:Text>
-Způsob jednání za společnost:
-Jednatel společnosti je oprávněn jednat a podepisovat
-za společnost tak, že k obhodnímu jménu společnosti připojí
-svůj podpis.
+Jednatel společnosti je oprávněn jednat a podepisovat za společnost tak, že k obhodnímu jménu společnosti připojí svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2000-10-16" dvy="2003-11-01">
@@ -88,7 +91,7 @@ svůj podpis.
      <are:prijmeni>Jakubička</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2004-06-05">
+   <are:Clen dza="2004-06-05" dvy="2019-02-18">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2000-10-16</are:vznikFunkce>
@@ -106,21 +109,43 @@ svůj podpis.
      <are:prijmeni>Jakubička</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2000-10-16">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2004-06-05">
+   <are:Clen dza="2019-02-18">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2000-10-16</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>25714562</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>53002</are:psc>
+      <are:okres>Pardubice</are:okres>
       <are:obec>Pardubice</are:obec>
+      <are:castObce>Bílé Předměstí</are:castObce>
       <are:ulice>Labská</are:ulice>
-      <are:cisloTxt>1815</are:cisloTxt>
+      <are:cisloPop>1815</are:cisloPop>
      </are:adresa>
-     <are:jmeno>Jindřich</are:jmeno>
-     <are:prijmeni>Jakubička</are:prijmeni>
+     <are:jmeno>JINDŘICH</are:jmeno>
+     <are:prijmeni>JAKUBIČKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-10-16">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2019-02-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25714562</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Bílé Předměstí</are:castObce>
+      <are:ulice>Labská</are:ulice>
+      <are:cisloPop>1815</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JINDŘICH</are:jmeno>
+     <are:prijmeni>JAKUBIČKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

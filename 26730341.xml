@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-24T10:42:12"
+odpoved_datum_cas="2019-02-22T11:18:02"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-24</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-24</are:Datum_vypisu>
-   <are:Cas_vypisu>10:42:12</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:18:02</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -30,6 +30,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloPop>158</are:cisloPop>
    </are:Sidlo>
    <are:DatumZapisu>2002-11-06</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-18</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Usnesením Krajského soudu v Praze ze dne 21.11.2018, č.j. KSPH 36 INS 7276/2010-B-37, které nabylo právní moci dne 13.12.2018, byl zrušen konkurs prohlášený na majetek společnosti. Z odůvodnění rozhodnutí soudu o zrušení konkurzu vyplývá, že důvodem zruše
+ní konkurzu byl nedostatek majetku dlužníka pro uspokojení věřitelů, neboť v majetkové podstatě společnosti se žádný majetek, který by mohl být zpeněžen, nenalézá.  S ohledem na ustanovení § 173 odst. 2 zákona č. 89/2012 Sb. občanský zákoník a ustanovení
+§ 308 odst. 1 písm. d) zákona č. 182/2006 Sb. insolvenční zákon, došlo ex lege ke zrušení společnosti bez likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -51,9 +59,9 @@ opravy silničních vozidel
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2002-11-06">
+  <are:Statutarni_organ dza="2002-11-06" dvy="2019-02-18">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2002-11-06">
+   <are:ZpusobJednani dza="2002-11-06" dvy="2019-02-18">
     <are:Text>
 Jednatel jedná jménem společnosti samostatně a za společnost se
 podepisuje tak, že k její vytištěné nebo nadepsané obchodní
@@ -96,7 +104,7 @@ firmě připojí svůj vlastnoruční podpis.
      <are:prijmeni>Kulich</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2019-01-10">
+   <are:Clen dza="2019-01-10" dvy="2019-02-18">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2002-11-06</are:vznikFunkce>
@@ -115,7 +123,7 @@ firmě připojí svůj vlastnoruční podpis.
      <are:prijmeni>KMOCH</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2019-01-10">
+   <are:Clen dza="2019-01-10" dvy="2019-02-18">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2002-11-06</are:vznikFunkce>
@@ -135,9 +143,9 @@ firmě připojí svůj vlastnoruční podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2008-02-05">
+  <are:Statutarni_organ dza="2008-02-05" dvy="2019-02-18">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2008-02-05">
+   <are:Clen dza="2008-02-05" dvy="2019-02-18">
     <are:fosoba>
      <are:adresa>
       <are:stat>203</are:stat>
@@ -151,9 +159,9 @@ firmě připojí svůj vlastnoruční podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2002-11-06">
+  <are:Jiny_organ dza="2002-11-06" dvy="2019-02-18">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2019-01-10">
+   <are:Clen dza="2019-01-10" dvy="2019-02-18">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>1142216</are:ruianKod>
@@ -168,7 +176,7 @@ firmě připojí svůj vlastnoruční podpis.
      <are:prijmeni>KMOCH</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2019-01-10">
+   <are:Clen dza="2019-01-10" dvy="2019-02-18">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>12902071</are:ruianKod>

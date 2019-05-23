@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T11:06:59"
+odpoved_datum_cas="2019-02-22T11:16:18"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>11:06:59</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:16:18</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -39,7 +39,7 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
     <are:PredmetCinnosti>
      <are:Text>
-pronájem nemovitostí, bytů ,nebytových prostor bez poskytování jiných než základních služeb zajišťujících jejich řádný provoz
+pronájem nemovitostí, bytů, nebytových prostor
      </are:Text>
      <are:Text>
 správa vlastního majetku
@@ -79,7 +79,7 @@ Jménem společnosti jedná každý člen představenstva samostatně. Za spole�
 Jménem společnosti jedná každý člen představenstva samostatně. Za společnost se podepisuje člen představenstva tak, že k napsané nebo vytištěné obchodní firmě společnosti připojí svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2016-02-02">
+   <are:ZpusobJednani dza="2016-02-02" dvy="2019-02-19">
     <are:Text>
 1. Společnost zastupuje každý člen představenstva samostatně, s výjimkou právních jednání,
    uvedených v odst. 2 tohoto článku.
@@ -93,6 +93,19 @@ f)    sjednávání jakýchkoliv smluv mezi členy představenstva, členy dozor
       osobami jim blízkými na straně jedné a společností na straně druhé,
 g)   uzavírání smluv o vedení účetnictví a o provádění auditorských služeb,
 zastupuje společnost předseda představenstva samostatně nebo dva členové představenstva společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-19">
+    <are:Text>
+1. Společnost zastupuje každý člen představenstva samostatně, s výjimkou právních jednání, uvedených v odst. 2 tohoto článku.
+2. Při právních jednáních, jejichž předmětem je:
+a) nakládání s nemovitostmi ve vlastnictví společnosti ve věcech jejich zcizení, nákupu, zatěžování právy třetích osob, nájmů či podnájmů,
+b) zcizování a nákup akcií a podílů v obchodních společnostech,
+c) výkon akcionářských práv a práv majitele obchodního podílu v dceřiných společnostech,
+d) poskytování záruk, vystavování, avalování, nabývání nebo převádění směnek,
+f) sjednávání jakýchkoliv smluv mezi členy představenstva, členy dozorčí rady nebo osobami jim blízkými na straně jedné a společností na straně druhé,
+g) uzavírání smluv o vedení účetnictví a o provádění auditorských služeb,
+zastupuje společnost předseda představenstva samostatně nebo místopředseda představenstva samostatně nebo dva členové představenstva společně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2007-12-21" dvy="2008-04-10">
@@ -667,27 +680,6 @@ zastupuje společnost předseda představenstva samostatně nebo dva členové p
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>13540017</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>69648</are:psc>
-      <are:okres>Hodonín</are:okres>
-      <are:obec>Skalka</are:obec>
-      <are:castObce>Skalka</are:castObce>
-      <are:cisloPop>44</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>KUBĚNA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-11-09">
-    <are:clenstvi>
-     <are:vznikClenstvi>2017-10-27</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
       <are:ruianKod>19173571</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>60200</are:psc>
@@ -702,9 +694,32 @@ zastupuje společnost předseda představenstva samostatně nebo dva členové p
      <are:prijmeni>HRABĚ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-11-09">
+   <are:Clen dza="2017-11-09" dvy="2019-02-19">
     <are:clenstvi>
      <are:vznikClenstvi>2017-10-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13540017</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69648</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Skalka</are:obec>
+      <are:castObce>Skalka</are:castObce>
+      <are:cisloPop>44</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>KUBĚNA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-09" dvy="2019-02-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-10-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-18</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen představenstva</are:nazev>
@@ -724,6 +739,101 @@ zastupuje společnost předseda představenstva samostatně nebo dva členové p
      <are:jmeno>PAVEL</are:jmeno>
      <are:prijmeni>IVÁNYI</are:prijmeni>
      <are:titulZa>MBA, LL.M.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2019-02-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25302574</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malá Strana</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Hellichova</are:ulice>
+      <are:cisloPop>632</are:cisloPop>
+      <are:cisloOr>11a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>VYHNÁLEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26211947</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25243</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Průhonice</are:obec>
+      <are:castObce>Průhonice</are:castObce>
+      <are:ulice>U Komárova</are:ulice>
+      <are:cisloPop>652</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>FRÁŇA</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26228211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68774</are:psc>
+      <are:okres>Uherské Hradiště</are:okres>
+      <are:obec>Starý Hrozenkov</are:obec>
+      <are:castObce>Starý Hrozenkov</are:castObce>
+      <are:cisloPop>326</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>ŘEZNÍČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22188185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dejvice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Mařákova</are:ulice>
+      <are:cisloPop>280</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JURAJ</are:jmeno>
+     <are:prijmeni>ČERNIČKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -804,23 +914,6 @@ zastupuje společnost předseda představenstva samostatně nebo dva členové p
   </are:Jiny_organ>
   <are:Jiny_organ dza="2017-04-25">
    <are:Nazev>Jediný akcionář</are:Nazev>
-   <are:Clen dza="2017-04-25">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>19144130</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>60300</are:psc>
-      <are:okres>Brno-město</are:okres>
-      <are:obec>Brno</are:obec>
-      <are:castObce>Pisárky</are:castObce>
-      <are:ulice>Hroznová</are:ulice>
-      <are:cisloPop>448</are:cisloPop>
-      <are:cisloOr>21</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>DAVID</are:jmeno>
-     <are:prijmeni>RUSŇÁK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>
 </are:Odpoved>

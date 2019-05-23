@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-08-17T13:27:58"
+odpoved_datum_cas="2019-02-22T10:40:30"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-08-17</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-08-17</are:Datum_vypisu>
-   <are:Cas_vypisu>13:27:58</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:40:30</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -54,53 +54,6 @@ hájení práv HIV pozitivních osob ve společenském diskursu, vyvíjení osv�
 Předsednictvo je kolektivním statutárním orgánem ČSAP. ČSAP navenek zastupuje předseda ČSAP. Předsednictvo může zmocnit jednotlivého člena k zastupování ČSAP v konkrétní záležitosti.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2014-08-14">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-04-25</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>předseda předsednictva</are:nazev>
-     <are:vznikFunkce>2014-05-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22350527</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>18600</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Karlín</are:castObce>
-      <are:mop>Praha 8</are:mop>
-      <are:ulice>Vítkova</are:ulice>
-      <are:cisloPop>188</are:cisloPop>
-      <are:cisloOr>22</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>ROBERT</are:jmeno>
-     <are:prijmeni>HEJZÁK</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-08-14">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-04-25</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen předsednictva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>9296590</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>40317</are:psc>
-      <are:obec>Chabařovice</are:obec>
-      <are:castObce>Chabařovice</are:castObce>
-      <are:ulice>Marie Kršňákové</are:ulice>
-      <are:cisloPop>130</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>JÚLIUS</are:jmeno>
-     <are:prijmeni>SZABÓ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-08-14" dvy="2015-07-14">
     <are:clenstvi>
      <are:vznikClenstvi>2014-04-25</are:vznikClenstvi>
@@ -173,26 +126,54 @@ Předsednictvo je kolektivním statutárním orgánem ČSAP. ČSAP navenek zastu
      <are:titulZa>CSc.</are:titulZa>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-14">
+   <are:Clen dza="2014-08-14" dvy="2019-02-07">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-04-24</are:vznikClenstvi>
+     <are:vznikClenstvi>2014-04-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-04-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda předsednictva</are:nazev>
+     <are:vznikFunkce>2014-05-06</are:vznikFunkce>
+     <are:zanikFunkce>2018-04-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22350527</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18600</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Karlín</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Vítkova</are:ulice>
+      <are:cisloPop>188</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROBERT</are:jmeno>
+     <are:prijmeni>HEJZÁK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-08-14" dvy="2019-02-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-04-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-04-24</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen předsednictva</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>11231548</are:ruianKod>
+      <are:ruianKod>9296590</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>75002</are:psc>
-      <are:obec>Přerov</are:obec>
-      <are:castObce>Přerov I-Město</are:castObce>
-      <are:ulice>Lančíkových</are:ulice>
-      <are:cisloPop>1881</are:cisloPop>
-      <are:cisloOr>11</are:cisloOr>
+      <are:psc>40317</are:psc>
+      <are:obec>Chabařovice</are:obec>
+      <are:castObce>Chabařovice</are:castObce>
+      <are:ulice>Marie Kršňákové</are:ulice>
+      <are:cisloPop>130</are:cisloPop>
      </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>PAVLÁT</are:prijmeni>
+     <are:jmeno>JÚLIUS</are:jmeno>
+     <are:prijmeni>SZABÓ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2015-07-14" dvy="2017-01-04">
@@ -217,13 +198,38 @@ Předsednictvo je kolektivním statutárním orgánem ČSAP. ČSAP navenek zastu
      <are:titulPred>Mgr. Bc.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-01-04">
+   <are:Clen dza="2015-07-14" dvy="2019-02-07">
     <are:clenstvi>
      <are:vznikClenstvi>2015-04-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-04-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen předsednictva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11231548</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75002</are:psc>
+      <are:obec>Přerov</are:obec>
+      <are:castObce>Přerov I-Město</are:castObce>
+      <are:ulice>Lančíkových</are:ulice>
+      <are:cisloPop>1881</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>PAVLÁT</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-04" dvy="2019-02-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-04-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-04-24</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>místopředseda spolku</are:nazev>
      <are:vznikFunkce>2016-08-01</are:vznikFunkce>
+     <are:zanikFunkce>2018-04-24</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -241,9 +247,10 @@ Předsednictvo je kolektivním statutárním orgánem ČSAP. ČSAP navenek zastu
      <are:titulPred>Mgr. Bc.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-01-04">
+   <are:Clen dza="2017-01-04" dvy="2019-02-07">
     <are:clenstvi>
      <are:vznikClenstvi>2016-08-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-04-24</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen předsednictva</are:nazev>
@@ -266,35 +273,130 @@ Předsednictvo je kolektivním statutárním orgánem ČSAP. ČSAP navenek zastu
      <are:titulPred>MUDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2014-08-14">
-   <are:Nazev>Kontrolní komise</are:Nazev>
-   <are:Clen dza="2017-01-04">
+   <are:Clen dza="2019-02-07">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-04-24</are:vznikClenstvi>
+     <are:vznikClenstvi>2018-04-25</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>předseda kontrolní komise</are:nazev>
-     <are:vznikFunkce>2016-05-23</are:vznikFunkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2018-04-25</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>22354549</are:ruianKod>
+      <are:ruianKod>22350527</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>18600</are:psc>
       <are:okres>Hlavní město Praha</are:okres>
       <are:obec>Praha</are:obec>
       <are:castObce>Karlín</are:castObce>
       <are:mop>Praha 8</are:mop>
-      <are:ulice>Petra Slezáka</are:ulice>
-      <are:cisloPop>548</are:cisloPop>
-      <are:cisloOr>8</are:cisloOr>
+      <are:ulice>Vítkova</are:ulice>
+      <are:cisloPop>188</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
      </are:adresa>
-     <are:jmeno>JAKUB</are:jmeno>
-     <are:prijmeni>TOMŠEJ</are:prijmeni>
-     <are:titulPred>JUDr.</are:titulPred>
+     <are:jmeno>ROBERT</are:jmeno>
+     <are:prijmeni>HEJZÁK</are:prijmeni>
+     <are:titulPred>Ing. Mgr.</are:titulPred>
+     <are:titulZa>M.A.</are:titulZa>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-04-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2018-04-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9296590</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40317</are:psc>
+      <are:okres>Ústí nad Labem</are:okres>
+      <are:obec>Chabařovice</are:obec>
+      <are:castObce>Chabařovice</are:castObce>
+      <are:ulice>Marie Kršňákové</are:ulice>
+      <are:cisloPop>130</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>RIEGER</are:prijmeni>
+     <are:titulPred>Mgr. Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-04-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen předsednictva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21698643</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malá Strana</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Hellichova</are:ulice>
+      <are:cisloPop>395</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>SMEJKAL</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-04-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen předsednictva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11231548</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75002</are:psc>
+      <are:okres>Přerov</are:okres>
+      <are:obec>Přerov</are:obec>
+      <are:castObce>Přerov I-Město</are:castObce>
+      <are:ulice>Lančíkových</are:ulice>
+      <are:cisloPop>1881</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>PAVLÁT</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-04-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen předsednictva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9296590</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40317</are:psc>
+      <are:okres>Ústí nad Labem</are:okres>
+      <are:obec>Chabařovice</are:obec>
+      <are:castObce>Chabařovice</are:castObce>
+      <are:ulice>Marie Kršňákové</are:ulice>
+      <are:cisloPop>130</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JÚLIUS</are:jmeno>
+     <are:prijmeni>SZABÓ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2014-08-14">
+   <are:Nazev>Kontrolní komise</are:Nazev>
    <are:Clen dza="2017-01-04">
     <are:clenstvi>
      <are:vznikClenstvi>2016-05-06</are:vznikClenstvi>
@@ -326,6 +428,57 @@ Předsednictvo je kolektivním statutárním orgánem ČSAP. ČSAP navenek zastu
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22297529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Holešovice</are:castObce>
+      <are:mop>Praha 7</are:mop>
+      <are:ulice>Přístavní</are:ulice>
+      <are:cisloPop>263</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUKÁŠ</are:jmeno>
+     <are:prijmeni>VOLF</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>DiS.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-04-13</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22388231</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>V zahradách</are:ulice>
+      <are:cisloPop>1599</are:cisloPop>
+      <are:cisloOr>30</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVLA</are:jmeno>
+     <are:prijmeni>VITMAJEROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-06-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda kontrolní komise</are:nazev>
+     <are:vznikFunkce>2018-04-23</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>

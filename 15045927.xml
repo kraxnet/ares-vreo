@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T06:13:25"
+odpoved_datum_cas="2019-03-01T13:41:34"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,25 +11,358 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>06:13:25</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-01</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-01</are:Datum_vypisu>
+   <are:Cas_vypisu>13:41:34</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>SR</are:Rejstrik>
    <are:ICO>15045927</are:ICO>
-   <are:ObchodniFirma>Spolek rodáků a přátel Turnova o.s.</are:ObchodniFirma>
+   <are:ObchodniFirma>Spolek rodáků a přátel Turnova z.s.</are:ObchodniFirma>
    <are:Sidlo>
+    <are:ruianKod>21566755</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>51101</are:psc>
+    <are:okres>Semily</are:okres>
     <are:obec>Turnov</are:obec>
-    <are:ulice>Bezručova</are:ulice>
-    <are:cisloPop>367</are:cisloPop>
+    <are:castObce>Bukovina</are:castObce>
+    <are:cisloPop>57</are:cisloPop>
    </are:Sidlo>
    <are:DatumVzniku>1991-01-30</are:DatumVzniku>
    <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+- ochrana a obnovení kulturních a historických památek; posilování vztahů občanů k našemu městu a regionu Českého ráje; rozvoj kulturního života ve městě a jeho okolí; ochrana životního prostředí
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
   </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2019-01-25">
+   <are:Nazev>Statutární orgán - výbor</are:Nazev>
+   <are:ZpusobJednani dza="2019-01-25">
+    <are:Text>
+Za spolek navenek jedná předseda a v době nepřítomnosti jej zastupuje místopředseda nebo hospodář.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2017-02-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21588091</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Turnov</are:castObce>
+      <are:ulice>Zborovská</are:ulice>
+      <are:cisloPop>947</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>OTAKAR</are:jmeno>
+     <are:prijmeni>GRUND</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2017-02-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21579385</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Turnov</are:castObce>
+      <are:ulice>5. května</are:ulice>
+      <are:cisloPop>49</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROMÍR</are:jmeno>
+     <are:prijmeni>DUCHÁČ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2017-02-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21595275</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Turnov</are:castObce>
+      <are:ulice>Sídliště Jana Patočky</are:ulice>
+      <are:cisloPop>1668</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>HAMADOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21566755</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Bukovina</are:castObce>
+      <are:cisloPop>57</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VLADISLAVA</are:jmeno>
+     <are:prijmeni>EJEMOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>hospodář</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19838964</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46822</are:psc>
+      <are:okres>Jablonec nad Nisou</are:okres>
+      <are:obec>Malá Skála</are:obec>
+      <are:castObce>Vranové 1.díl</are:castObce>
+      <are:cisloPop>27</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAVA</are:jmeno>
+     <are:prijmeni>KARÁSKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21578133</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Pelešany</are:castObce>
+      <are:cisloPop>46</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILENA</are:jmeno>
+     <are:prijmeni>PEKAŘOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21597651</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Turnov</are:castObce>
+      <are:ulice>Diamantová</are:ulice>
+      <are:cisloPop>1909</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>BOŽENA</are:jmeno>
+     <are:prijmeni>HONZÁKOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21592403</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Turnov</are:castObce>
+      <are:ulice>Výšinka</are:ulice>
+      <are:cisloPop>1378</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>NOVOTNÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21578133</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Pelešany</are:castObce>
+      <are:cisloPop>46</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILAN</are:jmeno>
+     <are:prijmeni>PEKAŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25" dvy="2019-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21597669</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Turnov</are:castObce>
+      <are:ulice>Diamantová</are:ulice>
+      <are:cisloPop>1910</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>HERMÍNA</are:jmeno>
+     <are:prijmeni>DŽEKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23675489</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46006</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec VI-Rochlice</are:castObce>
+      <are:ulice>Haškova</are:ulice>
+      <are:cisloPop>936</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HERMÍNA</are:jmeno>
+     <are:prijmeni>DŽEKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2019-01-25">
+   <are:Nazev>Kontrolní orgán - revizní komise</are:Nazev>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2017-02-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21592144</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Turnov</are:castObce>
+      <are:ulice>Koněvova</are:ulice>
+      <are:cisloPop>1352</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUDMILA</are:jmeno>
+     <are:prijmeni>SEHNOUTKOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21574341</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Daliměřice</are:castObce>
+      <are:ulice>Bezručova</are:ulice>
+      <are:cisloPop>362</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>VESELÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21585954</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Turnov</are:castObce>
+      <are:ulice>Sobotecká</are:ulice>
+      <are:cisloPop>733</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>KOHOUTEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
  </are:Vypis_VREO>
 </are:Odpoved>
 </are:Ares_odpovedi>

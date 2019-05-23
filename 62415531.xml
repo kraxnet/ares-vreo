@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-01-29T14:58:55"
+odpoved_datum_cas="2019-02-28T12:34:54"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-01-27</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-01-29</are:Datum_vypisu>
-   <are:Cas_vypisu>14:58:55</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:34:54</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>5</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1994-09-29</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-26</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z obchodního rejstříku včetně všech zapsaných údajů obchodní společnost Hurbanova 1171/5 s.r.o., v likvidaci, se sídlem Hurbanova 1171/5, Krč, 142 00  Praha 4, identifikační číslo 624 15 531, vedená pod spisovou značkou C 32049/MSPH, u obchodn
+ího rejstříku Městského soudu v Praze. Právním důvodem výmazu je ukončení likvidace schválením a výplatou likvidačního zůstatku.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -42,7 +49,7 @@ ních služeb s tímto pronájmem spojených.
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1994-09-29">
+  <are:Statutarni_organ dza="1994-09-29" dvy="2019-02-26">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="1994-09-29" dvy="2005-10-26">
     <are:Text>
@@ -52,7 +59,7 @@ napsanému obchodnímu jménu společnosti připojí svůj podpis
 dva jednatelé společnosti.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2005-10-26">
+   <are:ZpusobJednani dza="2005-10-26" dvy="2019-02-26">
     <are:Text>
 Každý z jednatelů je oprávněn jednat jménem společnosti  samostatně.
 Je-li však k jednání třeba písemného úkonu, jednají jménem společnosti vždy dva jednatelé společně.
@@ -166,50 +173,6 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>Ševčíková</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-06-19">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2013-05-15</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21868964</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14200</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Krč</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Hurbanova</are:ulice>
-      <are:cisloPop>1171</are:cisloPop>
-      <are:cisloOr>5</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MARTIN</are:jmeno>
-     <are:prijmeni>KOSEJK</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-06-19">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2013-05-15</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21868964</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>14200</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Krč</are:castObce>
-      <are:mop>Praha 4</are:mop>
-      <are:ulice>Hurbanova</are:ulice>
-      <are:cisloPop>1171</are:cisloPop>
-      <are:cisloOr>5</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MILOSLAVA</are:jmeno>
-     <are:prijmeni>SRBOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2013-06-19" dvy="2015-07-22">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -233,7 +196,51 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>TERZIPETKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-22">
+   <are:Clen dza="2013-06-19" dvy="2019-02-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-05-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21868964</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Hurbanova</are:ulice>
+      <are:cisloPop>1171</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>KOSEJK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-06-19" dvy="2019-02-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-05-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21868964</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Hurbanova</are:ulice>
+      <are:cisloPop>1171</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MILOSLAVA</are:jmeno>
+     <are:prijmeni>SRBOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-07-22" dvy="2019-02-26">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2015-04-29</are:vznikFunkce>
@@ -256,9 +263,9 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2017-10-13">
+  <are:Statutarni_organ dza="2017-10-13" dvy="2019-02-26">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2017-10-13">
+   <are:Clen dza="2017-10-13" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21997900</are:ruianKod>
@@ -278,9 +285,9 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1994-09-29">
+  <are:Jiny_organ dza="1994-09-29" dvy="2019-02-26">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2002-05-29">
+   <are:Clen dza="2002-05-29" dvy="2019-02-26">
     <are:posoba>
      <are:adresa>
       <are:stat>203</are:stat>
@@ -289,7 +296,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:ObchodniFirma>společný vklad Ing.Petr Pěkný  r.č. 59.04.30/0512                        Jitka Pěkná  r.č. 59.59.21/0059</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2002-05-29">
+   <are:Clen dza="2002-05-29" dvy="2019-02-26">
     <are:posoba>
      <are:adresa>
       <are:stat>203</are:stat>
@@ -298,7 +305,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:ObchodniFirma>společný vklad Martin Hejda  r.č. 70.11.28/1255                         Ellen Hejdová  r.č. 69.53.11/0197</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2002-05-29">
+   <are:Clen dza="2002-05-29" dvy="2019-02-26">
     <are:posoba>
      <are:adresa>
       <are:stat>203</are:stat>
@@ -307,7 +314,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:ObchodniFirma>společný vklad Milena Saková  r.č. 53.52.27/129                          Bohumil Sak  r.č. 46.05.28/061</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2002-05-29">
+   <are:Clen dza="2002-05-29" dvy="2019-02-26">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>22694170</are:ruianKod>
@@ -320,7 +327,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:ObchodniFirma>společný vklad ing. Pavel Novotný  r.č. 57.08.17/0908                    Eva Novotná  r.č. 54.52.09/3240</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2005-10-26">
+   <are:Clen dza="2005-10-26" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -338,7 +345,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>SRBOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2006-11-29">
+   <are:Clen dza="2006-11-29" dvy="2019-02-26">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -352,7 +359,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:ObchodniFirma>společný vklad JUDr.Milan Havliš  r.č. 30.10.29/455                     Drahomíra Havlišová  r.č. 32.52.02/125</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2011-03-31">
+   <are:Clen dza="2011-03-31" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -367,7 +374,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>Deustchmannová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2012-12-12">
+   <are:Clen dza="2012-12-12" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -386,9 +393,9 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2012-12-12">
+   <are:Clen dza="2012-12-12" dvy="2019-02-26">
    </are:Clen>
-   <are:Clen dza="2012-12-12">
+   <are:Clen dza="2012-12-12" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -406,7 +413,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>Čáp</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2012-12-12">
+   <are:Clen dza="2012-12-12" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -424,7 +431,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>Šturmová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-06-19">
+   <are:Clen dza="2013-06-19" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22576011</are:ruianKod>
@@ -442,7 +449,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>SAMEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-06-19">
+   <are:Clen dza="2013-06-19" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21870055</are:ruianKod>
@@ -460,7 +467,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>ŽURAVOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-06-18">
+   <are:Clen dza="2014-06-18" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -478,7 +485,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>STOČES</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-22">
+   <are:Clen dza="2015-07-22" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868999</are:ruianKod>
@@ -496,7 +503,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>KADEŘÁVEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-22">
+   <are:Clen dza="2015-07-22" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868905</are:ruianKod>
@@ -514,7 +521,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>ŠLÉGL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-22">
+   <are:Clen dza="2015-07-22" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -532,7 +539,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>ŠÍMA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-22">
+   <are:Clen dza="2015-07-22" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -550,7 +557,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>JÍLKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-08-04">
+   <are:Clen dza="2015-08-04" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -568,7 +575,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>HAVLIŠ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-06-17">
+   <are:Clen dza="2016-06-17" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -586,7 +593,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>BOUMA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-24">
+   <are:Clen dza="2017-03-24" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22123164</are:ruianKod>
@@ -604,7 +611,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>GRIES</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-24">
+   <are:Clen dza="2017-03-24" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>25733184</are:ruianKod>
@@ -622,7 +629,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>SUCHAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-24">
+   <are:Clen dza="2017-03-24" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22165193</are:ruianKod>
@@ -640,7 +647,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>HLAVATÝ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-24">
+   <are:Clen dza="2017-03-24" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -658,7 +665,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>PROVAZNÍKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-24">
+   <are:Clen dza="2017-03-24" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -676,7 +683,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>JEČMÍNKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-24">
+   <are:Clen dza="2017-03-24" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -694,7 +701,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>GRÜNER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-24">
+   <are:Clen dza="2017-03-24" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -712,7 +719,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>TOUŠKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-24">
+   <are:Clen dza="2017-03-24" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>21868964</are:ruianKod>
@@ -730,7 +737,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>MATĚJKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-03-30">
+   <are:Clen dza="2017-03-30" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>30913390</are:ruianKod>
@@ -746,7 +753,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>ŠIMON</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-06-07">
+   <are:Clen dza="2017-06-07" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22515798</are:ruianKod>
@@ -764,7 +771,7 @@ Je-li však k jednání třeba písemného úkonu, jednají jménem společnost
      <are:prijmeni>VEDRAL</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-01-24">
+   <are:Clen dza="2018-01-24" dvy="2019-02-26">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22451749</are:ruianKod>

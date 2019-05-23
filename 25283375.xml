@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T16:56:34"
+odpoved_datum_cas="2019-03-06T14:24:47"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>16:56:34</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:24:47</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -47,7 +47,6 @@ za ni jednatel společnosti.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>51401</are:psc>
       <are:okres>Semily</are:okres>
@@ -82,7 +81,6 @@ za ni jednatel společnosti.
    <are:Clen dza="2006-06-23" dvy="2015-10-21">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>51401</are:psc>
       <are:obec>Jilemnice</are:obec>
@@ -93,7 +91,7 @@ za ni jednatel společnosti.
      <are:prijmeni>Janouch</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-10-21">
+   <are:Clen dza="2015-10-21" dvy="2019-03-04">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>16908589</are:ruianKod>
@@ -107,13 +105,30 @@ za ni jednatel společnosti.
      <are:prijmeni>JANOUCH</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-04">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>76081796</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vršovice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Altajská</are:ulice>
+      <are:cisloPop>1568</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:ICO>69908664</are:ICO>
+     <are:ObchodniFirma>Bc. David Vandrovec</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1998-02-02">
    <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="1998-02-02">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:text>Alušta, Pionýrská 17/85, Krym</are:text>
      </are:adresa>
@@ -123,7 +138,6 @@ za ni jednatel společnosti.
    <are:Clen dza="1998-02-02">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:text>Alušta, Pionýrská 17/85, Krym</are:text>
      </are:adresa>
@@ -133,7 +147,6 @@ za ni jednatel společnosti.
    <are:Clen dza="1998-02-02">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>101</are:ruianKod>
       <are:stat>804</are:stat>
       <are:text>Alušta, Pionýrská 17/85, Krym</are:text>
      </are:adresa>

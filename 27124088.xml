@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T09:10:50"
+odpoved_datum_cas="2019-02-28T12:36:05"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>09:10:50</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:36:05</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,20 +21,22 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>27124088</are:ICO>
    <are:ObchodniFirma>LUVAA s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>21785872</are:ruianKod>
+    <are:ruianKod>22351159</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>13000</are:psc>
-    <are:obec>Praha 3</are:obec>
-    <are:castObce>Žižkov</are:castObce>
-    <are:ulice>Jana Želivského</are:ulice>
-    <are:cisloPop>1729</are:cisloPop>
-    <are:cisloOr>20</are:cisloOr>
+    <are:psc>18600</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Karlín</are:castObce>
+    <are:mop>Praha 8</are:mop>
+    <are:ulice>Pobřežní</are:ulice>
+    <are:cisloPop>249</are:cisloPop>
+    <are:cisloOr>46</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2004-02-20</are:DatumZapisu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-hostinská činnost
+Hostinská činnost
      </are:Text>
      <are:Text>
 Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
@@ -53,9 +55,14 @@ Jednatel je řídícím a statutárním orgánem společnosti. Společnost má 
 is.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-10-09">
+   <are:ZpusobJednani dza="2014-10-09" dvy="2019-02-26">
     <are:Text>
 Společnost zastupuje jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-26">
+    <are:Text>
+Společnost zastupuje každý z jednatelů ve všech věcech samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2004-02-20" dvy="2010-05-05">
@@ -96,10 +103,11 @@ Společnost zastupuje jednatel samostatně.
      <are:prijmeni>Ondrák</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-09-22">
+   <are:Clen dza="2016-09-22" dvy="2019-02-26">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2004-02-20</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-08</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -118,25 +126,75 @@ Společnost zastupuje jednatel samostatně.
      <are:prijmeni>ONDRÁK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22369392</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kobylisy</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Štíbrova</are:ulice>
+      <are:cisloPop>1215</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>NOSEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>250</are:stat>
+      <are:psc>95160</are:psc>
+      <are:obec>Montmorency</are:obec>
+      <are:ulice>3 Chemin Neuf des Champeaux</are:ulice>
+     </are:adresa>
+     <are:jmeno>MAXIME</are:jmeno>
+     <are:prijmeni>BAUDUIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2004-02-20">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2016-09-22">
+   <are:Clen dza="2019-02-26">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>22773673</are:ruianKod>
+      <are:ruianKod>22369392</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>19800</are:psc>
+      <are:psc>18200</are:psc>
       <are:okres>Hlavní město Praha</are:okres>
       <are:obec>Praha</are:obec>
-      <are:castObce>Černý Most</are:castObce>
-      <are:mop>Praha 9</are:mop>
-      <are:ulice>Bryksova</are:ulice>
-      <are:cisloPop>772</are:cisloPop>
-      <are:cisloOr>47</are:cisloOr>
+      <are:castObce>Kobylisy</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Štíbrova</are:ulice>
+      <are:cisloPop>1215</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
      </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>ONDRÁK</are:prijmeni>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>NOSEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>250</are:stat>
+      <are:psc>95160</are:psc>
+      <are:obec>Montmorency</are:obec>
+      <are:ulice>3 Chemin Neuf des Champeaux</are:ulice>
+     </are:adresa>
+     <are:jmeno>MAXIME</are:jmeno>
+     <are:prijmeni>BAUDUIN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

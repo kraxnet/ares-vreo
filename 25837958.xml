@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-04-09T14:50:22"
+odpoved_datum_cas="2019-03-01T13:44:15"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-04-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-04-09</are:Datum_vypisu>
-   <are:Cas_vypisu>14:50:22</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-01</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-01</are:Datum_vypisu>
+   <are:Cas_vypisu>13:44:15</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -131,66 +131,30 @@ provádění staveb, jejich změn a odstraňování
      <are:prijmeni>LEJKA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-12-30">
+   <are:Clen dza="2019-02-28">
     <are:clenstvi>
-     <are:vznikClenstvi>2015-06-22</are:vznikClenstvi>
+     <are:vznikClenstvi>2018-12-17</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>15401839</are:ruianKod>
+      <are:ruianKod>15402967</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>73953</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
       <are:obec>Třanovice</are:obec>
       <are:castObce>Třanovice</are:castObce>
-      <are:cisloPop>8</are:cisloPop>
+      <are:cisloPop>121</are:cisloPop>
      </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>TOMICZEK</are:prijmeni>
-     <are:titulPred>Mgr.</are:titulPred>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>ŽWAK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="1999-06-04">
    <are:Nazev>Správní rada</are:Nazev>
-   <are:Clen dza="2014-06-24">
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>15403220</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73953</are:psc>
-      <are:obec>Třanovice</are:obec>
-      <are:castObce>Třanovice</are:castObce>
-      <are:cisloPop>147</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ZBYHNĚV</are:jmeno>
-     <are:prijmeni>JANCZYK</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-08-08">
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>15404196</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73953</are:psc>
-      <are:obec>Třanovice</are:obec>
-      <are:castObce>Třanovice</are:castObce>
-      <are:cisloPop>244</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>KORČ</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2015-12-30">
     <are:clenstvi>
      <are:vznikClenstvi>2015-06-22</are:vznikClenstvi>
@@ -251,7 +215,10 @@ provádění staveb, jejich změn a odstraňování
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-04-06">
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-17</are:vznikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen správní rady</are:nazev>
     </are:funkce>
@@ -265,9 +232,53 @@ provádění staveb, jejich změn a odstraňování
       <are:castObce>Třanovice</are:castObce>
       <are:cisloPop>8</are:cisloPop>
      </are:adresa>
-     <are:jmeno>JAN</are:jmeno>
+     <are:jmeno>JIŘÍ</are:jmeno>
      <are:prijmeni>TOMICZEK</are:prijmeni>
-     <are:titulPred>Bc.</are:titulPred>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15403599</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73953</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Třanovice</are:obec>
+      <are:castObce>Třanovice</are:castObce>
+      <are:cisloPop>184</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>BLAHUT</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15404161</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73953</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Třanovice</are:obec>
+      <are:castObce>Třanovice</are:castObce>
+      <are:cisloPop>241</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARIAN</are:jmeno>
+     <are:prijmeni>JOCHYMEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

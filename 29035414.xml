@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-25T15:59:16"
+odpoved_datum_cas="2019-03-01T13:48:13"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-25</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-25</are:Datum_vypisu>
-   <are:Cas_vypisu>15:59:16</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-01</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-01</are:Datum_vypisu>
+   <are:Cas_vypisu>13:48:13</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -23,11 +23,14 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Sidlo>
     <are:ruianKod>21706484</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>11334</are:psc>
-    <are:obec>Praha 1</are:obec>
+    <are:psc>11000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
     <are:castObce>Nové Město</are:castObce>
+    <are:mop>Praha 1</are:mop>
     <are:ulice>Václavské náměstí</are:ulice>
-    <are:cisloTxt>846/1</are:cisloTxt>
+    <are:cisloPop>846</are:cisloPop>
+    <are:cisloOr>1</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2010-02-22</are:DatumZapisu>
    <are:Cinnosti>
@@ -48,9 +51,14 @@ výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
 Za představenstvo jedná navenek jménem společnosti předseda představenstva společnosti samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2010-05-28">
+   <are:ZpusobJednani dza="2010-05-28" dvy="2019-02-26">
     <are:Text>
 Za představenstvo jednají navenek jménem společnosti předseda a místopředseda představenstva společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-26">
+    <are:Text>
+Společnost zastupuje samostatně předseda představenstva, ostatní členové představenstva zastupují společnost vždy společně s předsedou představenstva.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2010-02-22" dvy="2010-05-28">
@@ -212,27 +220,6 @@ Za představenstvo jednají navenek jménem společnosti předseda a místopře
      <are:prijmeni>Urban</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-09-26">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-08-14</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen představenstva</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>2947471</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>25601</are:psc>
-      <are:obec>Benešov</are:obec>
-      <are:castObce>Benešov</are:castObce>
-      <are:ulice>Jiřího Franka</are:ulice>
-      <are:cisloPop>1644</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>ŘÍHA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-09-26" dvy="2017-04-20">
     <are:clenstvi>
      <are:vznikClenstvi>2014-08-14</are:vznikClenstvi>
@@ -253,6 +240,28 @@ Za představenstvo jednají navenek jménem společnosti předseda a místopře
      <are:jmeno>ZDENĚK</are:jmeno>
      <are:prijmeni>MROZEK</are:prijmeni>
      <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-09-26" dvy="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-08-14</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-02-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2947471</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25601</are:psc>
+      <are:obec>Benešov</are:obec>
+      <are:castObce>Benešov</are:castObce>
+      <are:ulice>Jiřího Franka</are:ulice>
+      <are:cisloPop>1644</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>ŘÍHA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2015-09-06">
@@ -329,6 +338,30 @@ Za představenstvo jednají navenek jménem společnosti předseda a místopře
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21840121</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Jeřábkova</are:ulice>
+      <are:cisloPop>1459</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>MUZIKANT</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2010-02-22">
    <are:Nazev>Dozorčí rada</are:Nazev>
@@ -354,6 +387,52 @@ Za představenstvo jednají navenek jménem společnosti předseda a místopře
      </are:adresa>
      <are:jmeno>PAVEL</are:jmeno>
      <are:prijmeni>DVORSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2947471</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25601</are:psc>
+      <are:okres>Benešov</are:okres>
+      <are:obec>Benešov</are:obec>
+      <are:castObce>Benešov</are:castObce>
+      <are:ulice>Jiřího Franka</are:ulice>
+      <are:cisloPop>1644</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>ŘÍHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22741704</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Černý Most</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Dygrýnova</are:ulice>
+      <are:cisloPop>816</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>URBAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

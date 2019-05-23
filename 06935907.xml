@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-27T17:41:46"
+odpoved_datum_cas="2019-03-06T14:09:55"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-27</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-27</are:Datum_vypisu>
-   <are:Cas_vypisu>17:41:46</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:09:55</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -74,10 +74,11 @@ Jednatel jedná za společnost samostatně
      <are:prijmeni>VRÁNA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-09-06">
+   <are:Clen dza="2018-09-06" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2018-06-15</are:vznikFunkce>
+     <are:zanikFunkce>2018-11-28</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -89,18 +90,33 @@ Jednatel jedná za společnost samostatně
      <are:prijmeni>POPENCHUK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="2018-03-08">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2018-09-06">
+   <are:Clen dza="2019-03-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2018-11-28</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
-      <are:obec>Rachivský rajon, Zakarpatská oblast</are:obec>
-      <are:ulice>Luh 534</are:ulice>
+      <are:obec>Rachiv, Zakarpatská oblast</are:obec>
+      <are:ulice>Kyjevská 232</are:ulice>
      </are:adresa>
      <are:jmeno>VASYL</are:jmeno>
-     <are:prijmeni>POPENCHUK</are:prijmeni>
+     <are:prijmeni>RUS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2018-03-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2019-03-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rachiv, Zakarpatská oblast</are:obec>
+      <are:ulice>Kyjevská 232</are:ulice>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>RUS</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

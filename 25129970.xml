@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-02-05T11:53:46"
+odpoved_datum_cas="2019-03-06T14:17:42"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-02-03</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-02-05</are:Datum_vypisu>
-   <are:Cas_vypisu>11:53:46</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:17:43</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -28,6 +28,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>2070</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>1997-05-20</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Bytové družstvo Lýskova v likvidaci, IČ 25129970, se sídlem Praha 5 - Stodůlky, Lýskova 2070, PSČ 15500, se vymazává z obchodního rejstříku na návrh likvidátora Pavla Kaše. Právním důvodem výmazu je ukončení likvidace bytového družstva.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -38,9 +44,9 @@ nemovitosti, bytů a nebytových prostor
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1997-05-20">
+  <are:Statutarni_organ dza="1997-05-20" dvy="2019-02-27">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="1997-05-20">
+   <are:ZpusobJednani dza="1997-05-20" dvy="2019-02-27">
     <are:Text>
 Jménem družstva je oprávněn jednat předseda představenstva, nebo
 jeho zástupce. Za družstvo se podepisuje tak, že k uvedení
@@ -106,7 +112,30 @@ dvou členů představenstva.
      <are:prijmeni>Kubát</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-01">
+   <are:Clen dza="2015-07-01" dvy="2015-07-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-05-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:vznikFunkce>2015-05-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22124047</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15500</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:ulice>Lýskova</are:ulice>
+      <are:cisloPop>2070</are:cisloPop>
+      <are:cisloOr>51</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>BEZOUŠKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-07-01" dvy="2019-02-27">
     <are:clenstvi>
      <are:vznikClenstvi>2015-05-26</are:vznikClenstvi>
     </are:clenstvi>
@@ -131,7 +160,7 @@ dvou členů představenstva.
      <are:prijmeni>KAŠE</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-01">
+   <are:Clen dza="2015-07-01" dvy="2019-02-27">
     <are:clenstvi>
      <are:vznikClenstvi>2015-05-26</are:vznikClenstvi>
     </are:clenstvi>
@@ -155,30 +184,7 @@ dvou členů představenstva.
      <are:prijmeni>ŠAFRÁNEK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-01" dvy="2015-07-07">
-    <are:clenstvi>
-     <are:vznikClenstvi>2015-05-26</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>Předseda představenstva</are:nazev>
-     <are:vznikFunkce>2015-05-29</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22124047</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>15500</are:psc>
-      <are:obec>Praha 5</are:obec>
-      <are:castObce>Stodůlky</are:castObce>
-      <are:ulice>Lýskova</are:ulice>
-      <are:cisloPop>2070</are:cisloPop>
-      <are:cisloOr>51</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>BEZOUŠKA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2015-07-07">
+   <are:Clen dza="2015-07-07" dvy="2019-02-27">
     <are:clenstvi>
      <are:vznikClenstvi>2015-05-26</are:vznikClenstvi>
     </are:clenstvi>
@@ -204,9 +210,9 @@ dvou členů představenstva.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-02-01">
+  <are:Statutarni_organ dza="2018-02-01" dvy="2019-02-27">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-02-01">
+   <are:Clen dza="2018-02-01" dvy="2019-02-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22124047</are:ruianKod>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T16:12:31"
+odpoved_datum_cas="2019-02-28T12:43:11"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>16:12:31</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:43:11</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>OR</are:Rejstrik>
    <are:ICO>27561160</are:ICO>
-   <are:ObchodniFirma>MAROFYLY s.r.o.</are:ObchodniFirma>
+   <are:ObchodniFirma>MAROFYLY s.r.o. v likvidaci</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>22549901</are:ruianKod>
     <are:stat>203</are:stat>
@@ -34,14 +34,6 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    </are:Sidlo>
    <are:DatumZapisu>2006-06-05</are:DatumZapisu>
    <are:Cinnosti>
-    <are:PredmetPodnikani>
-     <are:Text>
-dokončovací stavební práce
-     </are:Text>
-     <are:Text>
-zprostředkování obchodu a služeb
-     </are:Text>
-    </are:PredmetPodnikani>
     <are:PredmetCinnosti>
      <are:Text>
 pronájem nemovitostí, bytů a nebytových prostor bez poskytování jiných než základních služeb zajišťující řádný provoz nemovitostí, bytů a nebytových prostor spojených s pronájmem
@@ -134,6 +126,26 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:jmeno>VASYL</are:jmeno>
      <are:prijmeni>MAROVDI</are:prijmeni>
     </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2019-02-07">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2019-02-07">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>14078511</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79401</are:psc>
+      <are:okres>Bruntál</are:okres>
+      <are:obec>Krnov</are:obec>
+      <are:castObce>Pod Cvilínem</are:castObce>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloPop>522</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:ICO>60758929</are:ICO>
+     <are:ObchodniFirma>JUDr. Ing. Daniela Majzlíková, LL.M.</are:ObchodniFirma>
+    </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2006-06-05">

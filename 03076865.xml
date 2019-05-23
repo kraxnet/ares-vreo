@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-11T22:10:40"
+odpoved_datum_cas="2019-02-22T10:53:28"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
-   <are:Cas_vypisu>22:10:40</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:53:28</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -46,10 +46,11 @@ Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
 Jednatel jedná za společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2014-06-10">
+   <are:Clen dza="2014-06-10" dvy="2019-02-13">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2014-06-10</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-13</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -66,23 +67,35 @@ Jednatel jedná za společnost samostatně.
      <are:prijmeni>SVOBODA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>91441</are:psc>
+      <are:obec>Nemšová</are:obec>
+      <are:ulice>Bernolákova 350/19</are:ulice>
+     </are:adresa>
+     <are:jmeno>BARBORA</are:jmeno>
+     <are:prijmeni>PIJÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2014-06-10">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-06-10">
+   <are:Clen dza="2019-02-13">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>19603452</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>61600</are:psc>
-      <are:obec>Brno</are:obec>
-      <are:castObce>Žabovřesky</are:castObce>
-      <are:ulice>Luční</are:ulice>
-      <are:cisloPop>2600</are:cisloPop>
-      <are:cisloOr>68</are:cisloOr>
+      <are:stat>703</are:stat>
+      <are:psc>91441</are:psc>
+      <are:obec>Nemšová</are:obec>
+      <are:ulice>Bernolákova 350/19</are:ulice>
      </are:adresa>
-     <are:jmeno>JAKUB</are:jmeno>
-     <are:prijmeni>SVOBODA</are:prijmeni>
+     <are:jmeno>BARBORA</are:jmeno>
+     <are:prijmeni>PIJÁKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

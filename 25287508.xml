@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T16:58:59"
+odpoved_datum_cas="2019-03-06T14:16:44"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>16:58:59</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:16:44</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -34,17 +34,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-Pořádání odborných kurzů, školení a jiných vzdělávacích akcí
-včetně lektorské činnosti
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
      <are:Text>
-Zprostředkování obchodu
+Prodej kvasného lihu, konzumního lihu a lihovin
      </are:Text>
      <are:Text>
-Specializovaný maloobchod
-     </are:Text>
-     <are:Text>
-Velkoobchod
+Hostinská činnost
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
@@ -60,10 +56,15 @@ věcech samostatně. Jednatel se podepisuje za společnost tak,
 připojí svůj podpis.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2007-05-16">
+   <are:ZpusobJednani dza="2007-05-16" dvy="2019-03-01">
     <are:Text>
 Způsob jednání za společnost:
 Jednatel jedná jménem společnosti ve všech věcech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-01">
+    <are:Text>
+Jednatel zastupuje společnost samostatně ve všech záležitostech.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1998-05-01" dvy="2007-05-09">
@@ -73,7 +74,6 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>50001</are:psc>
       <are:obec>Hradec Králové 1</are:obec>
@@ -90,7 +90,6 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>50002</are:psc>
       <are:obec>Hradec Králové 2</are:obec>
@@ -119,10 +118,11 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
      <are:prijmeni>Součková</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-09-11">
+   <are:Clen dza="2013-09-11" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>1998-05-01</are:vznikFunkce>
+     <are:zanikFunkce>2019-03-01</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -139,22 +139,44 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
      <are:prijmeni>SOUČKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-03-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2019-03-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23874295</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Hradec Králové</are:castObce>
+      <are:ulice>Průmyslová</are:ulice>
+      <are:cisloPop>1098</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTINA</are:jmeno>
+     <are:prijmeni>SOUČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1998-05-01">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2013-09-11">
+   <are:Clen dza="2019-03-01">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>23870222</are:ruianKod>
+      <are:ruianKod>23874295</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>50002</are:psc>
+      <are:okres>Hradec Králové</are:okres>
       <are:obec>Hradec Králové</are:obec>
       <are:castObce>Hradec Králové</are:castObce>
-      <are:ulice>Masarykovo náměstí</are:ulice>
-      <are:cisloPop>684</are:cisloPop>
-      <are:cisloOr>9</are:cisloOr>
+      <are:ulice>Průmyslová</are:ulice>
+      <are:cisloPop>1098</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
      </are:adresa>
-     <are:jmeno>MARIE</are:jmeno>
+     <are:jmeno>MARTINA</are:jmeno>
      <are:prijmeni>SOUČKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>

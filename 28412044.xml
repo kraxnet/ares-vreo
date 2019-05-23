@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-07T10:04:51"
+odpoved_datum_cas="2019-02-22T11:31:36"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-07</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-07</are:Datum_vypisu>
-   <are:Cas_vypisu>10:04:51</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:31:36</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -115,7 +115,7 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      <are:ObchodniFirma>Moravský Peněžní Ústav - spořitelní družstvo</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2019-01-03">
+   <are:Clen dza="2019-01-03" dvy="2019-02-21">
     <are:funkce>
      <are:nazev>pověřený vlastník</are:nazev>
     </are:funkce>
@@ -131,6 +131,24 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
      </are:adresa>
      <are:ICO>25307835</are:ICO>
      <are:ObchodniFirma>MPU banka a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-21">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21711542</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:ulice>Senovážné náměstí</are:ulice>
+      <are:cisloTxt>1375/19</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>25307835</are:ICO>
+     <are:ObchodniFirma>TRINITY BANK a.s.</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>

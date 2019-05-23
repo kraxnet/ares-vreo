@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T12:47:08"
+odpoved_datum_cas="2019-02-22T10:56:10"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>12:47:08</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:56:10</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -30,6 +30,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>1061/26</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2008-09-15</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní korporace Koperra stav company s.r.o. v likvidaci, se sídlem Praha 10 - Hostivař, Chudenická 1061/26, PSČ 10200, IČO: 28460308. Právní důvod výmazu: ukončení likvidace (obchodní korporace byla zrušena s likvidací, a to rozhodnutím sou
+du) - výmaz dle ust. § 82 odst. 1 zákona č. 304/2013 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetCinnosti>
      <are:Text>
@@ -38,14 +45,14 @@ pronájem nemovitostí, bytů a nebytových prostor
     </are:PredmetCinnosti>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2008-09-15">
+  <are:Statutarni_organ dza="2008-09-15" dvy="2019-02-01">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2008-09-15">
+   <are:ZpusobJednani dza="2008-09-15" dvy="2019-02-01">
     <are:Text>
 Jednatel je oprávněn jednat za společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2008-09-15</are:vznikFunkce>
@@ -56,149 +63,6 @@ Jednatel je oprávněn jednat za společnost samostatně.
       <are:text>Lvov, Ševčenko 17</are:text>
      </are:adresa>
      <are:prijmeni>Zinoviy Manoryk</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-05-11">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Rosiska</are:obec>
-      <are:castObce>Zakarpatská obl., Rachivský okr.</are:castObce>
-     </are:adresa>
-     <are:jmeno>Nataliya</are:jmeno>
-     <are:prijmeni>Dosyuk</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-05-11">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Koroleva</are:obec>
-      <are:castObce>Zakarpatská obl., Vynohradivský okr.</are:castObce>
-      <are:ulice>Pionerska</are:ulice>
-      <are:cisloTxt>3</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Yaroslav</are:jmeno>
-     <are:prijmeni>Zhurylo</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-05-11">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Zakarpatská obl.</are:obec>
-      <are:castObce>Rachivský okr.</are:castObce>
-      <are:ulice>Ivana Franka</are:ulice>
-      <are:cisloTxt>50</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Nelya</are:jmeno>
-     <are:prijmeni>Dyachuk</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-05-11">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Zabrid</are:obec>
-      <are:castObce>Zakarpatská obl., Chustský okr.</are:castObce>
-     </are:adresa>
-     <are:jmeno>Mykhaylo</are:jmeno>
-     <are:prijmeni>Yarema</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-05-11">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Smohiv</are:obec>
-      <are:castObce>Lvivská obl., Žydačivský okr.</are:castObce>
-     </are:adresa>
-     <are:jmeno>Nataliya</are:jmeno>
-     <are:prijmeni>Demkiv</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-05-11">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Byčkiv</are:obec>
-      <are:castObce>Zakarpatská obl., Rachivský obl.</are:castObce>
-     </are:adresa>
-     <are:jmeno>Mykola</are:jmeno>
-     <are:prijmeni>Shyshvak</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-05-11">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Čortkiv</are:obec>
-      <are:castObce>Ternopilská obl.</are:castObce>
-      <are:ulice>Nezaležnosti</are:ulice>
-      <are:cisloTxt>274</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Petro</are:jmeno>
-     <are:prijmeni>Pavlyniv</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-05-11">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Dilove</are:obec>
-      <are:castObce>Zakarpatská obl., Rachivský okr.</are:castObce>
-     </are:adresa>
-     <are:jmeno>Mykola</are:jmeno>
-     <are:prijmeni>Konkol</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-05-11">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Žydačiv</are:obec>
-      <are:castObce>Lvivská obl.</are:castObce>
-      <are:ulice>Knyažyy Brid</are:ulice>
-      <are:cisloTxt>1/7</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Ihor</are:jmeno>
-     <are:prijmeni>Shchuyko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2009-05-11" dvy="2009-05-18">
@@ -218,7 +82,150 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Filitka</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2009-05-18">
+   <are:Clen dza="2009-05-11" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rosiska</are:obec>
+      <are:castObce>Zakarpatská obl., Rachivský okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Dosyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-11" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Koroleva</are:obec>
+      <are:castObce>Zakarpatská obl., Vynohradivský okr.</are:castObce>
+      <are:ulice>Pionerska</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Zhurylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-11" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl.</are:obec>
+      <are:castObce>Rachivský okr.</are:castObce>
+      <are:ulice>Ivana Franka</are:ulice>
+      <are:cisloTxt>50</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nelya</are:jmeno>
+     <are:prijmeni>Dyachuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-11" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zabrid</are:obec>
+      <are:castObce>Zakarpatská obl., Chustský okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Yarema</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-11" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Smohiv</are:obec>
+      <are:castObce>Lvivská obl., Žydačivský okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Demkiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-11" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Byčkiv</are:obec>
+      <are:castObce>Zakarpatská obl., Rachivský obl.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Shyshvak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-11" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čortkiv</are:obec>
+      <are:castObce>Ternopilská obl.</are:castObce>
+      <are:ulice>Nezaležnosti</are:ulice>
+      <are:cisloTxt>274</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Pavlyniv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-11" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Dilove</are:obec>
+      <are:castObce>Zakarpatská obl., Rachivský okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Konkol</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-11" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-05-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Žydačiv</are:obec>
+      <are:castObce>Lvivská obl.</are:castObce>
+      <are:ulice>Knyažyy Brid</are:ulice>
+      <are:cisloTxt>1/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ihor</are:jmeno>
+     <are:prijmeni>Shchuyko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-18" dvy="2019-02-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2009-05-06</are:vznikFunkce>
@@ -236,9 +243,9 @@ Jednatel je oprávněn jednat za společnost samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2017-09-01">
+  <are:Statutarni_organ dza="2017-09-01" dvy="2019-02-01">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2017-09-01">
+   <are:Clen dza="2017-09-01" dvy="2019-02-01">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>19582536</are:ruianKod>
@@ -256,9 +263,9 @@ Jednatel je oprávněn jednat za společnost samostatně.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2008-09-15">
+  <are:Jiny_organ dza="2008-09-15" dvy="2019-02-01">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -267,7 +274,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Viktor Marushchak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -276,7 +283,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Mykhaylo Husar</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -285,7 +292,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Mykola Kudrych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -294,7 +301,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Tetyana Voronyanska</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -303,7 +310,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Mykhaylo Mayor</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -312,7 +319,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Anna Kuziv</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -321,7 +328,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Dan Nutsu</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>498</are:stat>
@@ -330,7 +337,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Evgheni Mocan</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -339,7 +346,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Nataliya Rosokha</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -348,7 +355,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Mariya Halay</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -357,7 +364,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Yuriy Sofilkanych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>112</are:stat>
@@ -366,7 +373,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Ihar Khvalko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>498</are:stat>
@@ -375,7 +382,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Anatolie Abusahmanov</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>498</are:stat>
@@ -384,7 +391,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Sergiu Bujenita</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -393,7 +400,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Ivan Turda</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>498</are:stat>
@@ -402,7 +409,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Ana Linga</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -411,7 +418,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Oleksandr Maksymiv</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -420,7 +427,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Mykhaylo Shkil</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -429,7 +436,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Iryna Klymyshyn</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -438,7 +445,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Mykola Petryshyn</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>643</are:stat>
@@ -447,7 +454,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Elena Bashirova</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -456,7 +463,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Lyudmyla Klymchuk</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -465,7 +472,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Roman Prylipko</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:text>Samarkand</are:text>
@@ -473,7 +480,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Timur Isaev</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>
@@ -482,7 +489,7 @@ Jednatel je oprávněn jednat za společnost samostatně.
      <are:prijmeni>Ivan Dankanych</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2008-09-15">
+   <are:Clen dza="2008-09-15" dvy="2019-02-01">
     <are:fosoba>
      <are:adresa>
       <are:stat>804</are:stat>

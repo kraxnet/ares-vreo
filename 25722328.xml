@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-29T16:47:21"
+odpoved_datum_cas="2019-02-22T11:17:28"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-29</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-29</are:Datum_vypisu>
-   <are:Cas_vypisu>16:47:22</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:17:28</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -383,30 +383,6 @@ Jednatel zastupuje společnost samostatně.
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1999-01-01">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2014-02-18">
-    <are:clenstvi>
-     <are:vznikClenstvi>2013-10-25</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>předseda dozorčí rady</are:nazev>
-     <are:vznikFunkce>2013-11-21</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>22284834</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>16000</are:psc>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Vokovice</are:castObce>
-      <are:ulice>Na krutci</are:ulice>
-      <are:cisloPop>84</are:cisloPop>
-      <are:cisloOr>17</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>JIŘÍ</are:jmeno>
-     <are:prijmeni>MATULA</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2017-12-27">
     <are:clenstvi>
      <are:vznikClenstvi>2017-12-01</are:vznikClenstvi>
@@ -425,9 +401,53 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>DUSSUSSOIS</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-05-23">
+   <are:Clen dza="2018-08-23">
     <are:clenstvi>
-     <are:vznikClenstvi>2013-10-25</are:vznikClenstvi>
+     <are:vznikClenstvi>2018-08-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>250</are:stat>
+      <are:psc>75001</are:psc>
+      <are:obec>Paříž</are:obec>
+      <are:ulice>219 Rue Saint Honoré</are:ulice>
+     </are:adresa>
+     <are:jmeno>CARLOS TOMAS</are:jmeno>
+     <are:prijmeni>DE LA TORRE-GIL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-11</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2019-01-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22349723</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18600</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Karlín</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Thámova</are:ulice>
+      <are:cisloPop>115</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>MATULA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-12-11</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
@@ -449,36 +469,9 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>CORVAGLIA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-08-23">
-    <are:clenstvi>
-     <are:vznikClenstvi>2018-08-01</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>250</are:stat>
-      <are:psc>75001</are:psc>
-      <are:obec>Paříž</are:obec>
-      <are:ulice>219 Rue Saint Honoré</are:ulice>
-     </are:adresa>
-     <are:jmeno>CARLOS TOMAS</are:jmeno>
-     <are:prijmeni>DE LA TORRE-GIL</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="1999-01-01">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2006-12-14">
-    <are:posoba>
-     <are:adresa>
-      <are:stat>250</are:stat>
-      <are:text>14 avenue du Pavé Neuf, 93168 Noisy le Grand Cedex</are:text>
-     </are:adresa>
-     <are:ObchodniFirma>RCI BANQUE S.A.</are:ObchodniFirma>
-    </are:posoba>
-   </are:Clen>
    <are:Clen dza="2015-04-25">
     <are:posoba>
      <are:adresa>
@@ -492,6 +485,17 @@ Jednatel zastupuje společnost samostatně.
      </are:adresa>
      <are:ICO>15886492</are:ICO>
      <are:ObchodniFirma>UniCredit Leasing CZ, a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>250</are:stat>
+      <are:psc>75002</are:psc>
+      <are:obec>Paris</are:obec>
+      <are:ulice>15 rue d&#8217;Uz s</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>RCI BANQUE S.A.</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
   </are:Jiny_organ>

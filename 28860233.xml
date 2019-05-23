@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-05-09T10:24:29"
+odpoved_datum_cas="2019-02-22T11:21:02"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-05-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-05-09</are:Datum_vypisu>
-   <are:Cas_vypisu>10:24:29</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:21:02</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -38,16 +38,21 @@ Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2013-01-03">
+  <are:Statutarni_organ dza="2013-01-03" dvy="2019-02-20">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2013-01-03" dvy="2014-06-27">
     <are:Text>
 Jednatel je oprávněn jednat jménem společnosti samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-06-27">
+   <are:ZpusobJednani dza="2014-06-27" dvy="2019-02-19">
     <are:Text>
 Za společnost jedná každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-19" dvy="2019-02-20">
+    <are:Text>
+Za společnost jedná každý jednatel A samostatně (tj. je oprávněn zastupovat společnost samostatně). Každý jednatel B zastupuje společnost společně s jedním dalším jednatelem (tj. buď společně s jednatelem A nebo společně s dalším jednatelem B).
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="2013-01-03" dvy="2017-11-14">
@@ -87,10 +92,11 @@ Za společnost jedná každý jednatel samostatně.
      <are:prijmeni>Ota</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-04-08">
+   <are:Clen dza="2015-04-08" dvy="2019-02-19">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2015-04-01</are:vznikFunkce>
+     <are:zanikFunkce>2019-01-18</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -103,10 +109,11 @@ Za společnost jedná každý jednatel samostatně.
      <are:prijmeni>KURACHI</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-11-14">
+   <are:Clen dza="2017-11-14" dvy="2019-02-19">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2017-10-31</are:vznikFunkce>
+     <are:zanikFunkce>2019-01-18</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -117,6 +124,226 @@ Za společnost jedná každý jednatel samostatně.
      </are:adresa>
      <are:jmeno>TOSHIHIKO</are:jmeno>
      <are:prijmeni>WADA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19" dvy="2019-02-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel A</are:nazev>
+     <are:vznikFunkce>2019-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7691203</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>Smetanovo náměstí</are:ulice>
+      <are:cisloPop>48</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>YOSHITOMI</are:jmeno>
+     <are:prijmeni>KURACHI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19" dvy="2019-02-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel A</are:nazev>
+     <are:vznikFunkce>2019-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7691611</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>třída Míru</are:ulice>
+      <are:cisloPop>92</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>NORIFUMI</are:jmeno>
+     <are:prijmeni>NOMURA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19" dvy="2019-02-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel B</are:nazev>
+     <are:vznikFunkce>2019-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>50547</are:psc>
+      <are:obec>Düsseldorf</are:obec>
+      <are:ulice>Niederkasseler Kirchweg 17</are:ulice>
+     </are:adresa>
+     <are:jmeno>MICHAEL B.</are:jmeno>
+     <are:prijmeni>HOWARTH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19" dvy="2019-02-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel B</are:nazev>
+     <are:vznikFunkce>2019-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7691203</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>Smetanovo náměstí</are:ulice>
+      <are:cisloPop>48</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KAZUNORI</are:jmeno>
+     <are:prijmeni>TAKADA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19" dvy="2019-02-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel B</are:nazev>
+     <are:vznikFunkce>2019-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>392</are:stat>
+      <are:obec>Meito-ku, Nagoya-shi</are:obec>
+      <are:ulice>401-1, Yomogidai 3 chome</are:ulice>
+     </are:adresa>
+     <are:jmeno>OSAMU</are:jmeno>
+     <are:prijmeni>YOSHIDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2019-02-20">
+   <are:Nazev>Statutární orgán - sbor jednatelů</are:Nazev>
+   <are:ZpusobJednani dza="2019-02-20">
+    <are:Text>
+Za společnost jedná každý jednatel A samostatně (tj. je oprávněn zastupovat společnost samostatně). Každý jednatel B zastupuje společnost společně s jedním dalším jednatelem (tj. buď společně s jednatelem A nebo společně s dalším jednatelem B).
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2019-02-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel A</are:nazev>
+     <are:vznikFunkce>2019-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7691203</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>Smetanovo náměstí</are:ulice>
+      <are:cisloPop>48</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>YOSHITOMI</are:jmeno>
+     <are:prijmeni>KURACHI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel A</are:nazev>
+     <are:vznikFunkce>2019-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7691611</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>třída Míru</are:ulice>
+      <are:cisloPop>92</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>NORIFUMI</are:jmeno>
+     <are:prijmeni>NOMURA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel B</are:nazev>
+     <are:vznikFunkce>2019-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>50547</are:psc>
+      <are:obec>Düsseldorf</are:obec>
+      <are:ulice>Niederkasseler Kirchweg 17</are:ulice>
+     </are:adresa>
+     <are:jmeno>MICHAEL B.</are:jmeno>
+     <are:prijmeni>HOWARTH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel B</are:nazev>
+     <are:vznikFunkce>2019-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7691203</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>Smetanovo náměstí</are:ulice>
+      <are:cisloPop>48</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KAZUNORI</are:jmeno>
+     <are:prijmeni>TAKADA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel B</are:nazev>
+     <are:vznikFunkce>2019-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>392</are:stat>
+      <are:obec>Meito-ku, Nagoya-shi</are:obec>
+      <are:ulice>401-1, Yomogidai 3 chome</are:ulice>
+     </are:adresa>
+     <are:jmeno>OSAMU</are:jmeno>
+     <are:prijmeni>YOSHIDA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -133,13 +360,13 @@ Za společnost jedná každý jednatel samostatně.
      <are:ObchodniFirma>CHITA KOGYO CO., LTD.</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
-   <are:Clen dza="2018-05-02">
+   <are:Clen dza="2019-02-19">
     <are:posoba>
      <are:adresa>
       <are:stat>276</are:stat>
-      <are:psc>D47807</are:psc>
-      <are:obec>Krefeld</are:obec>
-      <are:ulice>Kimplerstrasse 336</are:ulice>
+      <are:psc>D40547</are:psc>
+      <are:obec>Düsseldorf</are:obec>
+      <are:ulice>Fritz-Vomfelde-Straße 20</are:ulice>
      </are:adresa>
      <are:ObchodniFirma>KYB Europe GmbH</are:ObchodniFirma>
     </are:posoba>

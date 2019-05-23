@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-12-13T15:33:57"
+odpoved_datum_cas="2019-02-22T11:06:54"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-12-13</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>15:33:57</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:06:54</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -441,20 +441,6 @@ Za společnost jedná navenek ředitel společnosti. Podepisování se děje tak
     </are:posoba>
    </are:Clen>
    <are:Clen dza="2016-09-21">
-    <are:posoba>
-     <are:adresa>
-      <are:ruianKod>17586275</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>37372</are:psc>
-      <are:obec>Lišov</are:obec>
-      <are:ulice>Luční</are:ulice>
-      <are:cisloTxt>713</are:cisloTxt>
-     </are:adresa>
-     <are:ICO>00665240</are:ICO>
-     <are:ObchodniFirma>BESI a.s.</are:ObchodniFirma>
-    </are:posoba>
-   </are:Clen>
-   <are:Clen dza="2016-09-21">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>8669490</are:ruianKod>
@@ -502,6 +488,23 @@ Za společnost jedná navenek ředitel společnosti. Podepisování se děje tak
      </are:adresa>
      <are:ICO>27131718</are:ICO>
      <are:ObchodniFirma>Středoevropský institut ekologie zvěře, z.ú.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-17">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>17586275</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37372</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>Lišov</are:obec>
+      <are:castObce>Lišov</are:castObce>
+      <are:ulice>Luční</are:ulice>
+      <are:cisloPop>713</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:ICO>00665240</are:ICO>
+     <are:ObchodniFirma>BESI a.s. v likvidaci</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
   </are:Jiny_organ>

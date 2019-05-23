@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-03-19T14:49:23"
+odpoved_datum_cas="2019-02-28T12:44:54"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,48 +11,49 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-03-19</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-03-19</are:Datum_vypisu>
-   <are:Cas_vypisu>14:49:23</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:44:54</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>OR</are:Rejstrik>
    <are:ICO>61534871</are:ICO>
-   <are:ObchodniFirma>TOSO spol. s r.o.</are:ObchodniFirma>
+   <are:ObchodniFirma>SALVALISA s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
+    <are:ruianKod>17761671</are:ruianKod>
     <are:stat>203</are:stat>
-    <are:psc>41145</are:psc>
-    <are:obec>Úštěk</are:obec>
-    <are:ulice>Tetčiněves</are:ulice>
-    <are:cisloTxt>2</are:cisloTxt>
+    <are:psc>40002</are:psc>
+    <are:okres>Ústí nad Labem</are:okres>
+    <are:obec>Ústí nad Labem</are:obec>
+    <are:castObce>Hostovice</are:castObce>
+    <are:ulice>Hospodářská</are:ulice>
+    <are:cisloPop>9</are:cisloPop>
    </are:Sidlo>
    <are:DatumZapisu>1994-08-10</are:DatumZapisu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-zemědělská výroba v rozsahu § 3 odst. 2e) zák.455/91 Sb.
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
      <are:Text>
-koupě zboží za účelem jeho dalšího prodeje a prodej (vyjma
-příloh 1-3 a § 3 odst.2 písm.m) zák.č.455/91 Sb.)
-     </are:Text>
-     <are:Text>
-zprostředkovatelská činnost v oblasti obchodu a služeb
-     </are:Text>
-     <are:Text>
-pronájem nemovitostí v rozsahu § 4 živnostenského zákona
+Pronájem nemovitostí, bytů a nebytových prostor
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="1994-08-10">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="1994-08-10">
+   <are:ZpusobJednani dza="1994-08-10" dvy="2019-02-27">
     <are:Text>
 Každý z jednatelů jedná ve věcech společnosti samostatně.
 K vytištěnému nebo napsanému obchodnímu jménu společnosti připojí
 svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-27">
+    <are:Text>
+Jednatel zastupuje společnost samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1994-08-10" dvy="1997-04-01">
@@ -148,10 +149,11 @@ svůj podpis.
      <are:prijmeni>Šťastný</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-09-28">
+   <are:Clen dza="2013-09-28" dvy="2019-02-27">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>1994-08-10</are:vznikFunkce>
+     <are:zanikFunkce>2019-02-27</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -167,38 +169,43 @@ svůj podpis.
      <are:prijmeni>ŠŤASTNÝ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-27">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17761671</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40002</are:psc>
+      <are:okres>Ústí nad Labem</are:okres>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:castObce>Hostovice</are:castObce>
+      <are:ulice>Hospodářská</are:ulice>
+      <are:cisloPop>9</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LADISLAVA</are:jmeno>
+     <are:prijmeni>ZISCHKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1994-08-10">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2013-09-28">
+   <are:Clen dza="2019-02-27">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>25912607</are:ruianKod>
+      <are:ruianKod>17761671</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>37341</are:psc>
-      <are:obec>Hluboká nad Vltavou</are:obec>
-      <are:castObce>Hluboká nad Vltavou</are:castObce>
-      <are:ulice>Masarykova</are:ulice>
-      <are:cisloPop>971</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ANTONÍN</are:jmeno>
-     <are:prijmeni>ŠŤASTNÝ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2013-09-28">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>17906814</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>40003</are:psc>
+      <are:psc>40002</are:psc>
+      <are:okres>Ústí nad Labem</are:okres>
       <are:obec>Ústí nad Labem</are:obec>
-      <are:castObce>Střekov</are:castObce>
-      <are:ulice>Kramoly</are:ulice>
-      <are:cisloPop>793</are:cisloPop>
-      <are:cisloOr>21</are:cisloOr>
+      <are:castObce>Hostovice</are:castObce>
+      <are:ulice>Hospodářská</are:ulice>
+      <are:cisloPop>9</are:cisloPop>
      </are:adresa>
-     <are:jmeno>MILAN</are:jmeno>
-     <are:prijmeni>DRAHÝ</are:prijmeni>
+     <are:jmeno>LADISLAVA</are:jmeno>
+     <are:prijmeni>ZISCHKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-12T18:43:54"
+odpoved_datum_cas="2019-02-22T10:35:18"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
-   <are:Cas_vypisu>18:43:54</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:35:18</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,7 +21,6 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>25468774</are:ICO>
    <are:ObchodniFirma>Společenství vlastníků bl. 353 č.p. 2899, 2900, 2901 ulice 1. máje v Mostě</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>4</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>43401</are:psc>
     <are:obec>Most</are:obec>
@@ -30,6 +29,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    </are:Sidlo>
    <are:DatumVzniku>2000-07-01</are:DatumVzniku>
    <are:DatumZapisu>2003-05-26</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="2003-05-26">
    <are:Nazev>Statutární orgán</are:Nazev>
@@ -64,50 +70,6 @@ olu s místopředsedou, je podpis místopředsedy považován za podpis dalšíh
      <are:prijmeni>Fekete</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2012-11-09">
-    <are:clenstvi>
-     <are:vznikClenstvi>2012-09-26</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>předseda</are:nazev>
-     <are:vznikFunkce>2012-09-26</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>5112613</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>43401</are:psc>
-      <are:obec>Most</are:obec>
-      <are:castObce>Rudolice</are:castObce>
-      <are:ulice>Školní</are:ulice>
-      <are:cisloPop>19</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>Pavel</are:jmeno>
-     <are:prijmeni>Fekete</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2012-11-09">
-    <are:clenstvi>
-     <are:vznikClenstvi>2012-09-26</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>5110181</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>43401</are:psc>
-      <are:obec>Most</are:obec>
-      <are:castObce>Most</are:castObce>
-      <are:ulice>1. máje</are:ulice>
-      <are:cisloPop>2900</are:cisloPop>
-      <are:cisloOr>9</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>Jiří</are:jmeno>
-     <are:prijmeni>Záhejský</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2012-11-09" dvy="2015-08-14">
     <are:clenstvi>
      <are:vznikClenstvi>2012-09-26</are:vznikClenstvi>
@@ -133,13 +95,62 @@ olu s místopředsedou, je podpis místopředsedy považován za podpis dalšíh
      <are:prijmeni>Petrů</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-08-14">
+   <are:Clen dza="2012-11-09" dvy="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-09-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-09-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2012-09-26</are:vznikFunkce>
+     <are:zanikFunkce>2017-09-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5112613</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:obec>Most</are:obec>
+      <are:castObce>Rudolice</are:castObce>
+      <are:ulice>Školní</are:ulice>
+      <are:cisloPop>19</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Fekete</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-11-09" dvy="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-09-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-09-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5110181</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:obec>Most</are:obec>
+      <are:castObce>Most</are:castObce>
+      <are:ulice>1. máje</are:ulice>
+      <are:cisloPop>2900</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Záhejský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-08-14" dvy="2019-02-08">
     <are:clenstvi>
      <are:vznikClenstvi>2015-06-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-04-18</are:zanikClenstvi>
     </are:clenstvi>
     <are:funkce>
      <are:nazev>místopředseda výboru</are:nazev>
      <are:vznikFunkce>2015-06-24</are:vznikFunkce>
+     <are:zanikFunkce>2018-04-18</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -156,6 +167,76 @@ olu s místopředsedou, je podpis místopředsedy považován za podpis dalšíh
      <are:prijmeni>KELNER</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-04-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5112613</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:okres>Most</are:okres>
+      <are:obec>Most</are:obec>
+      <are:castObce>Rudolice</are:castObce>
+      <are:ulice>Školní</are:ulice>
+      <are:cisloPop>19</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>FEKETE</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-04-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2018-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5110190</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:okres>Most</are:okres>
+      <are:obec>Most</are:obec>
+      <are:castObce>Most</are:castObce>
+      <are:ulice>1. máje</are:ulice>
+      <are:cisloPop>2901</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>KELNER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-04-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5110181</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:okres>Most</are:okres>
+      <are:obec>Most</are:obec>
+      <are:castObce>Most</are:castObce>
+      <are:ulice>1. máje</are:ulice>
+      <are:cisloPop>2900</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETRA</are:jmeno>
+     <are:prijmeni>ŽALUDOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Statutarni_organ dza="2003-05-26" dvy="2012-05-31">
    <are:Nazev>Statutární orgán (pověřený vlastník)</are:Nazev>
@@ -166,7 +247,6 @@ olu s místopředsedou, je podpis místopředsedy považován za podpis dalšíh
     </are:funkce>
     <are:posoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>43401</are:psc>
       <are:obec>Most</are:obec>
@@ -184,7 +264,6 @@ olu s místopředsedou, je podpis místopředsedy považován za podpis dalšíh
     </are:funkce>
     <are:posoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>43401</are:psc>
       <are:obec>Most</are:obec>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-04-09T14:59:08"
+odpoved_datum_cas="2019-03-06T14:25:14"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-04-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-04-09</are:Datum_vypisu>
-   <are:Cas_vypisu>14:59:08</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:25:14</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -46,25 +46,6 @@ Rozvoj vzdělávacích, osvětových, publikačních, společenských, sportovn�
 Jménem nadačního fondu jedná předseda správní rady společně s jedním členem správní rady.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2013-06-21">
-    <are:funkce>
-     <are:nazev>člen správní rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>26213354</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74801</are:psc>
-      <are:obec>Hlučín</are:obec>
-      <are:castObce>Hlučín</are:castObce>
-      <are:ulice>Malánky</are:ulice>
-      <are:cisloPop>1919</are:cisloPop>
-      <are:cisloOr>45</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>LUCIE</are:jmeno>
-     <are:prijmeni>MATLOCHOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2013-06-21" dvy="2016-06-24">
     <are:funkce>
      <are:nazev>předseda správní rady</are:nazev>
@@ -103,9 +84,35 @@ Jménem nadačního fondu jedná předseda správní rady společně s jedním �
      <are:prijmeni>ZEMKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-06-24">
+   <are:Clen dza="2013-06-21" dvy="2019-02-27">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-06-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26213354</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Hlučín</are:castObce>
+      <are:ulice>Malánky</are:ulice>
+      <are:cisloPop>1919</are:cisloPop>
+      <are:cisloOr>45</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUCIE</are:jmeno>
+     <are:prijmeni>MATLOCHOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-06-24" dvy="2019-02-27">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-06-21</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>předseda správní rady</are:nazev>
+     <are:zanikFunkce>2016-06-21</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -143,7 +150,10 @@ Jménem nadačního fondu jedná předseda správní rady společně s jedním �
      <are:prijmeni>ZEMKOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-04-07">
+   <are:Clen dza="2018-04-07" dvy="2019-02-27">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-06-21</are:zanikClenstvi>
+    </are:clenstvi>
     <are:funkce>
      <are:nazev>člen správní rady</are:nazev>
     </are:funkce>
@@ -166,22 +176,6 @@ Jménem nadačního fondu jedná předseda správní rady společně s jedním �
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2013-06-21">
    <are:Nazev>Revizor</are:Nazev>
-   <are:Clen dza="2013-06-21">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>4610059</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74801</are:psc>
-      <are:obec>Hlučín</are:obec>
-      <are:castObce>Hlučín</are:castObce>
-      <are:ulice>Vladislava Vančury</are:ulice>
-      <are:cisloPop>319</are:cisloPop>
-      <are:cisloOr>37</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MIROSLAV</are:jmeno>
-     <are:prijmeni>VŠETEČKA</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
   </are:Jiny_organ>
   <are:Jiny_organ dza="2013-06-21">
    <are:Nazev>Zakladatel</are:Nazev>

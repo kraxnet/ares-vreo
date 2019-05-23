@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T02:49:15"
+odpoved_datum_cas="2019-03-06T14:25:10"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>02:49:15</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:25:10</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -63,7 +63,6 @@ Jednatel je oprávněn jednat bez omezení.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Chomutov</are:obec>
       <are:ulice>Dr. Eduarda Beneše</are:ulice>
@@ -80,7 +79,6 @@ Jednatel je oprávněn jednat bez omezení.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>4</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Chomutov</are:obec>
       <are:ulice>Březenecká</are:ulice>
@@ -115,7 +113,6 @@ Jednatel je oprávněn jednat bez omezení.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Praha 4 - Písnice</are:obec>
       <are:ulice>Výletní</are:ulice>
@@ -209,7 +206,7 @@ Jednatel je oprávněn jednat bez omezení.
      </are:adresa>
      <are:ICO>02790611</are:ICO>
      <are:ObchodniFirma>BT Czech s.r.o.</are:ObchodniFirma>
-     <are:Zastoupeni dza="2015-05-27">
+     <are:Zastoupeni dza="2015-05-27" dvy="2019-03-01">
       <are:fosoba>
        <are:adresa>
         <are:ruianKod>23519932</are:ruianKod>
@@ -222,6 +219,24 @@ Jednatel je oprávněn jednat bez omezení.
        </are:adresa>
        <are:jmeno>RALF</are:jmeno>
        <are:prijmeni>KOHOUT</are:prijmeni>
+       <are:titulPred>Ing.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+     <are:Zastoupeni dza="2019-03-01">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>23499133</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>43003</are:psc>
+        <are:okres>Chomutov</are:okres>
+        <are:obec>Chomutov</are:obec>
+        <are:castObce>Chomutov</are:castObce>
+        <are:ulice>Na Spravedlnosti</are:ulice>
+        <are:cisloPop>1557</are:cisloPop>
+        <are:cisloOr>3</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>JIŘÍ</are:jmeno>
+       <are:prijmeni>PĚCHOTA</are:prijmeni>
        <are:titulPred>Ing.</are:titulPred>
       </are:fosoba>
      </are:Zastoupeni>

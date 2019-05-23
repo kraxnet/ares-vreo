@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-07-18T15:11:42"
+odpoved_datum_cas="2019-02-22T10:46:47"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-07-18</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-07-18</are:Datum_vypisu>
-   <are:Cas_vypisu>15:11:42</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:46:47</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,15 +33,22 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>53</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2010-03-03</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-06</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost CHAVILA s.r.o. v likvidaci, se sídlem Nuselská 1419/53, Nusle, 140 00 Praha 4, IČ: 290 47 251 se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 162621. Právním důvod
+em výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2010-03-03">
+  <are:Statutarni_organ dza="2010-03-03" dvy="2019-02-06">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2010-03-03" dvy="2014-12-02">
     <are:Text>
 Jménem společnosti jedná každý jednatel samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2014-12-02">
+   <are:ZpusobJednani dza="2014-12-02" dvy="2019-02-06">
     <are:Text>
 Jednatel zastupuje společnost samostatně.
     </are:Text>
@@ -435,21 +442,6 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>Chervak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-03-04">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2013-07-31</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>804</are:stat>
-      <are:obec>Bohdan</are:obec>
-      <are:ulice>Zakarpatská obl.</are:ulice>
-     </are:adresa>
-     <are:jmeno>Svitlana</are:jmeno>
-     <are:prijmeni>Chervak</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2014-03-04" dvy="2014-12-02">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
@@ -464,6 +456,21 @@ Jednatel zastupuje společnost samostatně.
      </are:adresa>
      <are:jmeno>Halyna</are:jmeno>
      <are:prijmeni>Pilushyna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-03-04" dvy="2019-02-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-07-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Bohdan</are:obec>
+      <are:ulice>Zakarpatská obl.</are:ulice>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Chervak</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2014-12-02" dvy="2016-02-03">
@@ -573,7 +580,7 @@ Jednatel zastupuje společnost samostatně.
      <are:prijmeni>SHORBAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-07-14">
+   <are:Clen dza="2018-07-14" dvy="2019-02-06">
     <are:funkce>
      <are:vznikFunkce>2010-03-03</are:vznikFunkce>
     </are:funkce>
@@ -594,9 +601,9 @@ Jednatel zastupuje společnost samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-07-12">
+  <are:Statutarni_organ dza="2018-07-12" dvy="2019-02-06">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-07-12">
+   <are:Clen dza="2018-07-12" dvy="2019-02-06">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>21731225</are:ruianKod>
@@ -611,9 +618,9 @@ Jednatel zastupuje společnost samostatně.
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2010-03-03">
+  <are:Jiny_organ dza="2010-03-03" dvy="2019-02-06">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-12-02">
+   <are:Clen dza="2014-12-02" dvy="2019-02-06">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22565108</are:ruianKod>

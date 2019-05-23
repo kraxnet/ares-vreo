@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T02:51:31"
+odpoved_datum_cas="2019-02-22T11:13:03"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,57 +11,37 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>02:51:31</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:13:04</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>OR</are:Rejstrik>
    <are:ICO>60322721</are:ICO>
-   <are:ObchodniFirma>EX - KA, spol. s r. o.</are:ObchodniFirma>
+   <are:ObchodniFirma>EX - KA, spol. s r.o.</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>24241997</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>73401</are:psc>
+    <are:okres>Karviná</are:okres>
     <are:obec>Karviná</are:obec>
     <are:castObce>Mizerov</are:castObce>
     <are:ulice>Rudé armády</are:ulice>
-    <are:cisloTxt>910/2</are:cisloTxt>
+    <are:cisloPop>910</are:cisloPop>
+    <are:cisloOr>2</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1993-12-17</are:DatumZapisu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
-čištění trubek v topných a vodovodních systémech,
-vzduchotechniky, chladících a obdobných zařízení
-/vyjma činností uvedených v přílohách 1-3 zák. 455/91 Sb./
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
      <are:Text>
-koupě zboží za účelem jeho dalšího prodeje a prodej
-/vyjma zboží uvedeného v přílohách 1-3 zák. 455/91 Sb./
+Silniční motorová doprava - nákladní provozovaná vozidly nebo jízdními soupravami o největší povolené hmotnosti nepřesahující 3,5 tuny, jsou-li určeny k přepravě zvířat nebo věcí
      </are:Text>
      <are:Text>
-zprostředkovatelská činnost
-     </are:Text>
-     <are:Text>
-montáže a opravy zařízení pro úpravu vod (změkčování,
-odsolování, atd.)
-     </are:Text>
-     <are:Text>
-dovoz chemických látek a chemických přípravků klasifikovaných
-jako hořlavé, zdraví škodlivé, žíravé, dráždivé, senzibilizující
-     </are:Text>
-     <are:Text>
-silniční motorová doprava nákladní
-     </are:Text>
-     <are:Text>
-výroba a dovoz chemických látek a chemických přípravků
-klasifikovaných jako výbušné, oxidující, extrémně hořlavé,
-vysoce hořlavé, vysoce toxické, toxické, karcinogenní,
-mutagenní, toxické pro reprodukci, nebezpečné pro životní
-prostředí a prodej chemických látek a chemických přípravků
-klasifikovaných jako vysoce toxické a toxické
+Výroba nebezpečných chemických látek a nebezpečných chemických směsí a prodej chemických látek a chemických směsí klasifikovaných jako vysoce toxické a toxické
      </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
@@ -73,10 +53,15 @@ klasifikovaných jako vysoce toxické a toxické
 Jednatel jedná jménem společnosti samostatně v plném rozsahu.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="1996-09-04">
+   <are:ZpusobJednani dza="1996-09-04" dvy="2019-02-19">
     <are:Text>
 Jednání za společnost: Jednatelé jednají jménem společnosti
 samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-19">
+    <are:Text>
+Jednatelé jednají jménem společnosti samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1993-12-17" dvy="2004-05-01">
@@ -85,7 +70,6 @@ samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>100</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Havířov - město</are:obec>
       <are:ulice>Moskevská 1a)/1113</are:ulice>
@@ -100,7 +84,6 @@ samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Karviná - Ráj</are:obec>
       <are:ulice>U lesa</are:ulice>
@@ -117,7 +100,6 @@ samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>4</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Havířov - Město</are:obec>
       <are:ulice>Moskevská</are:ulice>
@@ -134,7 +116,6 @@ samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>4</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Karviná</are:obec>
       <are:castObce>Ráj</are:castObce>
@@ -143,25 +124,6 @@ samostatně.
      </are:adresa>
      <are:jmeno>Jan</are:jmeno>
      <are:prijmeni>Walica</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2006-01-20">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>1993-12-17</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>24859095</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73601</are:psc>
-      <are:obec>Havířov</are:obec>
-      <are:castObce>Životice</are:castObce>
-      <are:ulice>Na Dolanech</are:ulice>
-      <are:cisloTxt>82/4</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Henryk</are:jmeno>
-     <are:prijmeni>Szkuta</are:prijmeni>
     </are:fosoba>
    </are:Clen>
    <are:Clen dza="2006-01-20" dvy="2010-09-17">
@@ -184,7 +146,26 @@ samostatně.
      <are:prijmeni>Walica</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2010-09-17">
+   <are:Clen dza="2006-01-20" dvy="2019-02-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1993-12-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24859095</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73601</are:psc>
+      <are:obec>Havířov</are:obec>
+      <are:castObce>Životice</are:castObce>
+      <are:ulice>Na Dolanech</are:ulice>
+      <are:cisloTxt>82/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Henryk</are:jmeno>
+     <are:prijmeni>Szkuta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-09-17" dvy="2019-02-19">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2010-09-14</are:vznikFunkce>
@@ -204,37 +185,83 @@ samostatně.
      <are:prijmeni>Szwarc</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-  </are:Statutarni_organ>
-  <are:Jiny_organ dza="1993-12-17">
-   <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2006-01-20">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>26079372</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>73301</are:psc>
-      <are:obec>Karviná</are:obec>
-      <are:castObce>Fryštát</are:castObce>
-      <are:ulice>Fryštátská</are:ulice>
-      <are:cisloTxt>2063/57A</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Jan</are:jmeno>
-     <are:prijmeni>Walica</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2006-01-20">
+   <are:Clen dza="2019-02-19">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>1993-12-17</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>24859095</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>73601</are:psc>
+      <are:okres>Karviná</are:okres>
       <are:obec>Havířov</are:obec>
       <are:castObce>Životice</are:castObce>
       <are:ulice>Na Dolanech</are:ulice>
-      <are:cisloTxt>82/4</are:cisloTxt>
+      <are:cisloPop>82</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
      </are:adresa>
-     <are:jmeno>Henryk</are:jmeno>
-     <are:prijmeni>Szkuta</are:prijmeni>
+     <are:jmeno>HENRYK</are:jmeno>
+     <are:prijmeni>SZKUTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2010-09-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24266302</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73401</are:psc>
+      <are:okres>Karviná</are:okres>
+      <are:obec>Karviná</are:obec>
+      <are:castObce>Ráj</are:castObce>
+      <are:ulice>Rajecká</are:ulice>
+      <are:cisloPop>1108</are:cisloPop>
+      <are:cisloOr>17</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROMÍR</are:jmeno>
+     <are:prijmeni>SZWARC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-12-17">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2019-02-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26079372</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73301</are:psc>
+      <are:okres>Karviná</are:okres>
+      <are:obec>Karviná</are:obec>
+      <are:castObce>Fryštát</are:castObce>
+      <are:ulice>Fryštátská</are:ulice>
+      <are:cisloPop>2063</are:cisloPop>
+      <are:cisloOr>57a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>WALICA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24859095</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73601</are:psc>
+      <are:okres>Karviná</are:okres>
+      <are:obec>Havířov</are:obec>
+      <are:castObce>Životice</are:castObce>
+      <are:ulice>Na Dolanech</are:ulice>
+      <are:cisloPop>82</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HENRYK</are:jmeno>
+     <are:prijmeni>SZKUTA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

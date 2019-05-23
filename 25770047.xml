@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-04-27T12:29:13"
+odpoved_datum_cas="2019-03-06T14:32:58"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-04-27</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-04-27</are:Datum_vypisu>
-   <are:Cas_vypisu>12:29:13</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:32:58</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -33,6 +33,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>2</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>1999-06-08</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní korporace SARNA Production, s.r.o. v likvidaci, se sídlem náměstí 14. října 1307/2, Smíchov, 150 00 Praha 5, IČO: 25770047. Právní důvod výmazu: ukončení likvidace (obchodní korporace byla zrušena s likvidací, a to rozhodnutím soudu)
+- výmaz dle ust. § 82 odst. 1 zákona č. 304/2013 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -41,9 +48,9 @@ Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1999-06-08">
+  <are:Statutarni_organ dza="1999-06-08" dvy="2019-03-01">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="1999-06-08">
+   <are:ZpusobJednani dza="1999-06-08" dvy="2019-03-01">
     <are:Text>
 Za společnost jedná jednatel samostatně,podepisování za
 společnost se děje tak,že k nadepsanému,natištěnému nebo
@@ -85,7 +92,7 @@ vlastnoruční podpis.
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2013-10-17">
+   <are:Clen dza="2013-10-17" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2013-09-01</are:vznikFunkce>
@@ -101,9 +108,9 @@ vlastnoruční podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-04-24">
+  <are:Statutarni_organ dza="2018-04-24" dvy="2019-03-01">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2018-04-24">
+   <are:Clen dza="2018-04-24" dvy="2019-03-01">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>24229296</are:ruianKod>
@@ -122,9 +129,9 @@ vlastnoruční podpis.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1999-06-08">
+  <are:Jiny_organ dza="1999-06-08" dvy="2019-03-01">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2009-08-11">
+   <are:Clen dza="2009-08-11" dvy="2019-03-01">
     <are:posoba>
      <are:adresa>
       <are:stat>690</are:stat>

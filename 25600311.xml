@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-12-16T18:40:35"
+odpoved_datum_cas="2019-03-06T14:10:53"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-12-16</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>18:40:35</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:10:53</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -26,7 +26,8 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:psc>28916</are:psc>
     <are:okres>Nymburk</are:okres>
     <are:obec>Přerov nad Labem</are:obec>
-    <are:cisloTxt>čp.384</are:cisloTxt>
+    <are:castObce>Přerov nad Labem</are:castObce>
+    <are:cisloPop>384</are:cisloPop>
    </are:Sidlo>
    <are:DatumZapisu>1997-08-11</are:DatumZapisu>
    <are:Cinnosti>
@@ -193,18 +194,6 @@ Každý z jednatelů jedná jménem společnosti, resp. zastupuje společnost ve
   <are:Jiny_organ dza="1997-08-11">
    <are:Nazev>Společníci</are:Nazev>
    <are:Clen dza="2014-07-09">
-    <are:posoba>
-     <are:adresa>
-      <are:stat>203</are:stat>
-      <are:psc>28922</are:psc>
-      <are:obec>Lysá nad Labem</are:obec>
-      <are:castObce>Litol</are:castObce>
-     </are:adresa>
-     <are:ICO>47544121</are:ICO>
-     <are:ObchodniFirma>BRAZEL, s.r.o.</are:ObchodniFirma>
-    </are:posoba>
-   </are:Clen>
-   <are:Clen dza="2014-07-09">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>1183826</are:ruianKod>
@@ -249,21 +238,6 @@ Každý z jednatelů jedná jménem společnosti, resp. zastupuje společnost ve
      <are:prijmeni>BARÁK</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2014-07-09">
-    <are:posoba>
-     <are:adresa>
-      <are:ruianKod>26767732</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>28922</are:psc>
-      <are:obec>Stratov</are:obec>
-      <are:castObce>Stratov</are:castObce>
-      <are:cisloPop>185</are:cisloPop>
-      <are:doplnujiciText>pošta Lysá nad Labem</are:doplnujiciText>
-     </are:adresa>
-     <are:ICO>25606191</are:ICO>
-     <are:ObchodniFirma>Pěstitel Stratov, a.s.</are:ObchodniFirma>
-    </are:posoba>
    </are:Clen>
    <are:Clen dza="2014-07-09">
     <are:fosoba>
@@ -444,6 +418,33 @@ Každý z jednatelů jedná jménem společnosti, resp. zastupuje společnost ve
      </are:adresa>
      <are:ICO>25756630</are:ICO>
      <are:ObchodniFirma>Semická s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-01">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>28922</are:psc>
+      <are:obec>Lysá nad Labem</are:obec>
+      <are:ulice>Litol</are:ulice>
+     </are:adresa>
+     <are:ICO>47544121</are:ICO>
+     <are:ObchodniFirma>BRAZEL, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>26767732</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28922</are:psc>
+      <are:okres>Nymburk</are:okres>
+      <are:obec>Stratov</are:obec>
+      <are:castObce>Stratov</are:castObce>
+      <are:cisloPop>185</are:cisloPop>
+     </are:adresa>
+     <are:ICO>25606191</are:ICO>
+     <are:ObchodniFirma>Pěstitel Stratov, a.s.</are:ObchodniFirma>
     </are:posoba>
    </are:Clen>
   </are:Jiny_organ>

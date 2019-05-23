@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-13T02:21:21"
+odpoved_datum_cas="2019-02-22T11:02:29"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
-   <are:Cas_vypisu>02:21:21</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:02:29</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,7 +21,6 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>26258307</are:ICO>
    <are:ObchodniFirma>Středisko praktického vyučování gastronomie, obchodu a služeb, s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>1</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>68601</are:psc>
     <are:obec>Uherské Hradiště - Jarošov</are:obec>
@@ -45,7 +44,24 @@ Způsob zastupování: Jménem společnosti každý jednatel
 samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2001-08-22">
+   <are:Clen dza="2001-08-22" dvy="2015-12-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2001-08-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>68601</are:psc>
+      <are:obec>Uherské Hradiště-Jarošov</are:obec>
+      <are:ulice>Za Humny</are:ulice>
+      <are:cisloTxt>482</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubor</are:jmeno>
+     <are:prijmeni>Komárek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-08-22" dvy="2019-02-15">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2001-08-22</are:vznikFunkce>
@@ -60,24 +76,6 @@ samostatně.
       <are:cisloTxt>1045</are:cisloTxt>
      </are:adresa>
      <are:jmeno>Radek</are:jmeno>
-     <are:prijmeni>Komárek</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2001-08-22" dvy="2015-12-10">
-    <are:funkce>
-     <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2001-08-22</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>1</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>68601</are:psc>
-      <are:obec>Uherské Hradiště-Jarošov</are:obec>
-      <are:ulice>Za Humny</are:ulice>
-      <are:cisloTxt>482</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Lubor</are:jmeno>
      <are:prijmeni>Komárek</are:prijmeni>
     </are:fosoba>
    </are:Clen>
@@ -101,23 +99,29 @@ samostatně.
      <are:prijmeni>KOMÁREK</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2001-08-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26258714</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68603</are:psc>
+      <are:okres>Uherské Hradiště</are:okres>
+      <are:obec>Staré Město</are:obec>
+      <are:castObce>Staré Město</are:castObce>
+      <are:ulice>Trávník</are:ulice>
+      <are:cisloPop>2109</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RADEK</are:jmeno>
+     <are:prijmeni>KOMÁREK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2001-08-22">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2001-08-22">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>18964141</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>68606</are:psc>
-      <are:obec>Uherské Hradiště</are:obec>
-      <are:ulice>Štěpnická</are:ulice>
-      <are:cisloTxt>1045</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Radek</are:jmeno>
-     <are:prijmeni>Komárek</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2015-12-10">
     <are:fosoba>
      <are:adresa>
@@ -131,6 +135,22 @@ samostatně.
       <are:cisloPop>482</are:cisloPop>
      </are:adresa>
      <are:jmeno>LUBOR</are:jmeno>
+     <are:prijmeni>KOMÁREK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26258714</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68603</are:psc>
+      <are:okres>Uherské Hradiště</are:okres>
+      <are:obec>Staré Město</are:obec>
+      <are:castObce>Staré Město</are:castObce>
+      <are:ulice>Trávník</are:ulice>
+      <are:cisloPop>2109</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RADEK</are:jmeno>
      <are:prijmeni>KOMÁREK</are:prijmeni>
     </are:fosoba>
    </are:Clen>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-17T02:55:01"
+odpoved_datum_cas="2019-03-01T13:46:43"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
-   <are:Cas_vypisu>02:55:01</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-01</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-01</are:Datum_vypisu>
+   <are:Cas_vypisu>13:46:43</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -54,13 +54,18 @@ postižených dětí a rodin a podporu léčebných pobytů
   </are:Zakladni_udaje>
   <are:Statutarni_organ dza="1999-05-26">
    <are:Nazev>Správní rada</are:Nazev>
-   <are:ZpusobJednani dza="1999-05-26">
+   <are:ZpusobJednani dza="1999-05-26" dvy="2019-02-28">
     <are:Text>
 Za nadační fond jedná předseda správní rady a členové správní
 rady, každý samostatně. Za nadační fond se podepisuje tak, že k
 nadepsanému nebo vytištěnému názvu nadačního fondu připojí svůj
 podpis předseda správní rady samostatně nebo dva členové správní
 rady společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-28">
+    <are:Text>
+Za nadační fond jsou oprávněni jednat předseda správní rady samostatně nebo dva členové správní rady společně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1999-05-26" dvy="2015-07-16">
@@ -117,9 +122,10 @@ rady společně.
      <are:prijmeni>Skývová</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-07-16">
+   <are:Clen dza="2015-07-16" dvy="2019-02-28">
     <are:funkce>
      <are:nazev>člen</are:nazev>
+     <are:zanikFunkce>2019-01-15</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -137,9 +143,10 @@ rady společně.
      <are:titulPred>MUDr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-17">
+   <are:Clen dza="2016-11-17" dvy="2019-02-28">
     <are:funkce>
      <are:nazev>předseda</are:nazev>
+     <are:zanikFunkce>2019-01-15</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -160,9 +167,10 @@ rady společně.
      <are:titulZa>CSc.</are:titulZa>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2016-11-17">
+   <are:Clen dza="2016-11-17" dvy="2019-02-28">
     <are:funkce>
      <are:nazev>člen</are:nazev>
+     <are:zanikFunkce>2019-01-15</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -179,23 +187,252 @@ rady společně.
      <are:prijmeni>SKYVOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2019-01-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21870322</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Hurbanova</are:ulice>
+      <are:cisloPop>1305</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>SRNSKÝ</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>41017111</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Jednořadá</are:ulice>
+      <are:cisloPop>1123</are:cisloPop>
+      <are:cisloOr>37</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>HONZÍK</are:prijmeni>
+     <are:titulPred>Doc. Mudr.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22172301</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Talichova</are:ulice>
+      <are:cisloPop>2055</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>FRÜHAUF</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22177434</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Bubenečská</are:ulice>
+      <are:cisloPop>352</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>OLGA</are:jmeno>
+     <are:prijmeni>ČERNÁ</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22658548</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vršovice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Rybalkova</are:ulice>
+      <are:cisloPop>379</are:cisloPop>
+      <are:cisloOr>51</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>JEŠINA</are:prijmeni>
+     <are:titulPred>Doc. MUDr. RNDr.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21913340</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Michle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Na úlehli</are:ulice>
+      <are:cisloPop>1257</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>PYSKATÁ</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>30476216</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19014</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Klánovice</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Nové dvory</are:ulice>
+      <are:cisloPop>673</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>LINKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9595821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58001</are:psc>
+      <are:okres>Havlíčkův Brod</are:okres>
+      <are:obec>Havlíčkův Brod</are:obec>
+      <are:castObce>Havlíčkův Brod</are:castObce>
+      <are:ulice>Jeronýmova</are:ulice>
+      <are:cisloPop>788</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>SIMONA</are:jmeno>
+     <are:prijmeni>SEDLÁČKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr. Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1395173</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27201</are:psc>
+      <are:okres>Kladno</are:okres>
+      <are:obec>Kladno</are:obec>
+      <are:castObce>Kladno</are:castObce>
+      <are:ulice>Havlasova</are:ulice>
+      <are:cisloPop>1035</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RENATA</are:jmeno>
+     <are:prijmeni>KAPLICKÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="1999-05-26">
    <are:Nazev>Revizor</are:Nazev>
-   <are:Clen dza="2013-09-16">
+   <are:Clen dza="2019-02-28">
+    <are:funkce>
+     <are:vznikFunkce>2019-01-15</are:vznikFunkce>
+    </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>6427341</are:ruianKod>
+      <are:ruianKod>21834903</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>25241</are:psc>
-      <are:obec>Dolní Břežany</are:obec>
-      <are:castObce>Dolní Břežany</are:castObce>
-      <are:ulice>Na Drahách</are:ulice>
-      <are:cisloPop>97</are:cisloPop>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Medkova</are:ulice>
+      <are:cisloPop>817</are:cisloPop>
+      <are:cisloOr>84</are:cisloOr>
      </are:adresa>
-     <are:jmeno>MICHAL</are:jmeno>
-     <are:prijmeni>ZOUHAR</are:prijmeni>
-     <are:titulPred>ing.</are:titulPred>
+     <are:jmeno>IDA</are:jmeno>
+     <are:prijmeni>KUPSOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

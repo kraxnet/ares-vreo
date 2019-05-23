@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-09-10T11:42:13"
+odpoved_datum_cas="2019-03-01T13:44:24"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-09-10</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-09-10</are:Datum_vypisu>
-   <are:Cas_vypisu>11:42:13</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-01</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-01</are:Datum_vypisu>
+   <are:Cas_vypisu>13:44:24</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -255,24 +255,6 @@ Má-li společnost pouze jednoho jednatele, jedná tento jménem společnosti sa
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2009-08-19">
    <are:Nazev>Dozorčí rada</are:Nazev>
-   <are:Clen dza="2014-12-30">
-    <are:clenstvi>
-     <are:vznikClenstvi>2014-11-13</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:stat>276</are:stat>
-      <are:psc>40547</are:psc>
-      <are:obec>Düsseldorf</are:obec>
-      <are:ulice>Schwalmstrasse 9</are:ulice>
-     </are:adresa>
-     <are:jmeno>ULRICH-NICOLAUS</are:jmeno>
-     <are:prijmeni>KRANZ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2017-10-18">
     <are:clenstvi>
      <are:vznikClenstvi>2017-09-01</are:vznikClenstvi>
@@ -309,6 +291,25 @@ Má-li společnost pouze jednoho jednatele, jedná tento jménem společnosti sa
      </are:adresa>
      <are:jmeno>JÜRGEN RUDOLF</are:jmeno>
      <are:prijmeni>PEULEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+     <are:vznikFunkce>2019-01-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>250</are:stat>
+      <are:psc>01630</are:psc>
+      <are:obec>Saint-Jean-de-Gonville</are:obec>
+      <are:ulice>228 Chemin des Vignes de Choudans</are:ulice>
+     </are:adresa>
+     <are:jmeno>JÉRÔME ALFRED LÉONARD</are:jmeno>
+     <are:prijmeni>DEBREU</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

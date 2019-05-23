@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-27T18:21:11"
+odpoved_datum_cas="2019-02-22T11:02:52"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-27</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-27</are:Datum_vypisu>
-   <are:Cas_vypisu>18:21:11</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>11:02:52</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -233,21 +233,6 @@ připojí kterýkoliv z jednatelů svůj podpis.
      <are:prijmeni>MYEDVYEDYEVA</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-02-17">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>75579898</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>29301</are:psc>
-      <are:okres>Mladá Boleslav</are:okres>
-      <are:obec>Mladá Boleslav</are:obec>
-      <are:castObce>Debř</are:castObce>
-      <are:cisloPop>359</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>ELA</are:jmeno>
-     <are:prijmeni>BOYARKO</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2017-04-05">
     <are:fosoba>
      <are:adresa>
@@ -295,6 +280,21 @@ připojí kterýkoliv z jednatelů svůj podpis.
      </are:adresa>
      <are:jmeno>VIKTOR</are:jmeno>
      <are:prijmeni>BRATSYUN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15530957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29447</are:psc>
+      <are:okres>Mladá Boleslav</are:okres>
+      <are:obec>Ledce</are:obec>
+      <are:castObce>Ledce</are:castObce>
+      <are:cisloPop>107</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ELA</are:jmeno>
+     <are:prijmeni>BOYARKO</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

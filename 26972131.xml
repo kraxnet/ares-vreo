@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-05T11:24:52"
+odpoved_datum_cas="2019-03-06T14:28:41"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-05</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-05</are:Datum_vypisu>
-   <are:Cas_vypisu>11:24:52</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:28:41</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -32,6 +32,12 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloOr>12</are:cisloOr>
    </are:Sidlo>
    <are:DatumZapisu>2005-07-08</are:DatumZapisu>
+   <are:DatumVymazu>2019-03-02</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Obchodní korporace se vymazává se všemi zápisy. Právním důvodem výmazu je splnění náležitostí dle § 82 zákona č. 304/2013 Sb..
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -43,7 +49,7 @@ Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zá
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2005-07-08">
+  <are:Statutarni_organ dza="2005-07-08" dvy="2019-03-02">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="2005-07-08" dvy="2006-06-28">
     <are:Text>
@@ -51,7 +57,7 @@ Způsob zastupování: Jménem společnosti jedná jednatel společnosti.
 Činí-li jednatelé jménem společnosti písemné úkony, podepisují je tak, že k obchodní firmě společnosti připojí svůj podpis vždy dva jednatelé.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2006-06-28">
+   <are:ZpusobJednani dza="2006-06-28" dvy="2019-03-02">
     <are:Text>
 Způsob zastupování: Jménem společnosti jedná jednatel společnosti, každý samostatně. Činí-li jednatel jménem společnosti písemné úkony, podepisuje je tak, že k obchodní firmě společnosti připojí svůj podpis kterýkoliv z jednatelů.
     </are:Text>
@@ -153,14 +159,14 @@ Způsob zastupování: Jménem společnosti jedná jednatel společnosti, každ�
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2018-10-01">
+  <are:Statutarni_organ dza="2018-10-01" dvy="2019-03-02">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:ZpusobJednani dza="2018-10-01">
+   <are:ZpusobJednani dza="2018-10-01" dvy="2019-03-02">
     <are:Text>
 Dnem vstupu společnosti do likvidace za společnost jedná a podepisuje likvidátor.
     </are:Text>
    </are:ZpusobJednani>
-   <are:Clen dza="2018-10-01">
+   <are:Clen dza="2018-10-01" dvy="2019-03-02">
     <are:posoba>
      <are:adresa>
       <are:ruianKod>24818798</are:ruianKod>
@@ -178,9 +184,9 @@ Dnem vstupu společnosti do likvidace za společnost jedná a podepisuje likvid�
     </are:posoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2005-07-08">
+  <are:Jiny_organ dza="2005-07-08" dvy="2019-03-02">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-09-07">
+   <are:Clen dza="2015-09-07" dvy="2019-03-02">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>22103775</are:ruianKod>
@@ -198,7 +204,7 @@ Dnem vstupu společnosti do likvidace za společnost jedná a podepisuje likvid�
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-02-12">
+   <are:Clen dza="2018-02-12" dvy="2019-03-02">
    </are:Clen>
   </are:Jiny_organ>
  </are:Vypis_VREO>

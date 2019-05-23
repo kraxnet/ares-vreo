@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-11-06T17:39:02"
+odpoved_datum_cas="2019-03-06T14:25:33"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
-   <are:Cas_vypisu>17:39:02</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:25:33</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -29,6 +29,13 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
     <are:cisloTxt>653/51</are:cisloTxt>
    </are:Sidlo>
    <are:DatumZapisu>2009-04-24</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Právnická osoba BONDI Impianti s.r.o. v likvidaci se sídlem Praha 2, Lublaňská 653/51, PSČ 12000, identifikační číslo 28882491 se vymazává z obchodního rejstříku. Právním důvodem výmazu je ukončení likvidace ve spojení s prohlášením likvidátora v souladu
+s ust. § 82 odst. 1 zák.č. 304/2013 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -43,9 +50,9 @@ výroba, instalace, opravy elektrických strojů a přístrojů, elektronických
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="2009-04-24">
+  <are:Statutarni_organ dza="2009-04-24" dvy="2019-02-27">
    <are:Nazev>Statutární orgán</are:Nazev>
-   <are:ZpusobJednani dza="2009-04-24">
+   <are:ZpusobJednani dza="2009-04-24" dvy="2019-02-27">
     <are:Text>
 Jednatel jedná za společnost samostatně a v plném rozsahu.
     </are:Text>
@@ -105,7 +112,7 @@ Jednatel jedná za společnost samostatně a v plném rozsahu.
      <are:prijmeni>MIKEŠ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-05-14">
+   <are:Clen dza="2017-05-14" dvy="2019-02-27">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2011-09-14</are:vznikFunkce>
@@ -126,9 +133,9 @@ Jednatel jedná za společnost samostatně a v plném rozsahu.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Statutarni_organ dza="2014-06-30">
+  <are:Statutarni_organ dza="2014-06-30" dvy="2019-02-27">
    <are:Nazev>Likvidátor</are:Nazev>
-   <are:Clen dza="2014-06-30">
+   <are:Clen dza="2014-06-30" dvy="2019-02-27">
     <are:fosoba>
      <are:adresa>
       <are:stat>203</are:stat>
@@ -143,9 +150,9 @@ Jednatel jedná za společnost samostatně a v plném rozsahu.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="2009-04-24">
+  <are:Jiny_organ dza="2009-04-24" dvy="2019-02-27">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2017-05-14">
+   <are:Clen dza="2017-05-14" dvy="2019-02-27">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>6558178</are:ruianKod>

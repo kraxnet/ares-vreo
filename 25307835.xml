@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2019-01-07T09:51:26"
+odpoved_datum_cas="2019-03-06T14:21:55"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,15 +11,15 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2019-01-07</are:Aktualizace_DB>
-   <are:Datum_vypisu>2019-01-07</are:Datum_vypisu>
-   <are:Cas_vypisu>09:51:26</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:21:55</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
    <are:Rejstrik>OR</are:Rejstrik>
    <are:ICO>25307835</are:ICO>
-   <are:ObchodniFirma>MPU banka a.s.</are:ObchodniFirma>
+   <are:ObchodniFirma>TRINITY BANK a.s.</are:ObchodniFirma>
    <are:Sidlo>
     <are:ruianKod>21711542</are:ruianKod>
     <are:stat>203</are:stat>
@@ -550,33 +550,6 @@ Za společnost jedná společně předseda představenstva s místopředsedou p�
      <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>předseda představenstva</are:nazev>
-     <are:vznikFunkce>2019-01-01</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>21712816</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>11000</are:psc>
-      <are:okres>Hlavní město Praha</are:okres>
-      <are:obec>Praha</are:obec>
-      <are:castObce>Nové Město</are:castObce>
-      <are:mop>Praha 1</are:mop>
-      <are:ulice>Senovážné náměstí</are:ulice>
-      <are:cisloPop>1588</are:cisloPop>
-      <are:cisloOr>4</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>RADOMÍR</are:jmeno>
-     <are:prijmeni>LAPČÍK</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-     <are:titulZa>LL.M.</are:titulZa>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2019-01-01">
-    <are:clenstvi>
-     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
      <are:nazev>místopředseda představenstva</are:nazev>
      <are:vznikFunkce>2019-01-01</are:vznikFunkce>
     </are:funkce>
@@ -638,6 +611,58 @@ Za společnost jedná společně předseda představenstva s místopředsedou p�
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-01-01" dvy="2019-03-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2019-03-03</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2019-01-01</are:vznikFunkce>
+     <are:zanikFunkce>2019-03-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21712816</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Senovážné náměstí</are:ulice>
+      <are:cisloPop>1588</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RADOMÍR</are:jmeno>
+     <are:prijmeni>LAPČÍK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>LL.M.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2019-02-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16691741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41301</are:psc>
+      <are:okres>Litoměřice</are:okres>
+      <are:obec>Kleneč</are:obec>
+      <are:castObce>Kleneč</are:castObce>
+      <are:ulice>Hlavní</are:ulice>
+      <are:cisloPop>103</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>KOHOUT</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2019-01-01">
    <are:Nazev>Dozorčí rada</are:Nazev>
@@ -661,30 +686,6 @@ Za společnost jedná společně předseda představenstva s místopředsedou p�
      </are:adresa>
      <are:jmeno>JAROMÍR</are:jmeno>
      <are:prijmeni>HANÁK</are:prijmeni>
-     <are:titulPred>Ing.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2019-01-01">
-    <are:clenstvi>
-     <are:vznikClenstvi>2019-01-01</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
-     <are:nazev>člen dozorčí rady</are:nazev>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>72879611</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>64400</are:psc>
-      <are:okres>Brno-město</are:okres>
-      <are:obec>Brno</are:obec>
-      <are:castObce>Soběšice</are:castObce>
-      <are:ulice>Weissova</are:ulice>
-      <are:cisloPop>780</are:cisloPop>
-      <are:cisloOr>2e</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>PETR</are:jmeno>
-     <are:prijmeni>ČUMBA</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>

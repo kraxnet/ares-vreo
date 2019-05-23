@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-25T15:18:47"
+odpoved_datum_cas="2019-02-28T12:45:07"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-25</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-25</are:Datum_vypisu>
-   <are:Cas_vypisu>15:18:47</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:45:08</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -159,21 +159,6 @@ Jednatel zastupuje společnost samostatně. Podepisování za společnosti se d�
      <are:titulZa>DiS</are:titulZa>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-07-20">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>27672654</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>46812</are:psc>
-      <are:okres>Jablonec nad Nisou</are:okres>
-      <are:obec>Bedřichov</are:obec>
-      <are:castObce>Bedřichov</are:castObce>
-      <are:cisloPop>335</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>MICHAELA</are:jmeno>
-     <are:prijmeni>FOTULOVÁ</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2018-10-18">
     <are:fosoba>
      <are:adresa>
@@ -189,6 +174,24 @@ Jednatel zastupuje společnost samostatně. Podepisování za společnosti se d�
      </are:adresa>
      <are:jmeno>GABRIELA</are:jmeno>
      <are:prijmeni>NOVOTNÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22309420</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Holešovice</are:castObce>
+      <are:mop>Praha 7</are:mop>
+      <are:ulice>U parního mlýna</are:ulice>
+      <are:cisloPop>1290</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAELA</are:jmeno>
+     <are:prijmeni>FOTULOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

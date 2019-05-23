@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2017-12-16T23:26:09"
+odpoved_datum_cas="2019-02-24T13:13:20"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
-   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
-   <are:Cas_vypisu>23:26:09</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-24</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-24</are:Datum_vypisu>
+   <are:Cas_vypisu>13:13:20</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -21,13 +21,19 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
    <are:ICO>47544121</are:ICO>
    <are:ObchodniFirma>BRAZEL, s.r.o.</are:ObchodniFirma>
    <are:Sidlo>
-    <are:ruianKod>100</are:ruianKod>
     <are:stat>203</are:stat>
     <are:psc>28922</are:psc>
     <are:obec>Lysá nad Labem</are:obec>
     <are:ulice>Litol</are:ulice>
    </are:Sidlo>
    <are:DatumZapisu>1994-02-16</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-22</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+V důsledku schválení projektu fúze sloučením dne 14.2.2019 došlo k zániku obchodní společnosti BRAZEL, s.r.o., se sídlem Litol, 289 22 Lysá nad Labem, identifikační číslo: 47544121 a zániku obchodní společnosti AKCENT spol. s r.o., se sídlem Kounice 395,
+289 15 Kounice, identifikační číslo 47544163 a k přechodu jejich jmění na nástupnickou obchodní společnost ZVO s.r.o., se sídlem č.p. 415, 289 16 Přerov nad Labem, identifikační číslo 27194698. Rozhodný den fúze je 1.1.2019.
+    </are:Text>
+   </are:DuvodVymazu>
    <are:Cinnosti>
     <are:PredmetPodnikani>
      <are:Text>
@@ -45,7 +51,7 @@ ubytovací služby
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
-  <are:Statutarni_organ dza="1994-02-16">
+  <are:Statutarni_organ dza="1994-02-16" dvy="2019-02-22">
    <are:Nazev>Statutární orgán</are:Nazev>
    <are:ZpusobJednani dza="1994-02-16" dvy="2007-07-10">
     <are:Text>
@@ -53,7 +59,7 @@ Způsob jednání za společnost: Za společnost jednají a
 podepisují jednatelé společnosti a to každý samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2007-07-10">
+   <are:ZpusobJednani dza="2007-07-10" dvy="2019-02-22">
     <are:Text>
 Jednatel jedná jménem společnosti ve všech věcech samostatně.
     </are:Text>
@@ -64,7 +70,6 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:obec>Lysá nad Labem</are:obec>
       <are:ulice>Čechov</are:ulice>
@@ -98,7 +103,6 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:okres>Nymburk</are:okres>
       <are:obec>Lysá nad Labem</are:obec>
@@ -134,7 +138,6 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>25088</are:psc>
       <are:okres>Praha-východ</are:okres>
@@ -165,7 +168,7 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-03-08">
+   <are:Clen dza="2014-03-08" dvy="2019-02-22">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2007-05-31</are:vznikFunkce>
@@ -184,7 +187,7 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-03-08">
+   <are:Clen dza="2014-03-08" dvy="2019-02-22">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
     </are:funkce>
@@ -203,7 +206,7 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
      <are:titulPred>Ing.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2014-03-08">
+   <are:Clen dza="2014-03-08" dvy="2019-02-22">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
     </are:funkce>
@@ -223,9 +226,9 @@ Jednatel jedná jménem společnosti ve všech věcech samostatně.
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
-  <are:Jiny_organ dza="1994-02-16">
+  <are:Jiny_organ dza="1994-02-16" dvy="2019-02-22">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2014-03-08">
+   <are:Clen dza="2014-03-08" dvy="2019-02-22">
     <are:fosoba>
      <are:adresa>
       <are:ruianKod>42085675</are:ruianKod>

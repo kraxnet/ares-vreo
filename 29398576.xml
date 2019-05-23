@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-07-02T16:46:49"
+odpoved_datum_cas="2019-02-22T10:36:51"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-07-02</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-07-02</are:Datum_vypisu>
-   <are:Cas_vypisu>16:46:50</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:36:51</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -102,6 +102,25 @@ Jednatelé jednají za společnost společně. Má-li společnost jednoho jednat
    <are:Clen dza="2017-12-05">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-11-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>51362686</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73801</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Frýdek-Místek</are:obec>
+      <are:castObce>Skalice</are:castObce>
+      <are:cisloPop>485</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ALBERT</are:jmeno>
+     <are:prijmeni>ČUBA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-12-05" dvy="2019-02-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2017-06-01</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
@@ -121,23 +140,26 @@ Jednatelé jednají za společnost společně. Má-li společnost jednoho jednat
      <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-12-05">
+   <are:Clen dza="2019-02-08">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
-     <are:vznikFunkce>2017-11-10</are:vznikFunkce>
+     <are:vznikFunkce>2017-06-01</are:vznikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>51362686</are:ruianKod>
+      <are:ruianKod>3180417</are:ruianKod>
       <are:stat>203</are:stat>
-      <are:psc>73801</are:psc>
-      <are:okres>Frýdek-Místek</are:okres>
-      <are:obec>Frýdek-Místek</are:obec>
-      <are:castObce>Skalice</are:castObce>
-      <are:cisloPop>485</are:cisloPop>
+      <are:psc>70200</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Moravská Ostrava</are:castObce>
+      <are:ulice>Přívozská</are:ulice>
+      <are:cisloPop>154</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
      </are:adresa>
-     <are:jmeno>ALBERT</are:jmeno>
-     <are:prijmeni>ČUBA</are:prijmeni>
+     <are:jmeno>LUKÁŠ</are:jmeno>
+     <are:prijmeni>ORAMUS</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -146,24 +168,6 @@ Jednatelé jednají za společnost společně. Má-li společnost jednoho jednat
    <are:Clen dza="2017-12-05">
     <are:fosoba>
      <are:adresa>
-      <are:ruianKod>3188400</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>70200</are:psc>
-      <are:okres>Ostrava-město</are:okres>
-      <are:obec>Ostrava</are:obec>
-      <are:castObce>Moravská Ostrava</are:castObce>
-      <are:ulice>Bankovní</are:ulice>
-      <are:cisloPop>1683</are:cisloPop>
-      <are:cisloOr>3</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>LUKÁŠ</are:jmeno>
-     <are:prijmeni>ORAMUS</are:prijmeni>
-     <are:titulPred>Mgr.</are:titulPred>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2017-12-05">
-    <are:fosoba>
-     <are:adresa>
       <are:ruianKod>51362686</are:ruianKod>
       <are:stat>203</are:stat>
       <are:psc>73801</are:psc>
@@ -174,6 +178,24 @@ Jednatelé jednají za společnost společně. Má-li společnost jednoho jednat
      </are:adresa>
      <are:jmeno>ALBERT</are:jmeno>
      <are:prijmeni>ČUBA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3180417</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70200</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Moravská Ostrava</are:castObce>
+      <are:ulice>Přívozská</are:ulice>
+      <are:cisloPop>154</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUKÁŠ</are:jmeno>
+     <are:prijmeni>ORAMUS</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-06-04T13:32:41"
+odpoved_datum_cas="2019-03-06T14:10:52"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-06-04</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-06-04</are:Datum_vypisu>
-   <are:Cas_vypisu>13:32:41</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:10:52</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -40,6 +40,9 @@ hostinská činnost
      <are:Text>
 výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
      </are:Text>
+     <are:Text>
+prodej kvasného lihu, konzumního lihu a lihovin
+     </are:Text>
     </are:PredmetPodnikani>
    </are:Cinnosti>
   </are:Zakladni_udaje>
@@ -53,9 +56,14 @@ nadepsanému názvu společnosti připojí jednatel svůj
 vlastnoruční podpis samostatně.
     </are:Text>
    </are:ZpusobJednani>
-   <are:ZpusobJednani dza="2017-05-23">
+   <are:ZpusobJednani dza="2017-05-23" dvy="2019-03-01">
     <are:Text>
 Za společnost jedná jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-03-01">
+    <are:Text>
+Každý jednatel zastupuje společnost navenek ve všech záležitostech samostatně.
     </are:Text>
    </are:ZpusobJednani>
    <are:Clen dza="1993-05-07" dvy="1995-12-06">
@@ -204,7 +212,7 @@ Za společnost jedná jednatel samostatně.
      <are:prijmeni>TRAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-07-12">
+   <are:Clen dza="2017-07-12" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel společnosti</are:nazev>
      <are:vznikFunkce>2017-05-04</are:vznikFunkce>
@@ -267,10 +275,11 @@ Za společnost jedná jednatel samostatně.
      <are:prijmeni>TRAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-01-23">
+   <are:Clen dza="2018-01-23" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel společnosti</are:nazev>
      <are:vznikFunkce>2017-05-04</are:vznikFunkce>
+     <are:zanikFunkce>2019-03-01</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -288,7 +297,7 @@ Za společnost jedná jednatel samostatně.
      <are:prijmeni>TRAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-01-23">
+   <are:Clen dza="2018-01-23" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>Jednatel</are:nazev>
      <are:vznikFunkce>2017-12-19</are:vznikFunkce>
@@ -309,10 +318,11 @@ Za společnost jedná jednatel samostatně.
      <are:prijmeni>NGUYEN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-05-29">
+   <are:Clen dza="2018-05-29" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2018-05-28</are:vznikFunkce>
+     <are:zanikFunkce>2019-03-01</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -330,10 +340,11 @@ Za společnost jedná jednatel samostatně.
      <are:prijmeni>DOAN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2018-05-29">
+   <are:Clen dza="2018-05-29" dvy="2019-03-01">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2018-05-28</are:vznikFunkce>
+     <are:zanikFunkce>2019-03-01</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -348,6 +359,79 @@ Za společnost jedná jednatel samostatně.
      </are:adresa>
      <are:jmeno>VAN DOAN</are:jmeno>
      <are:prijmeni>NGUYEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-05-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23365773</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37004</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 3</are:castObce>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloPop>821</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DINH CHUNG</are:jmeno>
+     <are:prijmeni>NGUYEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-12-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23352752</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37011</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 2</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>1051</are:cisloPop>
+      <are:cisloOr>27</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>THI HUONG LI</are:jmeno>
+     <are:prijmeni>NGUYEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-03-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-03-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5526256</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39701</are:psc>
+      <are:okres>Písek</are:okres>
+      <are:obec>Písek</are:obec>
+      <are:castObce>Budějovické Předměstí</are:castObce>
+      <are:ulice>Harantova</are:ulice>
+      <are:cisloPop>454</are:cisloPop>
+      <are:cisloOr>58</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VAN TUYEN</are:jmeno>
+     <are:prijmeni>PHAM</are:prijmeni>
+     <are:bydliste>
+      <are:ruianKod>5474418</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39811</are:psc>
+      <are:okres>Písek</are:okres>
+      <are:obec>Protivín</are:obec>
+      <are:castObce>Protivín</are:castObce>
+      <are:ulice>Mírová</are:ulice>
+      <are:cisloPop>145</are:cisloPop>
+     </are:bydliste>
     </are:fosoba>
    </are:Clen>
   </are:Statutarni_organ>
@@ -404,23 +488,6 @@ Za společnost jedná jednatel samostatně.
      <are:prijmeni>NGUYEN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2017-09-07">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23352752</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>37011</are:psc>
-      <are:okres>České Budějovice</are:okres>
-      <are:obec>České Budějovice</are:obec>
-      <are:castObce>České Budějovice 2</are:castObce>
-      <are:ulice>Dlouhá</are:ulice>
-      <are:cisloPop>1051</are:cisloPop>
-      <are:cisloOr>27</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>MANH HUNG</are:jmeno>
-     <are:prijmeni>TRAN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
    <are:Clen dza="2018-01-11">
     <are:fosoba>
      <are:adresa>
@@ -436,39 +503,6 @@ Za společnost jedná jednatel samostatně.
      </are:adresa>
      <are:jmeno>QUANG HUY</are:jmeno>
      <are:prijmeni>TRAN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2018-05-29">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>23353112</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>37011</are:psc>
-      <are:okres>České Budějovice</are:okres>
-      <are:obec>České Budějovice</are:obec>
-      <are:castObce>České Budějovice 2</are:castObce>
-      <are:ulice>Krčínova</are:ulice>
-      <are:cisloPop>1095</are:cisloPop>
-      <are:cisloOr>14</are:cisloOr>
-     </are:adresa>
-     <are:jmeno>THANH CONG</are:jmeno>
-     <are:prijmeni>DOAN</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2018-05-29">
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>6000363</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>27305</are:psc>
-      <are:okres>Kladno</are:okres>
-      <are:obec>Smečno</are:obec>
-      <are:castObce>Smečno</are:castObce>
-      <are:ulice>nám. T. G. Masaryka</are:ulice>
-      <are:cisloPop>13</are:cisloPop>
-     </are:adresa>
-     <are:jmeno>VAN DOAN</are:jmeno>
-     <are:prijmeni>NGUYEN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-12-03T09:26:45"
+odpoved_datum_cas="2019-02-22T10:31:02"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-12-03</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-12-03</are:Datum_vypisu>
-   <are:Cas_vypisu>09:26:45</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-02-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-22</are:Datum_vypisu>
+   <are:Cas_vypisu>10:31:02</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -314,28 +314,6 @@ Společnost zastupuje každý člen představenstva samostatně.
      <are:vznikClenstvi>2009-06-10</are:vznikClenstvi>
     </are:clenstvi>
     <are:funkce>
-     <are:nazev>předseda dozorčí rady</are:nazev>
-     <are:vznikFunkce>2009-06-10</are:vznikFunkce>
-    </are:funkce>
-    <are:fosoba>
-     <are:adresa>
-      <are:ruianKod>4525159</are:ruianKod>
-      <are:stat>203</are:stat>
-      <are:psc>74601</are:psc>
-      <are:obec>Opava</are:obec>
-      <are:castObce>Předměstí</are:castObce>
-      <are:ulice>Ondříčkova</are:ulice>
-      <are:cisloTxt>2492/39</are:cisloTxt>
-     </are:adresa>
-     <are:jmeno>Marta</are:jmeno>
-     <are:prijmeni>Gatnarová</are:prijmeni>
-    </are:fosoba>
-   </are:Clen>
-   <are:Clen dza="2009-10-21">
-    <are:clenstvi>
-     <are:vznikClenstvi>2009-06-10</are:vznikClenstvi>
-    </are:clenstvi>
-    <are:funkce>
      <are:nazev>člen dozorčí rady</are:nazev>
     </are:funkce>
     <are:fosoba>
@@ -351,6 +329,29 @@ Společnost zastupuje každý člen představenstva samostatně.
      <are:jmeno>Ondřej</are:jmeno>
      <are:prijmeni>Tůma</are:prijmeni>
      <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-06-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2009-06-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>42674999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74761</are:psc>
+      <are:okres>Opava</are:okres>
+      <are:obec>Raduň</are:obec>
+      <are:castObce>Raduň</are:castObce>
+      <are:ulice>Sluneční</are:ulice>
+      <are:cisloPop>280</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTA</are:jmeno>
+     <are:prijmeni>GATNAROVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
   </are:Jiny_organ>

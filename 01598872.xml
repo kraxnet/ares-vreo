@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
-odpoved_datum_cas="2018-10-29T16:54:58"
+odpoved_datum_cas="2019-03-06T14:14:12"
 odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
 <are:Odpoved>
  <are:Pomocne_ID>0</are:Pomocne_ID>
@@ -11,9 +11,9 @@ odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" val
  <are:Vypis_VREO>
   <are:Uvod>
    <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
-   <are:Aktualizace_DB>2018-10-29</are:Aktualizace_DB>
-   <are:Datum_vypisu>2018-10-29</are:Datum_vypisu>
-   <are:Cas_vypisu>16:54:58</are:Cas_vypisu>
+   <are:Aktualizace_DB>2019-03-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-03-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:14:12</are:Cas_vypisu>
    <are:Typ_vypisu>aktualni</are:Typ_vypisu>
   </are:Uvod>
   <are:Zakladni_udaje>
@@ -97,10 +97,11 @@ Společnost zastupuje každý jednatel samostatně.
      <are:prijmeni>MAŇASOVÁ</are:prijmeni>
     </are:fosoba>
    </are:Clen>
-   <are:Clen dza="2015-02-04">
+   <are:Clen dza="2015-02-04" dvy="2019-02-25">
     <are:funkce>
      <are:nazev>jednatel</are:nazev>
      <are:vznikFunkce>2015-01-27</are:vznikFunkce>
+     <are:zanikFunkce>2019-01-29</are:zanikFunkce>
     </are:funkce>
     <are:fosoba>
      <are:adresa>
@@ -136,16 +137,38 @@ Společnost zastupuje každý jednatel samostatně.
      <are:prijmeni>ST LEN</are:prijmeni>
     </are:fosoba>
    </are:Clen>
+   <are:Clen dza="2019-02-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2019-02-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>41890272</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hlubočepy</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Geologická</are:ulice>
+      <are:cisloPop>1218</are:cisloPop>
+      <are:cisloOr>2c</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>KLUPKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
   </are:Statutarni_organ>
   <are:Jiny_organ dza="2013-04-15">
    <are:Nazev>Společníci</are:Nazev>
-   <are:Clen dza="2015-07-14">
+   <are:Clen dza="2019-02-25">
     <are:posoba>
      <are:adresa>
       <are:stat>578</are:stat>
-      <are:psc>0251</are:psc>
+      <are:psc>0164</are:psc>
       <are:obec>Oslo</are:obec>
-      <are:ulice>c / o Procurator Management AS, Rusel kkveien 26</are:ulice>
+      <are:ulice>Universitetsgata 10</are:ulice>
      </are:adresa>
      <are:ObchodniFirma>NEXT BIOMETRICS AS</are:ObchodniFirma>
     </are:posoba>
