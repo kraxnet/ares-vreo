@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-06T15:55:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>15:55:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>15052818</are:ICO>
+   <are:ObchodniFirma>ELITTE M s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21706166</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:obec>Praha 1</are:obec>
+    <are:ulice>Václavské nám.</are:ulice>
+    <are:cisloTxt>808/66</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-05-20</are:DatumZapisu>
+   <are:DatumVymazu>2012-01-03</are:DatumVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-05-20" dvy="2012-01-03">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-05-20" dvy="1999-04-14">
+    <are:Text>
+Způsob jednání za společnost:
+Za společnost jsou oprávněni jednat oba společníci ve stejném
+rozsahu.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1999-04-14" dvy="2003-06-02">
+    <are:Text>
+Způsob jednání za společnost:
+Podepisování za společnost se děje tak, že k vytištěnému nebo
+napsanému názvu společnosti připojí svůj podpis pan Valena.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2003-06-02" dvy="2012-01-03">
+    <are:Text>
+Způsob jednání za společnost:
+Jménem společnosti jedná a podepisuje jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-05-20" dvy="1993-07-01">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5387442</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53901</are:psc>
+      <are:obec>Hlinsko</are:obec>
+      <are:ulice>Wilsonova</are:ulice>
+      <are:cisloTxt>1051</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Adolf</are:jmeno>
+     <are:prijmeni>Valena</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-05-20" dvy="1993-07-01">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18891993</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chrudim III</are:obec>
+      <are:ulice>U stadionu</are:ulice>
+      <are:cisloTxt>728</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kyncl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-07-01" dvy="1999-04-14">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18891993</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chrudim III</are:obec>
+      <are:ulice>U stadionu</are:ulice>
+      <are:cisloTxt>728</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kyncl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-07-01" dvy="2003-06-02">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>1991-05-20</are:vznikFunkce>
+     <are:zanikFunkce>2003-04-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5387442</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53901</are:psc>
+      <are:obec>Hlinsko</are:obec>
+      <are:ulice>Wilsonova</are:ulice>
+      <are:cisloTxt>1051</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Adolf</are:jmeno>
+     <are:prijmeni>Valena</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-02" dvy="2006-01-04">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2003-04-14</are:vznikFunkce>
+     <are:zanikFunkce>2005-06-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5387442</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53901</are:psc>
+      <are:obec>Hlinsko</are:obec>
+      <are:ulice>Wilsonova</are:ulice>
+      <are:cisloTxt>1051</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ondřej</are:jmeno>
+     <are:prijmeni>Mach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-04" dvy="2006-01-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-06-23</are:vznikFunkce>
+     <are:zanikFunkce>2005-11-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7710275</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené předměstí</are:castObce>
+      <are:ulice>nám. Dukelských hrdinů</are:ulice>
+      <are:cisloTxt>2160</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Bradáč</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-04" dvy="2006-04-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-11-20</are:vznikFunkce>
+     <are:zanikFunkce>2006-01-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23674792</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46006</are:psc>
+      <are:obec>Liberec</are:obec>
+      <are:ulice>Pazderkova</are:ulice>
+      <are:cisloTxt>866/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Skalický</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-04-20" dvy="2012-01-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-01-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5674387</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>BJ.Krawce</are:ulice>
+      <are:cisloTxt>1057</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohuslav</are:jmeno>
+     <are:prijmeni>Urválek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2010-05-03" dvy="2012-01-03">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2010-05-03" dvy="2012-01-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22620354</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Krupská</are:ulice>
+      <are:cisloPop>1741</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Vratislav</are:jmeno>
+     <are:prijmeni>Brázda</are:prijmeni>
+     <are:titulPred>JUDr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-05-20" dvy="2012-01-03">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2006-04-20" dvy="2012-01-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5674387</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>BJ.Krawce</are:ulice>
+      <are:cisloTxt>1057</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohuslav</are:jmeno>
+     <are:prijmeni>Urválek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-04-20" dvy="2012-01-03">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>5663911</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>Nábřeží Krále Jiřího</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>62913301</are:ICO>
+     <are:ObchodniFirma>MAX  &amp;  MAX, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

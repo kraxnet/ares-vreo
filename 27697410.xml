@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-06T16:05:43"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>16:05:43</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27697410</are:ICO>
+   <are:ObchodniFirma>Safety 1st s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22298754</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>17000</are:psc>
+    <are:obec>Praha 7</are:obec>
+    <are:ulice>Milady Horákové</are:ulice>
+    <are:cisloTxt>386/63</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2006-08-07</are:DatumZapisu>
+   <are:DatumVymazu>2012-11-27</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+specializovaný maloobchod a maloobchod se smíšeným zbožím
+     </are:Text>
+     <are:Text>
+lékařská mikrobiologie - laboratorní a vyšetřovací metody ve zdravotnictví včetně odběrové místnosti
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2006-08-07" dvy="2012-11-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2006-08-07" dvy="2012-11-27">
+    <are:Text>
+Způsob jednání jménem společnosti: Jménem společnosti jedná a podepisuje jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-08-07" dvy="2007-08-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-08-07</are:vznikFunkce>
+     <are:zanikFunkce>2007-07-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19122039</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63900</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Štýřice</are:castObce>
+      <are:ulice>Dvorského</are:ulice>
+      <are:cisloTxt>38/20a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Kroupa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-08-16" dvy="2012-11-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-07-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26992124</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68352</are:psc>
+      <are:obec>Zbýšov</are:obec>
+      <are:cisloTxt>195</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lance Martin</are:jmeno>
+     <are:prijmeni>Baker</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2006-08-07" dvy="2012-11-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2006-08-07" dvy="2012-11-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26992124</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68352</are:psc>
+      <are:obec>Zbýšov</are:obec>
+      <are:cisloTxt>195</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lance Martin</are:jmeno>
+     <are:prijmeni>Baker</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

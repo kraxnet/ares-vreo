@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:01:17"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:01:17</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>14802431</are:ICO>
+   <are:ObchodniFirma>Pečivo Toušeň s.s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>12687898</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25089</are:psc>
+    <are:okres>Praha-východ</are:okres>
+    <are:obec>Lázně Toušeň</are:obec>
+    <are:castObce>Lázně Toušeň</are:castObce>
+    <are:ulice>Požární</are:ulice>
+    <are:cisloPop>277</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-03-27</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba pečiva všeho druhu včetně trvanlivého
+     </are:Text>
+     <are:Text>
+výroba chleba
+     </are:Text>
+     <are:Text>
+výroba těstovin
+     </are:Text>
+     <are:Text>
+prodej vlastních výrobků ve vlastních prodejnách, kioscích
+a stáncích včetně ambulantního a pochůzkového prodeje, prodej
+do obchodní sítě
+     </are:Text>
+     <are:Text>
+prodej doplňkového zboží ve vlastních prodejních jednotkách
+     </are:Text>
+     <are:Text>
+dovoz pekárenského technologického zařízení a přísad pro pečivo
+a těstoviny
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-03-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-03-27" dvy="1992-08-06">
+    <are:Text>
+Společnost navenek zastupuje a za ni podepisuje předseda předsta-
+venstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1992-08-06">
+    <are:Text>
+Společnost zastupuje likvidátor.
+Podepisování se děje tak, že k názvu společnosti s doložkou
+v likvidaci připojí svůj podpis likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-03-27" dvy="1992-08-06">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22323465</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18100</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Dolákova</are:ulice>
+      <are:cisloTxt>719</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Štefek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-08-06">
+    <are:funkce>
+     <are:nazev>likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22323465</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18100</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Dolákova</are:ulice>
+      <are:cisloTxt>719</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Štefek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-03-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-03-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25089</are:psc>
+      <are:obec>Toušeň</are:obec>
+      <are:ulice>Hlavní 157</are:ulice>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Bílý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22188240</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jaselská</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oldřich</are:jmeno>
+     <are:prijmeni>Černík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25089</are:psc>
+      <are:obec>Toušeň</are:obec>
+      <are:ulice>Požární 277</are:ulice>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Socha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22323465</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Dolákova</are:ulice>
+      <are:cisloTxt>719</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Štefek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

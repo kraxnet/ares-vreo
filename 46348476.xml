@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T22:00:14"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>22:00:14</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>46348476</are:ICO>
+   <are:ObchodniFirma>KALLI spol.s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>6483038</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25244</are:psc>
+    <are:okres>Praha-západ</are:okres>
+    <are:obec>Psáry</are:obec>
+    <are:castObce>Psáry</are:castObce>
+    <are:ulice>Na Vápence</are:ulice>
+    <are:cisloPop>165</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-06-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+obchodní činnost
+investorská a inženýrská činnost ve stavební výrobě
+realitní kancelář
+     </are:Text>
+     <are:Text>
+Projektová činnost v investiční výstavbě.
+     </are:Text>
+     <are:Text>
+Podniky zajišťující ostrahu majetku a osob.
+     </are:Text>
+     <are:Text>
+Hostinská činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-06-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-06-12">
+    <are:Text>
+Společnost navenek zastupuje a za společnost podepisuje jednatel
+tak, že k obchodnímu jménu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1997-02-11" dvy="2016-09-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Psáry 165,okr.Praha-západ</are:obec>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Purmann</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22950168</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26401</are:psc>
+      <are:okres>Příbram</are:okres>
+      <are:obec>Prosenická Lhota</are:obec>
+      <are:castObce>Suchdol</are:castObce>
+      <are:cisloPop>1</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>PURMANN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1997-02-11">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-09-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22950168</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26401</are:psc>
+      <are:okres>Příbram</are:okres>
+      <are:obec>Prosenická Lhota</are:obec>
+      <are:castObce>Suchdol</are:castObce>
+      <are:cisloPop>1</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>PURMANN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

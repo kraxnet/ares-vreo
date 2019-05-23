@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-27T17:55:49"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-27</are:Datum_vypisu>
+   <are:Cas_vypisu>17:55:49</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28331141</are:ICO>
+   <are:ObchodniFirma>BIOGEST ENERGIE A VODNÍ TECHNOLOGIE s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>18992251</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>69002</are:psc>
+    <are:obec>Břeclav</are:obec>
+    <are:castObce>Břeclav</are:castObce>
+    <are:ulice>17. listopadu</are:ulice>
+    <are:cisloPop>48</are:cisloPop>
+    <are:cisloOr>28</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2009-03-24</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+provádění staveb, jejich změn a odstraňování
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2009-03-24">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2009-03-24" dvy="2012-10-29">
+    <are:Text>
+Za společnost jednají a podepisují jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2012-10-29" dvy="2016-02-04">
+    <are:Text>
+Za společnost jednají a podepisují vždy alespoň dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-02-04">
+    <are:Text>
+Společnost zastupují  alespoň dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2009-03-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-03-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>40</are:stat>
+      <are:psc>1190</are:psc>
+      <are:obec>Wien</are:obec>
+      <are:ulice>Starkfriedgasse</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Christian</are:jmeno>
+     <are:prijmeni>Riel</are:prijmeni>
+     <are:titulPred>MMag.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-03-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-03-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>40</are:stat>
+      <are:psc>3002</are:psc>
+      <are:obec>Purkersdorf</are:obec>
+      <are:ulice>Rochusgasse</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Schlerka</are:prijmeni>
+     <are:titulPred>Dipl. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-10-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-10-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>40</are:stat>
+      <are:psc>4060</are:psc>
+      <are:obec>Leonding</are:obec>
+      <are:ulice>Hartackerstraße</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gerald</are:jmeno>
+     <are:prijmeni>Bartl Fauler</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-10-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-10-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>40</are:stat>
+      <are:psc>4542</are:psc>
+      <are:obec>Nussbach</are:obec>
+      <are:ulice>Hauptstraße</are:ulice>
+      <are:cisloTxt>34</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Hornhuber</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2009-03-24">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2018-11-16">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>40</are:stat>
+      <are:psc>3400</are:psc>
+      <are:obec>Klosterneuburg</are:obec>
+      <are:ulice>Büropark Donau, Inkustra e 1-7, Bauteil E/Stiege 5</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>BIOQUADRAT Energie- und Wasser- technik Holding GmbH</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

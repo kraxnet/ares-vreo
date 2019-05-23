@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T16:31:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>16:31:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25241991</are:ICO>
+   <are:ObchodniFirma>BYTOVÉ DRUŽSTVO Vejprnická 770/8, družstvo v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24563293</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>31800</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:castObce>Skvrňany</are:castObce>
+    <are:ulice>Vejprnická</are:ulice>
+    <are:cisloPop>770</are:cisloPop>
+    <are:cisloOr>8</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-02-04</are:DatumZapisu>
+   <are:DatumVymazu>2017-10-13</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+BYTOVÉ DRUŽSTVO Vejprnická 770/8, družstvo v likvidaci, identifikační číslo 25241991, sídlo Vejprnická 770/8, 31800 Plzeň, spisová značka Dr 1743 vedená u Krajského soudu v Plzni se z obchodního rejstříku vymazává z důvodu ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zajištění provozu a správy bytového a nebytového fondu v domě
+Vejprnická 8
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-02-04" dvy="2006-04-13">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:Clen dza="2000-02-04" dvy="2002-06-14">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31805</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Vaniš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-02-04" dvy="2003-04-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2000-02-04</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-01-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2000-02-04</are:vznikFunkce>
+     <are:zanikFunkce>2003-01-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31805</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Durchan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-02-04" dvy="2003-04-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2000-02-04</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-01-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2000-02-04</are:vznikFunkce>
+     <are:zanikFunkce>2003-01-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31805</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Novák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-14" dvy="2003-04-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2000-02-04</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-01-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31805</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Vaniš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-11" dvy="2006-04-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-01-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-01-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2003-01-23</are:vznikFunkce>
+     <are:zanikFunkce>2006-01-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31805</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Vaniš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-11" dvy="2006-04-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-01-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-01-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2003-01-23</are:vznikFunkce>
+     <are:zanikFunkce>2006-01-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31805</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Jančařík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-11" dvy="2006-04-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-01-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-01-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31805</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Hanáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2000-02-04" dvy="2017-10-13">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-02-04" dvy="2017-10-13">
+    <are:Text>
+Způsob jednání:
+Zastupování - za družstvo ve vztahu ke třetím osobám jedná
+předseda představenstva, v jeho nepřítomnosti pak místopředseda
+představenstva
+Podepisování - za představenstvo podepisuje předseda
+představenstva, v době jeho nepřítomnosti kterýkoliv jiný člen
+představenstva. Je-li pro právní úkon, který činí
+představenstvo, předepsána písemná forma, je třeba k podpisu
+alespoň dvou členů představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-04-13" dvy="2009-04-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-01-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-01-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-01-10</are:vznikFunkce>
+     <are:zanikFunkce>2009-01-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Durchan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-04-13" dvy="2009-04-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-01-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-01-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-01-10</are:vznikFunkce>
+     <are:zanikFunkce>2009-01-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Ráb</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-04-13" dvy="2009-04-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-01-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-01-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kačín</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-04-16" dvy="2015-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-01-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-04-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2009-01-26</are:vznikFunkce>
+     <are:zanikFunkce>2012-04-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiřina</are:jmeno>
+     <are:prijmeni>Bešťáková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-04-16" dvy="2015-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-01-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-04-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2009-01-26</are:vznikFunkce>
+     <are:zanikFunkce>2012-04-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Havlík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-04-16" dvy="2015-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-01-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-04-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Krausová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-25" dvy="2017-05-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-01-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-04-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2015-01-15</are:vznikFunkce>
+     <are:zanikFunkce>2017-04-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Skvrňany</are:castObce>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloPop>770</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>HAVLÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-25" dvy="2017-10-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:vznikFunkce>2015-01-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Skvrňany</are:castObce>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloPop>770</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘINA</are:jmeno>
+     <are:prijmeni>BEŠŤÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-25" dvy="2017-10-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Skvrňany</are:castObce>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloPop>770</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>KRAUSOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-02-01" dvy="2017-10-13">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-02-01" dvy="2017-10-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Skvrňany</are:castObce>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloPop>770</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:ICO>75102692</are:ICO>
+     <are:ObchodniFirma>Společenství vlastníků bytových jednotek Vejprnická 770/8 v Plzni</are:ObchodniFirma>
+     <are:Zastoupeni dza="2017-02-01" dvy="2017-10-13">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>24563293</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>31800</are:psc>
+        <are:okres>Plzeň-město</are:okres>
+        <are:obec>Plzeň</are:obec>
+        <are:castObce>Skvrňany</are:castObce>
+        <are:ulice>Vejprnická</are:ulice>
+        <are:cisloPop>770</are:cisloPop>
+        <are:cisloOr>8</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>JIŘINA</are:jmeno>
+       <are:prijmeni>BEŠŤÁKOVÁ</are:prijmeni>
+      </are:fosoba>
+     </are:Zastoupeni>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2015-02-25" dvy="2017-10-13">
+   <are:Nazev>Kontrolní komise</are:Nazev>
+   <are:Clen dza="2015-02-25" dvy="2017-10-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda kontrolní komise</are:nazev>
+     <are:vznikFunkce>2015-01-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Skvrňany</are:castObce>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloPop>770</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUDMILA</are:jmeno>
+     <are:prijmeni>ŠMŮLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-25" dvy="2017-10-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-01-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Skvrňany</are:castObce>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloPop>770</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>HOLUB</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-04-11" dvy="2017-10-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-02-09</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31800</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Skvrňany</are:castObce>
+      <are:ulice>Vejprnická</are:ulice>
+      <are:cisloPop>770</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>PTÁČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

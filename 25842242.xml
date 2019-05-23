@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T22:01:34"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:01:34</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25842242</are:ICO>
+   <are:ObchodniFirma>KMP EDEN s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3180948</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>70200</are:psc>
+    <are:okres>Ostrava-město</are:okres>
+    <are:obec>Ostrava</are:obec>
+    <are:castObce>Moravská Ostrava</are:castObce>
+    <are:ulice>Českobratrská</are:ulice>
+    <are:cisloPop>230</are:cisloPop>
+    <are:cisloOr>26</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-08-11</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+Činnost účetních poradců, vedení účetnictví, vedení daňové evidence
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-08-11">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-08-11" dvy="2016-03-02">
+    <are:Text>
+Jednání za společnost: Každý z jednatelů je oprávněn jednat za
+společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-03-02">
+    <are:Text>
+Za společnost jedná jednatel samostatně
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-08-11" dvy="2000-11-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:obec>Ostrava - Zábřeh</are:obec>
+      <are:ulice>Zimmlerova</are:ulice>
+      <are:cisloTxt>21/3002</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Krakovčík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-11" dvy="2006-05-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1999-08-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava 1</are:obec>
+      <are:ulice>Dr. Šmerala</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Široký</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-11" dvy="2014-07-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1999-08-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73934</are:psc>
+      <are:obec>Šenov</are:obec>
+      <are:ulice>Kaštanova</are:ulice>
+      <are:cisloTxt>666</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Bednář</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-05-23" dvy="2014-12-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1999-08-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3180948</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70200</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Moravská Ostrava</are:castObce>
+      <are:ulice>Českobratrská</are:ulice>
+      <are:cisloTxt>230/26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Široký</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-30" dvy="2016-03-02">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1999-08-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>72689099</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73951</are:psc>
+      <are:obec>Dobrá</are:obec>
+      <are:castObce>Dobrá</are:castObce>
+      <are:cisloPop>1011</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>BEDNÁŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-12-16" dvy="2016-03-02">
+    <are:funkce>
+     <are:vznikFunkce>1999-08-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3212581</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>71000</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Slezská Ostrava</are:castObce>
+      <are:ulice>Jaklovecká</are:ulice>
+      <are:cisloPop>1158</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>ŠIROKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-02">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>1999-08-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>72689099</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73951</are:psc>
+      <are:obec>Dobrá</are:obec>
+      <are:castObce>Dobrá</are:castObce>
+      <are:cisloPop>1011</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>BEDNÁŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-08-11">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2014-07-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>72689099</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73951</are:psc>
+      <are:obec>Dobrá</are:obec>
+      <are:castObce>Dobrá</are:castObce>
+      <are:cisloPop>1011</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>BEDNÁŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-02">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>3180948</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70200</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Moravská Ostrava</are:castObce>
+      <are:ulice>Českobratrská</are:ulice>
+      <are:cisloPop>230</are:cisloPop>
+      <are:cisloOr>26</are:cisloOr>
+     </are:adresa>
+     <are:ICO>04848560</are:ICO>
+     <are:ObchodniFirma>GBA&amp;M INVESTMENT &amp; CONSULTING a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

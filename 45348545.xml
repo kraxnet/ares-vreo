@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-01-04T21:43:22"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-01-04</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-01-04</are:Datum_vypisu>
+   <are:Cas_vypisu>21:43:22</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45348545</are:ICO>
+   <are:ObchodniFirma>Rolnická společnost Cebiv, společnost s ručením omezeným - v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>15600301</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>34952</are:psc>
+    <are:okres>Tachov</are:okres>
+    <are:obec>Cebiv</are:obec>
+    <are:castObce>Cebiv</are:castObce>
+    <are:cisloPop>1</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-01-05</are:DatumZapisu>
+   <are:DatumVymazu>2017-12-28</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost Rolnická společnost Cebiv, společnost s ručením omezeným - v likvidaci, se sídlem č.p. 1, 349 52 Cebiv, identifikační číslo 453 48 545 se vymazává z obchodního rejstříku. Právním důvodem výmazu je zrušení společnosti dle ustanovení § 68 odst. 3
+ písm. f) zákona č. 513/1991 Sb., obchodní zákoník ve znění účinném do 31.12. 2013.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+rostlinná a živočišná zemědělská výroba
+     </are:Text>
+     <are:Text>
+nákup a prodej zemědělských produktů, zvířat, věcí a materiálu
+souvisejících se zemědělskou výrobou
+     </are:Text>
+     <are:Text>
+poskytování prací a služeb zemědělské povahy
+     </are:Text>
+     <are:Text>
+zpracování produktů zemědělské výroby
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-01-05" dvy="2017-12-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-01-05" dvy="2017-12-28">
+    <are:Text>
+Způsob jednání:
+a) zastupování - společnost zastupuje ve všech věcech jednatel
+b) podepisování - podepisování se provádí tak, že k napsanému
+nebo vytištěnému obchodnímu jménu společnosti připojí svůj
+podpis jednatel s uvedením jména a funkce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-01-05" dvy="2011-08-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2005-02-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15619095</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Tachov</are:okres>
+      <are:obec>Horní Kozolupy</are:obec>
+      <are:cisloTxt>72</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Skopový</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2000-05-02" dvy="2017-12-28">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2000-05-02" dvy="2013-07-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15661105</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34086</are:psc>
+      <are:okres>Tachov</are:okres>
+      <are:obec>Přimda</are:obec>
+      <are:ulice>Nová</are:ulice>
+      <are:cisloTxt>182</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Novotný</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-07-18" dvy="2017-12-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15661105</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34806</are:psc>
+      <are:obec>Přimda</are:obec>
+      <are:castObce>Přimda</are:castObce>
+      <are:ulice>Nová</are:ulice>
+      <are:cisloPop>182</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>STANISLAV</are:jmeno>
+     <are:prijmeni>NOVOTNÝ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-01-05" dvy="2017-12-28">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-11-27" dvy="2017-12-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15723712</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34901</are:psc>
+      <are:obec>Stříbro</are:obec>
+      <are:castObce>Stříbro</are:castObce>
+      <are:ulice>Gagarinova</are:ulice>
+      <are:cisloPop>1188</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DRAHOMÍRA</are:jmeno>
+     <are:prijmeni>SKOPOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

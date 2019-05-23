@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T11:21:15"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>11:21:15</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>28286880</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků Vídeňská třída 61, ve Znojmě</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>26751739</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>66902</are:psc>
+    <are:okres>Znojmo</are:okres>
+    <are:obec>Znojmo</are:obec>
+    <are:castObce>Znojmo</are:castObce>
+    <are:ulice>Vídeňská třída</are:ulice>
+    <are:cisloPop>3252</are:cisloPop>
+    <are:cisloOr>61</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2008-03-19</are:DatumVzniku>
+   <are:DatumZapisu>2008-05-29</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-05-29">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2008-05-29" dvy="2014-08-08">
+    <are:Text>
+Způsob jednání: Jménem společenství jedná předseda výboru nebo výborem písemně pověřený člen výboru. K písemnému úkonu je nezbytný podpis předsedy nebo místopředsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-08-08" dvy="2015-12-23">
+    <are:Text>
+Způsob jednání: Jménem společenství jedná a podepisuje pověřený vlastník.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-12-23">
+    <are:Text>
+Způsob jednání: Jménem společenství jedná a podepisuje předseda.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2008-05-29" dvy="2014-08-08">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2008-03-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26751739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Znojmo</are:obec>
+      <are:ulice>Vídeňská třída</are:ulice>
+      <are:cisloTxt>3252/61</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Malačka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-05-29" dvy="2014-08-08">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2008-03-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26751739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Znojmo</are:obec>
+      <are:ulice>Vídeňská třída</are:ulice>
+      <are:cisloTxt>3252/61</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Malačka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-05-29" dvy="2014-08-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26751739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Znojmo</are:obec>
+      <are:ulice>Vídeňská třída</are:ulice>
+      <are:cisloTxt>3252/61</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Veronika</are:jmeno>
+     <are:prijmeni>Mitáčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-08-08">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+     <are:vznikFunkce>2014-04-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10990003</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66902</are:psc>
+      <are:obec>Znojmo</are:obec>
+      <are:castObce>Znojmo</are:castObce>
+      <are:ulice>Rudoleckého</are:ulice>
+      <are:cisloPop>926</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>HAGARA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

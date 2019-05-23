@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T01:24:36"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>01:24:36</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26167921</are:ICO>
+   <are:ObchodniFirma>VOKA-PLUS s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21810079</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14700</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Braník</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Mikuleckého</are:ulice>
+    <are:cisloPop>1309</are:cisloPop>
+    <are:cisloOr>4</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-03-31</are:DatumZapisu>
+   <are:DatumVymazu>2017-05-05</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost VOKA-PLUS s.r.o. v likvidaci, identifikační číslo 261 67 921 se vymazává z obchodního rejstříku vedeného u Městského soudu v Praze z oddílu C, vložka 76359. Právní důvod výmazu: ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Svářečské práce
+     </are:Text>
+     <are:Text>
+Stavební práce nevyžadující odbornou kvalifikaci
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-03-31" dvy="2017-05-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-03-31" dvy="2017-05-05">
+    <are:Text>
+Jednatel jedná ve všech věcech společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-03-31" dvy="2016-11-24">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Mělník</are:okres>
+      <are:obec>Neratovice</are:obec>
+      <are:ulice>ul. Kojetická</are:ulice>
+      <are:cisloTxt>1023</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Oliynyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-24" dvy="2017-05-05">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17194431</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75654</are:psc>
+      <are:okres>Vsetín</are:okres>
+      <are:obec>Zubří</are:obec>
+      <are:castObce>Zubří</are:castObce>
+      <are:ulice>Sídlištní</are:ulice>
+      <are:cisloPop>687</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ANDRIY</are:jmeno>
+     <are:prijmeni>OLIYNYK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-03-07" dvy="2017-05-05">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-03-07" dvy="2016-12-22">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21713481</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Opletalova</are:ulice>
+      <are:cisloPop>1683</are:cisloPop>
+      <are:cisloOr>41</are:cisloOr>
+     </are:adresa>
+     <are:ICO>29059054</are:ICO>
+     <are:ObchodniFirma>Hlista &amp; Pril, v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-22" dvy="2017-05-05">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21712409</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Opletalova</are:ulice>
+      <are:cisloPop>1525</are:cisloPop>
+      <are:cisloOr>39</are:cisloOr>
+     </are:adresa>
+     <are:ICO>29059054</are:ICO>
+     <are:ObchodniFirma>Hlista &amp; Pril, v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-03-31" dvy="2017-05-05">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, obec Podorožné č. 67</are:text>
+     </are:adresa>
+     <are:jmeno>Oliynyk</are:jmeno>
+     <are:prijmeni>Andriy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, obec Podorožné č. 5</are:text>
+     </are:adresa>
+     <are:prijmeni>Boykiv Vasyl, nar. 24.2.1967</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, obec Podorožné č. 86</are:text>
+     </are:adresa>
+     <are:prijmeni>Huk Vasyl, nar. 18.8.1969</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, obec Podorožné č. 25</are:text>
+     </are:adresa>
+     <are:prijmeni>Shymanskyy Ivan, nar. 16.7.1955</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, obec Suljatyči č. 24</are:text>
+     </are:adresa>
+     <are:prijmeni>Boychuk Vasyl, nar. 22.5.1971</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, obec Pidhorodci č. 17</are:text>
+     </are:adresa>
+     <are:prijmeni>Zhuravchak Ivan, nar. 30.6.1974</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, obec Zavadiv č. 73</are:text>
+     </are:adresa>
+     <are:prijmeni>Pavliv Mykhaylo, nar. 3.5.1973</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>město Ivano-Frankivsk, ul. Molodižna č. 32/103</are:text>
+     </are:adresa>
+     <are:prijmeni>Kycmanyuk Vasyl, nar. 16.7.1967</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>město Ivano-Frankivsk, ul. Herojiv UPA č. 6/91</are:text>
+     </are:adresa>
+     <are:prijmeni>Gotra Myroslav, nar. 21.2.1956</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, město Drohobyč, ul. Volod. Velykoho č. 19/16</are:text>
+     </are:adresa>
+     <are:prijmeni>Dubyk Mykhaylo, nar. 26.7.1960</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, město Drohobyč, ul. Volod. Velykoho č. 19/32</are:text>
+     </are:adresa>
+     <are:jmeno>Shumyn</are:jmeno>
+     <are:prijmeni>Yevstakhyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, město Striy, ul. Ševčenka č. 12/3</are:text>
+     </are:adresa>
+     <are:prijmeni>Hrytsan Petro, nar. 8.8.1970</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-31" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, město Boryslav, ul. Mickevyča č. 29/2</are:text>
+     </are:adresa>
+     <are:prijmeni>Hedeon Mykhaylo, nar. 15.7.1957</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-11-29" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, obec Podorožné č. 49</are:text>
+     </are:adresa>
+     <are:prijmeni>Kos Volodymyr, nar. 15.8.1966</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-11-29" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>okres Lviv, obec Podorožné č. 59</are:text>
+     </are:adresa>
+     <are:prijmeni>Spivak Vasyl, nar. 1.1.1962</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

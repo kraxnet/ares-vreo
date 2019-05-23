@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-04-23T15:37:55"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-04-23</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-04-23</are:Datum_vypisu>
+   <are:Cas_vypisu>15:37:55</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>SR</are:Rejstrik>
+   <are:ICO>26995140</are:ICO>
+   <are:ObchodniFirma>Centrum pasivního domu, z.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>19099533</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>60200</are:psc>
+    <are:okres>Brno-město</are:okres>
+    <are:obec>Brno</are:obec>
+    <are:castObce>Brno-město</are:castObce>
+    <are:ulice>Údolní</are:ulice>
+    <are:cisloPop>567</are:cisloPop>
+    <are:cisloOr>33</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2005-04-07</are:DatumVzniku>
+   <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Posláním CPD je:
+a) ochrana životního prostředí, klimatu, přírody a krajiny,
+b) podpora udržitelného rozvoje ve stavebnictví,
+c) zvyšování kvality bydlení,
+d) podpora stavění v pasivním a lepším standardu (dále jen jako pasivní domy).
+ 
+Pasivní domy jsou budovy splňující požadavky na vysokou kvalitu vnitřního prostředí, které jsou díky velmi nízké spotřebě energie šetrné k životnímu prostředí a současně v souladu s konceptem udržitelné výstavby. Realizace pasivních domů vyžaduje detailní
+ znalosti architektů, projektantů, poradců, realizačních firem, řemeslníků, výrobců a ostatních zúčastněných, pečlivost, zodpovědnost a zajištění vysoké kvality při návrhu a provádění.
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2016-01-23">
+   <are:Nazev>Ředitel</are:Nazev>
+   <are:ZpusobJednani dza="2016-01-23">
+    <are:Text>
+Ředitel zastupuje CPD navenek a jedná jeho jménem samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2016-01-23" dvy="2018-04-10">
+    <are:funkce>
+     <are:nazev>Ředitel</are:nazev>
+     <are:vznikFunkce>2015-11-25</are:vznikFunkce>
+     <are:zanikFunkce>2018-02-28</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19381557</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62300</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Kohoutovice</are:castObce>
+      <are:ulice>Myslivní</are:ulice>
+      <are:cisloPop>235</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>BÁRTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-10">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+     <are:vznikFunkce>2018-03-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5677718</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Pod Vinicí</are:ulice>
+      <are:cisloPop>1390</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>VANICKÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

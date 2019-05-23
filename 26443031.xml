@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-06-22T15:59:18"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-06-22</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-06-22</are:Datum_vypisu>
+   <are:Cas_vypisu>15:59:18</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26443031</are:ICO>
+   <are:ObchodniFirma>ASIHMA I.M.M.  s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21904197</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Michle</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Děkanská</are:ulice>
+    <are:cisloPop>201</are:cisloPop>
+    <are:cisloOr>10</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-04-02</are:DatumZapisu>
+   <are:DatumVymazu>2018-06-14</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost ASIHMA I.M.M. s.r.o. v likvidaci, se sídlem Děkanská 201/10, Michle, 140 00 Praha 4, IČO: 26443031. Právní důvod výmazu: ukončení likvidace (společnost byla zrušena s likvidací, a to rozhodnutím soudu) - výmaz dle ust. § 82 odst. 1
+zákona č. 304/2013 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-04-02" dvy="2018-06-14">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-04-02" dvy="2018-06-14">
+    <are:Text>
+Jménem společnosti jedná jednatel samostatně. Podepisování za
+společnost se děje tak, že k tištěné nebo psané obchodní firmě
+společnosti připojí svůj vlastnoruční podpis jednatel
+společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2001-04-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Strakonice</are:okres>
+      <are:obec>Chelčice 100</are:obec>
+      <are:castObce>Zemědělské družstvo</are:castObce>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Tyasko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-08-07" dvy="2018-06-14">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-08-07" dvy="2018-06-14">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>24229296</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73301</are:psc>
+      <are:okres>Karviná</are:okres>
+      <are:obec>Karviná</are:obec>
+      <are:castObce>Fryštát</are:castObce>
+      <are:ulice>Svatováclavská</are:ulice>
+      <are:cisloPop>97</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:ICO>72015594</are:ICO>
+     <are:ObchodniFirma>Advokátní kancelář JUDr. Patrik Graňák</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-04-02" dvy="2018-06-14">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Neresnycja, I. Franka 179</are:text>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Hasynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Monastyrec, Molodižna 23</are:text>
+     </are:adresa>
+     <are:jmeno>Nadiya</are:jmeno>
+     <are:prijmeni>Balytska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Vilchivci, Vilchivčik 164</are:text>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Kubynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Zarika 75</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Kubynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Bilovarci, Kubyncja 3O</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Medvid</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ternovo, Lenina 2</are:text>
+     </are:adresa>
+     <are:jmeno>Nadiya</are:jmeno>
+     <are:prijmeni>Hasynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Zarika 52</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Chendei</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Zarika 68</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Demyda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Neresnicya, Molodižna 57</are:text>
+     </are:adresa>
+     <are:jmeno>Kvita</are:jmeno>
+     <are:prijmeni>Herych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Tysolovo, Čapajeva 45</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Tyasko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Vilchivci, Vilchivčik 9O</are:text>
+     </are:adresa>
+     <are:jmeno>Pavlo</are:jmeno>
+     <are:prijmeni>Dzuhan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Sadova 45</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Drahun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:text>Minsk, Akubskogo 19</are:text>
+     </are:adresa>
+     <are:jmeno>Uladzimir</are:jmeno>
+     <are:prijmeni>Vazhnik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Drogobyč, V. Velikogo 46/75</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Kost</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Sadova 31</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Drahun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Poljanska 14</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Pavlyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Poljanska 38</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Drahun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Poljanska 27</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Tokar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Poljanska 34</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Drahun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Pidgirna 43</are:text>
+     </are:adresa>
+     <are:jmeno>Myroslav</are:jmeno>
+     <are:prijmeni>Tsubera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Zarika 28</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Prodanets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Borkanyuka 26O</are:text>
+     </are:adresa>
+     <are:jmeno>Nadiya</are:jmeno>
+     <are:prijmeni>Tyasko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Borkanyuka 232</are:text>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Antoniy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Borkanyuka 232</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Antoniy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja , Borkanyuka 135</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Pavlyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja,Borkanyuka 255</are:text>
+     </are:adresa>
+     <are:jmeno>Vasylana</are:jmeno>
+     <are:prijmeni>Holubka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Borkanyuka 255</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Holubka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja,Borkanyuka 115</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Shevchenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Borkanyuka 115</are:text>
+     </are:adresa>
+     <are:jmeno>Yevhen</are:jmeno>
+     <are:prijmeni>Shevchenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Vajdy 1O</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Holubka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Monastirec, Gagarina 42</are:text>
+     </are:adresa>
+     <are:jmeno>Lesya</are:jmeno>
+     <are:prijmeni>Balytska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankovsk, Čornovola 142/73</are:text>
+     </are:adresa>
+     <are:jmeno>Galyna</are:jmeno>
+     <are:prijmeni>Semanyshyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Širokij Lug 157</are:text>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Pokovba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Černotysov, Poljevaja 2</are:text>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Tomyshynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Žornava 1O4</are:text>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Platko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Mižgirja,Dobroljubova 11/9</are:text>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Krasnyanyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Vajdy 39</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Tyasko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Neresnicya , Myra 52</are:text>
+     </are:adresa>
+     <are:jmeno>Zinayida</are:jmeno>
+     <are:prijmeni>Sasyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Synevirska-Poljana 241</are:text>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Rusnak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Sadova 15</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Tokar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselycja, Kubyncja 44</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Drahun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Orša, Grečichy 1O</are:text>
+     </are:adresa>
+     <are:jmeno>Natallia</are:jmeno>
+     <are:prijmeni>Batura</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ternovo, Lenina 262</are:text>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Ferenchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Kyšiniv , Ratuch 12</are:text>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Frunze</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Kolodno, Gagarina 31</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Danylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Vilchivci , Vilchivčik 232</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Kubynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Buštino, Naberežna 11</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Skotar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Vonihovo, Lenina 95</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Rak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Bedeolija, Hlavnaja 45a</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Oprish</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-02" dvy="2018-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Novoselycja, Borkanyuka 26O, Ukrajina, v ČR bytem Zemědělské družstvo, Chelčice 1OO, okres Strakonice</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Tyasko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

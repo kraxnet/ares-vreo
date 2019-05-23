@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:39:56"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:39:56</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>16189256</are:ICO>
+   <are:ObchodniFirma>IMPEX Gottfried Kiefl spol. s r. o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24510335</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Plzeň</are:obec>
+    <are:ulice>Kyjevská</are:ulice>
+    <are:cisloTxt>13</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-03-13</are:DatumZapisu>
+   <are:DatumVymazu>1997-04-24</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+obchod se zbožím všeho druhu včetně importu a exportu s výjimkou
+zboží, u nějž obecně závazné právní předpisy vyžadují zvláštní
+povolení
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-03-13" dvy="1997-04-24">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-03-13" dvy="1993-04-02">
+    <are:Text>
+Způsob jednání za společnost:
+Společnost navenek zastupuje a za ni podepisuje jediný společník
+- zakladatel, a to tak, že k názvu společnosti připojí svůj
+podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-04-02" dvy="1997-04-24">
+    <are:Text>
+Způsob jednání jménem společnosti:
+Jménem společnosti navenek jedná a podepisuje jednatel
+společnosti, samostatně, bez jakéhokoli omezení.
+Podepisování za společnost se děje tak, že k názvu
+společnosti připojí jednatel svůj vlastnoruční podpis
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-03-13" dvy="1993-04-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>8491 Pemfling</are:obec>
+      <are:ulice>Sportplatzweg 3, SRN</are:ulice>
+     </are:adresa>
+     <are:jmeno>Gottfried</are:jmeno>
+     <are:prijmeni>Kiefl</are:prijmeni>
+     <are:titulZa>ženatý</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-02" dvy="1994-05-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21694427</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Malostranské nám.</are:ulice>
+      <are:cisloTxt>38/24</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohdan</are:jmeno>
+     <are:prijmeni>Hallada</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-05-04" dvy="1997-04-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5-Řeporyje</are:obec>
+      <are:ulice>Libečkova 201/6</are:ulice>
+     </are:adresa>
+     <are:jmeno>Gottfried</are:jmeno>
+     <are:prijmeni>Kiefl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-06-10" dvy="1997-04-24">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30154</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Habrmanova</are:ulice>
+      <are:cisloTxt>27</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jarmila</are:jmeno>
+     <are:prijmeni>Kovaříková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-03-13" dvy="1997-04-24">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-03-13" dvy="1997-04-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>8491 Pemfling</are:obec>
+      <are:ulice>Sportplatzweg 3, SRN</are:ulice>
+     </are:adresa>
+     <are:jmeno>Gottfried</are:jmeno>
+     <are:prijmeni>Kiefl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:39:57</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>16189256</are:ICO>
+   <are:ObchodniFirma>IMPEX Gottfried Kiefl spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24510335</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Plzeň</are:obec>
+    <are:ulice>Kyjevská</are:ulice>
+    <are:cisloTxt>13</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-03-13</are:DatumZapisu>
+   <are:DatumVymazu>1995-03-22</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+obchod se zbožím všeho druhu včetně importu a exportu s výjim-
+ kou zboží, u nějž obecně závazné právní předpisy vyžadují
+ zvláštní povolení
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-03-13" dvy="1995-03-22">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-03-13" dvy="1993-04-02">
+    <are:Text>
+Společnost navenek zastupuje a za ni podepisuje jediný společník-
+zakladatel, a to tak, že k názvu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-04-02" dvy="1995-03-22">
+    <are:Text>
+Způsob jednání jménem společnosti: Jménem společnosti
+navenek jedná a podepisuje jednatel společnosti, samostatně,
+bez jakéhokoli omezení. Podepisování za společnost se
+děje tak, že k názvu společnosti připojí jednatel svůj
+vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-03-13" dvy="1993-04-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>8491 Pemfling, SRN</are:obec>
+      <are:ulice>Sportplatzweg 3</are:ulice>
+     </are:adresa>
+     <are:jmeno>Gottfried</are:jmeno>
+     <are:prijmeni>Kiefl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-02" dvy="1994-05-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21694427</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Malostranské nám.</are:ulice>
+      <are:cisloTxt>38/24</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohdan</are:jmeno>
+     <are:prijmeni>Hallada</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-05-04" dvy="1995-03-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5-Řeporyje</are:obec>
+      <are:ulice>Libečkova 2O1/6</are:ulice>
+     </are:adresa>
+     <are:jmeno>Gottfried</are:jmeno>
+     <are:prijmeni>Kiefl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-03-13" dvy="1995-03-22">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-03-13" dvy="1995-03-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>8491 Pemfling, SRN</are:obec>
+      <are:ulice>Sportplatzweg 3</are:ulice>
+     </are:adresa>
+     <are:jmeno>Gottfried</are:jmeno>
+     <are:prijmeni>Kiefl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

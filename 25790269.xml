@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T21:34:55"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>21:34:56</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25790269</are:ICO>
+   <are:ObchodniFirma>Družstvo Zálesí v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21874492</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Štúrova</are:ulice>
+    <are:cisloTxt>1701/55</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-08-23</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem nemovitostí, bytových a nebytových prostor a
+poskytování základních služeb s tímto pronájmem spojené
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-08-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-08-23" dvy="2000-03-01">
+    <are:Text>
+Způsob jednání za družstvo: Za družstvo jedná navenek předseda
+družstva, v době jeho nepřítomnosti místopředseda družstva.
+Je-li však pro prání úkon předepsána písemná forma, je třeba k
+názvu družstva připojit podpisy předsedy a místopředsedy
+družstva, nebo v případě nepřítomnosti předsedy družstva podpisy
+obou místopředsedů.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2000-03-01">
+    <are:Text>
+Způsob jednání za družstvo: Za družstvo jedná navenek předseda
+družstva, v době jeho nepřítomnosti l.místopředseda
+představenstva, popřípadě 2. místopředseda představenstva.
+Je-li však pro právní úkon předepsána písemná forma, je třeba k
+názvu družstva připojit podpisy předsedy představenstva a
+jednoho z  místopředsedů představenstva, nebo podpisy obou
+místopředsedů představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-08-28">
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2004-01-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11648961</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28522</are:psc>
+      <are:obec>Zruč nad Sázavou</are:obec>
+      <are:ulice>Na Výsluní</are:ulice>
+      <are:cisloTxt>754</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Romana</are:jmeno>
+     <are:prijmeni>Grudová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-08-28">
+    <are:funkce>
+     <are:nazev>místopředseda družstva</are:nazev>
+     <are:vznikFunkce>2004-01-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21874492</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Štúrova</are:ulice>
+      <are:cisloTxt>1701/55</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radka</are:jmeno>
+     <are:prijmeni>Jelínková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1999-08-23" dvy="2004-08-28">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:Clen dza="1999-08-23" dvy="2000-03-01">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21733414</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Praha 2</are:okres>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Benátská</are:ulice>
+      <are:cisloTxt>1714/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lumír</are:jmeno>
+     <are:prijmeni>Žila</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-23" dvy="2000-03-01">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22084916</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Vrázova</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dalibor</are:jmeno>
+     <are:prijmeni>Miketa</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-23" dvy="2000-03-01">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24526843</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32005</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Luďka Pika</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Tauer</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-01" dvy="2000-06-15">
+    <are:funkce>
+     <are:nazev>2.místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24526843</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32005</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Luďka Pika</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Tauer</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-01" dvy="2003-05-20">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:zanikFunkce>2003-01-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21733414</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Praha 2</are:okres>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Benátská</are:ulice>
+      <are:cisloTxt>1714/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lumír</are:jmeno>
+     <are:prijmeni>Žila</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-01" dvy="2003-05-20">
+    <are:funkce>
+     <are:nazev>l. místopředseda</are:nazev>
+     <are:zanikFunkce>2003-01-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22084916</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Vrázova</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dalibor</are:jmeno>
+     <are:prijmeni>Miketa</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-06-15" dvy="2003-05-20">
+    <are:funkce>
+     <are:nazev>2.místopředseda</are:nazev>
+     <are:zanikFunkce>2003-01-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Blažovského</are:ulice>
+      <are:cisloTxt>542</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Fryč</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-05-20" dvy="2004-08-28">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2003-01-30</are:vznikFunkce>
+     <are:zanikFunkce>2004-01-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21774455</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Bořivojova</are:ulice>
+      <are:cisloTxt>85/745</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloš</are:jmeno>
+     <are:prijmeni>Hora</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-05-20" dvy="2004-08-28">
+    <are:funkce>
+     <are:nazev>l. místopředseda</are:nazev>
+     <are:vznikFunkce>2003-01-30</are:vznikFunkce>
+     <are:zanikFunkce>2004-01-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21874492</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Štúrova</are:ulice>
+      <are:cisloTxt>1701/55</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radka</are:jmeno>
+     <are:prijmeni>Voříšková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-05-20" dvy="2004-08-28">
+    <are:funkce>
+     <are:nazev>2.místopředseda</are:nazev>
+     <are:vznikFunkce>2003-01-30</are:vznikFunkce>
+     <are:zanikFunkce>2004-01-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21783080</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Hořanská</are:ulice>
+      <are:cisloTxt>2/1514</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Monika</are:jmeno>
+     <are:prijmeni>Šneiderová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-05-20" dvy="2004-08-28">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2003-01-30</are:vznikFunkce>
+     <are:zanikFunkce>2004-01-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2942372</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Benešov</are:obec>
+      <are:ulice>Na Svépomoci</are:ulice>
+      <are:cisloTxt>1094</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimil</are:jmeno>
+     <are:prijmeni>Vavřín</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-05-20" dvy="2004-08-28">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2003-01-30</are:vznikFunkce>
+     <are:zanikFunkce>2004-01-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21874492</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Štúrova</are:ulice>
+      <are:cisloTxt>1701/55</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andrea</are:jmeno>
+     <are:prijmeni>Lomozová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2004-08-28">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="2004-08-28">
+    <are:Text>
+Likvidátor jménem družstva činí všechny úkony směřující k likvidaci družstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-08-28" dvy="2013-06-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22084916</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Vrázova</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dalibor</are:jmeno>
+     <are:prijmeni>Miketa</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-06-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22084916</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Smíchov</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Vrázova</are:ulice>
+      <are:cisloPop>983</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DALIBOR</are:jmeno>
+     <are:prijmeni>MIKETA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

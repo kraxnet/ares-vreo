@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-07T10:18:25"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-07</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-07</are:Datum_vypisu>
+   <are:Cas_vypisu>10:18:25</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26466571</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků domu Střimelická 2492,2493,2494,2495, Praha</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21994731</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14100</are:psc>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Záběhlice</are:castObce>
+    <are:ulice>Střimelická</are:ulice>
+    <are:cisloTxt>2494/6</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-08-18</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Zajišťování správy domu a pozemku.
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-08-18">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-08-18" dvy="2015-01-19">
+    <are:Text>
+Za společenství jedná předseda výboru nebo výborem písemně
+pověřený člen výboru. Při podepisování za společenství k názvu
+společenství připojí svůj podpis předseda a další člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-01-19">
+    <are:Text>
+Za výbor jedná navenek jeho předseda. V době nepřítomnosti předsedy jej zastupuje místopředseda. Jde-li o písemné právní jednání, které činí výbor, podepisuje jej předseda nebo v jeho zastoupení místopředseda a další člen výboru. Podepisuje - li předseda
+spolu s místopředsedou, je podpis místopředsedy považován za podpis dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-08-18" dvy="2003-02-26">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-30</are:vznikFunkce>
+     <are:zanikFunkce>2002-11-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994731</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2494/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Zadražil</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-08-18" dvy="2003-02-26">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2000-11-30</are:vznikFunkce>
+     <are:zanikFunkce>2002-11-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994749</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2495/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Bobysudová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-08-18" dvy="2005-02-03">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-30</are:vznikFunkce>
+     <are:zanikFunkce>2004-11-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994731</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2494/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Šula</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-26" dvy="2005-02-03">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2002-11-27</are:vznikFunkce>
+     <are:zanikFunkce>2004-11-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994722</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2493/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Chvojková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-26" dvy="2005-02-03">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2002-11-27</are:vznikFunkce>
+     <are:zanikFunkce>2004-11-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994714</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2492/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Komínek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-26" dvy="2005-02-03">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2002-11-27</are:vznikFunkce>
+     <are:zanikFunkce>2004-11-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994722</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2493/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Škrábal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-26" dvy="2005-02-03">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2002-11-27</are:vznikFunkce>
+     <are:zanikFunkce>2004-11-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994731</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2494/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Klimeš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-26" dvy="2005-02-03">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2002-11-27</are:vznikFunkce>
+     <are:zanikFunkce>2004-11-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22708260</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10400</are:psc>
+      <are:okres>Praha 10</are:okres>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Křeslice</are:castObce>
+      <are:ulice>Na Rovině</are:ulice>
+      <are:cisloTxt>73</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Mrázek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-03" dvy="2008-06-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-11-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2007-10-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2004-12-09</are:vznikFunkce>
+     <are:zanikFunkce>2007-10-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994722</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2493/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Vitovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-03" dvy="2008-06-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-11-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994749</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2495/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Čebiš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-03" dvy="2015-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-11-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2004-12-09</are:vznikFunkce>
+     <are:zanikFunkce>2009-11-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994722</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2493/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Chvojková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-03" dvy="2015-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-11-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994731</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2494/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Božena</are:jmeno>
+     <are:prijmeni>Šrotová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-03" dvy="2015-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-11-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994731</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2494/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiřina</are:jmeno>
+     <are:prijmeni>Doležalová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-27" dvy="2015-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-11-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2007-11-20</are:vznikFunkce>
+     <are:zanikFunkce>2009-11-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994749</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2495/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Čebiš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2014-12-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994722</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2493/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Chvojková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2014-12-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994749</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2495/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Čebiš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-01-19" dvy="2015-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-11-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2009-11-24</are:vznikFunkce>
+     <are:zanikFunkce>2014-11-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994722</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2493/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Chvojková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-01-19" dvy="2015-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-11-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2009-11-24</are:vznikFunkce>
+     <are:zanikFunkce>2014-11-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994749</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2495/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Čebiš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-01-19" dvy="2015-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-11-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-12-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994749</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Záběhlice</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloPop>2495</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LADISLAVA</are:jmeno>
+     <are:prijmeni>MEZGEROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-01-19" dvy="2015-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-11-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střímelická</are:ulice>
+      <are:cisloTxt>2492</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Lišková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-01-19" dvy="2015-11-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střímelická</are:ulice>
+      <are:cisloTxt>2492</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Lišková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-11" dvy="2019-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994714</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Záběhlice</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloPop>2492</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>LIŠKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21993858</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Záběhlice</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>U mlýna</are:ulice>
+      <are:cisloPop>1930</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>LIŠKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-07</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-07</are:Datum_vypisu>
+   <are:Cas_vypisu>10:18:25</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26466571</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků domů Záběhlice 2492-2495</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21994731</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14100</are:psc>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Záběhlice</are:castObce>
+    <are:ulice>Střimelická</are:ulice>
+    <are:cisloTxt>2494/6</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-08-18</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa, provoz a opravy společných částí domu, vymezeným
+způsobem (dle zák. 72/1994)
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-08-18" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-08-18" dvy="2001-12-31">
+    <are:Text>
+Za společenství jedná předseda výboru nebo výborem písemně
+pověřený člen výboru. Při podepisování za společenství k názvu
+společenství připojí svůj podpis předseda a další člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-08-18" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994731</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2494/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Šula</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-08-18" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994731</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2494/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Zadražil</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-08-18" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2000-11-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21994749</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Střimelická</are:ulice>
+      <are:cisloTxt>2495/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Bobysudová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

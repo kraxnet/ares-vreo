@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T05:38:48"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>05:38:49</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26729148</are:ICO>
+   <are:ObchodniFirma>BUGA STAV s.r.o.,v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>2</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14100</are:psc>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Spořilov</are:castObce>
+    <are:ulice>Žilinská</are:ulice>
+    <are:cisloTxt>216</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-10-02</are:DatumZapisu>
+   <are:DatumVymazu>2011-06-20</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor a poskytování
+základních služeb spojených s pronájmem dle § 4 živnostenského
+zákona
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-10-02" dvy="2011-06-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-10-02" dvy="2011-06-20">
+    <are:Text>
+Společnost zastupuje ve všech věcech jednatel. Podepisování se
+provádí tak, že k napsanému či vytištěnému obchodnímu názvu
+společnosti připojí svůj podpis jednatel s uvedením jména a
+funkce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2002-10-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>V Lužích</are:ulice>
+      <are:cisloTxt>1E/10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Omelyan</are:jmeno>
+     <are:prijmeni>Myshanych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-11-18" dvy="2011-06-20">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2009-11-18" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21705003</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloTxt>709/33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gabriel</are:jmeno>
+     <are:prijmeni>Žilinský</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2002-10-02" dvy="2011-06-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>V Lužích</are:ulice>
+      <are:cisloTxt>1E/10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Omelyan</are:jmeno>
+     <are:prijmeni>Myshanych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Rostoky, Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Kostan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Rostoky, Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Tetynyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Stebnyk, Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Ilyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ternopilská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Kukhtyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Valeriy</are:jmeno>
+     <are:prijmeni>Veretko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Hmelnická obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Artur</are:jmeno>
+     <are:prijmeni>Gizhytskiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Kazahstan</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Tenka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Hutnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Rachivski okr., Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Kokish</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Rachivski okr., Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Vlad</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ostrog, Rivenská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Basikashili</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhej</are:text>
+     </are:adresa>
+     <are:jmeno>Valeriu</are:jmeno>
+     <are:prijmeni>Cicala</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhej</are:text>
+     </are:adresa>
+     <are:jmeno>Genadie</are:jmeno>
+     <are:prijmeni>Nazari</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ialoveni, m. Bardar</are:text>
+     </are:adresa>
+     <are:jmeno>Andrei</are:jmeno>
+     <are:prijmeni>Luchita</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Serghei</are:jmeno>
+     <are:prijmeni>Cicala</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Ialoveni</are:text>
+     </are:adresa>
+     <are:jmeno>Rafael</are:jmeno>
+     <are:prijmeni>Midoni</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Ialoveni</are:text>
+     </are:adresa>
+     <are:jmeno>Victor</are:jmeno>
+     <are:prijmeni>Mereacre</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Iršava, m. Dovhe, Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Kerechanyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhej</are:text>
+     </are:adresa>
+     <are:jmeno>Victor</are:jmeno>
+     <are:prijmeni>Buruian</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>CHarkiv, Charkivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Anzhelika</are:jmeno>
+     <are:prijmeni>Gavrylenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Kolomyjskij okr., Ivano-Frankivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Pashnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Čerkasy, Čerkaská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Shaposhnik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, Lvivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Medelyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ternopil, Ternopilská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Bahyrych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Rachivskyy okr., Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Pop</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>642</are:stat>
+      <are:text>Iasi</are:text>
+     </are:adresa>
+     <are:jmeno>Viorel</are:jmeno>
+     <are:prijmeni>Besliu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>100</are:stat>
+      <are:text>Sofija</are:text>
+     </are:adresa>
+     <are:prijmeni>Salamanov Kosta Boyanov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Kolomyja, Ivano-Frankivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Prokopiy</are:jmeno>
+     <are:prijmeni>Pavlyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-02" dvy="2011-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Kolomyja, Ivano-Frankivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Tatyana</are:jmeno>
+     <are:prijmeni>Vatashchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

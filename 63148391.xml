@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T05:44:11"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>05:44:11</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>63148391</are:ICO>
+   <are:ObchodniFirma>RAJTR spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23461926</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Česká Lípa</are:obec>
+    <are:ulice>Klášterní</are:ulice>
+    <are:cisloTxt>248</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-08-25</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej kromě
+ léčiv, zboží živností vázaných a koncesovaných
+     </are:Text>
+     <are:Text>
+poskytování software (prodej hotových programů na základě
+ smlouvy s autory nebo vyhotovování programů na zakázku)
+     </are:Text>
+     <are:Text>
+služby ve výpočetní technice kromě činností živností vázaných
+ a koncesovaných
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v rozsahu působnosti živnostenského
+ zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-08-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-08-25">
+    <are:Text>
+Jednatel jedná jménem společnosti navenek a podepisuje tak, že
+k obchodnímu jménu společnosti připojí svůj podpis uvedený na
+podpisovém vzoru. Je-li jednatelů více, jsou oprávněni
+zastupovat společnost samostatně s výjimkou prodeje a pronájmu
+nemovitostí náležejících společnosti, kde je zapotřebí
+podpisů nejméně dvou jednatelů, popř. jediného jednatele
+vybaveného písemnou plnou mocí, kterou jej druhý jednatel
+pověří svým zastoupením.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-08-25" dvy="2015-11-07">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23461926</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>Klášterní</are:ulice>
+      <are:cisloTxt>248</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Rajtr</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-07">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23461926</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>47001</are:psc>
+      <are:obec>Česká Lípa</are:obec>
+      <are:castObce>Česká Lípa</are:castObce>
+      <are:ulice>Klášterní</are:ulice>
+      <are:cisloPop>248</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>RAJTR</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-08-25">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-08-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23455250</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>Lada</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Vopalecký</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-08-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23480343</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>Klášterní</are:ulice>
+      <are:cisloTxt>2265</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Černý</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23461926</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>47001</are:psc>
+      <are:obec>Česká Lípa</are:obec>
+      <are:castObce>Česká Lípa</are:castObce>
+      <are:ulice>Klášterní</are:ulice>
+      <are:cisloPop>248</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>RAJTR</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

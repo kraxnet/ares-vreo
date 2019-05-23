@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-15T22:25:13"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-15</are:Datum_vypisu>
+   <are:Cas_vypisu>22:25:13</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27243214</are:ICO>
+   <are:ObchodniFirma>Bytové družstvo LEGEROVA 20</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21734828</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:obec>Praha 2</are:obec>
+    <are:ulice>Legerova</are:ulice>
+    <are:cisloTxt>20/1855</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2005-05-16</are:DatumZapisu>
+   <are:DatumVymazu>2015-04-29</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Notářský zápis ze dne 11. dubna 2013 o zrušení Bytového družstva Legerova 20, Praha 2 - Nové Město, Legerova 1855/20, IČO 27243214 likvidací.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa a provoz bytového fondu a nebytových prostor a hospodaření se společným majetkem družstva, zejména:
+a) zajišťování údržby, oprav a rekonstrukce bytových a nebytových objektů pro členy,
+b) zajišťování plnění spojených s bydlením,
+c) přidělování družstevních bytů (garáží, atelierů),
+d) uzavírání nájemních smluv k bytům a nebytovým prostorům
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2005-05-16" dvy="2015-04-29">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2005-05-16" dvy="2015-04-29">
+    <are:Text>
+Způsob jednání za družstvo:
+Předseda jedná za družstvo navenek, je-li však pro právní úkon, který činí předseda, předepsána písemná forma, je třeba podpisu i dalšího člena pověřeného členskou schůzí.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2005-05-16" dvy="2006-07-25">
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2005-05-16</are:vznikFunkce>
+     <are:zanikFunkce>2006-07-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21734828</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Legerova</are:ulice>
+      <are:cisloTxt>20/1855</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Dvořák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-05-16" dvy="2015-04-29">
+    <are:funkce>
+     <are:nazev>pověřený člen družstva</are:nazev>
+     <are:vznikFunkce>2005-05-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21734828</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Legerova</are:ulice>
+      <are:cisloTxt>20/1855</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Barták</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-07-25" dvy="2015-04-29">
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2006-07-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21734828</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Legerova</are:ulice>
+      <are:cisloTxt>1855/20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Hanc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

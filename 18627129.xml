@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T07:28:43"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>07:28:43</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>18627129</are:ICO>
+   <are:ObchodniFirma>OPTICENTRUM, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22499164</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19000</are:psc>
+    <are:obec>Praha 9</are:obec>
+    <are:ulice>Drahobejlova</are:ulice>
+    <are:cisloTxt>43/1255</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-04-16</are:DatumZapisu>
+   <are:DatumVymazu>2005-10-15</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zřízení a provoz velkoobchodu s oční optikou, veškeré práce a ma-
+nipulace se skly a brýlovými obrubami, nákup a prodej věcí a
+zboží potřebného pro provz oční optiky, veškeré opravy brýlí a
+brýlových obrub včetně pájení, kontaktní čočky, zajištění veš-
+kerých optických služeb včetně měření dioptrií v rozsahu služeb
+zajišťovaných s.p. Oční optika, výroba brýlí dle předpisů
+lékařů, čistící prostředky na kontaktní čočky, doplňkový prodej
+spotřebního zboží
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-04-16" dvy="2005-10-15">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-04-16" dvy="2005-10-15">
+    <are:Text>
+Za společnost jedná a za společnost podepisuje obchodní ředitel
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-04-16" dvy="2005-10-15">
+    <are:funkce>
+     <are:nazev>obchodní ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>5307 Wachtberg</are:obec>
+      <are:ulice>Willip, Wisengrund 10,</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Stazsko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2004-11-23" dvy="2005-10-15">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2004-11-23" dvy="2005-10-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22641483</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Čtyřkolská</are:ulice>
+      <are:cisloTxt>169</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dana</are:jmeno>
+     <are:prijmeni>Štumpová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-04-16" dvy="2005-10-15">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-04-16" dvy="2005-10-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>5307 Wachtberg,SRN</are:obec>
+      <are:ulice>Willip, Wisengrund 10</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Stazsko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-04-16" dvy="2005-10-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>6336 Solms,SRN</are:obec>
+      <are:ulice>Kastanienweg 4</are:ulice>
+     </are:adresa>
+     <are:jmeno>Peter</are:jmeno>
+     <are:prijmeni>Fuess</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

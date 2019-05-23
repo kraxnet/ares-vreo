@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:29:33"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:29:33</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>15545474</are:ICO>
+   <are:ObchodniFirma>&quot;IBN Company, spol. s r.o.&quot; - v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>999999999</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Brno</are:obec>
+    <are:ulice>Voroněžská</are:ulice>
+    <are:cisloTxt>1</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-04-15</are:DatumZapisu>
+   <are:DatumVymazu>2011-01-25</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+-dovoz, vývoz, velkoobchodní a maloobchodní prodej v tomto
+sortimentu zboží: textil, galanterie, konfekce, koberce, výrobky
+z kůže, obuv, kožešiny a výrobky z nich, sportovní a turistické
+potřeby, kosmetika, parfumerie, prací prášky, fotomateriál,
+fotopřístroje, sklo, porcelán, kancelářské a školníé potřeby,
+knihy, zlatnické výrobky a bižuterie, výrobky ze stříbra, hodiny,
+klenoty, domácí potřeby, el. spotřebiče, kuchyňské potřeby,
+nábytek a bytové doplňky, elektronika, měřící přístroje, kazety,
+stavební materiál, instalační materiál, elektromateriál, motorová
+vozidla a náhradní díly, autokosmetika, cigarety, potraviny,
+pochutiny, nápoje alkoholické i nealkoholické, ovoce, zelenina,
+květiny a jejich semena
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-04-15" dvy="2011-01-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-11-24" dvy="2011-01-25">
+    <are:Text>
+Způsob zastupování: Za společnost jedná a podepisuje
+likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-04-15" dvy="1993-11-24">
+    <are:funkce>
+     <are:nazev>společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jugoslávie, S.R. Hrvatska</are:obec>
+      <are:ulice>TRG. M. Tita 3, Petrinja</are:ulice>
+     </are:adresa>
+     <are:jmeno>Pjeter</are:jmeno>
+     <are:prijmeni>Nikolaj</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-04-15" dvy="1993-11-24">
+    <are:funkce>
+     <are:nazev>společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jugoslavie, S.R. Hrvatska</are:obec>
+      <are:ulice>I. Jeličica bb. Selce</are:ulice>
+     </are:adresa>
+     <are:jmeno>Islami</are:jmeno>
+     <are:prijmeni>Edmond</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-04-15" dvy="1993-11-24">
+    <are:funkce>
+     <are:nazev>společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Voroněžská</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Býma Miroslav Ing.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-11-24" dvy="2011-01-25">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19604238</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Chlubnova</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Krška</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

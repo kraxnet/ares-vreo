@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T16:54:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>16:54:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25279289</are:ICO>
+   <are:ObchodniFirma>ATLAS SVITAVY, s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>56802</are:psc>
+    <are:okres>Svitavy</are:okres>
+    <are:obec>Svitavy</are:obec>
+    <are:ulice>Dostojevského</are:ulice>
+    <are:cisloTxt>347</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1997-11-24</are:DatumZapisu>
+   <are:DatumVymazu>2013-12-31</are:DatumVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1997-11-24" dvy="2013-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1997-11-24" dvy="2013-12-31">
+    <are:Text>
+Způsob jednání za společnost:
+Za společnost jedná a podepisuje jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1997-11-24" dvy="2013-12-31">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18920870</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Svitavy</are:okres>
+      <are:obec>Svitavy</are:obec>
+      <are:ulice>Gorkého</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Volauf</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-11-24" dvy="2013-12-31">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Svitavy</are:okres>
+      <are:obec>Svitavy</are:obec>
+      <are:ulice>Vendolí</are:ulice>
+      <are:cisloTxt>42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Zelený</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2012-03-13" dvy="2013-12-31">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2012-03-13" dvy="2013-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18915272</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56802</are:psc>
+      <are:obec>Svitavy</are:obec>
+      <are:ulice>náměstí Míru</are:ulice>
+      <are:cisloPop>48</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Šváb</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1997-11-24" dvy="2013-12-31">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1997-11-24" dvy="2013-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18920870</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Svitavy</are:okres>
+      <are:obec>Svitavy</are:obec>
+      <are:ulice>Gorkého</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Volauf</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-11-13" dvy="2013-12-31">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56802</are:psc>
+      <are:obec>Svitavy</are:obec>
+      <are:ulice>Dostojevského</are:ulice>
+      <are:cisloTxt>347</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>25279289</are:ICO>
+     <are:ObchodniFirma>ATLAS SVITAVY s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

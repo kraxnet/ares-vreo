@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T10:30:12"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>10:30:12</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>71220062</are:ICO>
+   <are:ObchodniFirma>Ústav sociální péče Nová Ves, příspěvková organizace</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>46331</are:psc>
+    <are:obec>Chrastava</are:obec>
+    <are:ulice>Nová Ves</are:ulice>
+    <are:cisloTxt>55</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2006-01-20</are:DatumZapisu>
+   <are:DatumVymazu>2006-09-12</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+Poskytování sociálních služeb a péče, jejichž cílem je zajištění podmínek pro důstojný a aktivní život osob s mentálním postižením. Služby a péče zahrnují zejména trvalé nebo přechodné ubytování, stravování, základní sociálně ošetřovatelskou, zdravotní, v
+ýchovnou, vzdělávací a speciálně pedagogickou péči, přiměřené pracovní uplatnění, kulturní a společenské aktivity. Služby a péče jsou poskytovány s prioritním zaměřením na rozvoj schopností, dovedností a návyků, které vedou k soběstačnosti a samostatnosti
+ osob s mentálním postižením.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2006-01-20" dvy="2006-09-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2006-01-20" dvy="2006-09-12">
+    <are:Text>
+Způsob jednání:
+Ředitel příspěvkové organizace plní úkoly vedoucího organizace a je oprávněn ve všech věcech jednat jejím jménem. Ředitel jedná jménem organizace samastatně a podepisuje za organizaci tak, že k jejímu napsanému nebo vytištěnému názvu připojí svůj vlastnor
+uční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-01-20" dvy="2006-09-12">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+     <are:vznikFunkce>2004-07-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:obec>Liberec 6</are:obec>
+      <are:ulice>Sametová</are:ulice>
+      <are:cisloTxt>713</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Peldová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2006-01-20" dvy="2006-09-12">
+   <are:Nazev>Zřizovatel</are:Nazev>
+   <are:Clen dza="2006-01-20" dvy="2006-09-12">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46180</are:psc>
+      <are:obec>Liberec II</are:obec>
+      <are:ulice>U Jezu</are:ulice>
+      <are:cisloTxt>642/2a</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>70891508</are:ICO>
+     <are:ObchodniFirma>Liberecký kraj</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

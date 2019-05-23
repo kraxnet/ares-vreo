@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T16:27:09"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>16:27:09</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25233696</are:ICO>
+   <are:ObchodniFirma>RABKIV a spol. - v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24535010</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>30124</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:ulice>Husovo nám.</are:ulice>
+    <are:cisloTxt>1</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-06-23</are:DatumZapisu>
+   <are:DatumVymazu>2013-06-26</are:DatumVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-06-23" dvy="2013-06-26">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1999-06-23" dvy="2013-06-26">
+    <are:Text>
+Způsob jednání:
+a) zastupování - za společnost jedná v plném rozsahu samostatně
+společník Oleh Rabkiv;
+b) podepisování - za společnost se podepisuje tak, že k
+napsanému nebo vytištěnému obchodnímu jménu společnosti připojí
+svůj podpis společník Oleh Rabkiv
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:funkce>
+     <are:nazev>společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Drohobyč, Hruševskoho 103, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Oleh</are:jmeno>
+     <are:prijmeni>Rabkiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2012-07-24" dvy="2013-06-26">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2012-07-24" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Houškova</are:ulice>
+      <are:cisloOr>30</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Aleš</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-06-23" dvy="2013-06-26">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Vel. Byčkiv, ul. Hruševskoho 101, Zakarpatska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Lyubov</are:jmeno>
+     <are:prijmeni>Pshibil</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Vel. Byčkiv, ul. Hruševskoho 101, Zakarpatska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Viktor</are:jmeno>
+     <are:prijmeni>Pshibil</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Vel. Byčkiv, ul. Hruševskoho 101, Zakarpatska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Vitaliy</are:jmeno>
+     <are:prijmeni>Pshibil</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Deljatyn, ul. B. Chmelnickoho 100, Iv. Frankivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Ganna</are:jmeno>
+     <are:prijmeni>Petrashchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Charcyzsk, ul. Berehovoho 3, Donecka obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Sergiy</are:jmeno>
+     <are:prijmeni>Shepitko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Makijevka, ul. Šachtarska 6/9, Donecka obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Viktor</are:jmeno>
+     <are:prijmeni>Privalov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Hranky-Kuty, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Khryponyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Drohobyč, ul. Stryjska 393, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Yakymiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Menčekury, Zaporižska obl.</are:text>
+     </are:adresa>
+     <are:prijmeni>Olena Leont`yeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakoloť, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Sparynyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Drohobyč, ul. Hruševskoho 89/3, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Slavnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Luh 625, Zakarpatska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Malyar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zbori 56, Ternopilska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Lyubomyra</are:jmeno>
+     <are:prijmeni>Lemishka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Drohobyč, ul. Hruševskoho 103, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Oleh</are:jmeno>
+     <are:prijmeni>Rabkiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-23" dvy="2013-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lunča, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Lemak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

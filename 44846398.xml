@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-08-06T08:48:06"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-08-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-08-06</are:Datum_vypisu>
+   <are:Cas_vypisu>08:48:06</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>44846398</are:ICO>
+   <are:ObchodniFirma>A G A M A , spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22634657</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>10800</are:psc>
+    <are:obec>Praha 10</are:obec>
+    <are:ulice>Služeb</are:ulice>
+    <are:cisloTxt>3056/4</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-12-16</are:DatumZapisu>
+   <are:DatumVymazu>2018-07-17</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost A G A M A , spol. s r.o. v likvidaci se sídlem Praha 10, Služeb 3056/4, PSČ 10800, IČ 44846398 se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C vložka 5920. Právním důvodem
+ výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-12-16" dvy="2018-07-17">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-12-16" dvy="2010-07-19">
+    <are:Text>
+Zastupování společnosti:
+Společnost zastupují oba společníci Vít Albrecht a Miroslav
+Albrecht.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2010-07-19" dvy="2018-07-17">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-12-16" dvy="2010-07-19">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha l</are:obec>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloTxt>26/696</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vít</are:jmeno>
+     <are:prijmeni>Albrecht</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-12-16" dvy="2010-07-19">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha l</are:obec>
+      <are:ulice>Rybná</are:ulice>
+      <are:cisloTxt>29/753</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Albrecht</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-07-19" dvy="2018-07-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-07-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21724172</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:castObce>Staré město</are:castObce>
+      <are:ulice>Rybná</are:ulice>
+      <are:cisloPop>753</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Albrecht</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-10-31" dvy="2018-07-17">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-10-31" dvy="2018-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22076972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Smíchov</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Ostrovského</are:ulice>
+      <are:cisloPop>253</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RADOMÍR</are:jmeno>
+     <are:prijmeni>VÁLEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-12-16" dvy="2018-07-17">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2010-07-19" dvy="2018-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21724172</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Praha 1</are:okres>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Rybná</are:ulice>
+      <are:cisloTxt>29/753</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Albrecht</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

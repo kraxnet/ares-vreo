@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-08-21T10:44:55"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-08-21</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-08-21</are:Datum_vypisu>
+   <are:Cas_vypisu>10:44:55</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27841537</are:ICO>
+   <are:ObchodniFirma>Danh Kien Nguyen</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3237389</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>70030</are:psc>
+    <are:okres>Ostrava-město</are:okres>
+    <are:obec>Ostrava</are:obec>
+    <are:castObce>Dubina</are:castObce>
+    <are:ulice>Václava Jiřikovského</are:ulice>
+    <are:cisloPop>130</are:cisloPop>
+    <are:cisloOr>10</are:cisloOr>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:stat>704</are:stat>
+    <are:obec>Nghe An</are:obec>
+    <are:castObce>Thanh Chuong</are:castObce>
+    <are:ulice>Thanh Linh</are:ulice>
+   </are:Bydliste>
+   <are:DatumZapisu>2008-04-02</are:DatumZapisu>
+   <are:DatumVymazu>2018-08-14</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Podnikatel Danh Kien Nguyen, Václava Jiřikovského 130/10, Dubina, 700 30 Ostrava, identifikační číslo 278 41 537 se vymazává  ke dni právní moci tohoto rozhodnutí z Obchodního rejstříku včetně všech zapsaných skutečností.
+    </are:Text>
+    <are:Text>
+Právní důvod: Výmaz byl proveden usnesením KS Ostrava ze dne 29.6.2018 na základě návrhu doručeného soudu dne 29.6.2018.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Specializovaný maloobchod a maloobchod se smíšeným zbožím
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-04-02" dvy="2018-08-14">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="2008-04-02" dvy="2018-06-11">
+    <are:fosoba>
+     <are:jmeno>Danh Kien</are:jmeno>
+     <are:prijmeni>Nguyen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-06-11" dvy="2018-08-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21603618</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75655</are:psc>
+      <are:okres>Vsetín</are:okres>
+      <are:obec>Dolní Bečva</are:obec>
+      <are:castObce>Dolní Bečva</are:castObce>
+      <are:cisloPop>265</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DANH KIEN</are:jmeno>
+     <are:prijmeni>NGUYEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

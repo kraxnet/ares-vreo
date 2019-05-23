@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T05:54:00"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>05:54:00</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26761572</are:ICO>
+   <are:ObchodniFirma>KARDINAL s.r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19300</are:psc>
+    <are:obec>Praha 9 - Horní Počernice</are:obec>
+    <are:ulice>Vidonická</are:ulice>
+    <are:cisloTxt>1898/6</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-02-24</are:DatumZapisu>
+   <are:DatumVymazu>2007-09-18</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+přípravné práce pro stavby
+     </are:Text>
+     <are:Text>
+zprostředkování obchodu
+     </are:Text>
+     <are:Text>
+správa a údržba nemovitostí
+     </are:Text>
+     <are:Text>
+dokončovací stavební práce
+     </are:Text>
+     <are:Text>
+zprostředkování služeb
+     </are:Text>
+     <are:Text>
+poskytování služeb pro zemědělství a zahradnictví
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-02-24" dvy="2007-09-18">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-02-24" dvy="2007-09-18">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně a za společnost se
+podepisuje tak, že k její napsané nebo vytištěné obchodní firmě
+připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-02-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40001</are:psc>
+      <are:obec>v ČR: Ústí nad Labem</are:obec>
+      <are:ulice>Tolstého</are:ulice>
+      <are:cisloTxt>1202/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Kovalchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-02-13" dvy="2007-09-18">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-02-13" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22123601</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15500</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Bronzová</are:ulice>
+      <are:cisloTxt>2025/31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Futó</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-02-24" dvy="2007-09-18">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Buský okres, obec Boložyniv</are:text>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Kovalchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Chustský okres, obec Červonarmijské</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Shpilka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Chustský okres, obec Nyžnje Selyšče</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Shtefiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Stryj, ul. Saksahanského 12/60</are:text>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Hryn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, obec Kobylecká Poljana</are:text>
+     </are:adresa>
+     <are:jmeno>Karolina</are:jmeno>
+     <are:prijmeni>Vartsaba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>51</are:stat>
+      <are:text>m. Jerevan, ul. Arcachi 1B/7</are:text>
+     </are:adresa>
+     <are:jmeno>Hovhannes</are:jmeno>
+     <are:prijmeni>Strapionyan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Dnipropetrovská oblast, m. Kryvyj Rih, ul. Teslenko</are:text>
+     </are:adresa>
+     <are:jmeno>Alla</are:jmeno>
+     <are:prijmeni>Semenova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Tjačivský okres, obec Kalyny</are:text>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Fitsay</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Tjačivský okres, obec Kalyny</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Fitsay</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Irčavský okres, obec Boholrevyči</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Dalekorey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Brody, ul. M Vovčka 4</are:text>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Liskovetskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Buský okres, obec Petryči</are:text>
+     </are:adresa>
+     <are:jmeno>Zenoviy</are:jmeno>
+     <are:prijmeni>Petryna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Brody, ul. Kobyljanskoji 23</are:text>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Kovalchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Lviv, ul. Špytalna 41/18</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Romaniv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Berehivský okres,m. Berehovo. ul. Ševčenka 71</are:text>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Balaban</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Svaljavský okres, obec Olenevo</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Lyzanets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Berehivský okres, obec Vuzlove</are:text>
+     </are:adresa>
+     <are:jmeno>Valeriy</are:jmeno>
+     <are:prijmeni>Kazantsev</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Berehivský okres, obec Svoboda</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Fryhan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Mižhirský okres, obec Nehrovec</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Ivanysh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Berehivský okres, m. Berehovo, ul. Pavljuka 8</are:text>
+     </are:adresa>
+     <are:jmeno>Yevheniy</are:jmeno>
+     <are:prijmeni>Romanyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, m. Mukačevo, ul. Zavodská 51/14</are:text>
+     </are:adresa>
+     <are:jmeno>Valeriy</are:jmeno>
+     <are:prijmeni>Koretskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Pustomytivský okres, obec Nahorjany</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Kuchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Zoločivský okres, obec Bilyj Kamiň</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Zakharchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Rivnenská oblast, m. Radyvyliv, ul. Popenka 93/106</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Dzoba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Lviv, ul. Kulparkivská 117</are:text>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Fiyalkivskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Turkivský okres, obec Mižhirja</are:text>
+     </are:adresa>
+     <are:jmeno>Bohdan</are:jmeno>
+     <are:prijmeni>Puketsa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Sambirský okres, obec Biskovyči</are:text>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Havrylyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Starosambirský okres, m. Chyriv, ul. Nezaležnosti 22</are:text>
+     </are:adresa>
+     <are:jmeno>Bohdan</are:jmeno>
+     <are:prijmeni>Korostenskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Drohobyčský okres, m. Drohobyč, ul. V. Stusa 84/19</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Ivanytskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Zoločivský okres, obec Snovyči</are:text>
+     </are:adresa>
+     <are:jmeno>Ihor</are:jmeno>
+     <are:prijmeni>Bilyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Drohobyčský okres, obec Bronycja</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Fedorychka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Lviv, ul. Haharina 37/4</are:text>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Kostelnyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Lviv, ul. Kulparkivská 117</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Fiyalkivskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Buský okres, obec Kudyrjavci</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Mysak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Sokalský okres, m. Velyki Mosty, ul. Soborna 62</are:text>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Kutsenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Boryslav, ul. Ivana Franka 3</are:text>
+     </are:adresa>
+     <are:jmeno>Taras</are:jmeno>
+     <are:prijmeni>Heriy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Boryslav. ul. Shajdačnoho 84/149</are:text>
+     </are:adresa>
+     <are:jmeno>Vyacheslav</are:jmeno>
+     <are:prijmeni>Trukhan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Čerkaská oblast, m. Čerkasy, ul. Krasovského 24/16</are:text>
+     </are:adresa>
+     <are:jmeno>Vyacheslav</are:jmeno>
+     <are:prijmeni>Chumak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Sambirský okres, m. Sambir, ul. Stryjska 3/62</are:text>
+     </are:adresa>
+     <are:jmeno>Stepan</are:jmeno>
+     <are:prijmeni>Fedyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Buský okres, obec Krasne</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Stelmakh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Stryjský okres, obec Chodovyči</are:text>
+     </are:adresa>
+     <are:jmeno>Zenoviy</are:jmeno>
+     <are:prijmeni>Kukhtiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Stryjský okres, m. Stryj, ul. Torhovyca 10/3</are:text>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Hnativ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, m. Rachiv, ul. Verbnyk 140A/505</are:text>
+     </are:adresa>
+     <are:jmeno>Ruslan</are:jmeno>
+     <are:prijmeni>Kushniryuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Stryjský okres, obec Chodovyči</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Rohach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Tjačivský okres, obec Tereblja</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Bilych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Stryjský okres, obec Chodovyči</are:text>
+     </are:adresa>
+     <are:jmeno>Myroslav</are:jmeno>
+     <are:prijmeni>Cherak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:text>Moskovskaja oblast, m. Ozjory, ul. Okjabrskaja 14</are:text>
+     </are:adresa>
+     <are:jmeno>Vasily</are:jmeno>
+     <are:prijmeni>Sokolov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>440</are:stat>
+      <are:text>m. Dagda, ul. Brivibas 11A/1</are:text>
+     </are:adresa>
+     <are:jmeno>Edgarsk</are:jmeno>
+     <are:prijmeni>Ovčinko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>440</are:stat>
+      <are:text>m. Dagda, ul. Brivibas 3/12</are:text>
+     </are:adresa>
+     <are:jmeno>Aleks</are:jmeno>
+     <are:prijmeni>Stepanovs</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-24" dvy="2007-09-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, obec Kosivská Poljana</are:text>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Voloshan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

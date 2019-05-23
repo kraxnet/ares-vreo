@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T05:26:17"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>05:26:17</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26704901</are:ICO>
+   <are:ObchodniFirma>PELAX s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21943095</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Vladimírova</are:ulice>
+    <are:cisloTxt>5/289</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-06-17</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-06-17">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-06-17">
+    <are:Text>
+Jménem společnosti jedná jednatel samostatně.
+Podepisování za společnost se děje tak, že k tištěné nebo psané
+obchodní firmě společnosti připojí svůj vlastnoruční podpis
+jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-06-17">
+    <are:funkce>
+     <are:vznikFunkce>2002-06-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Kasková</are:ulice>
+      <are:cisloTxt>49</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Mykhaylo Pelyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2010-09-13">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2010-09-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21731314</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Karlovo nám.</are:ulice>
+      <are:cisloPop>557</are:cisloPop>
+      <are:cisloOr>30</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Čapek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2002-06-17">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Kasková</are:ulice>
+      <are:cisloTxt>49</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Mykhaylo Pelyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Čukva, Sambirský okres, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Sokyrka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Čerchava, Sambirský okres, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Mykhaylo Karpinets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>I. Franka 6/10, Rudky, Sambirský okres, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Volodymyr Klyuka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Čukva, Sambirský okres, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Vasyl Tsytsyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Horkoho 19, Hruševo, Tjačivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Alla Popok</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Molodižna 1/12, Kaluš, Ivano-Frankivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Volodymyr Gavrylyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ševčenka 7, Dubovycja, Ivano-Frankivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Mariya Gavrylyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Pidberežne, Dolynský okres, Ivano-Frankivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Oleksandra Stashkiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>I. Franka 26, Hnizdyčiv, Žydačivský okres, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Lesya Rishko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Poltavy 14/9, Stryj, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Ihor Linkov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Sičovych strilciv 29/2, Boryslav, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Viktor Vayda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Kovaliva 44/36, Boryslav, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Mykola Popadynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zabereščcja, Horodecký okres, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Volodymyr Vilhelm</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Bilyn 207, Rachivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Ihor Melnychuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Rurynytsi, Rachiv, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Pavlo Sas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Myra 34, Ilnytsya, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Myroslava Bilak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Rosiška, Rachivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Ivan Dosyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Rosiška, Rachivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Pavlo Hrytsak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zelena 13, V. Kopanja, Vynohradivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Vitaliy Ivas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Šečenka 78, Solotvyno, Tjačivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Mykola Bota</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Myru 21, Lypecka Poljana, Chustský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Vasyl Hoban</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ševčenka 91, Bohdan, Rachivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Valeriy Chichak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Rosiška 307, Rachivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Ivan Dosyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zachara Mozhovoho 21, Solotvyno, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Mykola Pulyska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>I. Franka 68, Solotvyno, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Flora Vlad</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Kos. Poljana 917, Rachivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Mykola Shvets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zolotarevo, Chustský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Vasyl Dovhanych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Kos. Poljana 964, Rachivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Vasyl Vorokhta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Černyševskoho 36/26, Mukačevo, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Nataliya Skochko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Kyjivska 43/12, Mohyliv-Podilsk, Vinnycká oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Andriy Kulivar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Hrecká 24/59, Mohyliv-Podilsk, Vinnycká oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Oleksandr Slobodyanyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Kytobojiv 7, Mykolajiv</are:text>
+     </are:adresa>
+     <are:prijmeni>Mykola Tkachenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Bilyn, Rachivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Petro Fedirtsan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Bilyn, Rachivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Mykola Fedirtsan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zaliznyčna 11, Rachiv, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Ervin Helesh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zaliznyčna 11, Rachiv, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Yolana Helesh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zaliznyčna 11, Rachiv, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Viktoriya Gelesh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zaliznyčna 11, Rachiv, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Volodymyr Danylenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Pavljuka 183/23, Kob. Poljana, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:prijmeni>Bohdan Skulskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-06T15:54:17"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>15:54:17</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26928809</are:ICO>
+   <are:ObchodniFirma>BOB - Home Handelsgesellschaft m. b. H. - organizační složka</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21906734</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Michle</are:castObce>
+    <are:ulice>Jaurisova</are:ulice>
+    <are:cisloPop>515</are:cisloPop>
+    <are:cisloOr>4</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2004-05-07</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Velkoobchod
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-05-07" dvy="2009-08-27">
+   <are:Nazev>Vedoucí organizační složky</are:Nazev>
+   <are:Clen dza="2004-05-07" dvy="2004-11-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Skočova Lhota 36, 679 63 Malá Roudka</are:text>
+     </are:adresa>
+     <are:jmeno>Valerie</are:jmeno>
+     <are:prijmeni>Scheibenpflugová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-11-19" dvy="2005-05-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Skočova Lhota 36, 679 63 Malá Roudka</are:text>
+     </are:adresa>
+     <are:jmeno>Valerie</are:jmeno>
+     <are:prijmeni>Ženatá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-05-17" dvy="2009-08-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19496133</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62100</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Banskobystrická</are:ulice>
+      <are:cisloTxt>398/72</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Valerie</are:jmeno>
+     <are:prijmeni>Ženatá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2004-05-07">
+   <are:Nazev>Zřizovatel - zahraniční osoba</are:Nazev>
+   <are:Clen dza="2004-05-07">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:text>Mozartstr.9, 4063 Hörsching</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>BOB - Home Handelsgesellschaft m. b. H.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

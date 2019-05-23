@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T19:54:20"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>19:54:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25598724</are:ICO>
+   <are:ObchodniFirma>KOFKOP, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>999999999</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>61500</are:psc>
+    <are:obec>Brno</are:obec>
+    <are:ulice>Zábrdovická</are:ulice>
+    <are:cisloTxt>16</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-05-15</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zemní a výkopové práce
+     </are:Text>
+     <are:Text>
+úklidové práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-05-15">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-05-15">
+    <are:Text>
+Způsob zastupování: za společnost jedná a podepisuje jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-05-15">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19748655</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Poděbradova</are:ulice>
+      <are:cisloTxt>143</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleg</are:jmeno>
+     <are:prijmeni>Druzhynin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2014-03-04">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2014-03-04" dvy="2014-07-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19748655</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Ponava</are:castObce>
+      <are:ulice>Poděbradova</are:ulice>
+      <are:cisloPop>304</are:cisloPop>
+      <are:cisloOr>143</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>OLEG</are:jmeno>
+     <are:prijmeni>DRUZHYNIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19391455</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61700</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Komárov</are:castObce>
+      <are:ulice>Hněvkovského</are:ulice>
+      <are:cisloPop>30</are:cisloPop>
+      <are:cisloOr>65</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>OLEG</are:jmeno>
+     <are:prijmeni>DRUZHYNIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-05-15">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Krasilivka, Lenina 96/59, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Kosyanchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Kolodenka, Radulinská 2/3, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Yarmolenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Charkov, Kooperativnaja 19</are:text>
+     </are:adresa>
+     <are:jmeno>Oleg</are:jmeno>
+     <are:prijmeni>Druzhynin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Honcariv, Škutjaka 30</are:text>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Moskalyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Honcariv, Škutjaka 30</are:text>
+     </are:adresa>
+     <are:jmeno>Galyna</are:jmeno>
+     <are:prijmeni>Moskalyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>M.Strunino, Puškyna 138</are:text>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Cherenkova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Seredne, Zakarpatska 9</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Shvab</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Tjacev, Lazivska 1</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Tsyhankova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Sofierka Pobedy 27</are:text>
+     </are:adresa>
+     <are:jmeno>Ruslana</are:jmeno>
+     <are:prijmeni>Harkusha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Slonin, Tavlaja 178</are:text>
+     </are:adresa>
+     <are:jmeno>Janna</are:jmeno>
+     <are:prijmeni>Podretskaja</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Krasnoarmiesk, Juzny 15/26</are:text>
+     </are:adresa>
+     <are:jmeno>Irina</are:jmeno>
+     <are:prijmeni>Pishvanova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Krasnoarmiesk, Juzny 17/12</are:text>
+     </are:adresa>
+     <are:jmeno>Elena</are:jmeno>
+     <are:prijmeni>Sulina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Uhla, Podhorná 18</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Bokoch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Seredne, Zakarpatska 9</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Shvab</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-06-08T10:10:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-06-08</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-06-08</are:Datum_vypisu>
+   <are:Cas_vypisu>10:10:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27065511</are:ICO>
+   <are:ObchodniFirma>BEKx a spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21746630</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:obec>Praha 2</are:obec>
+    <are:ulice>Rumunská</are:ulice>
+    <are:cisloTxt>690</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-06-11</are:DatumZapisu>
+   <are:DatumVymazu>2018-06-05</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost BEKx a spol. s r.o. v likvidaci se sídlem Praha 2, Rumunská 690, PSČ 12000, IČO: 270 65 511, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze,oddíl C, vložka 93728. Právním důvodem
+výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Pronájem nemovitostí, bytů a nebytových prostor s poskytováním
+základních služeb zajišťujících řádný provoz nemovitostí, bytů
+a nebytových prostor.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-06-11" dvy="2018-06-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-06-11" dvy="2018-06-05">
+    <are:Text>
+Jednatel jedná za společnost samostatně a bez omezení.
+Podepisuje tak, že k napsané nebo tištěné obchodní firmě
+společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2003-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22655999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>28. Pluku</are:ulice>
+      <are:cisloTxt>128</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Dobynda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-10-23" dvy="2018-06-05">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-10-23" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21704945</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloPop>700</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUCIE</are:jmeno>
+     <are:prijmeni>MAREŠOVÁ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-06-11" dvy="2018-06-05">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čortovec</are:obec>
+      <are:castObce>Ivano-Frankivská oblast, Gorodecný okr.</are:castObce>
+      <are:ulice>Dovbuše</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Sudak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čortovec</are:obec>
+      <are:castObce>Ivano-Frankivská oblast</are:castObce>
+      <are:ulice>Galicka</are:ulice>
+      <are:cisloTxt>95</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Oliynyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čortovec</are:obec>
+      <are:castObce>Ivano-Frankivská oblast</are:castObce>
+      <are:ulice>Kalyna</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Oliynyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čortovec</are:obec>
+      <are:castObce>Ivano-Frankivská oblast</are:castObce>
+      <are:ulice>Nazarenka</are:ulice>
+      <are:cisloTxt>164</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lukyan</are:jmeno>
+     <are:prijmeni>Zaliskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Vitvycja</are:obec>
+      <are:castObce>Ivano-Frankivská oblast</are:castObce>
+      <are:ulice>Nezalečnosti</are:ulice>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Maryan</are:jmeno>
+     <are:prijmeni>Tyshkivskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Gorodenka</are:obec>
+      <are:castObce>Ivano-Frankivská oblast</are:castObce>
+      <are:ulice>Osada Červona</are:ulice>
+      <are:cisloTxt>2a/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Ostapyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Kišiněv</are:obec>
+      <are:ulice>Calea Iesilor</are:ulice>
+      <are:cisloTxt>16/2-94a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viralie</are:jmeno>
+     <are:prijmeni>Ciumacenco</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čortovec</are:obec>
+      <are:castObce>Ivano-Frankivská oblast, Gorodecký okr.</are:castObce>
+      <are:ulice>Galycka</are:ulice>
+      <are:cisloTxt>99</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Petrunyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kolomija</are:obec>
+      <are:castObce>Ivano-Frankivská oblast</are:castObce>
+      <are:ulice>Mazepy</are:ulice>
+      <are:cisloTxt>78/14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Garasymko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čortovec</are:obec>
+      <are:castObce>Ivano-Frankivská oblast, Gorodecký okr.</are:castObce>
+      <are:ulice>Krušelnyckych</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Pigach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kijev</are:obec>
+      <are:ulice>Kudrjavska</are:ulice>
+      <are:cisloTxt>43/19-2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Piskun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Tmykivci</are:obec>
+      <are:castObce>Ivano-Frankivská oblast, Gorodecký okr.</are:castObce>
+      <are:ulice>Ševčenka</are:ulice>
+      <are:cisloTxt>90a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Grynchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-11" dvy="2018-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kolomija</are:obec>
+      <are:castObce>Ivano-Frankivká oblast</are:castObce>
+      <are:ulice>Chvylovogo</are:ulice>
+      <are:cisloTxt>34</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleg</are:jmeno>
+     <are:prijmeni>Zayachivskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

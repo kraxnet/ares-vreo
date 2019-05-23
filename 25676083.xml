@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-09T15:50:20"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-09</are:Datum_vypisu>
+   <are:Cas_vypisu>15:50:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25676083</are:ICO>
+   <are:ObchodniFirma>Javir + PK  v.o.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22734694</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>15531</are:psc>
+    <are:okres>Praha 5</are:okres>
+    <are:obec>Praha 5</are:obec>
+    <are:castObce>Lipence</are:castObce>
+    <are:ulice>Oddechová</are:ulice>
+    <are:cisloTxt>505</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-06-23</are:DatumZapisu>
+   <are:DatumVymazu>2016-04-07</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Obchodní společnost se ke dni právní moci usnesení o výmazu vymazává z obchodního rejstříku včetně všech zapsaných skutečností. Právním důvodem výmazu je ukončení likvidace obchodní společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-06-23" dvy="2016-04-07">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1998-06-23" dvy="2016-04-07">
+    <are:Text>
+Společník-statutární orgán je oprávněn za společnost jednat
+navenek samostatně. Podepisování za společnost se děje tak, že
+k vytištěnému nebo napsanému obchodnímu jménu a razítku
+společnosti připojí svůj podpis statutární orgán.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-06-23" dvy="2002-02-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:obec>Praha 4-Kamýk</are:obec>
+      <are:ulice>Lhotecká, ubytovna IPS</are:ulice>
+      <are:cisloTxt>09</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivanna</are:jmeno>
+     <are:prijmeni>Potokij</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-02-18" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22045988</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Radotín</are:castObce>
+      <are:ulice>Na Betonce</are:ulice>
+      <are:cisloTxt>114</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivanna</are:jmeno>
+     <are:prijmeni>Potokiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2011-07-19" dvy="2016-04-07">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2011-07-19" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21728615</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Trojanova</are:ulice>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Linha</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1998-06-23" dvy="2016-04-07">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Svaryčiv, Rožnjatický okres</are:text>
+     </are:adresa>
+     <are:jmeno>Lidiya</are:jmeno>
+     <are:prijmeni>Koturbash</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Svaryčiv, Rožnjativský okres</are:text>
+     </are:adresa>
+     <are:jmeno>Nadiya</are:jmeno>
+     <are:prijmeni>Rybchak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Bilokrynycja, Berežanský okres</are:text>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Dubelt</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>STrilky, Starosamburský okresd</are:text>
+     </are:adresa>
+     <are:jmeno>Yuliya</are:jmeno>
+     <are:prijmeni>Poverlyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Bedevlja, Tjačivský okres</are:text>
+     </are:adresa>
+     <are:jmeno>Syrafyma</are:jmeno>
+     <are:prijmeni>Nemesh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Berlohy, Rožnjativský okres</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Voloshchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Onok, Vynohradivský okres</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Bondurovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Vynohradovo</are:obec>
+      <are:ulice>ul.Ivana Franka</are:ulice>
+      <are:cisloTxt>135</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Bandurovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Svaryčiv, Rožnjativský okres</are:text>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Koturbash</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Cahul</are:obec>
+      <are:ulice>ul. Sanatorna</are:ulice>
+      <are:cisloTxt>22/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Lazarovici</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-23" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Dulovo, Tjačivský okres</are:text>
+     </are:adresa>
+     <are:jmeno>Lyudmyla</are:jmeno>
+     <are:prijmeni>Kovach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-02-18" dvy="2016-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22045988</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Radotín</are:castObce>
+      <are:ulice>Na Betonce</are:ulice>
+      <are:cisloTxt>114</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivanna</are:jmeno>
+     <are:prijmeni>Potokiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

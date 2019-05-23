@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-05-09T10:30:38"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-05-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-05-09</are:Datum_vypisu>
+   <are:Cas_vypisu>10:30:38</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28321120</are:ICO>
+   <are:ObchodniFirma>Van Hien Nguyen</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>16128460</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>78373</are:psc>
+    <are:okres>Olomouc</are:okres>
+    <are:obec>Grygov</are:obec>
+    <are:castObce>Grygov</are:castObce>
+    <are:ulice>8.Května</are:ulice>
+    <are:cisloPop>345</are:cisloPop>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:stat>704</are:stat>
+    <are:obec>Thanh Ha</are:obec>
+    <are:castObce>Hop Duc</are:castObce>
+   </are:Bydliste>
+   <are:Pobyt>
+    <are:ruianKod>31180264</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>62800</are:psc>
+    <are:obec>Brno</are:obec>
+    <are:castObce>Maloměřice</are:castObce>
+    <are:ulice>Vlčnovská</are:ulice>
+    <are:cisloPop>4184</are:cisloPop>
+    <are:cisloOr>12</are:cisloOr>
+   </are:Pobyt>
+   <are:DatumZapisu>2009-01-07</are:DatumZapisu>
+   <are:DatumVymazu>2018-05-04</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Podnikatel se vymazává z Obchodního rejstříku včetně všech zapsaných skutečností.
+ 
+Právní důvod výmazu podnikatele: Výmaz podnikatele z obchodního rejstříku byl proveden usnesením Krajského soudu v Ostravě, pobočka v Olomouci na základě sdělení Magistrátu města Olomouce, Odbor živnostenský, o uplynutí doby platnosti živnostenského opráv
+nění k jediným předmětům podnikání &quot;výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona&quot; a &quot;hostinská činnost&quot; ke dni 4.2.2018.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2009-01-07" dvy="2018-05-04">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="2009-01-07" dvy="2017-03-27">
+    <are:fosoba>
+     <are:jmeno>Van Hien</are:jmeno>
+     <are:prijmeni>Nguyen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-03-27" dvy="2018-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16128460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78373</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Grygov</are:obec>
+      <are:castObce>Grygov</are:castObce>
+      <are:ulice>8.Května</are:ulice>
+      <are:cisloPop>345</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VAN HIEN</are:jmeno>
+     <are:prijmeni>NGUYEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

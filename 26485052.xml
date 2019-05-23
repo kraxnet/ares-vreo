@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-10T12:14:30"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-10</are:Datum_vypisu>
+   <are:Cas_vypisu>12:14:30</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26485052</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků domu čp. 1619 v Libni</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22388419</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>18000</are:psc>
+    <are:okres>Praha 8</are:okres>
+    <are:obec>Praha 8</are:obec>
+    <are:castObce>Libeň</are:castObce>
+    <are:ulice>ul.Pivovarnická</are:ulice>
+    <are:cisloTxt>1619/12</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2001-11-06</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-11-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-11-06">
+    <are:Text>
+Jménem výboru jedná předseda a v případě jeho zaneprázdnění
+místopředseda nebo výborem písemně pověřený člen výboru. Jde-li
+o písemný právní úkon, musí být podepsán předsedou výboru (v
+případě zaneprázdnění místopředsedou) a dalším členem výboru.
+Dalším členem výboru se rozumí i jeho místopředseda.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-11-06" dvy="2003-10-08">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-23</are:vznikFunkce>
+     <are:zanikFunkce>2003-05-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>ul.Pivovarnická</are:ulice>
+      <are:cisloTxt>1619/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kateřina</are:jmeno>
+     <are:prijmeni>Kudrnová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-11-06" dvy="2003-10-08">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-23</are:vznikFunkce>
+     <are:zanikFunkce>2003-05-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>ul.Pivovarnická</are:ulice>
+      <are:cisloTxt>1916/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimíra</are:jmeno>
+     <are:prijmeni>Štěpánková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-11-06" dvy="2009-08-14">
+    <are:clenstvi>
+     <are:zanikClenstvi>2008-12-04</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-05-23</are:vznikFunkce>
+     <are:zanikFunkce>2008-12-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>ul.Pivovarnická</are:ulice>
+      <are:cisloTxt>1619/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohumír</are:jmeno>
+     <are:prijmeni>Rezek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-10-08" dvy="2009-08-14">
+    <are:clenstvi>
+     <are:zanikClenstvi>2008-12-04</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2003-05-26</are:vznikFunkce>
+     <are:zanikFunkce>2008-12-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21751307</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Římská</are:ulice>
+      <are:cisloTxt>29/1196</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslava</are:jmeno>
+     <are:prijmeni>Fiedlerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-10-08" dvy="2009-08-14">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2003-05-26</are:vznikFunkce>
+     <are:zanikFunkce>2008-12-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12762458</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25301</are:psc>
+      <are:obec>Hostivice</are:obec>
+      <are:ulice>Na Pískách</are:ulice>
+      <are:cisloTxt>530</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Jindrová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-08-14" dvy="2012-06-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-12-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2009-03-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22388419</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:ulice>Pivovarnická</are:ulice>
+      <are:cisloTxt>1619/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zuzana</are:jmeno>
+     <are:prijmeni>Di Falco</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-08-14" dvy="2012-06-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-12-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12762458</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25301</are:psc>
+      <are:obec>Hostivice</are:obec>
+      <are:ulice>Na Pískách</are:ulice>
+      <are:cisloTxt>530</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Jindrová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-08-14" dvy="2012-06-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-12-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2009-03-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22388419</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:ulice>Pivovarnická</are:ulice>
+      <are:cisloTxt>1619/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeňka</are:jmeno>
+     <are:prijmeni>Pokorná</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-27" dvy="2013-07-24">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2011-12-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:ulice>Pivovarnická</are:ulice>
+      <are:cisloPop>1619</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Ulrychová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-27" dvy="2016-08-09">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:zanikFunkce>2015-11-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>37711</are:psc>
+      <are:obec>Jindřichův Hradec</are:obec>
+      <are:ulice>Růžová</are:ulice>
+      <are:cisloPop>40</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Radek</are:jmeno>
+     <are:prijmeni>Hron</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-27" dvy="2018-10-03">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-12-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2011-12-15</are:vznikFunkce>
+     <are:zanikFunkce>2017-12-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22388419</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:ulice>Pivovarnická</are:ulice>
+      <are:cisloTxt>1619/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zuzana</are:jmeno>
+     <are:prijmeni>Di Falco</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-07-24" dvy="2018-10-03">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-12-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2017-12-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22388419</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Pivovarnická</are:ulice>
+      <are:cisloPop>1619</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDENKA</are:jmeno>
+     <are:prijmeni>POKORNÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-08-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-11-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>91601</are:psc>
+      <are:obec>Stará Turá</are:obec>
+      <are:ulice>136/10</are:ulice>
+     </are:adresa>
+     <are:jmeno>MARIÁN</are:jmeno>
+     <are:prijmeni>VDOVIAK</are:prijmeni>
+     <are:bydliste>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:ulice>Pivovarnická</are:ulice>
+      <are:cisloTxt>1619/12</are:cisloTxt>
+      <are:doplnujiciText>přihlášen k pobytu v ČR</are:doplnujiciText>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-12-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2017-12-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22388419</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Pivovarnická</are:ulice>
+      <are:cisloPop>1619</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZUZANA</are:jmeno>
+     <are:prijmeni>DI FALCO</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-12-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2017-12-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22388419</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Pivovarnická</are:ulice>
+      <are:cisloPop>1619</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDENKA</are:jmeno>
+     <are:prijmeni>POKORNÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-10</are:Datum_vypisu>
+   <are:Cas_vypisu>12:14:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26485052</are:ICO>
+   <are:ObchodniFirma>Společenství domu čp. 1619 v Libni</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>18000</are:psc>
+    <are:okres>Praha 8</are:okres>
+    <are:obec>Praha 8</are:obec>
+    <are:castObce>Libeň</are:castObce>
+    <are:ulice>ul.Pivovarnická</are:ulice>
+    <are:cisloTxt>1619/12</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-11-06</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-11-06" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-11-06" dvy="2001-12-31">
+    <are:Text>
+Jménem výboru jedná předseda a v případě jeho zaneprázdnění
+místopředseda nebo výborem písemně pověřený člen výboru. Jde-li
+o písemný právní úkon, musí být podepsán předsedou výboru (v
+případě zaneprázdnění místopředsedou) a dalším členem výboru.
+Dalším členem výboru se rozumí i jeho místopředseda.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-11-06" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>ul.Pivovarnická</are:ulice>
+      <are:cisloTxt>1619/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kateřina</are:jmeno>
+     <are:prijmeni>Kudrnová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-11-06" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>ul.Pivovarnická</are:ulice>
+      <are:cisloTxt>1916/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimíra</are:jmeno>
+     <are:prijmeni>Štěpánková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-11-06" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-05-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>ul.Pivovarnická</are:ulice>
+      <are:cisloTxt>1619/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohumír</are:jmeno>
+     <are:prijmeni>Rezek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:34:09"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:34:09</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00545066</are:ICO>
+   <are:ObchodniFirma>FOX, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>72952644</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>68801</are:psc>
+    <are:okres>Uherské Hradiště</are:okres>
+    <are:obec>Uherský Brod</are:obec>
+    <are:castObce>Uherský Brod</are:castObce>
+    <are:ulice>Vlčnovská</are:ulice>
+    <are:cisloPop>2619</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1994-05-25</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+-Zámečnictví, nástrojářství
+     </are:Text>
+     <are:Text>
+-Obráběčství
+     </are:Text>
+     <are:Text>
+-Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1994-05-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1994-05-25">
+    <are:Text>
+Způsob zastupování:
+Jednatel jedná jménem společnosti navenek a za společnost se
+podepisuje tak, že k obchodnímu jménu společnosti připojí svůj
+podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1994-05-25" dvy="2006-03-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1994-05-25</are:vznikFunkce>
+     <are:zanikFunkce>2006-02-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18949771</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Uherské Hradiště</are:obec>
+      <are:ulice>Polní</are:ulice>
+      <are:cisloTxt>781</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Pavlík</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-03" dvy="2015-11-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-02-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Hamm 1, Mecklenburger Str. 3, 4700 SRN</are:text>
+     </are:adresa>
+     <are:jmeno>Peter</are:jmeno>
+     <are:prijmeni>Tvrdy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-02-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:obec>4700 Hamm1</are:obec>
+      <are:ulice>Mecklenburger str. 3</are:ulice>
+     </are:adresa>
+     <are:jmeno>PETER</are:jmeno>
+     <are:prijmeni>TVRDY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-05-25">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-11-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:obec>4700 Hamm 1</are:obec>
+      <are:ulice>Mecklenburger str. 3</are:ulice>
+     </are:adresa>
+     <are:jmeno>BRIGITTE</are:jmeno>
+     <are:prijmeni>TVRDY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18949771</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68605</are:psc>
+      <are:obec>Uherské Hradiště</are:obec>
+      <are:castObce>Mařatice</are:castObce>
+      <are:ulice>Polní</are:ulice>
+      <are:cisloPop>781</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>PAVLÍK</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:34:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00545066</are:ICO>
+   <are:ObchodniFirma>FOX 1, A. S.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>18949771</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>68601</are:psc>
+    <are:obec>Uherské Hradiště</are:obec>
+    <are:ulice>Polní</are:ulice>
+    <are:cisloTxt>781</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-07-25</are:DatumZapisu>
+   <are:DatumVymazu>1994-05-25</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+- obchodní činnost a obchodní konzultace, především v oborech
+  strojírenství, zdravotnické techniky, dopravy a doporavních
+  prostřeků, dovoz a opravy zdravotnické techniky
+- export a import výrobků v rozsahu, schváleném FMZO
+  k zahraničně-obchodní činnosti
+- strojírenská technologie
+- konstrukce projektů
+- stavební technologie
+- cestovní ruch
+- hospodářská kooperace
+     </are:Text>
+     <are:Text>
+- rozbory poptávky a nabídky
+- výzkum a průzkum trhu
+- plánování exportu
+- rozbory racionálního podnikového hospodaření, financování
+investic
+- přípravy a zpracování plánů a projektů
+- technické a ekonomické expertízy
+- sociálně-ekonomické studie
+- získávání technologií a licencíl
+- odborná školení
+- technické a ekonomické databanky
+     </are:Text>
+     <are:Text>
+- zakládání sesterských společností a odštěpných podniků
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-07-25" dvy="1994-05-25">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:Clen dza="1990-07-25" dvy="1994-05-25">
+    <are:funkce>
+     <are:nazev>předseda správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hamm     SRN</are:obec>
+      <are:ulice>Mecklenburgstrasse 3</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Tvrdy Brigitte</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-07-25" dvy="1994-05-25">
+    <are:funkce>
+     <are:nazev>místopředseda správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18949771</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68601</are:psc>
+      <are:obec>Uherské Hradiště</are:obec>
+      <are:ulice>Polní</are:ulice>
+      <are:cisloTxt>781</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Pavlík Zdeněk MUDr.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

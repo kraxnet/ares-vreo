@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-18T15:01:29"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-18</are:Datum_vypisu>
+   <are:Cas_vypisu>15:01:29</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>49356232</are:ICO>
+   <are:ObchodniFirma>KOMETA, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21966460</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14700</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Podolí</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Podolská</are:ulice>
+    <are:cisloPop>769</are:cisloPop>
+    <are:cisloOr>122</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-04-27</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem bytů a nebytových prostor s poskytováním základních
+služeb zajišťujících řádný provoz bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-04-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-04-27" dvy="1996-12-05">
+    <are:Text>
+Jednat jménem a na účet společnosti jsou oprávněni každý
+jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1996-12-05">
+    <are:Text>
+Za společnost jedná jednatel a podepisuje se tak, že k napsanému
+nebo vytištěnému obchodnímu jménu společnosti připojí svůj
+podpis s dodatkem jednatel. Každý jednatel jedná samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-04-27" dvy="1996-12-05">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloTxt>769/122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Janko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-27" dvy="1996-12-05">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloTxt>769/122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimila</are:jmeno>
+     <are:prijmeni>Hrdličková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-27" dvy="2017-04-07">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloTxt>769/122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivo</are:jmeno>
+     <are:prijmeni>Zázvorka</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-12-05" dvy="1999-03-04">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloTxt>769/122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tamara</are:jmeno>
+     <are:prijmeni>Tintěrová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-12-05" dvy="1999-03-04">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloTxt>769/122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Taťjana</are:jmeno>
+     <are:prijmeni>Landová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-03-04" dvy="2014-12-18">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2006-07-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloTxt>122/769</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zora</are:jmeno>
+     <are:prijmeni>Velková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVO</are:jmeno>
+     <are:prijmeni>ZÁZVORKA</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-04-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-03-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloTxt>769/122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Klega</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloTxt>122/769</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Evžen</are:jmeno>
+     <are:prijmeni>Bartůněk</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22267361</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Střešovice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Patočkova</are:ulice>
+      <are:cisloPop>979</are:cisloPop>
+      <are:cisloOr>20a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAROLÍNA</are:jmeno>
+     <are:prijmeni>CÍSAŘOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ELLEN</are:jmeno>
+     <are:prijmeni>ONDROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-07-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25133306</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malá Strana</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Vlašská</are:ulice>
+      <are:cisloPop>631</are:cisloPop>
+      <are:cisloOr>11a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>JINDRA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-09-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>ČIHÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>SVETLANA</are:jmeno>
+     <are:prijmeni>KOSHCHEEVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-07-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21813477</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Braník</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>U dubu</are:ulice>
+      <are:cisloPop>1635</are:cisloPop>
+      <are:cisloOr>45</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>LEHANKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÁCLAVA</are:jmeno>
+     <are:prijmeni>SEZIMOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>STANISLAVA</are:jmeno>
+     <are:prijmeni>LINKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RADVAN</are:jmeno>
+     <are:prijmeni>KUBELÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KATEŘINA</are:jmeno>
+     <are:prijmeni>GERHÁTOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>JANDOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZORA</are:jmeno>
+     <are:prijmeni>VELKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EMILIE</are:jmeno>
+     <are:prijmeni>ŠÁRKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TAMARA</are:jmeno>
+     <are:prijmeni>TINTĚROVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVO</are:jmeno>
+     <are:prijmeni>ZÁZVORKA</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>KITZBERGEROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>JANKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>JANKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>MYKISKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7061641</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33554</are:psc>
+      <are:okres>Plzeň-jih</are:okres>
+      <are:obec>Žinkovy</are:obec>
+      <are:castObce>Žinkovy</are:castObce>
+      <are:cisloPop>89</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>FORMANOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HELENA</are:jmeno>
+     <are:prijmeni>SULDOVSKÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LIBUŠE</are:jmeno>
+     <are:prijmeni>NOVÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>HOLÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JITKA</are:jmeno>
+     <are:prijmeni>ORLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>NIKÉ</are:jmeno>
+     <are:prijmeni>RŮŽIČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>DUPLÁK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>MEVALD</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>SIMON</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANIEL</are:jmeno>
+     <are:prijmeni>JEŽ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>MILŠTAIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>FIFKA</are:prijmeni>
+     <are:titulPred>PharDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAGDALÉNA</are:jmeno>
+     <are:prijmeni>PAULUSOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ALENA</are:jmeno>
+     <are:prijmeni>SYROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21869936</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Sládkovičova</are:ulice>
+      <are:cisloPop>1266</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>RYŠÁNEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MIKULÁŠ</are:jmeno>
+     <are:prijmeni>BENDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-17">
+   </are:Clen>
+   <are:Clen dza="2018-06-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21063303</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26718</are:psc>
+      <are:okres>Beroun</are:okres>
+      <are:obec>Mezouň</are:obec>
+      <are:castObce>Mezouň</are:castObce>
+      <are:cisloPop>143</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>FRANKE</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-06-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5543932</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39701</are:psc>
+      <are:okres>Písek</are:okres>
+      <are:obec>Písek</are:obec>
+      <are:castObce>Budějovické Předměstí</are:castObce>
+      <are:ulice>Na Pakšovce</are:ulice>
+      <are:cisloPop>2249</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>ŠŮLA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-06-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21966460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>122</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RENÁTA</are:jmeno>
+     <are:prijmeni>SYROVÁTKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22153284</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloPop>533</are:cisloPop>
+      <are:cisloOr>98</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RUDOLF</are:jmeno>
+     <are:prijmeni>PACOVSKÝ</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

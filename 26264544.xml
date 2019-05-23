@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-05-11T11:56:25"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-05-11</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-05-11</are:Datum_vypisu>
+   <are:Cas_vypisu>11:56:25</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26264544</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků Tišnov, Jamborova 920-921-922</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>13320785</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>66601</are:psc>
+    <are:okres>Brno-venkov</are:okres>
+    <are:obec>Tišnov</are:obec>
+    <are:ulice>Jamborova</are:ulice>
+    <are:cisloTxt>920</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-10-24</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-10-24" dvy="2013-02-27">
+   <are:Nazev>Statutární orgán: výbor</are:Nazev>
+   <are:Clen dza="2001-10-24" dvy="2006-08-04">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-16</are:vznikFunkce>
+     <are:zanikFunkce>2003-05-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66601</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>920</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Padalík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2006-08-04">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-16</are:vznikFunkce>
+     <are:zanikFunkce>2003-05-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66601</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>922</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Doležal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2006-08-04">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-05-16</are:vznikFunkce>
+     <are:zanikFunkce>2003-05-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66601</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>921</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Uchytilová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-08-04" dvy="2008-01-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-12-14</are:vznikClenstvi>
+     <are:zanikClenstvi>2007-10-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2005-12-14</are:vznikFunkce>
+     <are:zanikFunkce>2007-10-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>920</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Padalík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-08-04" dvy="2008-01-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-12-14</are:vznikClenstvi>
+     <are:zanikClenstvi>2007-10-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2005-12-14</are:vznikFunkce>
+     <are:zanikFunkce>2007-10-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>922</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Doležal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-08-04" dvy="2008-02-25">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2005-12-14</are:vznikFunkce>
+     <are:zanikFunkce>2007-10-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>921</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Uchytilová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-02-25" dvy="2010-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-01-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-08-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2008-01-28</are:vznikFunkce>
+     <are:zanikFunkce>2009-08-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>922</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Žáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-02-25" dvy="2010-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-01-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-12-07</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2008-01-28</are:vznikFunkce>
+     <are:zanikFunkce>2009-12-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>920</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Křeček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-02-25" dvy="2010-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-01-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2008-01-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>922</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Loskotová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-12" dvy="2010-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-03-09</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2009-03-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66403</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>921</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Uchytilová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-04-07" dvy="2013-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-03-09</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-03-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2009-12-12</are:vznikFunkce>
+     <are:zanikFunkce>2011-03-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>921</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Uchytilová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-04-07" dvy="2013-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-01-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-01-28</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2009-12-12</are:vznikFunkce>
+     <are:zanikFunkce>2010-01-28</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>922</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Loskotová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-04-07" dvy="2013-02-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-12-07</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-09-08</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13316206</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66601</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Za Mlýnem</are:ulice>
+      <are:cisloTxt>462</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dana</are:jmeno>
+     <are:prijmeni>Podaná</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2001-10-24" dvy="2014-12-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-10-24" dvy="2014-12-23">
+    <are:Text>
+Způsob zastupování:
+Za společenství jedná navenek předseda nebo výborem písemně
+pověřený člen výboru.
+Je-li pro právní úkon zapotřebí písemnáforma, je nezbytný podpis
+předsedy výboru a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2013-02-27" dvy="2013-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-08-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-11-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>921</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ANNA</are:jmeno>
+     <are:prijmeni>UCHYTILOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-02-27" dvy="2013-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-09-08</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-09-08</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>922</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>LOSKOTOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-02-27" dvy="2013-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-09-08</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-09-08</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13316206</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66601</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Za Mlýnem</are:ulice>
+      <are:cisloPop>462</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DANA</are:jmeno>
+     <are:prijmeni>PODANÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-03-19" dvy="2014-12-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-11-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2012-11-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>921</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUCIE</are:jmeno>
+     <are:prijmeni>SMÍŠKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-03-19" dvy="2014-12-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-11-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2012-11-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>920</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>SIMONA</are:jmeno>
+     <are:prijmeni>STŘÍŽOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-03-19" dvy="2014-12-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-11-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8927782</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39470</are:psc>
+      <are:obec>Kamenice nad Lipou</are:obec>
+      <are:castObce>Kamenice nad Lipou</are:castObce>
+      <are:ulice>Jírova</are:ulice>
+      <are:cisloPop>621</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>ŠVARC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2014-12-23">
+   <are:Nazev>Statutární orgán - výbor</are:Nazev>
+   <are:ZpusobJednani dza="2014-12-23" dvy="2017-04-22">
+    <are:Text>
+Způsob zastupování:
+Za společenství jedná navenek předseda nebo výborem písemně
+pověřený člen výboru.
+Je-li pro právní úkon zapotřebí písemnáforma, je nezbytný podpis
+předsedy výboru a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2017-04-22">
+    <are:Text>
+Za společenství jedná navenek předseda výboru a v nepřítomnosti předsedy místopředseda výboru.
+Písemné právní jednání musí být podepsáno předsedou výboru nebo v jeho zastoupení místopředsedou a dalším členem výboru. Kdo za společenství podepisuje, připojí k vytištěnému nebo napsanému názvu společenství svůj podpis a údaj o své funkci.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2014-12-23" dvy="2015-06-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-11-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2015-03-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru SVJ</are:nazev>
+     <are:vznikFunkce>2012-11-29</are:vznikFunkce>
+     <are:zanikFunkce>2015-03-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>921</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUCIE</are:jmeno>
+     <are:prijmeni>SMÍŠKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-12-23" dvy="2015-06-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-11-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-10-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru SVJ</are:nazev>
+     <are:vznikFunkce>2012-11-29</are:vznikFunkce>
+     <are:zanikFunkce>2014-10-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>920</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>SIMONA</are:jmeno>
+     <are:prijmeni>STŘÍŽOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-12-23" dvy="2015-06-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-11-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-10-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru SVJ</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8927782</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39470</are:psc>
+      <are:obec>Kamenice nad Lipou</are:obec>
+      <are:castObce>Kamenice nad Lipou</are:castObce>
+      <are:ulice>Jírova</are:ulice>
+      <are:cisloPop>621</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>ŠVARC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-06-24" dvy="2015-10-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8927782</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39470</are:psc>
+      <are:obec>Kamenice nad Lipou</are:obec>
+      <are:castObce>Kamenice nad Lipou</are:castObce>
+      <are:ulice>Jírova</are:ulice>
+      <are:cisloPop>621</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>ŠVARC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-06-24" dvy="2017-04-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-03-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-12-12</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-03-26</are:vznikFunkce>
+     <are:zanikFunkce>2016-12-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24000884</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66602</are:psc>
+      <are:obec>Předklášteří</are:obec>
+      <are:castObce>Předklášteří</are:castObce>
+      <are:ulice>Víska</are:ulice>
+      <are:cisloPop>1195</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LIBUŠE</are:jmeno>
+     <are:prijmeni>POUZOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-06-24" dvy="2017-04-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-10-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2014-10-27</are:vznikFunkce>
+     <are:zanikFunkce>2016-10-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>920</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>SIMONA</are:jmeno>
+     <are:prijmeni>STŘÍŽOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-16" dvy="2017-04-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-10-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>922</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>ŠVARC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2016-12-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24000884</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66602</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Předklášteří</are:obec>
+      <are:castObce>Předklášteří</are:castObce>
+      <are:ulice>Víska</are:ulice>
+      <are:cisloPop>1195</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LIBUŠE</are:jmeno>
+     <are:prijmeni>POUZOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2016-12-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>920</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>SIMONA</are:jmeno>
+     <are:prijmeni>STŘÍŽOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>922</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>ŠVARC</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2014-12-23">
+   <are:Nazev>Kontrolní komise</are:Nazev>
+   <are:Clen dza="2017-04-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda kontrolní komise</are:nazev>
+     <are:vznikFunkce>2016-12-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>922</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>WÁGNER</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloPop>922</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>POLÍVKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-05-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13315391</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66603</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:castObce>Tišnov</are:castObce>
+      <are:ulice>Brněnská</are:ulice>
+      <are:cisloPop>381</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MAGDALENA</are:jmeno>
+     <are:prijmeni>MARKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-05-11</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-05-11</are:Datum_vypisu>
+   <are:Cas_vypisu>11:56:26</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26264544</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků pro dům sestávající z čp. 920, 921, 922 na ulici Jamborova v Tišnově</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>13320785</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>66601</are:psc>
+    <are:okres>Brno-venkov</are:okres>
+    <are:obec>Tišnov</are:obec>
+    <are:ulice>Jamborova</are:ulice>
+    <are:cisloTxt>920</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-10-24</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-10-24" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán: výbor</are:Nazev>
+   <are:ZpusobJednani dza="2001-10-24" dvy="2001-12-31">
+    <are:Text>
+Způsob zastupování:
+Za společenství jedná navenek předseda nebo výborem písemně
+pověřený člen výboru.
+Je-li pro právní úkon zapotřebí písemnáforma, je nezbytný podpis
+předsedy výboru a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-10-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66601</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>920</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Padalík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66601</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>922</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Doležal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-05-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13320793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66601</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Jamborova</are:ulice>
+      <are:cisloTxt>921</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Uchytilová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

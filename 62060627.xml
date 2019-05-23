@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T04:44:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>04:44:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>62060627</are:ICO>
+   <are:ObchodniFirma>AMUR - MILK s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>15918751</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>57101</are:psc>
+    <are:okres>Svitavy</are:okres>
+    <are:obec>Moravská Třebová</are:obec>
+    <are:castObce>Sušice</are:castObce>
+    <are:cisloPop>49</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1994-11-22</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1994-11-22">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1994-11-22">
+    <are:Text>
+Jednatel jedná ve věcech společnosti samostatně, s výjimkou sjednávání obchodů nad objem 500 000,- Kč, kdy musí o věci rozhodovat všichni společníci a dále s vyjímkou věcí ve výlučné působnosti valné hromady. Jednatel podepisuje tak, že k tištěnému nebo p
+sanému obchodnímu jménu společnosti s uvedením jejího sídlůa připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1994-11-22" dvy="2004-10-12">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>1997-02-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>57101</are:psc>
+      <are:obec>Linhartice u M. Třebové 67</are:obec>
+     </are:adresa>
+     <are:jmeno>Ivo</are:jmeno>
+     <are:prijmeni>Sedlák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2010-08-17">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2010-08-17" dvy="2017-11-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1873440</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>57101</are:psc>
+      <are:obec>Linhartice</are:obec>
+      <are:cisloPop>67</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Ivo</are:jmeno>
+     <are:prijmeni>Sedlák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15976076</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>57101</are:psc>
+      <are:okres>Svitavy</are:okres>
+      <are:obec>Moravská Třebová</are:obec>
+      <are:castObce>Předměstí</are:castObce>
+      <are:ulice>J. K. Tyla</are:ulice>
+      <are:cisloPop>551</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVO</are:jmeno>
+     <are:prijmeni>SEDLÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-11-22">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2017-11-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15969177</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>57101</are:psc>
+      <are:okres>Svitavy</are:okres>
+      <are:obec>Moravská Třebová</are:obec>
+      <are:castObce>Město</are:castObce>
+      <are:ulice>nám. T. G. Masaryka</are:ulice>
+      <are:cisloPop>32</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>KRAJÍČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

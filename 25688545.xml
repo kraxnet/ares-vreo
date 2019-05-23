@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-10T09:36:48"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-10</are:Datum_vypisu>
+   <are:Cas_vypisu>09:36:48</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25688545</are:ICO>
+   <are:ObchodniFirma>YUSER II v.o.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 4 - Kamýk</are:obec>
+    <are:ulice>Rabyňská</are:ulice>
+    <are:cisloTxt>744/4</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-08-18</are:DatumZapisu>
+   <are:DatumVymazu>2018-12-05</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost YUSER II v.o.s. v likvidaci, se sídlem Praha 4 - Kamýk, Rabyňská 744/4, IČ: 256 88 545 z obchodního rejstříku. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Úklidové práce
+     </are:Text>
+     <are:Text>
+Zednictví
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-08-18" dvy="2018-12-05">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1998-08-18" dvy="2018-12-05">
+    <are:Text>
+Způsob jednání za společnost: Statutární orgán je oprávněn
+jednat ve všech otázkách samostatně, zastupuje společnost před
+státními orgány, soudy a navenek. Podepisování za společnost
+činí statutární orgán, tak že k vytištěnému či napsanému
+obchodnímu jménu společnosti anebo razítkovanému otisku připojí
+svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Louny</are:okres>
+      <are:obec>Louny</are:obec>
+      <are:ulice>Čeňka Zemana</are:ulice>
+      <are:cisloTxt>431</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lidiya</are:jmeno>
+     <are:prijmeni>Feylyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-10-04" dvy="2018-12-05">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-10-04" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21775231</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Sudoměřská</are:ulice>
+      <are:cisloPop>814</are:cisloPop>
+      <are:cisloOr>46</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VĚRA</are:jmeno>
+     <are:prijmeni>SEDLOŇOVÁ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1998-08-18" dvy="2018-12-05">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rovno</are:obec>
+      <are:ulice>Kilceva</are:ulice>
+      <are:cisloTxt>698</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lidiya</are:jmeno>
+     <are:prijmeni>Feylyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska obl., Strij</are:obec>
+      <are:ulice>Svobody</are:ulice>
+      <are:cisloTxt>25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Kovalyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rivnenska, Rivne</are:obec>
+      <are:ulice>Vozednany</are:ulice>
+      <are:cisloTxt>78</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksiy</are:jmeno>
+     <are:prijmeni>Melnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska obl., Strij</are:obec>
+      <are:ulice>Vokzalna</are:ulice>
+      <are:cisloTxt>79/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Mykhayluk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska obl., Mukačevo</are:obec>
+      <are:ulice>Lesy Ukrajinky</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Kish</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Mohylovska obl., Šklovskij</are:obec>
+      <are:ulice>Čornoe</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Siarhei</are:jmeno>
+     <are:prijmeni>Tsimoshchanka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Vitebska, Čašnickij</are:obec>
+      <are:ulice>Rauc</are:ulice>
+      <are:cisloTxt>81</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Aliaksei</are:jmeno>
+     <are:prijmeni>Kuplevich</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Vicepska, Čašnickij r.</are:obec>
+      <are:ulice>Rut</are:ulice>
+      <are:cisloTxt>183</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Aliaksandr</are:jmeno>
+     <are:prijmeni>Surzhyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankovska</are:obec>
+      <are:ulice>Verchovina</are:ulice>
+      <are:cisloTxt>658</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stepan</are:jmeno>
+     <are:prijmeni>Parpan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivanovskaja obl.</are:obec>
+      <are:ulice>Krasne Pleso</are:ulice>
+      <are:cisloTxt>415</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimir</are:jmeno>
+     <are:prijmeni>Kachin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Chustskij</are:obec>
+      <are:ulice>Dulovo</are:ulice>
+      <are:cisloTxt>85</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ohar</are:jmeno>
+     <are:prijmeni>Mykhaylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Tjačivskij</are:obec>
+      <are:ulice>Bedevlya</are:ulice>
+      <are:cisloTxt>99/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Borotko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankovska</are:obec>
+      <are:ulice>Nadvirna</are:ulice>
+      <are:cisloTxt>5/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohdan</are:jmeno>
+     <are:prijmeni>Kuzenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Tjačevskij</are:obec>
+      <are:ulice>Bčedevlija</are:ulice>
+      <are:cisloTxt>99</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Borotko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska obl., Zolučiv</are:obec>
+      <are:ulice>Miru</are:ulice>
+      <are:cisloTxt>45/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Hurliv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska, Stryj</are:obec>
+      <are:ulice>Gagarina</are:ulice>
+      <are:cisloTxt>905/5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ihor</are:jmeno>
+     <are:prijmeni>Ohirchak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Rachivskij</are:obec>
+      <are:ulice>Rosiška</are:ulice>
+      <are:cisloTxt>169</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Shymonyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Rachivskij</are:obec>
+      <are:ulice>Rosiška</are:ulice>
+      <are:cisloTxt>280</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Levanda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rovenska obl.</are:obec>
+      <are:ulice>Rovno</are:ulice>
+      <are:cisloTxt>99/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Bilotyel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankovsk</are:obec>
+      <are:ulice>Mikolajiv</are:ulice>
+      <are:cisloTxt>235/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ruslana</are:jmeno>
+     <are:prijmeni>Kravets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankovsk</are:obec>
+      <are:ulice>Mikolajiv</are:ulice>
+      <are:cisloTxt>329/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Oliynyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-18" dvy="2018-12-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopilska obl.</are:obec>
+      <are:ulice>Berežany</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Tymchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

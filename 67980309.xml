@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T08:50:24"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>08:50:24</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>67980309</are:ICO>
+   <are:ObchodniFirma>D.O.S. Modřany a.s. odštěpný závod</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22694340</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>15000</are:psc>
+    <are:obec>Praha 5 - Smíchov</are:obec>
+    <are:ulice>Na Plzeňce</are:ulice>
+    <are:cisloTxt>6/100</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1994-08-23</are:DatumZapisu>
+   <are:DatumVymazu>2015-06-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost D.O.S. Modřany a.s. odštěpný závod, Praha 5 - Smíchov, Na Plzeňce 6/100, PSČ 15000, IČ 679 80 309 se vymazává z obchodního rejstříku včetně všech zapsaných skutečností. Právním důvodem je rozhodnutí zřizovatele na Mimořádné valné hromadě D.O.S.
+ Modřany a.s. konané 24.02.2015 o zrušení organizační složky D.O.S. Modřany a.s. odštěpný závod v Praze a zápis Okresního soudu Nitra o výmazu organizační složky D.O.S. Modřany a.s. odštěpný závod ke dni 5. 5. 2015.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1994-08-23" dvy="2015-06-01">
+   <are:Nazev>Vedoucí organizační složky</are:Nazev>
+   <are:Clen dza="1994-08-23" dvy="2015-06-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Bolivarova</are:ulice>
+      <are:cisloTxt>2086/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Dytrt</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-08-23" dvy="2015-06-01">
+   <are:Nazev>Zřizovatel - zahraniční osoba</are:Nazev>
+   <are:Clen dza="1998-02-05" dvy="2015-06-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>93539</are:psc>
+      <are:obec>Mochovce</are:obec>
+     </are:adresa>
+     <are:ObchodniFirma>D.O.S. Modřany , a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

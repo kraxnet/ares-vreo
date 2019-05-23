@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T21:19:52"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>21:19:52</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25765981</are:ICO>
+   <are:ObchodniFirma>ČOPKA - Č+F v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>26301</are:psc>
+    <are:okres>Příbram</are:okres>
+    <are:obec>Dobříš</are:obec>
+    <are:ulice>Kopáčkova</are:ulice>
+    <are:cisloTxt>1517</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-05-24</are:DatumZapisu>
+   <are:DatumVymazu>2009-04-29</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+úklidové práce v rámci živnosti volné
+     </are:Text>
+     <are:Text>
+svářečské práce v rámci živnosti volné
+     </are:Text>
+     <are:Text>
+manipulační práce ve skladu v rámci živnosti volné
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-05-24" dvy="2009-04-29">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1999-05-24" dvy="2009-04-29">
+    <are:Text>
+Pověření společníci jednají jménem společnosti navenek
+samostatně a podepisují se tak, že k obchodnímu jménu
+společnosti připojí svůj podpis uvedený na podpisovém vzoru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23067799</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Strakonice</are:okres>
+      <are:obec>Radomyšl</are:obec>
+      <are:cisloTxt>77</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andriyj</are:jmeno>
+     <are:prijmeni>Chellenyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23067799</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Strakonice</are:okres>
+      <are:obec>Radomyšl</are:obec>
+      <are:cisloTxt>77</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Furt</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2008-10-21" dvy="2009-04-29">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2008-10-21" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21768340</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Koněvova</are:ulice>
+      <are:cisloTxt>130/16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Janota</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-05-24" dvy="2009-04-29">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ternovo,ul.Vajdi 2, Tjačivskij rajon, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Andriyj</are:jmeno>
+     <are:prijmeni>Chellenyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ternovo, ul.Vajdi 3, Tjačivskij rajon, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Furt</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ternovo,ul.Južinska 31, Tjačivskij rajon, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Jurij</are:jmeno>
+     <are:prijmeni>Futko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Stryj,ul.Grabca 2, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Lesya</are:jmeno>
+     <are:prijmeni>Khoma</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Neresnica,ul.Podhora 22, Tjačivskij rajon, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Bokoch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Bolechiv, ul. Lenina 20, Ivanofrankovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Shmadyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Javorin, ul.Revnica, Ivanofrankivská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Shkriblyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Stryj, ul. Morozenka 66, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Lyubov</are:jmeno>
+     <are:prijmeni>Frey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Čerkas, ul.Gerojů Dněpra 31/113, Čerkaská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Bilyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Čerkas, ul. Gerojů Dněpra 31/113, Čerkaská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Bilyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Javoriv,ul.Revnica, Ivanofrankivská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Shkriblyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Stryj, ul. Morozenka 66, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Frey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Verchovina,ul.Hruševského 3/4,Ivanofrankivská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Bobruk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Vylchyvské Lazy,Tjačivskij rajon, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Chonka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Neresnica, ul. Podhora, Tjačivskij rajon, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Yustyna</are:jmeno>
+     <are:prijmeni>Bokoch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ternovo, ul. Južina 41, Tjačivskij rajon, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Tamara</are:jmeno>
+     <are:prijmeni>Chellenyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Vilchyvské Lazy, ul. Lesy Ukrajinky 40, tjačivskij rajon, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Vitaliy</are:jmeno>
+     <are:prijmeni>Shafar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ternovo, ul. Vajdy 2, Tjačivskij rajon, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Chellenyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Stryj,ul.Franka 21, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Feduniv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Stryj, ul. Južná 41/18, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Hadyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Soroca</are:obec>
+      <are:ulice>Kišiněv</are:ulice>
+     </are:adresa>
+     <are:jmeno>Sergiu</are:jmeno>
+     <are:prijmeni>Stirbu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Topolnica, Starosambirský rajon, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Zubak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Čeremchiv, Židačevskij rajon, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Stepan</are:jmeno>
+     <are:prijmeni>Kolodnytskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Berestočko, ul. 1 Maye 8, Horochovský rajon,Volyňska oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Serhiy</are:jmeno>
+     <are:prijmeni>Bilokurets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-24" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lipča, ul. Kujbyševa 1, Chustský rajon, Zakarpatska oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Mezey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-31" dvy="2009-04-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Vinogradiv,ul. Tolstého 83, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Darbinyan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

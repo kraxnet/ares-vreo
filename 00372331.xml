@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:11:56"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:11:56</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00372331</are:ICO>
+   <are:ObchodniFirma>Regionální muzeum ve Vysokém Mýtě</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>56601</are:psc>
+    <are:obec>Vysoké Mýto</are:obec>
+    <are:ulice>Šemberova ulice</are:ulice>
+    <are:cisloTxt>č. p. 125/1</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-09-05</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+Regionální muzeum ve Vysokém Mýtě plní funkci muzea ve smyslu ustanovení § 10 odst. 6 zákona č. 122/2000 Sb., o ochraně sbírek muzejní povahy a o změně některých dalších zákonů, v platném znění, a v souladu s prováděcí vyhláškou č. 275/2000 Sb., v platném
+ znění. Zřizuje se za účelem získávát, shromažďovat, trvale uchovávat, evidovat, odborně zpracovávat a zpřístupňovat veřejnosti sbírky muzejní povahy.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-09-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-09-05">
+    <are:Text>
+Způsob jednání:
+Ředitel plní úkoly vedoucího organizace a je oprávněn jednat jménem organizace ve všech věcech týkajících se organizace.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-09-05" dvy="2008-01-04">
+    <are:funkce>
+     <are:nazev>Ředitel</are:nazev>
+     <are:vznikFunkce>2003-01-01</are:vznikFunkce>
+     <are:zanikFunkce>2004-07-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1891774</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>57001</are:psc>
+      <are:obec>Litomyšl</are:obec>
+      <are:ulice>Zahájská</are:ulice>
+      <are:cisloTxt>98</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Halouzková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-01-04">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+     <are:vznikFunkce>2004-07-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56601</are:psc>
+      <are:obec>Vysoké Mýto</are:obec>
+      <are:ulice>U Potoka</are:ulice>
+      <are:cisloTxt>753/IV</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Junek</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-01-04">
+   <are:Nazev>Zřizovatel</are:Nazev>
+   <are:Clen dza="2013-11-02">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>7766815</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Pardubice-Staré Město</are:castObce>
+      <are:ulice>Komenského náměstí</are:ulice>
+      <are:cisloPop>125</are:cisloPop>
+     </are:adresa>
+     <are:ICO>70892822</are:ICO>
+     <are:ObchodniFirma>Pardubický kraj</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

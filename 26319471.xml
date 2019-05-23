@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T02:55:44"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>02:55:44</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26319471</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků bytových jednotek v Plzni, Pod Vrchem č. 876/80 a 877/82</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24582123</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>31200</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:castObce>Lobzy</are:castObce>
+    <are:ulice>Pod Vrchem</are:ulice>
+    <are:cisloPop>876</are:cisloPop>
+    <are:cisloOr>80</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2001-01-02</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-01-02">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-01-02" dvy="2015-05-16">
+    <are:Text>
+Způsob jednání:
+Výbor je statutárním orgánem společnství. Předseda jedná navenek
+za výbor. Jde-li o písemný právní úkon, musí být podepsán
+předsedou výboru a dalším pověřeným členem.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-05-16">
+    <are:Text>
+Společenství zastupuje společně předseda výboru a další člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-06-15" dvy="2006-06-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2004-04-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582123</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Votruba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-06-15" dvy="2006-06-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>82</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Soukup</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-06-15" dvy="2006-06-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-06</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582123</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Štuxová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-27" dvy="2013-03-09">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31207</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>82</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libuše</are:jmeno>
+     <are:prijmeni>Cibulková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-27" dvy="2013-03-09">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24518263</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Jablonského</are:ulice>
+      <are:cisloTxt>83</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Bytel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-27" dvy="2013-03-09">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582123</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31207</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeňka</are:jmeno>
+     <are:prijmeni>Kubátová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-03-09" dvy="2015-05-16">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloPop>877</are:cisloPop>
+      <are:cisloOr>82</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LIBUŠE</are:jmeno>
+     <are:prijmeni>CIBULKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-03-09" dvy="2015-05-16">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloPop>877</are:cisloPop>
+      <are:cisloOr>82</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>BYTEL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-03-09" dvy="2015-05-16">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582123</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloPop>876</are:cisloPop>
+      <are:cisloOr>80</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>ŠKRLANTOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-16">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloPop>877</are:cisloPop>
+      <are:cisloOr>82</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LIBUŠE</are:jmeno>
+     <are:prijmeni>CIBULKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-16">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloPop>877</are:cisloPop>
+      <are:cisloOr>82</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>BYTEL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-16">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582123</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloPop>876</are:cisloPop>
+      <are:cisloOr>80</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>ŠKRLANTOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2001-01-02" dvy="2004-06-15">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2001-01-02" dvy="2002-08-08">
+    <are:clenstvi>
+     <are:zanikClenstvi>2002-04-04</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>82</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Soukup</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-02" dvy="2002-08-08">
+    <are:clenstvi>
+     <are:zanikClenstvi>2002-04-04</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>82</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Šárová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-02" dvy="2004-06-15">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582123</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Štuxová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-08-08" dvy="2004-06-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2002-04-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>82</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kopa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-08-08" dvy="2004-06-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2002-04-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582123</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Novák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>02:55:44</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26319471</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků bytových jednotek v Plzni, Pod Vrchem č. 876/80 a 877/82</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24582123</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>31207</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:ulice>Pod Vrchem</are:ulice>
+    <are:cisloTxt>80</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-01-02</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+předmětem činnosti společenství je správa, provoz a opravy
+společných částí domu, vymezených způsobem stanoveným v zákoně a
+zabezpečování dalších činností spojených s provozem domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-01-02" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-01-02" dvy="2001-12-31">
+    <are:Text>
+Způsob jednání:
+Výbor je statutárním orgánem společnství. Předseda jedná navenek
+za výbor. Jde-li o písemný právní úkon, musí být podepsán
+předsedou výboru a dalším pověřeným členem.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-01-02" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582123</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Štuxová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-02" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>82</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Soukup</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-02" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Pod Vrchem</are:ulice>
+      <are:cisloTxt>82</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Šárová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

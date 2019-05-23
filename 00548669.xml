@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:35:34"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:35:34</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00548669</are:ICO>
+   <are:ObchodniFirma>Investice - Portfolio, k.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>12725013</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25101</are:psc>
+    <are:obec>Říčany</are:obec>
+    <are:ulice>Roklanská</are:ulice>
+    <are:cisloTxt>816</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-07-19</are:DatumZapisu>
+   <are:DatumVymazu>2004-05-12</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+činnost organizačních a ekonomických poradců
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-07-19" dvy="2004-05-12">
+   <are:Nazev>Statutární orgán - komplementář</are:Nazev>
+   <are:ZpusobJednani dza="1990-07-19" dvy="2002-04-10">
+    <are:Text>
+Zastoupení organizace: Společnost zastupuje pouze osobně ručící
+společník ing. Ivo Pastrňák CSc.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2002-04-10" dvy="2003-02-17">
+    <are:Text>
+Za společnost jedná samostatně Hana Zajícová, r.č. 425626/100,
+Praha 10, Tehovská 7, PSČ 100 00 - jednatel komplementáře nebo
+samostatně Ing. Ivo Pastrňák, CSc., r.č. 491115/162, Praha 4,
+Nuselská 64, PSČ 140 00 - prokurista komplementáře.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2003-02-17" dvy="2004-05-12">
+    <are:Text>
+Za společnost jedná samostatně Hana Zajícová, r.č. 425626/100,
+Praha 10, Tehovská 7, PSČ 100 00 - jednatel komplementáře.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-07-19" dvy="2002-04-10">
+    <are:funkce>
+     <are:nazev>osobně ručící společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4 - Chodov</are:obec>
+      <are:ulice>Maurerova</are:ulice>
+      <are:cisloTxt>1309/18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivo</are:jmeno>
+     <are:prijmeni>Pastrňák</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1990-07-19" dvy="2004-05-12">
+   <are:Nazev>Společníci - komplementáři</are:Nazev>
+   <are:Clen dza="1990-07-19" dvy="2002-04-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>-</are:text>
+     </are:adresa>
+     <are:prijmeni>-</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-04-10" dvy="2004-05-12">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>12725013</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany</are:obec>
+      <are:ulice>Roklanská</are:ulice>
+      <are:cisloTxt>816</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>61680036</are:ICO>
+     <are:ObchodniFirma>IPHP s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2003-02-17" dvy="2004-05-12">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2003-02-17" dvy="2004-05-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Nuselská</are:ulice>
+      <are:cisloTxt>64</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivo</are:jmeno>
+     <are:prijmeni>Pastrňák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

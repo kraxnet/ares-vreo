@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-05T16:24:07"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-05</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-05</are:Datum_vypisu>
+   <are:Cas_vypisu>16:24:07</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26315645</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků domů čp. 880 a 881 - Dlouhá ul. 28 a 30 v Plzni</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24582174</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>31200</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:castObce>Lobzy</are:castObce>
+    <are:ulice>Dlouhá</are:ulice>
+    <are:cisloPop>881</are:cisloPop>
+    <are:cisloOr>30</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-11-09</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa, provoz a opravy společných částí domu - budovy
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-11-09">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-11-09">
+    <are:Text>
+Způsob jednání:
+Za výbor jedná navenek jeho předseda. Jde-li o písemný právní
+úkon, musí být podepsán předsedou výboru a dalším členem výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-04-05" dvy="2010-06-18">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Jůdlová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-06-18" dvy="2012-09-12">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>28</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Hajžman</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-06-18" dvy="2012-09-12">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>30</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Václava</are:jmeno>
+     <are:prijmeni>Pilná</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-06-18" dvy="2012-09-12">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>30</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Beránek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-09-12" dvy="2014-07-02">
+    <are:clenstvi>
+     <are:zanikClenstvi>2014-04-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2014-04-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>880</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Hajžman</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-09-12" dvy="2014-07-02">
+    <are:clenstvi>
+     <are:zanikClenstvi>2014-04-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2014-04-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>881</are:cisloPop>
+      <are:cisloOr>30</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Václava</are:jmeno>
+     <are:prijmeni>Pilná</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-09-12" dvy="2014-07-02">
+    <are:clenstvi>
+     <are:zanikClenstvi>2014-04-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>880</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Švajcrová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-02" dvy="2016-09-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-04-09</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-04-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2014-04-09</are:vznikFunkce>
+     <are:zanikFunkce>2016-04-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>880</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>HAJŽMAN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-02" dvy="2016-09-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-04-09</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-04-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2014-04-09</are:vznikFunkce>
+     <are:zanikFunkce>2016-04-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>881</are:cisloPop>
+      <are:cisloOr>30</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROMÍR</are:jmeno>
+     <are:prijmeni>SUCHÁNEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-02" dvy="2016-09-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-04-09</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-04-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>880</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANNA</are:jmeno>
+     <are:prijmeni>ŠVAJCROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-06" dvy="2018-07-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-04-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-05-02</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2016-04-20</are:vznikFunkce>
+     <are:zanikFunkce>2018-05-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>880</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>HAJŽMAN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-06" dvy="2018-07-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-04-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-05-02</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2016-04-20</are:vznikFunkce>
+     <are:zanikFunkce>2018-05-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>881</are:cisloPop>
+      <are:cisloOr>30</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROMÍR</are:jmeno>
+     <are:prijmeni>SUCHÁNEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-06" dvy="2018-07-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-04-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-05-02</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>880</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANNA</are:jmeno>
+     <are:prijmeni>ŠVAJCROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-07-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-05-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2018-05-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>881</are:cisloPop>
+      <are:cisloOr>30</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>KOPIČKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-07-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-05-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>880</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANNA</are:jmeno>
+     <are:prijmeni>ŠVAJCROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-07-10" dvy="2018-12-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-05-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-05-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>880</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>HAJŽMAN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-12-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-05-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-05-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>568104</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33025</are:psc>
+      <are:okres>Plzeň-sever</are:okres>
+      <are:obec>Blatnice</are:obec>
+      <are:castObce>Blatnice</are:castObce>
+      <are:cisloPop>233</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>HAJŽMAN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2000-11-09" dvy="2010-06-18">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2000-11-09" dvy="2003-06-03">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Muzikant</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-11-09" dvy="2003-06-03">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Hajný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-11-09" dvy="2007-04-05">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Netolický</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-11-09" dvy="2007-04-05">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Nováková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-03" dvy="2007-04-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-01-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Jůdlová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-08-10" dvy="2007-04-05">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň 4</are:obec>
+      <are:castObce>Lobzy</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>880/28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Richard</are:jmeno>
+     <are:prijmeni>Rout</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-04-05" dvy="2010-06-18">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Netolický</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-04-05" dvy="2010-06-18">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Muzikant</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-04-05" dvy="2010-06-18">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Nováková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-05</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-05</are:Datum_vypisu>
+   <are:Cas_vypisu>16:24:08</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26315645</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků domů čp. 880 a 881 - Dlouhá ul. 28 a 30 v Plzni</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24582174</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Plzeň</are:obec>
+    <are:ulice>Dlouhá</are:ulice>
+    <are:cisloTxt>881/30</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-11-09</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa, provoz a opravy společných částí domu - budovy
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-11-09" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-11-09" dvy="2001-12-31">
+    <are:Text>
+Způsob jednání:
+Za výbor jedná navenek jeho předseda. Jde-li o písemný právní
+úkon, musí být podepsán předsedou výboru a dalším členem výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-11-09" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Netolický</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-11-09" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Nováková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-11-09" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Muzikant</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-11-09" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24582174</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Hajný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

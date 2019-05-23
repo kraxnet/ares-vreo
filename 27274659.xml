@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-15T22:49:30"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-15</are:Datum_vypisu>
+   <are:Cas_vypisu>22:49:30</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>27274659</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků Štefánikovo náměstí 1258,1259, Liberec</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23665955</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>46001</are:psc>
+    <are:okres>Liberec</are:okres>
+    <are:obec>Liberec</are:obec>
+    <are:castObce>Liberec I-Staré Město</are:castObce>
+    <are:ulice>nám. Štefánikovo</are:ulice>
+    <are:cisloPop>1259</are:cisloPop>
+    <are:cisloOr>10a</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2005-02-21</are:DatumVzniku>
+   <are:DatumZapisu>2005-07-28</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2005-07-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2005-07-28" dvy="2016-07-08">
+    <are:Text>
+Způsob jednání:
+ Za výbor společenství jedná navenek jeho předseda. V době nepřítomnosti předsedy jej zastupuje místopředseda. Jde-li o písemný právní úkon, který činí výbor, musí být podepsán předsedou nebo v jeho zastoupení místopředsedou a dalším členem výboru. Podepi
+suje-li předseda spolu s místopředsedou, je podpis místopředsedy považován za podpis dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-07-08">
+    <are:Text>
+Za výbor jedná navenek jeho předseda. V době nepřítomnosti předsedy jej zastupuje místopředseda. Jde-li o písemné právní jednání, musí být podepsán předsedou nebo v jeho zastoupení místopředsedou a dalším členem výboru. Podepisuje-li předseda spolu s míst
+opředsedou, je podpis místopředsedy považován za podpis dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2005-07-28" dvy="2009-07-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-06-08</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-10-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2005-06-08</are:vznikFunkce>
+     <are:zanikFunkce>2008-10-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:obec>Liberec 1</are:obec>
+      <are:ulice>Štefánikovo náměstí</are:ulice>
+      <are:cisloTxt>1259/10a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milena</are:jmeno>
+     <are:prijmeni>Švandová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-07-28" dvy="2009-07-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-06-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2005-06-08</are:vznikFunkce>
+     <are:zanikFunkce>2008-10-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:obec>Liberec 1</are:obec>
+      <are:ulice>Štefánikovo náměstí</are:ulice>
+      <are:cisloTxt>1258/10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dušan</are:jmeno>
+     <are:prijmeni>Chvátal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-07-28" dvy="2010-12-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-06-08</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-06-08</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12190900</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46601</are:psc>
+      <are:obec>Jablonec nad Nisou</are:obec>
+      <are:ulice>Lípová</are:ulice>
+      <are:cisloTxt>3523/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Koravská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-07-11" dvy="2010-12-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-06-08</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-06-08</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2008-10-23</are:vznikFunkce>
+     <are:zanikFunkce>2010-06-08</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:obec>Liberec 1</are:obec>
+      <are:ulice>Štefánikovo náměstí</are:ulice>
+      <are:cisloTxt>1258/10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dušan</are:jmeno>
+     <are:prijmeni>Chvátal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-07-11" dvy="2010-12-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-10-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-11-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2008-10-23</are:vznikFunkce>
+     <are:zanikFunkce>2010-11-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>46005</are:psc>
+      <are:obec>Liberec 5</are:obec>
+      <are:ulice>Fučíkova</are:ulice>
+      <are:cisloTxt>135/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Maschitová</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-24" dvy="2015-04-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-02</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-11-11</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2010-11-02</are:vznikFunkce>
+     <are:zanikFunkce>2014-11-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:obec>Liberec 1</are:obec>
+      <are:ulice>Štefánikovo náměstí</are:ulice>
+      <are:cisloTxt>1258/10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dušan</are:jmeno>
+     <are:prijmeni>Chvátal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-24" dvy="2015-04-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-02</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-11-11</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2010-11-02</are:vznikFunkce>
+     <are:zanikFunkce>2014-11-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>46005</are:psc>
+      <are:obec>Liberec 5</are:obec>
+      <are:ulice>Fučíkova</are:ulice>
+      <are:cisloTxt>135/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Maschitová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-24" dvy="2015-04-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-02</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-11-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12190900</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46601</are:psc>
+      <are:obec>Jablonec nad Nisou</are:obec>
+      <are:ulice>Lípová</are:ulice>
+      <are:cisloTxt>3523/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Koravská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-03" dvy="2016-04-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-12</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-03-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23665955</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec I-Staré Město</are:castObce>
+      <are:ulice>nám. Štefánikovo</are:ulice>
+      <are:cisloPop>1259</are:cisloPop>
+      <are:cisloOr>10a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JINDŘICH</are:jmeno>
+     <are:prijmeni>HART</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-03" dvy="2017-11-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-12</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-10-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2014-11-12</are:vznikFunkce>
+     <are:zanikFunkce>2017-10-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23665947</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec I-Staré Město</are:castObce>
+      <are:ulice>nám. Štefánikovo</are:ulice>
+      <are:cisloPop>1258</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DUŠAN</are:jmeno>
+     <are:prijmeni>CHVÁTAL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-03" dvy="2017-11-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-12</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-10-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2014-11-12</are:vznikFunkce>
+     <are:zanikFunkce>2017-10-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23665955</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec I-Staré Město</are:castObce>
+      <are:ulice>nám. Štefánikovo</are:ulice>
+      <are:cisloPop>1259</are:cisloPop>
+      <are:cisloOr>10a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MILENA</are:jmeno>
+     <are:prijmeni>ŠVANDOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2017-10-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23665947</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec I-Staré Město</are:castObce>
+      <are:ulice>nám. Štefánikovo</are:ulice>
+      <are:cisloPop>1258</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DUŠAN</are:jmeno>
+     <are:prijmeni>CHVÁTAL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2017-10-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23665955</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec I-Staré Město</are:castObce>
+      <are:ulice>nám. Štefánikovo</are:ulice>
+      <are:cisloPop>1259</are:cisloPop>
+      <are:cisloOr>10a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BLANKA</are:jmeno>
+     <are:prijmeni>VÁCOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23665955</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec I-Staré Město</are:castObce>
+      <are:ulice>nám. Štefánikovo</are:ulice>
+      <are:cisloPop>1259</are:cisloPop>
+      <are:cisloOr>10a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAVA</are:jmeno>
+     <are:prijmeni>PÁNKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

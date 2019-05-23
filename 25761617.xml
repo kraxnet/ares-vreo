@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T21:17:16"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>21:17:16</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25761617</are:ICO>
+   <are:ObchodniFirma>RGC CZECH, s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21726744</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:okres>Praha 1</are:okres>
+    <are:obec>Praha 1</are:obec>
+    <are:ulice>Národní</are:ulice>
+    <are:cisloTxt>33</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-05-10</are:DatumZapisu>
+   <are:DatumVymazu>2015-11-19</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost se vymazává z veřejného rejstříku právnických a fyzických osob, a to včetně všech zapsaných skutečností. Právním důvodem výmazu společnosti je ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+správa počítačové sítě
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej - vyjma
+zboží uved. v příl. z.č. 455/91 Sb., v plném znění, a tímto
+zákonem vyloučeného
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v oblasti obchodu a služeb
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-05-10" dvy="2015-11-19">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-05-10" dvy="2015-11-19">
+    <are:Text>
+Jménem společnosti samostatně v plném rozsahu jedná a podepisuje
+jednatel. Podepisování za společnost se děje tak, že jednatel
+připojí svůj vlastnoruční podpis k vytištěnému nebo napsanému
+obchodnímu názvu společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-05-10" dvy="2005-03-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2004-08-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19573057</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Valtická</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tamara</are:jmeno>
+     <are:prijmeni>Slavíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-10-11" dvy="2015-11-19">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-10-11" dvy="2015-11-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22122940</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15500</are:psc>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Píškova</are:ulice>
+      <are:cisloTxt>1954</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kříž</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-05-10" dvy="2015-11-19">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-05-10" dvy="2015-11-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvov, ul. V. Velikogo 61</are:text>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Adamyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-10" dvy="2015-11-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lvov, Patona 2/7</are:text>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Byeloholov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

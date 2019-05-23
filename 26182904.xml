@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T01:32:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>01:32:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26182904</are:ICO>
+   <are:ObchodniFirma>ORTEB TB s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21951748</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Nusle</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>U Pernštejnských</are:ulice>
+    <are:cisloPop>1380</are:cisloPop>
+    <are:cisloOr>6</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-06-13</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+stavební práce nevyžadující odbornou kvalifikaci
+     </are:Text>
+     <are:Text>
+úklidové práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-06-13">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-06-13">
+    <are:Text>
+Společnost zastupuje každý z jednatelů samostatně. Podepisování
+za společnost se děje tak, že k obchodnímu jménu společnosti
+připojí kterýkoliv z jednatelů svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-06-13">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Poděbradská</are:ulice>
+      <are:cisloTxt>65b</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Bilan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-06-13">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2000-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatska, Tjačivskij, Buštyno</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Ilyash</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvovska, Drahobičskij</are:obec>
+      <are:ulice>Nahojeviči 99/56</are:ulice>
+     </are:adresa>
+     <are:jmeno>HALYNA</are:jmeno>
+     <are:prijmeni>BILAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23902507</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50003</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Slezské Předměstí</are:castObce>
+      <are:ulice>Kociánovice</are:ulice>
+      <are:cisloPop>57</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>LUKACHUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Iv. - Frankivska, Halycký, Burštyn</are:obec>
+     </are:adresa>
+     <are:jmeno>VITALIY</are:jmeno>
+     <are:prijmeni>SYDOR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Iv. - Frankivska, Halycký, Burštyn</are:obec>
+     </are:adresa>
+     <are:jmeno>EDUARD</are:jmeno>
+     <are:prijmeni>STAROSHCHUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22413090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Černý Most</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Cíglerova</are:ulice>
+      <are:cisloPop>1083</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BOGDAN</are:jmeno>
+     <are:prijmeni>LYUBUNYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Iv. - Frankivska, Horodenkivský, Serafynci</are:obec>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>BOGDANYUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Černivecka, Zastavnivský, Babyn</are:obec>
+     </are:adresa>
+     <are:jmeno>VIKTOR</are:jmeno>
+     <are:prijmeni>MAZURENKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Iv. - Frankivska, Horodenkivský, Serafynci</are:obec>
+     </are:adresa>
+     <are:jmeno>BORYS</are:jmeno>
+     <are:prijmeni>MAZURENKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Poltavska, Oržickiy</are:obec>
+      <are:ulice>Kujbiševo 20</are:ulice>
+     </are:adresa>
+     <are:jmeno>MYKOLA</are:jmeno>
+     <are:prijmeni>PANCYK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21954607</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nusle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Kloboučnická</are:ulice>
+      <are:cisloPop>1653</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>HRUDNAK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Chustskij, Drahovo</are:obec>
+     </are:adresa>
+     <are:jmeno>IRYNA</are:jmeno>
+     <are:prijmeni>KHUDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Rachivskij, Rosiška,</are:obec>
+     </are:adresa>
+     <are:jmeno>BOHDAN</are:jmeno>
+     <are:prijmeni>FERENTS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Chmelnycký, Kurčatova 1/5,</are:obec>
+      <are:ulice>Kurčatova 1/5,</are:ulice>
+     </are:adresa>
+     <are:jmeno>VITALIY</are:jmeno>
+     <are:prijmeni>KOBRIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Chmelnycký, Faščijivka</are:obec>
+     </are:adresa>
+     <are:jmeno>VOLODYMYR</are:jmeno>
+     <are:prijmeni>KATERYNCHUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Rachiv, Dobrovolciv</are:obec>
+     </are:adresa>
+     <are:jmeno>NATALIYA</are:jmeno>
+     <are:prijmeni>LASLOY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15711145</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34701</are:psc>
+      <are:okres>Tachov</are:okres>
+      <are:obec>Tachov</are:obec>
+      <are:castObce>Tachov</are:castObce>
+      <are:ulice>Chodská</are:ulice>
+      <are:cisloPop>1992</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VOLODYMYR</are:jmeno>
+     <are:prijmeni>MATEYCHUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Rachivskij, Kostylivka</are:obec>
+     </are:adresa>
+     <are:jmeno>HANNA</are:jmeno>
+     <are:prijmeni>DANYSH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21778396</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Černínova</are:ulice>
+      <are:cisloPop>1118</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LARYSA</are:jmeno>
+     <are:prijmeni>SHEPIDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Tjačivskij, Hruševo</are:obec>
+     </are:adresa>
+     <are:jmeno>VOLODYMYR</are:jmeno>
+     <are:prijmeni>DYKUN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Rachiv</are:obec>
+     </are:adresa>
+     <are:jmeno>MYKOLA</are:jmeno>
+     <are:prijmeni>BRANA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska, Chrust</are:obec>
+     </are:adresa>
+     <are:jmeno>NATALIYA</are:jmeno>
+     <are:prijmeni>SAVYTSKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

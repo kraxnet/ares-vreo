@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-05-04T11:54:16"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-05-04</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-05-04</are:Datum_vypisu>
+   <are:Cas_vypisu>11:54:16</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>SR</are:Rejstrik>
+   <are:ICO>71158316</are:ICO>
+   <are:ObchodniFirma>Turistický oddíl mládeže (TOM) Veverčata ev.č. 19164</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24651427</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>66407</are:psc>
+    <are:okres>Brno-venkov</are:okres>
+    <are:obec>Pozořice</are:obec>
+    <are:castObce>Pozořice</are:castObce>
+    <are:ulice>V Zámku</are:ulice>
+    <are:cisloPop>294</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2018-05-02</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Oddíl(pobočný spolek) Turistický oddíl mládeže (TOM) Veverčata ev.č. 19164, V Zámku 294, 664 07 Pozořice, se vymazává ze spolkového rejstříku z důvodu ukončení činnosti  v roce 2012.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Jiny_organ dza="2014-01-01" dvy="2018-05-02">
+   <are:Nazev>Zakladatel</are:Nazev>
+   <are:Clen dza="2014-01-01" dvy="2018-05-02">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>12873403</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25263</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Roztoky</are:obec>
+      <are:castObce>Roztoky</are:castObce>
+      <are:ulice>Palackého</are:ulice>
+      <are:cisloPop>325</are:cisloPop>
+     </are:adresa>
+     <are:ICO>44223846</are:ICO>
+     <are:ObchodniFirma>Asociace turistických oddílů mládeže České republiky</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:59:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:59:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00136131</are:ICO>
+   <are:ObchodniFirma>Zemědělské obchodní družstvo Hroznová Lhota v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23143126</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Hodonín</are:okres>
+    <are:obec>Hroznová Lhota</are:obec>
+    <are:cisloTxt>170</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2010-04-14</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zemědělská výroba
+     </are:Text>
+     <are:Text>
+potravinářská výroba
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+drobná kovovýroba
+     </are:Text>
+     <are:Text>
+práce se stavebními mechanismy
+     </are:Text>
+     <are:Text>
+asfaltérské práce
+     </are:Text>
+     <are:Text>
+drobná dřevovýroba
+     </are:Text>
+     <are:Text>
+silniční motorová doprava
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-01-01" dvy="2010-04-14">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1996-04-24" dvy="2010-04-14">
+    <are:Text>
+Způsob zastupování: Za představenstvo jednají navenek předseda
+nebo místopředseda. Pro právní úkon, kde je předepsaná písemná
+forma, je třeba podpisů alespoň dvou členů představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-01-01" dvy="1993-03-18">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hodonín</are:obec>
+      <are:ulice>Gorkého</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Fencl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-01-01" dvy="1993-03-18">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23144386</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hroznová Lhota</are:obec>
+      <are:cisloTxt>296</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Solařík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-18" dvy="1993-03-18">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Žeraviny 40, p. Hroznová Lhota</are:obec>
+     </are:adresa>
+     <are:jmeno>Hisef</are:jmeno>
+     <are:prijmeni>Fera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-18" dvy="1996-04-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23144386</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hroznová Lhota</are:obec>
+      <are:cisloTxt>č. 296</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Solařík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-18" dvy="1996-04-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23144963</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hroznová Lhota</are:obec>
+      <are:cisloTxt>č. 354</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Halíček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-18" dvy="1996-04-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23145251</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hroznová Lhota</are:obec>
+      <are:cisloTxt>č. 383</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Svoboda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-18" dvy="1996-04-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13636375</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Vracov</are:obec>
+      <are:cisloTxt>č. 1340</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kocurek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-18" dvy="1996-04-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13426591</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kněždub</are:obec>
+      <are:cisloTxt>č. 152</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Konečný</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-18" dvy="1996-04-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23144017</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hroznová Lhota</are:obec>
+      <are:cisloTxt>č. 259</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Kosina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-18" dvy="1996-04-24">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13448056</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Lipov</are:obec>
+      <are:cisloTxt>č. 385</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Rudolf</are:jmeno>
+     <are:prijmeni>Dostálek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-18" dvy="1996-04-24">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Žeraviny 40, p. Hroznová Lhota</are:obec>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Fera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-18" dvy="1996-04-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kozojídky 20, p.Hroznová Lhota</are:obec>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Hlahůlek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-04-24" dvy="1996-12-02">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23144017</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hroznová Lhota</are:obec>
+      <are:cisloTxt>259</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Kosina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-04-24" dvy="1996-12-02">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23145251</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Hroznová Lhota</are:obec>
+      <are:cisloTxt>383</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Svoboda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-04-24" dvy="1996-12-02">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13433032</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Kozojídky</are:obec>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Hlahůlek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-12-02" dvy="2010-04-14">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23144017</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69663</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Hroznová Lhota</are:obec>
+      <are:cisloTxt>259</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Kosina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-12-02" dvy="2010-04-14">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23145251</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69663</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Hroznová Lhota</are:obec>
+      <are:cisloTxt>383</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Svoboda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-12-02" dvy="2010-04-14">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13433032</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69663</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Kozojídky</are:obec>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Hlahůlek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1997-07-08" dvy="2010-04-14">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="1998-01-07" dvy="2010-04-14">
+    <are:Text>
+Za družstvo v likvidaci jedná a podepisuje každý likvidátor
+samostatně a bez omezení.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1997-07-08" dvy="1998-01-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19124945</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63900</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Vídeňská</are:ulice>
+      <are:cisloTxt>44</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Patloka</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-01-07" dvy="2000-07-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24044547</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66491</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Ivančice</are:obec>
+      <are:ulice>Luční</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Rosendorf</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-01-07" dvy="2010-04-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18737153</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>67401</are:psc>
+      <are:okres>Třebíč</are:okres>
+      <are:obec>Třebíč</are:obec>
+      <are:ulice>Vrchlického</are:ulice>
+      <are:cisloTxt>797/85</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libor</are:jmeno>
+     <are:prijmeni>Jeřábek</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

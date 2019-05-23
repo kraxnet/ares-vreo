@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:59:09"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:59:09</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00132896</are:ICO>
+   <are:ObchodniFirma>Strojní a traktorová stanice Brno, státní podnik</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Brno - Dolní Heršpice</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-04-01</are:DatumZapisu>
+   <are:DatumVymazu>1993-01-26</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1.péče o stacionární a mobilní zemědělskou techniku
+2.opravárenská a renovační činnost
+3.mechanizace živočišné výroby a elektročinnost
+4.zemědělsko - výrobní činnost.
+5.strojírenská a kovodělná výroba
+6.zemní práce včetně zpevňování vozovek
+7.poradenské, kontrolní a revizní služby
+8.vývoj, výroba, montáž a servis ekologických zařízení a
+zemědělské technik y
+9.obchodní činnost
+     </are:Text>
+     <are:Text>
+10.zahraničně obchodní činnost podle zvláštního povolení
+11.odbytová činnost strojírenských a kovodělných výrobků
+12.služby výpočetní techniky
+13.projektová činnost podle zvláštního povolení
+14.zajišťování vzdělávání a připravy pracovníků ve vybraných
+profesích
+15.neveřejná silniční doprava nákladů
+16.poskytování prací a služeb
+17.provozování předškolních, zdravotnických a sportovních
+zařízení
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-04-11" dvy="1993-01-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="1990-04-11" dvy="1993-01-26">
+    <are:funkce>
+     <are:nazev>zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Spáčilova</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Zapletal</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-08-21" dvy="1993-01-26">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24687138</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Vysoké Popovice</are:obec>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Pokorný</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-08-21" dvy="1993-01-26">
+    <are:funkce>
+     <are:nazev>obchodní náměstek</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Zápotockého</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasil</are:jmeno>
+     <are:prijmeni>Ščerbej</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-30T12:32:33"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-30</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-30</are:Datum_vypisu>
+   <are:Cas_vypisu>12:32:33</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26908697</are:ICO>
+   <are:ObchodniFirma>CORD BLOOD CENTER CZ, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21717991</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Staré Město</are:castObce>
+    <are:mop>Praha 1</are:mop>
+    <are:ulice>Konviktská</are:ulice>
+    <are:cisloPop>291</are:cisloPop>
+    <are:cisloOr>24</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-10-17</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+provozování nestátního zdravotnického zařízení - hematologie a transfúzní lékařství
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-10-17">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-10-17" dvy="2006-10-03">
+    <are:Text>
+Způsob jednání za společnost: za společnost jedná a podepisuje jednatel
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2006-10-03">
+    <are:Text>
+Způsob zastupování: Za společnost jedná a podepisuje každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-10-17" dvy="2006-10-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-10-17</are:vznikFunkce>
+     <are:zanikFunkce>2006-09-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26079241</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66441</are:psc>
+      <are:obec>Troubsko</are:obec>
+      <are:ulice>Sadová</are:ulice>
+      <are:cisloTxt>534/14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Petrenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-10-03" dvy="2009-10-09">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-09-13</are:vznikFunkce>
+     <are:zanikFunkce>2009-08-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>85104</are:psc>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Haanova</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kristína</are:jmeno>
+     <are:prijmeni>Šatánková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-10-03" dvy="2018-12-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-09-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>85103</are:psc>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Mlynarovičová</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Kabát</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-10-09" dvy="2010-10-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-08-03</are:vznikFunkce>
+     <are:zanikFunkce>2010-10-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>85110</are:psc>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Petara Pasicha</are:ulice>
+      <are:cisloTxt>507/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Juraj</are:jmeno>
+     <are:prijmeni>Žigo</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>FCCA, MBA</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-10-14" dvy="2012-03-02">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-10-01</are:vznikFunkce>
+     <are:zanikFunkce>2012-02-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>90045</are:psc>
+      <are:obec>Malinovo</are:obec>
+      <are:ulice>Tomášovská</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Balážik</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-12-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-09-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>90046</are:psc>
+      <are:obec>Most pri Bratislave</are:obec>
+      <are:ulice>Most pri Bratislave 733</are:ulice>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Kabát</are:prijmeni>
+     <are:titulPred>Ing. Mgr.</are:titulPred>
+     <are:titulZa>PhD.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-10-17">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-02-22">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>82109</are:psc>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Košická</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>CORD BLOOD CENTER, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2013-02-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>82109</are:psc>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Košická</are:ulice>
+     </are:adresa>
+     <are:jmeno>ZOHDY</are:jmeno>
+     <are:prijmeni>HAMID</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

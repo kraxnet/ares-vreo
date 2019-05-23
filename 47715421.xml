@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T23:43:49"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>23:43:49</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>47715421</are:ICO>
+   <are:ObchodniFirma>Moneta Starý Plzenec, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Plzeň-jih</are:okres>
+    <are:obec>Starý Plzenec</are:obec>
+    <are:ulice>Heydukova</are:ulice>
+    <are:cisloTxt>600</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-12-18</are:DatumZapisu>
+   <are:DatumVymazu>2015-09-16</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní společnost Moneta Starý Plzenec, spol. s r.o. v likvidaci, se sídlem Heydukova 600, 332 02, Starý Plzenec, identifikační číslo 477 15 421, z obchodního rejstříku. Výmaz se provádí na základě prohlášení likvidátora, že byly naplněny zá
+konné podmínky § 82 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+obchodní činnost s potravinářským a nepotravinářským zbožím
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v oblasti obchodu a služeb
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-12-18" dvy="2015-09-16">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-12-18" dvy="2015-09-16">
+    <are:Text>
+Způsob jednání:
+a) zastupování - společnost zastupují ve všech věcech jednatelé
+samostatně
+b) podepisování - podepisování se provádí tak, že k napsanému
+nebo vytištěnému obchodnímu jménu společnosti připojí svůj
+podpis alespoň jeden jednatel s uvedením jména a funkce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-12-18" dvy="2000-01-07">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-jih</are:okres>
+      <are:obec>Starý Plzenec</are:obec>
+      <are:ulice>Heydukova</are:ulice>
+      <are:cisloTxt>600</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Hák</are:prijmeni>
+     <are:titulPred>dr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-18" dvy="2015-09-16">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24494879</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Částkova</are:ulice>
+      <are:cisloTxt>74</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>ing. Nguyen Quoc Chu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-09-03" dvy="2015-09-16">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2013-09-03" dvy="2015-09-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24502111</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Koterovská</are:ulice>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Müllerová</are:prijmeni>
+     <are:titulPred>Mgr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-12-18" dvy="2015-09-16">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1998-03-18" dvy="2015-09-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24494879</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Částkova</are:ulice>
+      <are:cisloTxt>74</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>ing. Nguyen Quoc Chu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-03-18" dvy="2015-09-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24495433</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Částkova</are:ulice>
+      <are:cisloTxt>76</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Nguyen Quoc Tuyen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-02-27" dvy="2015-09-16">
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

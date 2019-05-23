@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T21:02:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>21:02:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25735748</are:ICO>
+   <are:ObchodniFirma>ROSTSONDA s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22185305</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>16000</are:psc>
+    <are:okres>Praha 6</are:okres>
+    <are:obec>Praha 6</are:obec>
+    <are:ulice>Wolkerova</are:ulice>
+    <are:cisloTxt>13</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-02-09</are:DatumZapisu>
+   <are:DatumVymazu>2004-06-08</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v oblasti obchodu a služeb
+     </are:Text>
+     <are:Text>
+pronájem nebytových prostor bez poskytování jiných než
+základních služeb spojených s pronájmem
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-02-09" dvy="2004-06-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-02-09" dvy="2004-06-08">
+    <are:Text>
+Za společnost jedná jednatel samostatně ve všech věcech.
+Podepisování za společnost se děje tak, že k napsanému či
+vytištěnému obchodnímu jménu společnosti připojí jednatel svůj
+vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-02-09" dvy="2004-06-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21700061</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Praha 1</are:okres>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Na Kampě</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Julie</are:jmeno>
+     <are:prijmeni>Mrázová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2002-08-21" dvy="2004-06-08">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="2002-08-21" dvy="2004-06-08">
+    <are:Text>
+Způsob jednání jménem společnosti: Za společnost jedná navenek
+likvidátor. Podepisování za společnost se děje tak, že k
+obchodní firmě společnosti připojí svůj vlastnoruční podpis s
+dodatekm likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-08-21" dvy="2004-06-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22205071</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Evropská</are:ulice>
+      <are:cisloTxt>35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svetlana</are:jmeno>
+     <are:prijmeni>Doudko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-02-09" dvy="2004-06-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-02-09" dvy="2004-06-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Rostov na Donu</are:obec>
+      <are:ulice>2 Kolcevaja</are:ulice>
+      <are:cisloTxt>94</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Serguei</are:jmeno>
+     <are:prijmeni>Borodaev</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-09" dvy="2004-06-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Rostov na Donu</are:obec>
+      <are:ulice>Gorkogo</are:ulice>
+      <are:cisloTxt>285</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svetlana</are:jmeno>
+     <are:prijmeni>Borodaeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-09" dvy="2004-06-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Rostov na Donu</are:obec>
+      <are:ulice>Gorkogo</are:ulice>
+      <are:cisloTxt>291</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalia</are:jmeno>
+     <are:prijmeni>Borodaeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-09" dvy="2004-06-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Rostov na Donu</are:obec>
+      <are:ulice>Gorkogo</are:ulice>
+      <are:cisloTxt>291</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ekaterina</are:jmeno>
+     <are:prijmeni>Borodaeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

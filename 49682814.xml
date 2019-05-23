@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T02:01:36"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>02:01:36</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>49682814</are:ICO>
+   <are:ObchodniFirma>Bohemia Handelskontor spol. s r.o. - v českém jazyce        Bohemia Handelskontor GmbH - v německém jazyce</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>30167515</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>39601</are:psc>
+    <are:okres>Pelhřimov</are:okres>
+    <are:obec>Humpolec</are:obec>
+    <are:castObce>Humpolec</are:castObce>
+    <are:ulice>Nerudova</are:ulice>
+    <are:cisloPop>957</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-08-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-08-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-08-12">
+    <are:Text>
+Za společnost navenek zastupují jednatelé samostatně v plném
+rozsahu. Podepisování za firmu se děje tím způsobem, že jednatel
+připojí k vytištěnému nebo vypsanému názvu společnosti svůj
+podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-08-12" dvy="1994-10-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6-Břevnov</are:obec>
+      <are:ulice>Anastázova 2l</are:ulice>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Fabiánková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-10-14" dvy="2016-12-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8904529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Humpolec</are:obec>
+      <are:ulice>Na kasárnách</are:ulice>
+      <are:cisloTxt>449</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ulrich</are:jmeno>
+     <are:prijmeni>Marsch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8904529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39601</are:psc>
+      <are:okres>Pelhřimov</are:okres>
+      <are:obec>Humpolec</are:obec>
+      <are:castObce>Humpolec</are:castObce>
+      <are:ulice>Na Kasárnách</are:ulice>
+      <are:cisloPop>449</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ULRICH</are:jmeno>
+     <are:prijmeni>MARSCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-08-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-12-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8904529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39601</are:psc>
+      <are:okres>Pelhřimov</are:okres>
+      <are:obec>Humpolec</are:obec>
+      <are:castObce>Humpolec</are:castObce>
+      <are:ulice>Na Kasárnách</are:ulice>
+      <are:cisloPop>449</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ULRICH</are:jmeno>
+     <are:prijmeni>MARSCH</are:prijmeni>
+     <are:bydliste>
+      <are:stat>276</are:stat>
+      <are:obec>4290 Bocholt</are:obec>
+      <are:ulice>Bischof-Ketteler-Str. 25</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:obec>4OO Munster</are:obec>
+      <are:ulice>Wehrstrasse 7</are:ulice>
+     </are:adresa>
+     <are:jmeno>FERDINAND</are:jmeno>
+     <are:prijmeni>NOLTE</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T07:29:37"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>07:29:37</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>18628346</are:ICO>
+   <are:ObchodniFirma>Autoškola Praha 4, podnik STSČ ČR v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Na Strži</are:ulice>
+    <are:cisloTxt>1223</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-08-09</are:DatumZapisu>
+   <are:DatumVymazu>1992-07-13</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+- příprava, výuka a výcvik nových řidičů silničních motorových
+vozidel
+- doškolování řidičů z povolání a ostatních držitelů řidčských
+průkazů
+     </are:Text>
+     <are:Text>
+- kondiční a zdokonalovací výcvik držitelů řidičských průkazů
+- příprava, výuka a výcvik uchazečů o získání  o s v ě d č e n í
+pro učitele motorových vozidel
+     </are:Text>
+     <are:Text>
+- dopravní výchova dětí, mládeže, pedagogických pracovníků i
+ostatních občanů v dodržování pravidel silničního provozu,
+bezpečnosti a kázně v dopravě
+- organizování a provádění kursů pro řidiče - opraváře a kursů
+údržba motorových vozidel
+     </are:Text>
+     <are:Text>
+- vývoj a zhotovování modelů, učebních pomůcek, výukových
+materiálů a zařízení pro výuku a výcvik řidičů i pro dopravní
+výchovu včetně jejich oprav
+- vývoj a výroba zařízení pro ovládáním vozidla učitelem
+     </are:Text>
+     <are:Text>
+- poradenská, servisní a opravárenská činnost
+- provádění technických prohlídek v součinnosti s VB - DI
+     </are:Text>
+     <are:Text>
+- výchova učnů v učebním oboru automechanik po dohodě s
+příslušnými orgány
+- zprostředkování prodeje ojetých motorových vozidel
+     </are:Text>
+     <are:Text>
+- provozování půjčovny motorových vozidel
+- poskytování služeb veřejného stravování a ubytovacích služeb
+     </are:Text>
+     <are:Text>
+- provádění dopravního značení
+- výroba a prodej výukových materiálů, pomůcek a zařízení pro
+ovládání vozidla (vozidel) učitelem
+- provádění reklamní činnosti.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-08-09" dvy="1992-07-13">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="1991-08-09" dvy="1992-02-13">
+    <are:funkce>
+     <are:nazev>kkkk</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>klkl</are:obec>
+     </are:adresa>
+     <are:prijmeni>jhkkkk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-02-13" dvy="1992-07-13">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22679189</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>V ochozu</are:ulice>
+      <are:cisloTxt>1889/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Čeněk</are:jmeno>
+     <are:prijmeni>Dufek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

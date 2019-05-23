@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T05:38:53"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>05:38:53</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>63080664</are:ICO>
+   <are:ObchodniFirma>Obchodní společnost Praha - čisté město, a.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21721947</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:obec>Praha 1</are:obec>
+    <are:ulice>Celetná</are:ulice>
+    <are:cisloTxt>29</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-08-02</are:DatumZapisu>
+   <are:DatumVymazu>2009-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+a) nákup zboží za účelem jeho prodej a prodej zboží
+     </are:Text>
+     <are:Text>
+b) finanční leasing
+     </are:Text>
+     <are:Text>
+c) provádění staveb včetně jejich změn, udržovacích prací
+na nich a jejich odstraňování
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-08-02" dvy="2009-12-31">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="1995-08-02" dvy="1996-01-25">
+    <are:Text>
+Způsob jednání a podepisování jménem společnosti:
+k vytištěnému nebo nadepsanému názvu společnosti připojí
+svůj podpis:
+- předseda představenstva, nebo
+- dva členové představenstva zároveň.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1996-01-25" dvy="1998-04-15">
+    <are:Text>
+Za společnost jednají a podepisují následující osoby takto:
+- předseda představenstva, nebo
+- předseda a místopředseda představenstva společně, nebo
+- dva členové představenstva společně, zmocněni představenstvem.
+Předseda, místopředseda a členové představenstva podepisují
+tak, že k vytištěnému nebo nadepsanému názvu společnosti
+připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1998-04-15" dvy="2009-12-31">
+    <are:Text>
+Za společnost jednají a podepisují předseda představenstva
+nebo dva členové představenstva společně k tomu zmocnění
+představenstvem.
+Podepisování za společnost se děje tak, že k vytištěnému
+nebo napsanému obchodnímu jménu společnosti připojí svůj podpis
+předseda představenstva nebo dva členové představenstva k tomu
+zmocnění.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-08-02" dvy="1995-10-02">
+    <are:funkce>
+     <are:nazev>představenstvo,předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6,ČR</are:obec>
+      <are:ulice>Na pískách 93</are:ulice>
+     </are:adresa>
+     <are:jmeno>Luc</are:jmeno>
+     <are:prijmeni>Zeller</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-08-02" dvy="1995-10-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2,ČR</are:obec>
+      <are:ulice>Vinohradská 13</are:ulice>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Šebek</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-08-02" dvy="1995-10-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 7,ČR</are:obec>
+      <are:ulice>Tovární 3</are:ulice>
+     </are:adresa>
+     <are:jmeno>Daniel</are:jmeno>
+     <are:prijmeni>Vlček</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-10-02" dvy="1996-01-25">
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Frágnerova</are:ulice>
+      <are:cisloTxt>2383</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Laurent</are:jmeno>
+     <are:prijmeni>Bermejo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-10-02" dvy="1996-01-25">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22201572</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Na pískách</are:ulice>
+      <are:cisloTxt>93</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luc</are:jmeno>
+     <are:prijmeni>Zeller</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-10-02" dvy="1996-01-25">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21815593</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Nad úpadem</are:ulice>
+      <are:cisloTxt>199/75</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Claude</are:jmeno>
+     <are:prijmeni>Caus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-25" dvy="1996-12-16">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22598502</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Rezlerova</are:ulice>
+      <are:cisloTxt>281</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Vránek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-25" dvy="1996-12-16">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Frágnerova</are:ulice>
+      <are:cisloTxt>2383</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Laurent</are:jmeno>
+     <are:prijmeni>Bermejo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-25" dvy="1997-01-14">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22301828</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 7</are:okres>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>Kamenická</are:ulice>
+      <are:cisloTxt>56</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Guy Alfred Martin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-25" dvy="1997-01-14">
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21763364</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Libická</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Dušek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-25" dvy="1997-01-14">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22398929</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Notečská</are:ulice>
+      <are:cisloTxt>561</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Šulc</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-12-16" dvy="1998-04-15">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22201572</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Na Pískách</are:ulice>
+      <are:cisloTxt>93</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luc</are:jmeno>
+     <are:prijmeni>Zeller</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-12-16" dvy="1998-04-15">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25011758</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Pivcova</are:ulice>
+      <are:cisloTxt>945</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Dolanský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-01-14" dvy="1998-04-15">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22301828</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 7</are:okres>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>Kamenická</are:ulice>
+      <are:cisloTxt>56</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Guy Alfred Martin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-01-14" dvy="1998-04-15">
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21763364</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 3</are:okres>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Libická</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Dušek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-01-14" dvy="1998-04-15">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Novotečská</are:ulice>
+      <are:cisloTxt>561</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Šulc</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-15" dvy="2009-12-31">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25011758</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Pivcova</are:ulice>
+      <are:cisloTxt>945</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Dolanský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-15" dvy="2009-12-31">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22373829</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Jelínkova</are:ulice>
+      <are:cisloTxt>1652/10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Smetana</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-15" dvy="2009-12-31">
+    <are:funkce>
+     <are:nazev>člen představenstvo</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22392122</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Střelničná</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Barcal</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-01-13" dvy="2009-12-31">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2009-01-13" dvy="2009-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22696911</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Seydlerova</are:ulice>
+      <are:cisloTxt>2152/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eduard</are:jmeno>
+     <are:prijmeni>Švehla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-08-02" dvy="2009-12-31">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="1998-04-15" dvy="2009-12-31">
+    <are:funkce>
+     <are:nazev>Předseda dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22506667</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Litvínovská</are:ulice>
+      <are:cisloTxt>526/24</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Syrovátko</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-15" dvy="2009-12-31">
+    <are:funkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21852596</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Zdislavická</are:ulice>
+      <are:cisloTxt>725</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Věra</are:jmeno>
+     <are:prijmeni>Novotná</are:prijmeni>
+     <are:titulPred>PhDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-15" dvy="2009-12-31">
+    <are:funkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22349430</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloTxt>28/89</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Domasová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="1998-04-15" dvy="2009-12-31">
+   <are:Nazev>Jediný akcionář</are:Nazev>
+   <are:Clen dza="1998-04-15" dvy="2009-12-31">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21714746</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 1</are:okres>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Mariánské náměstí</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>Hlavní město Praha</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

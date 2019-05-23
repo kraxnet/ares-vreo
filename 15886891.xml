@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-03-23T16:42:41"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-04-29</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-03-23</are:Datum_vypisu>
+   <are:Cas_vypisu>16:42:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>15886891</are:ICO>
+   <are:ObchodniFirma>APG obchodní a prodejní spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21732329</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Nové Město</are:castObce>
+    <are:mop>Praha 2</are:mop>
+    <are:ulice>Na bojišti</are:ulice>
+    <are:cisloPop>1469</are:cisloPop>
+    <are:cisloOr>26</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-02-04</are:DatumZapisu>
+   <are:DatumVymazu>2018-03-17</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost APG obchodní a prodejní spol. s r.o. v likvidaci se sídlem Na bojišti 1469/26, Nové Město, 120 00 Praha 2, IČO: 15886891 je po právní moci tohoto usnesení vymazána z obchodního rejstříku včetně všech zapsaných skutečností. Právní důvod výmazu j
+e zrušení společnosti s likvidací a její ukončení.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+dovoz a vývoz zboží všeho druhu
+     </are:Text>
+     <are:Text>
+odbytová činnost
+     </are:Text>
+     <are:Text>
+zprostředkování dovozních a vývozních obchodů
+     </are:Text>
+     <are:Text>
+nákup a prodej nemovitostí
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-02-04" dvy="2018-03-17">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-02-04" dvy="2018-03-17">
+    <are:Text>
+Za společnost jedná a za společnost podepisuje jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-02-04" dvy="2018-03-17">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Dietzenbach, SRN</are:obec>
+      <are:ulice>Gallischestrasse 1/9</are:ulice>
+     </are:adresa>
+     <are:jmeno>Walter</are:jmeno>
+     <are:prijmeni>Klaus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-10-06" dvy="2018-03-17">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-10-06" dvy="2018-03-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21704945</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloPop>700</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>MAREŠ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-02-04" dvy="2018-03-17">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-02-04" dvy="2018-03-17">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:obec>Dietzenbach</are:obec>
+     </are:adresa>
+     <are:ObchodniFirma>APG Handels und Vetrieb GmbH</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

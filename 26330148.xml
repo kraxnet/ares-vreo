@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T03:02:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>03:02:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26330148</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků Sukova 9, Plzeň</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24542555</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>30100</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:castObce>Jižní Předměstí</are:castObce>
+    <are:ulice>Sukova</are:ulice>
+    <are:cisloPop>1258</are:cisloPop>
+    <are:cisloOr>9</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2001-07-19</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+správa nemovitosti
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-07-19" dvy="2007-04-19">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2001-07-19" dvy="2007-04-19">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32008</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miluše</are:jmeno>
+     <are:prijmeni>Kalná</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-07-19" dvy="2007-04-19">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32008</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Kaipr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-07-19" dvy="2007-04-19">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2000-11-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32008</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zbyněk</are:jmeno>
+     <are:prijmeni>Soukup</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2001-07-19" dvy="2017-11-07">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-07-19" dvy="2015-06-05">
+    <are:Text>
+Způsob jednání:
+a) zastupování - jménem společenství jedná předseda výboru
+b) podepisování - za společenství podepisuje předseda výboru
+spolu s jedním členem výboru
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-06-05" dvy="2017-11-07">
+    <are:Text>
+Výbor zastupuje společenství ve všech záležitostech. Navenek zastupuje společenství předseda výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-04-19" dvy="2009-05-08">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ilona</are:jmeno>
+     <are:prijmeni>Kočandrlová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-04-19" dvy="2011-07-19">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Kaipr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-04-19" dvy="2011-07-19">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zbyněk</are:jmeno>
+     <are:prijmeni>Soukup</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-04-19" dvy="2011-07-19">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25125486</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33901</are:psc>
+      <are:obec>Klatovy</are:obec>
+      <are:ulice>Koperníkova</are:ulice>
+      <are:cisloTxt>855</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Štich</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-08" dvy="2011-07-19">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ilona</are:jmeno>
+     <are:prijmeni>Špillarová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-19" dvy="2011-11-30">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Ilona</are:jmeno>
+     <are:prijmeni>Špillarová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-19" dvy="2011-11-30">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Soukup</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-19" dvy="2011-11-30">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>David</are:jmeno>
+     <are:prijmeni>Mach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-19" dvy="2017-01-17">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Kaipr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-19" dvy="2017-01-17">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25125486</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33901</are:psc>
+      <are:obec>Klatovy</are:obec>
+      <are:ulice>Koperníkova</are:ulice>
+      <are:cisloPop>855</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Štich</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-30" dvy="2017-01-17">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>David</are:jmeno>
+     <are:prijmeni>Mach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-30" dvy="2017-01-17">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Výška</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-17" dvy="2017-07-15">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-03-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Jižní Předměstí</are:castObce>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloPop>1258</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>TAŽEJOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-17" dvy="2017-09-29">
+    <are:funkce>
+     <are:nazev>předseda  výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Jižní Předměstí</are:castObce>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloPop>1258</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DAVID</are:jmeno>
+     <are:prijmeni>MACH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-17" dvy="2017-11-07">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-10-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Jižní Předměstí</are:castObce>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloPop>1258</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>ŠTICH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-17" dvy="2017-11-07">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-10-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15692256</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34815</are:psc>
+      <are:okres>Tachov</are:okres>
+      <are:obec>Zadní Chodov</are:obec>
+      <are:castObce>Zadní Chodov</are:castObce>
+      <are:cisloPop>75</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>NEUMANN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-09-29" dvy="2017-11-07">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-08-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda  výboru</are:nazev>
+     <are:zanikFunkce>2017-08-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>74664131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Pod plynojemem</are:ulice>
+      <are:cisloPop>2472</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DAVID</are:jmeno>
+     <are:prijmeni>MACH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-11-07">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2017-11-07">
+    <are:Text>
+Za společenství jedná předseda společenství samostatně. Zmocněnci Ing. Jaroslav Čejka a Ing. Radomír Landa jsou oprávněni jednat za zmocnitele vždy společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2017-11-07">
+    <are:funkce>
+     <are:nazev>Předseda společenství</are:nazev>
+     <are:vznikFunkce>2017-10-10</are:vznikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>24527149</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Doudlevce</are:castObce>
+      <are:ulice>Edvarda Beneše</are:ulice>
+      <are:cisloPop>530</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:ICO>00039276</are:ICO>
+     <are:ObchodniFirma>Stavební bytové družstvo ŠKODOVÁK</are:ObchodniFirma>
+     <are:Zastoupeni dza="2017-11-07">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>24526177</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>30100</are:psc>
+        <are:okres>Plzeň-město</are:okres>
+        <are:obec>Plzeň</are:obec>
+        <are:castObce>Doudlevce</are:castObce>
+        <are:ulice>Heyrovského</are:ulice>
+        <are:cisloPop>409</are:cisloPop>
+        <are:cisloOr>26</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>RADOMÍR</are:jmeno>
+       <are:prijmeni>LANDA</are:prijmeni>
+       <are:titulPred>Ing.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+     <are:Zastoupeni dza="2017-11-07" dvy="2017-11-24">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>24521205</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>32600</are:psc>
+        <are:okres>Plzeň-město</are:okres>
+        <are:obec>Plzeň</are:obec>
+        <are:castObce>Východní Předměstí</are:castObce>
+        <are:ulice>Koterovská</are:ulice>
+        <are:cisloPop>2390</are:cisloPop>
+        <are:cisloOr>47</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>JAROSLAV</are:jmeno>
+       <are:prijmeni>ČEJKA</are:prijmeni>
+       <are:titulPred>Ing.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+     <are:Zastoupeni dza="2017-11-24">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>77796691</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>33016</are:psc>
+        <are:okres>Plzeň-sever</are:okres>
+        <are:obec>Všeruby</are:obec>
+        <are:castObce>Všeruby</are:castObce>
+        <are:cisloPop>460</are:cisloPop>
+       </are:adresa>
+       <are:jmeno>JAROSLAV</are:jmeno>
+       <are:prijmeni>ČEJKA</are:prijmeni>
+       <are:titulPred>Ing.</are:titulPred>
+      </are:fosoba>
+     </are:Zastoupeni>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>03:02:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26330148</are:ICO>
+   <are:ObchodniFirma>Společenství Sukova 9, Plzeň</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24542555</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>32008</are:psc>
+    <are:obec>Plzeň</are:obec>
+    <are:ulice>Sukova</are:ulice>
+    <are:cisloTxt>1258/9</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-07-19</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-07-19" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-07-19" dvy="2001-12-31">
+    <are:Text>
+Způsob jednání:
+a) zastupování - jménem společenství jedná předseda výboru
+b) podepisování - za společenství podepisuje předseda výboru
+spolu s jedním členem výboru
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-07-19" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32008</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miluše</are:jmeno>
+     <are:prijmeni>Kalná</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-07-19" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32008</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Kaipr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-07-19" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2000-11-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24542555</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32008</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zbyněk</are:jmeno>
+     <are:prijmeni>Soukup</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

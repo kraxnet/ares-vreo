@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-05-11T11:55:27"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-05-11</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-05-11</are:Datum_vypisu>
+   <are:Cas_vypisu>11:55:28</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>15268233</are:ICO>
+   <are:ObchodniFirma>UNI-IMPORT Praha spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21734038</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Nové Město</are:castObce>
+    <are:mop>Praha 2</are:mop>
+    <are:ulice>Sokolská</are:ulice>
+    <are:cisloPop>1792</are:cisloPop>
+    <are:cisloOr>52</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-03-31</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+vyjma zboží uvedeného v příl.zák. č.455/91 Sb. o
+žovnostenském podnikání a zboží tímto zákonem vy-
+loučeného.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-04-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-04-05">
+    <are:Text>
+Společnost zastupuje jednatel nebo jeho zástupce, nebo všichni
+společníci navenek společně.
+Podepisování se děje tak, že k vytištěnému nebo napsanému názvu
+společnosti připojí svůj podpis její jednatel, v jeho nepřítom-
+nosti jeho zástupce nebo prokurista s vyznačením dodatku, jemž
+označuje prokuru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-04-05" dvy="1995-02-03">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21905860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Počátecká</are:ulice>
+      <are:cisloTxt>412/14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Kůta</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-02-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21820872</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Kosmická</are:ulice>
+      <are:cisloTxt>749</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Kubeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-04-05">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1998-04-17">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21706123</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Václavské nám.</are:ulice>
+      <are:cisloTxt>60</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00008958</are:ICO>
+     <are:ObchodniFirma>Intersigma a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-17">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>AB Solna, Švédsko</are:obec>
+     </are:adresa>
+     <are:ObchodniFirma>ITT Flygt</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-17">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Železniční</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>Sigmaprodej</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Počátecká</are:ulice>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Kůta</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Staropamenná</are:ulice>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Saksl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22284583</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>KLadenská</are:ulice>
+      <are:cisloTxt>89/52</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdenka</are:jmeno>
+     <are:prijmeni>Cajthamlová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14659409</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Úvaly</are:obec>
+      <are:ulice>Vítězslava Nováka</are:ulice>
+      <are:cisloTxt>284</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vítězslav</are:jmeno>
+     <are:prijmeni>Lacina</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23269758</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>U kovárny</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Rudolf</are:jmeno>
+     <are:prijmeni>Mareš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-04-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23305614</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Dvořákova</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Dvořák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21820872</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Kosmická</are:ulice>
+      <are:cisloTxt>749</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Kubeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-03-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6314376</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jinočany</are:obec>
+      <are:ulice>Lidická</are:ulice>
+      <are:cisloTxt>228</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josefa</are:jmeno>
+     <are:prijmeni>Veltnerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-25">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21918058</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14314</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Modřany</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Komořanská</are:ulice>
+      <are:cisloTxt>326/63</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>49240005</are:ICO>
+     <are:ObchodniFirma>MODŘANY Power, a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2015-09-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22154060</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>8. listopadu</are:ulice>
+      <are:cisloPop>598</are:cisloPop>
+      <are:cisloOr>60</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>JURÁNEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-05-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19711689</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Královo Pole</are:castObce>
+      <are:ulice>Myslínova</are:ulice>
+      <are:cisloPop>1825</are:cisloPop>
+      <are:cisloOr>65</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LADA</are:jmeno>
+     <are:prijmeni>MÜLLEROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

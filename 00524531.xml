@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:26:26"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:26:26</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00524531</are:ICO>
+   <are:ObchodniFirma>Stavební projekty v.o.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Děčín II</are:obec>
+    <are:ulice>Benešovská 468/l</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-12-01</are:DatumZapisu>
+   <are:DatumVymazu>2010-04-20</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Inženýrská činnost v investiční výstavbě
+- technická pomoc
+- inženýrská a investorská činnost
+- stavební dozor
+     </are:Text>
+     <are:Text>
+Projektová činnost ve výstavbě
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-12-01" dvy="2010-04-20">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1992-12-01" dvy="2010-04-20">
+    <are:Text>
+Jménem společnosti jedná a za ni podepisuje společník Jan
+Houdek.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-12-01" dvy="2001-05-11">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Děčín III</are:obec>
+      <are:ulice>Litoměřická 7O/27</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Houdek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-05-11" dvy="2010-04-20">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>56448</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40713</are:psc>
+      <are:obec>Ludvíkovice</are:obec>
+      <are:ulice>Ludvíkovice</are:ulice>
+      <are:cisloTxt>223</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Houdek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2005-01-07" dvy="2010-04-20">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2005-01-07" dvy="2010-04-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Ludvíkovice 223, Ludvíkovice, PSČ 407 13</are:text>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Houdek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-05-23" dvy="2010-04-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-05-23" dvy="2010-04-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Děčín VI</are:obec>
+      <are:ulice>Krásnostudenecká 1518/23</are:ulice>
+     </are:adresa>
+     <are:jmeno>Alena</are:jmeno>
+     <are:prijmeni>Lukešová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-05-11" dvy="2010-04-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>56448</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40713</are:psc>
+      <are:obec>Ludvíkovice</are:obec>
+      <are:ulice>Ludvíkovice</are:ulice>
+      <are:cisloTxt>223</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Houdek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:26:26</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00524531</are:ICO>
+   <are:ObchodniFirma>Oblastní výstavbové bytové družstvo Děčín</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>40501</are:psc>
+    <are:obec>Děčín II</are:obec>
+    <are:ulice>Benešovská 468/l</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-06-20</are:DatumZapisu>
+   <are:DatumVymazu>1992-12-01</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1. Předmětem činnosti OVBD je především organizvání přípravy a
+provádění výstavby bytových objektů
+2. V rámci předmětu činnosti OVBD připravuje a zabezpečuje
+a) výstavbu bytů v družstevních domech a místnosti nesloužící k
+bydlení b) přidělování družstevních bytů a místností nesloužících
+k bydlení do osobních užívání svých členů
+c) stavební práce HSV a PSV pro organizace a občany
+d) zpracování přípravné a projektové dokumentace pro organizace a
+občany za podmínek platného oprávnění k projektové činnosti
+e) obchodní činnost
+     </are:Text>
+     <are:Text>
+f) plánografické a rozmnožovací práce
+   g) inženýrská činnost
+   h) stravovací činnost
+   i) ubytovací činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-06-20" dvy="1992-12-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="1990-06-20" dvy="1991-12-02">
+    <are:funkce>
+     <are:nazev>Místopředseda:</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40502</are:psc>
+      <are:obec>Děčín 24</are:obec>
+      <are:ulice>Krásný Studenec 120</are:ulice>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Míková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-06-20" dvy="1991-12-02">
+    <are:funkce>
+     <are:nazev>Člen představenstva:</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40501</are:psc>
+      <are:obec>Děčín 2</are:obec>
+      <are:ulice>Elišky Krásnohorské 864/34</are:ulice>
+     </are:adresa>
+     <are:jmeno>Zbyněk</are:jmeno>
+     <are:prijmeni>Petřík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-06-20" dvy="1992-09-16">
+    <are:funkce>
+     <are:nazev>Předseda:</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17909350</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40003</are:psc>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:ulice>Karla IV.</are:ulice>
+      <are:cisloTxt>1061/21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Břetislav</are:jmeno>
+     <are:prijmeni>Ctibor</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-06-20" dvy="1992-12-01">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40711</are:psc>
+      <are:obec>Děčín 31 - Křešice</are:obec>
+      <are:ulice>Vítězství 116</are:ulice>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Michel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-06-20" dvy="1992-12-01">
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40501</are:psc>
+      <are:obec>Děčín III</are:obec>
+      <are:ulice>Litoměřická 70/27</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Houdek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-09-16" dvy="1992-12-01">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jílové</are:obec>
+      <are:ulice>Nábřeží</are:ulice>
+      <are:cisloTxt>2O4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Jiroutková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

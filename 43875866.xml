@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-14T16:31:27"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-14</are:Datum_vypisu>
+   <are:Cas_vypisu>16:31:27</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>43875866</are:ICO>
+   <are:ObchodniFirma>PROFER ASISTENT s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>72624191</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>50003</are:psc>
+    <are:obec>Hradec Králové</are:obec>
+    <are:castObce>Slezské Předměstí</are:castObce>
+    <are:ulice>Panelová</are:ulice>
+    <are:cisloPop>1166</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-12-18</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+montáž, opravy, revize a zkoušky plynových zařízení a plnění nádob plyny
+     </are:Text>
+     <are:Text>
+montáž, opravy, revize a zkoušky elektrických zařízení
+     </are:Text>
+     <are:Text>
+zámečnictví, nástrojářství
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-12-18">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-12-18" dvy="2006-09-26">
+    <are:Text>
+Zastupování za společnost:
+Jednatel jedná za společnost samostatně.
+Podepisování za společnost se vykonává tak, že k vytištěnému
+nebo napsanému názvu společnosti připojí svůj podpis jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2006-09-26" dvy="2015-02-13">
+    <are:Text>
+Způsob jednání jménem společnosti:
+Každý z jednatelů je oprávněn jednat jménem společnosti navenek samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-02-13">
+    <are:Text>
+Každý jednatel zastupuje společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-12-18" dvy="1997-05-26">
+    <are:funkce>
+     <are:nazev>Jednatel společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22352171</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloTxt>144</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anton</are:jmeno>
+     <are:prijmeni>Jakubec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-05-26" dvy="2001-01-04">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Děčín VI</are:obec>
+      <are:ulice>Klostermanova</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Madurkay</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-04" dvy="2008-11-18">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>1997-04-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23809604</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50009</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Na Kotli</are:ulice>
+      <are:cisloTxt>664</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Madurkay</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-09-26" dvy="2014-07-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2006-09-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23859024</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50311</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Dvorská</are:ulice>
+      <are:cisloTxt>229/18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Fiedler</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-09-26" dvy="2014-07-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2006-09-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15841685</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50346</are:psc>
+      <are:obec>Třebechovice pod Orebem</are:obec>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloTxt>1002</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luboš</are:jmeno>
+     <are:prijmeni>Haviar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-11-18" dvy="2014-02-06">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>1997-04-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27600718</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Horní</are:ulice>
+      <are:cisloTxt>193/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Madurkay</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-02-06">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>1997-04-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27600718</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Roudnička</are:castObce>
+      <are:ulice>Horní</are:ulice>
+      <are:cisloPop>193</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>MADURKAY</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2006-09-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23859024</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50311</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Svobodné Dvory</are:castObce>
+      <are:ulice>Dvorská</are:ulice>
+      <are:cisloPop>229</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>FIEDLER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2006-09-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9701052</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51731</are:psc>
+      <are:obec>Bolehošť</are:obec>
+      <are:castObce>Lipiny</are:castObce>
+      <are:cisloPop>20</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUBOŠ</are:jmeno>
+     <are:prijmeni>HAVIAR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2004-12-10" dvy="2006-09-26">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2004-12-10" dvy="2006-09-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23809604</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50009</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Na Kotli</are:ulice>
+      <are:cisloTxt>664</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Madurkay</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-12-18">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2014-02-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27600718</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Roudnička</are:castObce>
+      <are:ulice>Horní</are:ulice>
+      <are:cisloPop>193</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>MADURKAY</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23859024</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50311</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Svobodné Dvory</are:castObce>
+      <are:ulice>Dvorská</are:ulice>
+      <are:cisloPop>229</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>FIEDLER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9701052</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51731</are:psc>
+      <are:obec>Bolehošť</are:obec>
+      <are:castObce>Lipiny</are:castObce>
+      <are:cisloPop>20</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUBOŠ</are:jmeno>
+     <are:prijmeni>HAVIAR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-14</are:Datum_vypisu>
+   <are:Cas_vypisu>16:31:28</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>43875866</are:ICO>
+   <are:ObchodniFirma>CHRIST spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Chrudim</are:obec>
+    <are:ulice>Dašická</are:ulice>
+    <are:cisloTxt>285</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-12-18</are:DatumZapisu>
+   <are:DatumVymazu>1995-06-20</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-12-18" dvy="1995-06-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-12-18" dvy="1993-04-23">
+    <are:Text>
+Podepisování za společnost se děje tak,že všichni společníci
+jsou oprávněni společnost navenek zastupovat a za ní podepisovat,
+a to každý jednotlivě,nerozhodne-li správní rada jinak.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-04-23" dvy="1995-06-20">
+    <are:Text>
+Jednatel jedná za společnost samostatně.
+podepisování za společnost se vykonává tak,že k vytištěnému
+nebo zapsanému názvu společnosti připojí svůj pdpis
+jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-12-18" dvy="1993-04-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Gorkého nám.</are:ulice>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>MARKETING SERVICE a.s.Praha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-12-18" dvy="1993-04-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22352171</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloTxt>144</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anton</are:jmeno>
+     <are:prijmeni>Jakubec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1995-06-20">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22352171</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloTxt>144</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anton</are:jmeno>
+     <are:prijmeni>Jakubec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-12-18" dvy="1995-06-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-03-30" dvy="1995-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22352171</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloTxt>144</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anton</are:jmeno>
+     <are:prijmeni>Jakubec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

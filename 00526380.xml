@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:27:07"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:27:08</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00526380</are:ICO>
+   <are:ObchodniFirma>REKORD spol. s r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>47167</are:psc>
+    <are:obec>Provodín čp. 80</are:obec>
+    <are:ulice>okres Česká Lípa</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-07-31</are:DatumZapisu>
+   <are:DatumVymazu>2004-08-28</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1. Provádění inženýrských staveb.
+2. Provádění průmyslových staveb.
+3. Provádění bytových a občanských staveb.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-07-31" dvy="2004-08-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-07-31" dvy="2004-08-28">
+    <are:Text>
+První jednatel jedná jménem společnosti ve všech věcech
+samostatně. Druhý a třetí jednatel jedná jménem společnosti v
+době nepřítomnosti předchozího jednatele.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-07-31" dvy="1995-06-22">
+    <are:funkce>
+     <are:nazev>První jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13068954</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Provodín</are:obec>
+      <are:cisloTxt>čp. 123</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Augustin</are:jmeno>
+     <are:prijmeni>Nejezchleba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="1995-06-22">
+    <are:funkce>
+     <are:nazev>Druhý jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Česká Kamenice</are:obec>
+      <are:ulice>Dolní ulice</are:ulice>
+      <are:cisloTxt>čp. 21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Šturc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="1995-06-22">
+    <are:funkce>
+     <are:nazev>Třetí jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13068962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Provodín</are:obec>
+      <are:cisloTxt>čp. 124</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Málek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-06-22" dvy="2004-08-28">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16563051</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kamenický Šenov</are:obec>
+      <are:ulice>9.května</are:ulice>
+      <are:cisloTxt>671</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Nejezchleba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-07-31" dvy="2004-08-28">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:funkce>
+     <are:nazev>Předseda dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23461781</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Česká Lípa</are:okres>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>Žižkova</are:ulice>
+      <are:cisloTxt>234</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Ditrych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:funkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Broumov</are:obec>
+      <are:ulice>Hejtmánkovice</are:ulice>
+      <are:cisloTxt>257</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Květoslava</are:jmeno>
+     <are:prijmeni>Malá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:funkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Provodín 82</are:text>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Fikar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="1992-07-31" dvy="2004-08-28">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>471 67 Provodín čp. 123</are:text>
+     </are:adresa>
+     <are:jmeno>Augustin</are:jmeno>
+     <are:prijmeni>Nejezchleba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>471 67 Provodín čp. 124</are:text>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Málek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23461781</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Česká Lípa</are:okres>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>Žižkova</are:ulice>
+      <are:cisloTxt>234</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Ditrych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>471 67 Provodín čp. 140</are:text>
+     </are:adresa>
+     <are:jmeno>Leonard</are:jmeno>
+     <are:prijmeni>Fikar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>471 67 Provodín čp. 82</are:text>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Fikar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Broumov</are:obec>
+      <are:ulice>Hejtmánkovice</are:ulice>
+      <are:cisloTxt>259</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bedřich</are:jmeno>
+     <are:prijmeni>Malý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Broumov</are:obec>
+      <are:ulice>Hejtmánkovice</are:ulice>
+      <are:cisloTxt>257</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Květoslava</are:jmeno>
+     <are:prijmeni>Malá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16563051</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Česká Lípa</are:okres>
+      <are:obec>Kamenický Šenov</are:obec>
+      <are:ulice>9. května</are:ulice>
+      <are:cisloTxt>671</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Nejezchleba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16563051</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Česká Lípa</are:okres>
+      <are:obec>Kamenický Šenov</are:obec>
+      <are:ulice>9. května</are:ulice>
+      <are:cisloTxt>671</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Věra</are:jmeno>
+     <are:prijmeni>Nejezchlebová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16563051</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Česká Lípa</are:okres>
+      <are:obec>Kamenický Šenov</are:obec>
+      <are:ulice>9. května</are:ulice>
+      <are:cisloTxt>671</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Klára</are:jmeno>
+     <are:prijmeni>Nejezchlebová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16563051</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Česká Lípa</are:okres>
+      <are:obec>Kamenický Šenov</are:obec>
+      <are:ulice>9. května</are:ulice>
+      <are:cisloTxt>671</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eliška</are:jmeno>
+     <are:prijmeni>Nejezchlebová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-07-31" dvy="2004-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Děčín</are:okres>
+      <are:obec>Česká Kamenice</are:obec>
+      <are:ulice>Dolní ulice</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Šturc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:27:08</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00526380</are:ICO>
+   <are:ObchodniFirma>REKORD a. s. Provodín</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Provodín</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-08-22</are:DatumZapisu>
+   <are:DatumVymazu>1992-07-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+stavební opravy
+     </are:Text>
+     <are:Text>
+úpravy a rekonstrukce
+     </are:Text>
+     <are:Text>
+autodoprava
+     </are:Text>
+     <are:Text>
+holičství a kadeřnictví
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-08-22" dvy="1992-07-31">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:Clen dza="1990-08-22" dvy="1992-07-31">
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13068954</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Provodín</are:obec>
+      <are:cisloTxt>123</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Augustin</are:jmeno>
+     <are:prijmeni>Nejezchleba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-08-22" dvy="1992-07-31">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23470470</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>5. května</are:ulice>
+      <are:cisloTxt>1270</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Rejcha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-08-22" dvy="1992-07-31">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13069161</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Provodín</are:obec>
+      <are:cisloTxt>144</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Kratochvíl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-08-22" dvy="1992-07-31">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13068962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Provodín</are:obec>
+      <are:cisloTxt>124</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Málek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-08-22" dvy="1992-07-31">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23483741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>Červeného kříže</are:ulice>
+      <are:cisloTxt>2606</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lada</are:jmeno>
+     <are:prijmeni>Bernadičová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

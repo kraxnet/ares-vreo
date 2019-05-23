@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T23:01:12"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>23:01:13</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25932632</are:ICO>
+   <are:ObchodniFirma>J.F. INVESTMENTS spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>25874659</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>54344</are:psc>
+    <are:okres>Trutnov</are:okres>
+    <are:obec>Černý Důl</are:obec>
+    <are:castObce>Čistá v Krkonoších</are:castObce>
+    <are:cisloEv>31</are:cisloEv>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-01-17</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Realitní kancelář
+     </are:Text>
+     <are:Text>
+Koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-01-17">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-01-17" dvy="2006-06-23">
+    <are:Text>
+Způsob jednání za společnost:
+Jednatel jedná jménem společnosti samostatně ve všech věcech.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2006-06-23" dvy="2017-06-01">
+    <are:Text>
+Jménem společnosti jednají vždy dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2017-06-01">
+    <are:Text>
+Každý z jednatelů zastupuje společnost ve všech záležitostech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-01-17" dvy="2006-06-23">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2006-06-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23869224</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Střelecká</are:ulice>
+      <are:cisloTxt>588</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Bureš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-23" dvy="2008-04-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-06-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>528</are:stat>
+      <are:text>Zeewolde, Dalkruid 8, 3892 AP</are:text>
+     </are:adresa>
+     <are:prijmeni>Jeanette Wilhelmina Jurrina de Vries-Maarschalkerweerd</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-23" dvy="2008-04-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-06-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>528</are:stat>
+      <are:text>Zeist, Brugakker 11-25, 3704 WB</are:text>
+     </are:adresa>
+     <are:jmeno>Franciscus Antonius Maria</are:jmeno>
+     <are:prijmeni>van Dormael</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-23" dvy="2015-03-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-06-19</are:vznikFunkce>
+     <are:zanikFunkce>2012-05-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>528</are:stat>
+      <are:text>Boxmeer, Veerstraat 19, 5831 JL</are:text>
+     </are:adresa>
+     <are:jmeno>Johannes Antonius</are:jmeno>
+     <are:prijmeni>Pieper</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-04-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-06-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>528</are:stat>
+      <are:text>Zeewolde, Eekhoornbos 10, 3892 WS</are:text>
+     </are:adresa>
+     <are:prijmeni>Jeanette Wilhelmina Jurrina de Vries-Maarschalkerweerd</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-04-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-06-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>528</are:stat>
+      <are:text>Langbroek, Langbroekerdijk A 127, 3947 BG</are:text>
+     </are:adresa>
+     <are:jmeno>Franciscus Antonius Maria</are:jmeno>
+     <are:prijmeni>van Dormael</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-01-17">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2017-06-01">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>528</are:stat>
+      <are:psc>5432KD</are:psc>
+      <are:obec>Cuijk</are:obec>
+      <are:ulice>Stroomrug 23</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>A.T.Boxmeer B.V.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

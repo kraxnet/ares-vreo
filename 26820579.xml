@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T06:21:44"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>06:21:44</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26820579</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků tř. Spojenců 1117/25, Olomouc</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23327979</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>77900</are:psc>
+    <are:okres>Olomouc</are:okres>
+    <are:obec>Olomouc</are:obec>
+    <are:castObce>Olomouc</are:castObce>
+    <are:ulice>tř. Spojenců</are:ulice>
+    <are:cisloPop>1117</are:cisloPop>
+    <are:cisloOr>25</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2003-11-27</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+zajišťování správy domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-11-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-11-27" dvy="2016-05-20">
+    <are:Text>
+Způsob jednání jménem společenství:
+Členové výboru jednají za společenství vlastníků tak, že za výbor jedná navenek předseda výboru nebo výborem písemně pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-05-20">
+    <are:Text>
+Za výbor jedná navenek jeho předseda. V době nepřítomnosti předsedy jej zastupuje místopředseda.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-11-27" dvy="2009-01-28">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2003-10-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23330261</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Tolstého</are:ulice>
+      <are:cisloTxt>192/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Bombera</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-11-27" dvy="2009-01-28">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2003-10-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Tř. Spojenců</are:ulice>
+      <are:cisloTxt>1117/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luděk</are:jmeno>
+     <are:prijmeni>Vrba</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-11-27" dvy="2009-01-28">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-10-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Tř. Spojenců</are:ulice>
+      <are:cisloTxt>1117/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Věra</are:jmeno>
+     <are:prijmeni>Fuhrmannová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-11-27" dvy="2009-01-28">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-10-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Tř. Spojenců</are:ulice>
+      <are:cisloTxt>1117/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Aleš</are:jmeno>
+     <are:prijmeni>Juřík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-11-27" dvy="2009-01-28">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-10-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Tř. Spojenců</are:ulice>
+      <are:cisloTxt>1117/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Račická</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-01-28" dvy="2011-02-10">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Tř. Spojenců</are:ulice>
+      <are:cisloTxt>1117/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Hloušek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-01-28" dvy="2011-02-10">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23258039</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Klášterní Hradisko</are:castObce>
+      <are:ulice>Na Vlčinci</are:ulice>
+      <are:cisloTxt>72/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alexandr</are:jmeno>
+     <are:prijmeni>Zarivnij</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-01-28" dvy="2011-02-10">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25782576</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Neředín</are:castObce>
+      <are:ulice>Římská</are:ulice>
+      <are:cisloTxt>843/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimir</are:jmeno>
+     <are:prijmeni>Sirotin</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-01-28" dvy="2011-02-10">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Tř. Spojenců</are:ulice>
+      <are:cisloTxt>1117/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Novotná</are:prijmeni>
+     <are:titulPred>PhDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-01-28" dvy="2011-02-10">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Tř. Spojenců</are:ulice>
+      <are:cisloTxt>1117/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iva</are:jmeno>
+     <are:prijmeni>Petrová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-10" dvy="2016-05-20">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-12-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2015-12-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23319780</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Purkrabská</are:ulice>
+      <are:cisloPop>149</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Vacková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-10" dvy="2016-05-20">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-12-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2015-12-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>78351</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Samotišky</are:castObce>
+      <are:ulice>Na Trávníku</are:ulice>
+      <are:cisloPop>368</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Aleš</are:jmeno>
+     <are:prijmeni>Juřík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-10" dvy="2016-05-20">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-12-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Tř. Spojenců</are:ulice>
+      <are:cisloPop>1117</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Bradáčová</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-12-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23319780</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>Purkrabská</are:ulice>
+      <are:cisloPop>149</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>VACKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2015-12-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27100715</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Samotišky</are:obec>
+      <are:castObce>Samotišky</are:castObce>
+      <are:ulice>Na trávníku</are:ulice>
+      <are:cisloPop>386</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ALEŠ</are:jmeno>
+     <are:prijmeni>JUŘÍK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>tř. Spojenců</are:ulice>
+      <are:cisloPop>1117</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVLA</are:jmeno>
+     <are:prijmeni>BRADÁČOVÁ</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>tř. Spojenců</are:ulice>
+      <are:cisloPop>1117</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUDMILA</are:jmeno>
+     <are:prijmeni>NOVOTNÁ</are:prijmeni>
+     <are:titulPred>PhDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>tř. Spojenců</are:ulice>
+      <are:cisloPop>1117</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>PREIS</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2016-05-20">
+   <are:Nazev>Kontrolní orgán - Kontrolní komise</are:Nazev>
+   <are:Clen dza="2016-05-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda kontrolní komise</are:nazev>
+     <are:vznikFunkce>2015-12-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>tř. Spojenců</are:ulice>
+      <are:cisloPop>1117</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUDĚK</are:jmeno>
+     <are:prijmeni>VRBA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda kontrolní komise</are:nazev>
+     <are:vznikFunkce>2015-12-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>tř. Spojenců</are:ulice>
+      <are:cisloPop>1117</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VĚRA</are:jmeno>
+     <are:prijmeni>FUHRMANNOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>tř. Spojenců</are:ulice>
+      <are:cisloPop>1117</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANNA</are:jmeno>
+     <are:prijmeni>HORÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23327979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>tř. Spojenců</are:ulice>
+      <are:cisloPop>1117</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUDMILA</are:jmeno>
+     <are:prijmeni>RAČICKÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

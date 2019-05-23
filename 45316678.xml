@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T21:21:36"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>21:21:36</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45316678</are:ICO>
+   <are:ObchodniFirma>BEHRINGER, k.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>11954442</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>36221</are:psc>
+    <are:okres>Karlovy Vary</are:okres>
+    <are:obec>Vysoká Pec</are:obec>
+    <are:castObce>Vysoká Pec</are:castObce>
+    <are:cisloPop>99</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-02-28</are:DatumZapisu>
+   <are:DatumVymazu>2017-05-11</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní společnost BEHRINGER, k.s. v likvidaci, se sídlem č.p. 99, 362 21 Vysoká Pec, identifikační číslo 453 16 678 z obchodního rejstříku včetně všech zapsaných údajů. Výmaz se provádí po skončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-02-28" dvy="2017-05-11">
+   <are:Nazev>Statutární orgán - komplementář</are:Nazev>
+   <are:ZpusobJednani dza="1992-02-28" dvy="2009-11-18">
+    <are:Text>
+Způsob jednání jménem společnosti: společnost zastupuje její
+statutární zástupce, r.j. jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2009-11-18" dvy="2017-05-11">
+    <are:Text>
+Způsob jednání:
+Jménem společnosti jedná komplementář.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-02-28" dvy="1993-03-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22083944</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Rozkošného</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lucie</are:jmeno>
+     <are:prijmeni>Vorlíčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-30" dvy="2009-11-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>36225</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Nová Role</are:obec>
+      <are:ulice>Děpoltovická</are:ulice>
+      <are:cisloTxt>121</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Květa</are:jmeno>
+     <are:prijmeni>Křížová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-11-18" dvy="2017-05-11">
+    <are:funkce>
+     <are:nazev>komplementář</are:nazev>
+     <are:vznikFunkce>1996-12-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>90453</are:psc>
+      <are:obec>Nürnberg</are:obec>
+      <are:ulice>Kurlandstr.</are:ulice>
+      <are:cisloTxt>96</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Claudia</are:jmeno>
+     <are:prijmeni>Stegmann</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1992-02-28" dvy="2017-05-11">
+   <are:Nazev>Společníci - komplementáři</are:Nazev>
+   <are:Clen dza="1992-02-28" dvy="1999-04-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:obec>8560 Lauf/Neuhof</are:obec>
+      <are:ulice>Steinbruchstr.</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gerhard</are:jmeno>
+     <are:prijmeni>Behringer</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-11-18" dvy="2017-05-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>90453</are:psc>
+      <are:obec>Nürnberg</are:obec>
+      <are:ulice>Kurlandstr.</are:ulice>
+      <are:cisloTxt>96</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Claudia</are:jmeno>
+     <are:prijmeni>Stegmann</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-11-15" dvy="2017-05-11">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-11-15" dvy="2017-05-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20731094</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Karlovy Vary</are:castObce>
+      <are:ulice>Tyršova</are:ulice>
+      <are:cisloPop>64</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>SILVIE</are:jmeno>
+     <are:prijmeni>LERCHOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>21:21:36</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45316678</are:ICO>
+   <are:ObchodniFirma>BEHRINGER, k.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:obec>okr. Karlovy Vary</are:obec>
+    <are:ulice>Vysoká Pec č. 61</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-02-28</are:DatumZapisu>
+   <are:DatumVymazu>1998-06-25</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+- realitní kancelář
+     </are:Text>
+     <are:Text>
+- koupě zboží za účelem jeho dalšího prodeje a prodej (spotřební
+zboží, potraviny)
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-02-28" dvy="1998-06-25">
+   <are:Nazev>Statutární orgán - komplementář</are:Nazev>
+   <are:ZpusobJednani dza="1992-02-28" dvy="1998-06-25">
+    <are:Text>
+Vklad komanditisty : 250.000,- Kčs
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-02-28" dvy="1998-06-25">
+    <are:funkce>
+     <are:nazev>Společník - komplementář</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Steinbruchstr. 14</are:obec>
+      <are:ulice>8560 Lauf/Neuhof, SRN</are:ulice>
+     </are:adresa>
+     <are:jmeno>Gerhard</are:jmeno>
+     <are:prijmeni>Behringer</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-02-28" dvy="1998-06-25">
+    <are:funkce>
+     <are:nazev>Společník - komanditista</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Steinbruchstr. 14</are:obec>
+      <are:ulice>8560 Lauf/Neuhof, SRN</are:ulice>
+     </are:adresa>
+     <are:jmeno>Friedel</are:jmeno>
+     <are:prijmeni>Behringer</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-30" dvy="1998-06-25">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Nová Role</are:obec>
+      <are:ulice>Děpoltovická</are:ulice>
+      <are:cisloTxt>121</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Květa</are:jmeno>
+     <are:prijmeni>Křížová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

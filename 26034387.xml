@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T00:04:16"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>00:04:16</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26034387</are:ICO>
+   <are:ObchodniFirma>AM - garážová technika spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>25274279</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>37001</are:psc>
+    <are:okres>České Budějovice</are:okres>
+    <are:obec>České Budějovice</are:obec>
+    <are:ulice>Boženy Němcové</are:ulice>
+    <are:cisloTxt>2</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-04-10</are:DatumZapisu>
+   <are:DatumVymazu>2014-03-19</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+kompletace a montáž předokenních rolet, okenních žaluzií,
+garážových vrat
+     </are:Text>
+     <are:Text>
+kompletace bytových doplňků
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v oblasti obchodu a služeb
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-04-10" dvy="2014-03-19">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-04-10" dvy="2014-03-19">
+    <are:Text>
+Jednatel jedná za společnost samostatně. Podepisování za
+společnost se děje tak, že k obchodnímu jménu společnosti
+připojí jednatel svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-04-10" dvy="2013-11-14">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2013-12-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>37005</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>Dr.Bureše</are:ulice>
+      <are:cisloTxt>1/1185</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloš</are:jmeno>
+     <are:prijmeni>Augustin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-14" dvy="2014-02-11">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2013-12-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11775483</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37001</are:psc>
+      <are:obec>Litvínovice</are:obec>
+      <are:castObce>Šindlovy Dvory</are:castObce>
+      <are:cisloPop>22</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOŠ</are:jmeno>
+     <are:prijmeni>AUGUSTIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-04-10" dvy="2014-03-19">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-11-14" dvy="2014-03-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11775483</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37001</are:psc>
+      <are:obec>Litvínovice</are:obec>
+      <are:castObce>Šindlovy Dvory</are:castObce>
+      <are:cisloPop>22</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOŠ</are:jmeno>
+     <are:prijmeni>AUGUSTIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-14" dvy="2014-03-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23351535</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37005</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 2</are:castObce>
+      <are:ulice>Větrná</are:ulice>
+      <are:cisloPop>914</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDEŇKA</are:jmeno>
+     <are:prijmeni>AUGUSTINOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

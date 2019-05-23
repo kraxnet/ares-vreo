@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T01:36:47"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>01:36:47</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26190176</are:ICO>
+   <are:ObchodniFirma>SVITYCH - OZ s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21949328</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Na lepším</are:ulice>
+    <are:cisloTxt>1130/10</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-07-25</are:DatumZapisu>
+   <are:DatumVymazu>2008-12-31</are:DatumVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-07-25" dvy="2008-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-07-25" dvy="2008-12-31">
+    <are:Text>
+Jménem společnosti jedná každý z jednatelů samostatně.
+Podepisování se děje tak, že k obchodnímu jménu společnosti
+připojí kterýkoli z jednatelů svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-07-25" dvy="2004-10-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Ukrajina, Zakarpatska, Mukačevo, Svobody 32/4, pobyt v ČR povolen na adrese : Praha 8, Rohanský ostrov 167</are:text>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Hychka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-09-10" dvy="2008-12-31">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-09-10" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Na Okraji</are:ulice>
+      <are:cisloTxt>439/44</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Kyncl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-07-25" dvy="2008-12-31">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Mukačevo, Svobody 32/4</are:text>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Hychka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Zakarpatska, Tjačivskij, Bedevlja</are:text>
+     </are:adresa>
+     <are:jmeno>Larysa</are:jmeno>
+     <are:prijmeni>Leshko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Zakarpatska, Tjačivskyj, Buštyno</are:text>
+     </are:adresa>
+     <are:jmeno>Anzhela</are:jmeno>
+     <are:prijmeni>Rak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Molodkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Gutsulyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Zakarpatska, Rachivskij, Kos. Poljana 2O9</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Andrusyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Molodkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Ivankiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Molodkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Mykytyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Zakarpatska, Mukačevo, Akademika Koroljova 3/13</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Fizer</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Molodkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Ivasyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Zakarpatska, Rachivskij, Luh</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Lazarchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Hvizd</are:text>
+     </are:adresa>
+     <are:prijmeni>Lyudmyla Khrom'yak dat. nar. 8.12.1971</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Zakarpatska, Rachivskyj, Vel. Byčkiv</are:text>
+     </are:adresa>
+     <are:prijmeni>Mykola Khrom'yak dat. nar. 20.5.1968</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Hvizd</are:text>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Zhupnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Molodkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Volovchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Molodkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Ivasyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Molodkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Ilkiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Molodkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Chobotar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Donecka, Volnovacha</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Mykytyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Molodkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Kyslyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Nadvirna, Molodkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Drychak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Zakarpatska, Rachivskij, Vel. Byčkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Yuliy</are:jmeno>
+     <are:prijmeni>Fuks</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Iv.-Frankivska, Bohorodčanskyj, Maňava</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Vintonyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Zakarpatska, Rachivskij, Kos. Poljana</are:text>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Vintonyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Zakarpatska, rachivskij, Kos. Poljana</are:text>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Kostyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Lugansk, kv. Olchovskyj 13/44</are:text>
+     </are:adresa>
+     <are:jmeno>Larysa</are:jmeno>
+     <are:prijmeni>Kryvosheyeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-07-25" dvy="2008-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Ukrajina, Zakarpatska, Tjačivskij, Hruševo</are:text>
+     </are:adresa>
+     <are:jmeno>Maryna</are:jmeno>
+     <are:prijmeni>Mashkovtseva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

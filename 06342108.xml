@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-07-02T17:07:13"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-07-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-07-02</are:Datum_vypisu>
+   <are:Cas_vypisu>17:07:13</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>06342108</are:ICO>
+   <are:ObchodniFirma>Qatar Airways (Q.C.S.C), odštěpný závod</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21710554</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Nové Město</are:castObce>
+    <are:mop>Praha 1</are:mop>
+    <are:ulice>Klimentská</are:ulice>
+    <are:cisloPop>1216</are:cisloPop>
+    <are:cisloOr>46</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2017-08-11</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona.
+     </are:Text>
+    </are:PredmetPodnikani>
+    <are:PredmetCinnosti>
+     <are:Text>
+Letecká přeprava osob a nákladu
+     </are:Text>
+     <are:Text>
+Přeprava a vykládka zavazadel a zásilek
+     </are:Text>
+     <are:Text>
+Přeprava a vykládka zboží
+     </are:Text>
+     <are:Text>
+Pozemní obsluha letadel
+     </are:Text>
+     <are:Text>
+Údržba letadel a zařízení
+     </are:Text>
+     <are:Text>
+Pronájem zařízení pro leteckou přepravu
+     </are:Text>
+     <are:Text>
+Marketing letecké přepravy
+     </are:Text>
+     <are:Text>
+Leasing letadel
+     </are:Text>
+     <are:Text>
+Reklamní služby
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2017-08-11">
+   <are:Nazev>Statutární orgán zřizovatele - zahraniční osoby</are:Nazev>
+   <are:Clen dza="2017-08-11">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>634</are:stat>
+      <are:obec>Hilal, Dauhá</are:obec>
+      <are:ulice>House No 3, Qartaja Street</are:ulice>
+     </are:adresa>
+     <are:jmeno>AKBAR ABBAS</are:jmeno>
+     <are:prijmeni>S. AL-BAKER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-08-11">
+   <are:Nazev>Vedoucí odštěpného závodu</are:Nazev>
+   <are:Clen dza="2017-08-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>348</are:stat>
+      <are:psc>1125</are:psc>
+      <are:obec>Budapešť</are:obec>
+      <are:ulice>Városkútí útca 32/D</are:ulice>
+     </are:adresa>
+     <are:jmeno>GRISHA</are:jmeno>
+     <are:prijmeni>ATANASOV JENKOV</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2017-08-11">
+   <are:Nazev>Zřizovatel - zahraniční osoba</are:Nazev>
+   <are:Clen dza="2018-06-27">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>634</are:stat>
+      <are:obec>Dauhá</are:obec>
+      <are:ulice>Qatar Airways Tower, P.O. Box 22550</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>Qatar Airways Group (Q.C.S.C)</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

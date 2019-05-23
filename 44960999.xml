@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T20:50:00"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>20:50:00</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>44960999</are:ICO>
+   <are:ObchodniFirma>Moravská obchodní společnost s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>19608420</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>61600</are:psc>
+    <are:obec>Brno</are:obec>
+    <are:castObce>Žabovřesky</are:castObce>
+    <are:ulice>Sochorova</are:ulice>
+    <are:cisloPop>3079</are:cisloPop>
+    <are:cisloOr>25</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-12-30</are:DatumZapisu>
+   <are:DatumVymazu>2017-05-04</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Ukončení likvidace společnosti ke dni 28.2.2017 a prohlášení likvidátora podle § 82 odst. 1 zákona o veřejných rejstřících.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-12-30" dvy="2017-05-04">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-01-10" dvy="2017-05-04">
+    <are:Text>
+Způsob zastupování: Za společnost jedná a podepisuje jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-12-30" dvy="2003-06-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19708793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Matulkova</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Štursa</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-11-12" dvy="1995-01-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19721170</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Sadovského</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Kalousek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-11-12" dvy="2003-06-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2003-04-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19708793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Matulkova</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Irena</are:jmeno>
+     <are:prijmeni>Štursová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-19" dvy="2004-08-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1991-12-30</are:vznikFunkce>
+     <are:zanikFunkce>2004-06-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19718373</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Purkyňova</are:ulice>
+      <are:cisloTxt>2449/100A</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Štursa</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-08-11" dvy="2006-06-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-06-21</are:vznikFunkce>
+     <are:zanikFunkce>2006-12-22</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19098421</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Jánská</are:ulice>
+      <are:cisloTxt>458/21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alexander</are:jmeno>
+     <are:prijmeni>Lazar</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2014-07-22" dvy="2017-05-04">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="2014-07-22" dvy="2017-05-04">
+    <are:Text>
+Po dobu likvidace za společnost jedná likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2014-07-22" dvy="2016-06-25">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>19143745</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60300</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Pisárky</are:castObce>
+      <are:ulice>Výstaviště</are:ulice>
+      <are:cisloPop>405</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:ICO>87294460</are:ICO>
+     <are:ObchodniFirma>Mgr. MARTIN JELÍNEK, advokátní kancelář</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2016-06-25" dvy="2017-05-04">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>13345516</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66484</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Zastávka</are:obec>
+      <are:castObce>Zastávka</are:castObce>
+      <are:ulice>Stará osada</are:ulice>
+      <are:cisloPop>98</are:cisloPop>
+     </are:adresa>
+     <are:ICO>87294460</are:ICO>
+     <are:ObchodniFirma>Mgr. Martin Jelínek</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-01-10" dvy="2017-05-04">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2011-12-05" dvy="2017-05-04">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:psc>01013</are:psc>
+      <are:obec>Kyjev</are:obec>
+      <are:castObce>Golosivský obvod</are:castObce>
+      <are:ulice>ul. Barenbojma</are:ulice>
+      <are:cisloPop>7</are:cisloPop>
+     </are:adresa>
+     <are:ObchodniFirma>AKCIOVÁ SPOLEČNOST UZAVŘENÉHO TYPU &quot;JATRAŇ&quot;, IČ 25280584</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

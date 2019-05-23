@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:11:12"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:11:12</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>15037941</are:ICO>
+   <are:ObchodniFirma>E L M I J A , spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22656367</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>10100</are:psc>
+    <are:obec>Praha 10</are:obec>
+    <are:castObce>Vršovice</are:castObce>
+    <are:ulice>Krymská</are:ulice>
+    <are:cisloTxt>165/3</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-05-28</are:DatumZapisu>
+   <are:DatumVymazu>2012-08-15</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Velkoobchod
+     </are:Text>
+     <are:Text>
+Specializovaný maloobchod
+     </are:Text>
+     <are:Text>
+Výroba kartáčnického a konfekčního zboží, deštníků a dalších
+výrobků zpracovatelského průmyslu.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-05-28" dvy="2012-08-15">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-05-28" dvy="1993-01-01">
+    <are:Text>
+Zastupování a podepisování:
+Společnost navenek zastupují oba společníci, a to každý
+samostatně. Za společnost podepisuje každý ze společníků
+samostatně tak, že svůj podpis připojí k napsanému nebo
+natištěnému názvu společnosti. Svým podpisem zavazuje celou
+společnost.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-01-01" dvy="2008-12-12">
+    <are:Text>
+Zastupování za společnost:
+Jménem společnosti jednají navenek a podepisují za ni
+jednatelé společnosti a to kažý samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2008-12-12" dvy="2012-08-15">
+    <are:Text>
+Zastupování za společnost:
+Jednatel za společnost jedná samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-05-28" dvy="1993-01-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pforzhein 7530</are:obec>
+      <are:ulice>Holzgartenstr. 30</are:ulice>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Elišák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-05-28" dvy="1993-01-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54402</are:psc>
+      <are:obec>Dvůr Králové n.l.</are:obec>
+      <are:ulice>5. května 1314</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Elišák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-01-01" dvy="2002-04-09">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54402</are:psc>
+      <are:obec>Dvůr Králové n.L.</are:obec>
+      <are:ulice>5. května 1314</are:ulice>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Elišák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-01-01" dvy="2002-04-09">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54402</are:psc>
+      <are:obec>Dvůr Králové n.L.</are:obec>
+      <are:ulice>5. května 1314</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Elišák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-04-09" dvy="2008-12-12">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>1991-05-28</are:vznikFunkce>
+     <are:zanikFunkce>2008-12-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23098562</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54401</are:psc>
+      <are:obec>Dvůr Králové nad Labem</are:obec>
+      <are:ulice>5. května</are:ulice>
+      <are:cisloTxt>1314</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Elišák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-04-09" dvy="2008-12-12">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>1991-05-28</are:vznikFunkce>
+     <are:zanikFunkce>2008-12-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23098562</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54401</are:psc>
+      <are:obec>Dvůr Králové nad Labem</are:obec>
+      <are:ulice>5. května</are:ulice>
+      <are:cisloTxt>1314</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Elišák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-12-12" dvy="2012-08-15">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-12-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Bilovarci, Tjačivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Vasylyna</are:jmeno>
+     <are:prijmeni>Dochynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2011-03-03" dvy="2012-08-15">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2011-03-03" dvy="2012-08-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21704945</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloPop>700</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Mareš</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-05-28" dvy="2012-08-15">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2008-12-12" dvy="2012-08-15">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22148761</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Bělohorská</are:ulice>
+      <are:cisloTxt>144/245</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>27919994</are:ICO>
+     <are:ObchodniFirma>MARMA - INVEST s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-12-12" dvy="2012-08-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Bilovarci, Tjačivský okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Vasylyna</are:jmeno>
+     <are:prijmeni>Dochynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

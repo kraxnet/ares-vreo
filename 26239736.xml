@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T02:09:31"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>02:09:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26239736</are:ICO>
+   <are:ObchodniFirma>TRESO logistik, a.s.Zlín</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>28273923</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>76001</are:psc>
+    <are:obec>Zlín</are:obec>
+    <are:ulice>Vavrečkova</are:ulice>
+    <are:cisloPop>5657</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-02-05</are:DatumZapisu>
+   <are:DatumVymazu>2016-08-04</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Zanikající společnost TRESO logistik, a.s. Zlín, IČ: 26239736, se sídlem Zlín, Vavrečkova 5657, PSČ 760 01, zanikla bez likvidace fúzí sloučením s nástupnickou společností O.O.Z. Zlín, a.s., IČ: 26222949, se sídlem Nuselská 262/34, Nusle, 140 00 Praha 4.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-02-05" dvy="2014-05-21">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2001-02-05" dvy="2014-05-21">
+    <are:Text>
+Společnost zastupuje představenstvo, jakož i samostatně
+předseda představenstva nebo společně dva členové
+představenstva.
+Podepisování za společnost se děje tím způsobem, že k názvu
+společnosti či k otisku razítka společnosti připojí svůj podpis
+předseda představenstva, příp.dva členové představenstva
+současně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-02-05" dvy="2001-07-11">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2001-03-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>28522</are:psc>
+      <are:obec>Zruč n./Sázavou</are:obec>
+      <are:ulice>Na výsluní</are:ulice>
+      <are:cisloTxt>752</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Klein</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-02-05" dvy="2001-10-31">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:zanikFunkce>2001-07-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6549748</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Dobřichovice</are:obec>
+      <are:ulice>Za mlýnem</are:ulice>
+      <are:cisloTxt>407</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Geissler</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-02-05" dvy="2001-10-31">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2001-07-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>76005</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Podlesí</are:ulice>
+      <are:cisloTxt>4937</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michael</are:jmeno>
+     <are:prijmeni>Jurák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-07-11" dvy="2004-02-05">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2001-03-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10232818</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76901</are:psc>
+      <are:okres>Kroměříž</are:okres>
+      <are:obec>Holešov</are:obec>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloTxt>423</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Olejník</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-31" dvy="2004-02-05">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2001-07-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3957691</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76312</are:psc>
+      <are:obec>Vizovice</are:obec>
+      <are:ulice>Lázeňská</are:ulice>
+      <are:cisloTxt>974</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Bambuch</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-31" dvy="2006-07-21">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2001-07-04</are:vznikFunkce>
+     <are:zanikFunkce>2006-04-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>76005</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Na Honech</are:ulice>
+      <are:cisloTxt>II/4916</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luděk</are:jmeno>
+     <are:prijmeni>Blažek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-02-05" dvy="2006-07-21">
+    <are:clenstvi>
+     <are:zanikClenstvi>2006-04-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředsedkyně představenstva</are:nazev>
+     <are:zanikFunkce>2006-04-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>bří Sousedíků</are:ulice>
+      <are:cisloTxt>1092</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Miserovská</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-02-05" dvy="2006-07-21">
+    <are:clenstvi>
+     <are:zanikClenstvi>2006-04-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2006-04-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4224663</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Na včelíně</are:ulice>
+      <are:cisloTxt>1903</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Sedláček</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-07-21" dvy="2006-10-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-04-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-09-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4224663</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Na včelíně</are:ulice>
+      <are:cisloTxt>1903</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Sedláček</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-07-21" dvy="2011-02-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-04-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-03-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-04-19</are:vznikFunkce>
+     <are:zanikFunkce>2010-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>76005</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Na Honech</are:ulice>
+      <are:cisloTxt>II/4916</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luděk</are:jmeno>
+     <are:prijmeni>Blažek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-07-21" dvy="2011-02-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-04-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-03-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-04-19</are:vznikFunkce>
+     <are:zanikFunkce>2010-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>bří Sousedíků</are:ulice>
+      <are:cisloTxt>1092</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Miserovská</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-23" dvy="2013-08-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-03-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-05-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2014-05-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4251768</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76005</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Na Honech II</are:ulice>
+      <are:cisloPop>4916</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Luděk</are:jmeno>
+     <are:prijmeni>Blažek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-23" dvy="2014-05-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-03-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-05-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2014-05-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4217039</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Bratří Sousedíků</are:ulice>
+      <are:cisloPop>1092</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Miserovská</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-03-03" dvy="2011-06-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-12-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-05-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4242807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Prlovská</are:ulice>
+      <are:cisloPop>3860</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Mikel</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>MBA</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-06-09" dvy="2014-05-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-05-31</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-05-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19253826</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61400</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Nováčkova</are:ulice>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Švec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-30" dvy="2014-05-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-03-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-05-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2014-05-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4251768</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76005</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:castObce>Zlín</are:castObce>
+      <are:ulice>Na Honech II</are:ulice>
+      <are:cisloPop>4916</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUDĚK</are:jmeno>
+     <are:prijmeni>BLAŽEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2014-05-21" dvy="2016-08-04">
+   <are:Nazev>Statutární ředitel</are:Nazev>
+   <are:ZpusobJednani dza="2014-05-21" dvy="2016-08-04">
+    <are:Text>
+Statutární ředitel zastupuje společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2014-05-21" dvy="2016-08-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-05-13</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Statutární ředitel</are:nazev>
+     <are:vznikFunkce>2014-05-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28409744</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:castObce>Zlín</are:castObce>
+      <are:ulice>Pod Rozhlednou</are:ulice>
+      <are:cisloPop>6057</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>MISEROVSKÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2014-05-21" dvy="2016-08-04">
+   <are:Nazev>Správní rada</are:Nazev>
+   <are:Clen dza="2014-05-21" dvy="2016-08-04">
+    <are:funkce>
+     <are:nazev>Předseda správní rady</are:nazev>
+     <are:vznikFunkce>2014-05-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28409744</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:castObce>Zlín</are:castObce>
+      <are:ulice>Pod Rozhlednou</are:ulice>
+      <are:cisloPop>6057</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>MISEROVSKÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

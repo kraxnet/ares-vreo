@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:21:20"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:21:21</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>15269752</are:ICO>
+   <are:ObchodniFirma>Farnas Travel Agency, spol. s r. o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21727180</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Staré Město</are:castObce>
+    <are:mop>Praha 1</are:mop>
+    <are:ulice>Pařížská</are:ulice>
+    <are:cisloPop>1068</are:cisloPop>
+    <are:cisloOr>10</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-04-05</are:DatumZapisu>
+   <are:DatumVymazu>2017-01-05</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Likvidátor podává návrh na výmaz právnické osoby z obchodního rejstříku v souladu s ust. § 82 odst. 1 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob, v platném znění.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-04-05" dvy="2017-01-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-04-05" dvy="2017-01-05">
+    <are:Text>
+Společnost zastupuje a podepisuje se za ni ředitel pan ing. Adnan
+Mroué, a to tím způsobem, že k vatištěnému nebo vypsanému názvu
+společnosti připojí svůj podpis.
+Jedná se o podnik se zahraniční majetkovou účastí, k jehož zalo-
+žení udělilo povolení Federální ministerstvo financí dne 7. 12.
+1990 pod č.j. XI/2-25 441/90, PM 17. 12. 1990.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-04-05" dvy="2011-07-05">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+     <are:zanikFunkce>2001-02-08</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22602135</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Mrštíkova</are:ulice>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Adnan</are:jmeno>
+     <are:prijmeni>Mroué</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-11-06" dvy="2017-01-05">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2015-11-06" dvy="2017-01-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>41964055</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Košíře</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Musílkova</are:ulice>
+      <are:cisloPop>1311</are:cisloPop>
+      <are:cisloOr>5e</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>HOUSER</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-04-05" dvy="2017-01-05">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-04-05" dvy="2017-01-05">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>království Saudské Arábie</are:obec>
+      <are:ulice>PoBox 13666 Jeddah 21414</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>Farnas Travel Agency</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1991-04-05" dvy="2017-01-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22602135</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Mrštíkova</are:ulice>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Sannaa</are:jmeno>
+     <are:prijmeni>Mroué</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-04-05" dvy="2017-01-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Na rozdílu</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Šmelhausová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

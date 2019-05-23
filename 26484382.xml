@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T04:18:53"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>04:18:53</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26484382</are:ICO>
+   <are:ObchodniFirma>DIANA Fresh s.r.o., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21904197</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Nusle</are:castObce>
+    <are:ulice>Děkanská</are:ulice>
+    <are:cisloTxt>201/10</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-10-15</are:DatumZapisu>
+   <are:DatumVymazu>2017-07-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se ke dni nabytí právní moci rozhodnutí o zápisu výmazu obchodní společnosti DIANA Fresh s.r.o., v likvidaci, Praha 4 - Nusle, Děkanská 201/10, PSČ 14000, identifikační číslo 264 84 382 do obchodního rejstříku. Právní důvod: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+přípravné práce pro stavby
+     </are:Text>
+     <are:Text>
+dokončovací stavební práce
+     </are:Text>
+     <are:Text>
+správa a údržba nemovitostí
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-10-15" dvy="2017-07-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-10-15" dvy="2017-07-01">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně  a za společnost se
+podepisuje tak, že k její napsané nebo vytištěné obchodní firmě
+připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2001-10-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Luhanská oblast, m. Luhansk, ul. Peremožna 45</are:text>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Shushkevych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-09-18" dvy="2017-07-01">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2015-09-18" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21712867</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Politických vězňů</are:ulice>
+      <are:cisloPop>1597</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>MLNÁŘÍK</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-10-15" dvy="2017-07-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Horodocký okres, obec Tamaryniv</are:text>
+     </are:adresa>
+     <are:jmeno>Lesya</are:jmeno>
+     <are:prijmeni>Strizhyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Čerkaská oblast, Zolotoniský okres, obec Čapajevka, ul. Šyroka 18</are:text>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Fartukh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Čerkaská oblast, m. Čerkasy, ul. Rozy Ljuksemburg 153/2</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Sustova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Donecká oblast, m. Doneck, ul. Žovtneva 86/12</are:text>
+     </are:adresa>
+     <are:jmeno>Nadiya</are:jmeno>
+     <are:prijmeni>Koziy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Lviv, ul.Ševčenka 28</are:text>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Karkusha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Donecká oblast, m. Doneck, ul. Suvorova 89</are:text>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Kuznetsova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Lviv, ul. Solovjanská 4/52</are:text>
+     </are:adresa>
+     <are:jmeno>Valentyna</are:jmeno>
+     <are:prijmeni>Pipa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, Sambirský okres, obec Strilky</are:text>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Koval</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Čerkaská oblast, m. Čerkasy, ul. 30-ty riččja Peremohy 52/32</are:text>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Hutnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Lviv, ul. Zalisna 10</are:text>
+     </are:adresa>
+     <are:jmeno>Lesya</are:jmeno>
+     <are:prijmeni>Slonchynska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Čerkaská oblast, Talnivský okres, obec Lisove</are:text>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Solodenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Lviv, ul. Antonyča 1652</are:text>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Zaritska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Mykolajivská oblast, Velinovský okres, obec Novosvotlovka</are:text>
+     </are:adresa>
+     <are:jmeno>Liliya</are:jmeno>
+     <are:prijmeni>Netesana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Čerkaská oblast, m. Čerkasy, ul. Vernyhory 22/5</are:text>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Bilous</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Rudky, Ševčenka 5</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Veresnyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, m. Dolyna, ul. Nezaležnosti 12/57</are:text>
+     </are:adresa>
+     <are:jmeno>Lesya</are:jmeno>
+     <are:prijmeni>Rylyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Luhanská oblast, Stanyčno-Luhanský okres, obec Oleksandrivka, ul. Naberežna 17</are:text>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Gadayeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Tjačivský okres, obec Kryva, ul. Horkého 24</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Oleksiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Tjačivský okres, obec Kryva, ul. Ševčenka 38</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Palinkash</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Čerkaská oblast, m. Smila, ul. Lesi Ukrajinky 18/2</are:text>
+     </are:adresa>
+     <are:jmeno>Valentyna</are:jmeno>
+     <are:prijmeni>Okhrimenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Čerkaská oblast, m. Smila, ul. Dzeržynského 44/15</are:text>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Bashmakova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Čerkaská oblast, m. Čerkasy, ul. Bohdana Chmelnyckého 18</are:text>
+     </are:adresa>
+     <are:jmeno>Leonid</are:jmeno>
+     <are:prijmeni>Tsipovyaz</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Čerkaská oblast, m. Čerkasy, ul. Borkanjuka 32</are:text>
+     </are:adresa>
+     <are:jmeno>Serhiy</are:jmeno>
+     <are:prijmeni>Padalko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, m. Bolechiv</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Solyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská oblast, m. Radyvyliv, ul. Parkova 26</are:text>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Sadovets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Dolynský okres, obec Tysiv</are:text>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Pavlyshyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, obec Kosivská Poljana 538</are:text>
+     </are:adresa>
+     <are:jmeno>Valeriy</are:jmeno>
+     <are:prijmeni>Lyvatskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, obec Kosivská Poljana, 704</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Mytryuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, obec Kosivská Poljana, 543</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Pipash</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, obec Kosivská Poljana</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Kopusyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, obec Kobelecká Poljana, ul. Horkého 20</are:text>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Olefir</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Chustský okres, obec Kopašnevo, ul. Zelena 558</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Maleta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Perečynský okres, obec Dubrynyč, ul. Pidhirna 2</are:text>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Romanyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Tjačivský okres, obec Čumalevo, ul. Naberežna 17</are:text>
+     </are:adresa>
+     <are:jmeno>Henadiy</are:jmeno>
+     <are:prijmeni>Kyselev</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, m. Velký Byčkiv, ul. Ukrajinská 11/A</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Oros</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>okres Calaraši, obec Horodiště</are:text>
+     </are:adresa>
+     <are:jmeno>Ion</are:jmeno>
+     <are:prijmeni>Chicu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>okres Hincešti, obec A.Marinescu 12/55</are:text>
+     </are:adresa>
+     <are:jmeno>Ion</are:jmeno>
+     <are:prijmeni>Brinza</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, obec Kobelecká Poljana, ul. Vyšneva 10</are:text>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Vartsaba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, obec Kobelecká Poljana, ul. Pavljuka 183/48</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Konyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Sumská oblast, m. Sumy, ul. Rymskoho-Korsakova 30/52</are:text>
+     </are:adresa>
+     <are:jmeno>Vadym</are:jmeno>
+     <are:prijmeni>Parashchenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Sumská oblast, m. Sumy, ul. Rymskoho-Korsakova 32/22</are:text>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Sharapov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Donecká oblast, m. Svitlodarsk, ul. Molodižna 56/37</are:text>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Somka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Tjačivský okres, obec Neresnycja, ul. Hruševského 53</are:text>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Murha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>m. Chisinau, ul. Jazului 74/1/21</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Daranuta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Tjačivský okres, obec Ternovo, ul. Zavodská 18</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Haynaliy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Rožnjativský okres, obec Verchnij Struteň, ul. Zavodská 7</are:text>
+     </are:adresa>
+     <are:jmeno>Lyubov</are:jmeno>
+     <are:prijmeni>Uryadko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Rožnjativský okres, obec Verchnij Struteň, ul. Zavodská 7</are:text>
+     </are:adresa>
+     <are:jmeno>Stepan</are:jmeno>
+     <are:prijmeni>Uryadko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Rožnjativský okres, obec Verchnij Struteň, ul. Zavodská 7</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Uryadko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-15" dvy="2017-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, m. Velký Byčkiv</are:text>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Hliba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

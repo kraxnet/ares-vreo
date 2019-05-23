@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T19:40:24"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>19:40:24</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25573721</are:ICO>
+   <are:ObchodniFirma>REAL club s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4213955</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>76001</are:psc>
+    <are:okres>Zlín</are:okres>
+    <are:obec>Zlín</are:obec>
+    <are:ulice>Santražiny</are:ulice>
+    <are:cisloTxt>753</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-09-01</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+činnost realitní kanceláře
+     </are:Text>
+     <are:Text>
+obstaravatelská činnost v oblasti obchodu, služeb a výroby
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-09-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-09-01">
+    <are:Text>
+Způsob zastupování:
+za společnost jedná a podepisuje jednatel
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-09-01" dvy="2003-02-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Vizovice</are:obec>
+      <are:ulice>Chrastešovská</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Chalabala</are:prijmeni>
+     <are:titulPred>Dr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-22" dvy="2016-09-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1999-10-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Vizovice</are:obec>
+      <are:ulice>Chrastešovská</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Chalabala</are:prijmeni>
+     <are:titulPred>Dr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1999-10-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25759523</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76314</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Zlín</are:obec>
+      <are:castObce>Kostelec</are:castObce>
+      <are:ulice>Zvonková</are:ulice>
+      <are:cisloPop>607</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>CHALABALA</are:prijmeni>
+     <are:titulPred>Dr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-09-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2011-12-06">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>4213955</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Santražiny</are:ulice>
+      <are:cisloTxt>753</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>25534696</are:ICO>
+     <are:ObchodniFirma>Carioca CZ a.s. v likvidaci</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

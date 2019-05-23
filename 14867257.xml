@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:03:48"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:03:48</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>14867257</are:ICO>
+   <are:ObchodniFirma>PROZATEX v.o.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>40501</are:psc>
+    <are:obec>Děčín I</are:obec>
+    <are:ulice>Masarykovo nám.</are:ulice>
+    <are:cisloTxt>3/3</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-02-11</are:DatumZapisu>
+   <are:DatumVymazu>2008-10-02</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+- koupě zboží za účelem jeho dalšího prodeje a prodej
+- podnikání v oblasti nakládání s odpady
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v oblasti obchodu a služeb
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-02-11" dvy="2008-10-02">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1991-02-11" dvy="2000-04-04">
+    <are:Text>
+Jménem společnosti je oprávněna jednat ve všech věcech Marcela
+Janatová, vedoucí společnosti, bytem Frýdlant v Čechách,
+Žitavská 248.
+Podepisovat se bude za společnost tak, že svůj podpis připojí k
+názvu firmy.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2000-04-04" dvy="2008-10-02">
+    <are:Text>
+Jménem společnosti je oprávněn jednat ve všech věcech Josef
+Janata, bytem Frýdlant v Čechách, Žitavská 3248.
+Podepisovat se bude za společnost tak, že svůj podpis připojí k
+názvu firmy.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-02-11" dvy="1997-01-10">
+    <are:funkce>
+     <are:nazev>Vedoucí společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Frýdlant v Čechách</are:obec>
+      <are:ulice>Žitavská 248</are:ulice>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Janatová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-01-10" dvy="2000-04-04">
+    <are:funkce>
+     <are:nazev>Vedoucí společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Frýdlant v Čechách</are:obec>
+      <are:ulice>Žitavská</are:ulice>
+      <are:cisloTxt>3248</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Janatová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-04-04" dvy="2008-10-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Frýdlant v Čechách</are:obec>
+      <are:ulice>Žitavská</are:ulice>
+      <are:cisloTxt>3248</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Janata</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2005-02-01" dvy="2008-10-02">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2005-02-01" dvy="2008-10-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Děčín I</are:obec>
+      <are:ulice>28. října</are:ulice>
+      <are:cisloTxt>1055/27</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Kameníková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-02-11" dvy="2008-10-02">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1997-01-10" dvy="2008-10-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Frýdlant v Čechách</are:obec>
+      <are:ulice>Žitavská</are:ulice>
+      <are:cisloTxt>3248</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Janata</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-05-22" dvy="2008-10-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46401</are:psc>
+      <are:obec>Frýdlant</are:obec>
+      <are:ulice>ul. Míru</are:ulice>
+      <are:cisloTxt>275</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Petruželová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-04-04" dvy="2008-10-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14960117</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46401</are:psc>
+      <are:obec>Frýdlant</are:obec>
+      <are:ulice>Štursova</are:ulice>
+      <are:cisloTxt>852</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martina</are:jmeno>
+     <are:prijmeni>Hybnerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T02:21:20"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>02:21:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26258269</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek Partyzánská 3602/33,3603/35 Prostějov</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24843300</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>79601</are:psc>
+    <are:okres>Prostějov</are:okres>
+    <are:obec>Prostějov</are:obec>
+    <are:castObce>Prostějov</are:castObce>
+    <are:ulice>Partyzánská</are:ulice>
+    <are:cisloPop>3602</are:cisloPop>
+    <are:cisloOr>33</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-09-27</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+Správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+    <are:Ucel>
+     <are:Text>
+Správa bytového domu.
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-09-27" dvy="2008-02-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-09-27" dvy="2008-02-20">
+    <are:Text>
+K písemnému právnímu úkonu postačí podpis pověřeného vlastníka.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-09-27" dvy="2004-05-07">
+    <are:funkce>
+     <are:nazev>Pověřený vlastník</are:nazev>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Za drahou</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>Oděvní průmysl, a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-07" dvy="2008-02-20">
+    <are:funkce>
+     <are:nazev>Pověřený vlastník</are:nazev>
+     <are:vznikFunkce>2003-09-30</are:vznikFunkce>
+     <are:zanikFunkce>2007-10-23</are:zanikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>24801178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Za drahou</are:ulice>
+      <are:cisloTxt>4239/2</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>25532774</are:ICO>
+     <are:ObchodniFirma>Oděvní podnik, a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2008-02-20" dvy="2013-09-19">
+   <are:Nazev>Statutární orgán - výbor</are:Nazev>
+   <are:Clen dza="2008-02-20" dvy="2013-09-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-10-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-10-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru společenství</are:nazev>
+     <are:vznikFunkce>2007-10-23</are:vznikFunkce>
+     <are:zanikFunkce>2009-10-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10505792</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79812</are:psc>
+      <are:obec>Kralice na Hané</are:obec>
+      <are:ulice>Prostějovská</are:ulice>
+      <are:cisloTxt>202</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Havel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-02-20" dvy="2013-09-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-10-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-10-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru společenství</are:nazev>
+     <are:vznikFunkce>2007-10-23</are:vznikFunkce>
+     <are:zanikFunkce>2009-10-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24843318</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Partyzánská</are:ulice>
+      <are:cisloTxt>3603/35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Cieslar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-02-20" dvy="2013-09-19">
+    <are:funkce>
+     <are:nazev>člen výboru společenství</are:nazev>
+     <are:vznikFunkce>2007-10-23</are:vznikFunkce>
+     <are:zanikFunkce>2009-10-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24828645</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Trávnická</are:ulice>
+      <are:cisloTxt>2241/24a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavlína</are:jmeno>
+     <are:prijmeni>Štěpničková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-09-19">
+   <are:Nazev>Výbor</are:Nazev>
+   <are:ZpusobJednani dza="2008-02-20" dvy="2017-04-05">
+    <are:Text>
+Způsob zastupování: Za výbor jedná předseda výboru, nebo výborem písemně pověřený člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2017-04-05">
+    <are:Text>
+Jménem výboru zastupuje společenství navenek předseda výboru, popř. předsedou výboru písemně zmocněný člen výboru. Za společenství se předseda podepisuje tak, že k jeho názvu připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2013-09-19" dvy="2015-07-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-02-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2013-02-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24847739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79604</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Jana Zrzavého</are:ulice>
+      <are:cisloPop>3984</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>PROCHÁZKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-19" dvy="2017-04-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-02-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-02-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2013-02-28</are:vznikFunkce>
+     <are:zanikFunkce>2017-02-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10505792</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79812</are:psc>
+      <are:obec>Kralice na Hané</are:obec>
+      <are:castObce>Kralice na Hané</are:castObce>
+      <are:ulice>Prostějovská</are:ulice>
+      <are:cisloPop>202</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>HAVEL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-19" dvy="2017-04-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-02-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-02-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:zanikFunkce>2017-02-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24843318</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Partyzánská</are:ulice>
+      <are:cisloPop>3603</are:cisloPop>
+      <are:cisloOr>35</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EDITA</are:jmeno>
+     <are:prijmeni>ŠINDELÁŘOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-07-09" dvy="2015-08-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-02-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2013-02-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24847739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79604</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Jana Zrzavého</are:ulice>
+      <are:cisloPop>3984</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>PÁCLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-08-03" dvy="2017-04-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-02-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-02-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2013-02-28</are:vznikFunkce>
+     <are:zanikFunkce>2017-02-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24843318</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Partyzánská</are:ulice>
+      <are:cisloPop>3603</are:cisloPop>
+      <are:cisloOr>35</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>PÁCLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-05" dvy="2017-07-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-02-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-06-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2017-02-15</are:vznikFunkce>
+     <are:zanikFunkce>2017-06-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9823450</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51721</are:psc>
+      <are:okres>Rychnov nad Kněžnou</are:okres>
+      <are:obec>Týniště nad Orlicí</are:obec>
+      <are:castObce>Týniště nad Orlicí</are:castObce>
+      <are:ulice>U Dubu</are:ulice>
+      <are:cisloPop>963</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>MATOUŠ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-05" dvy="2017-07-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-02-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-06-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2017-02-15</are:vznikFunkce>
+     <are:zanikFunkce>2017-06-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24843318</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Partyzánská</are:ulice>
+      <are:cisloPop>3603</are:cisloPop>
+      <are:cisloOr>35</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>PÁCLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-05" dvy="2017-07-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-02-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2017-02-15</are:vznikFunkce>
+     <are:zanikFunkce>2017-06-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24847399</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79604</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Antonína Slavíčka</are:ulice>
+      <are:cisloPop>3943</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>VALENTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-06-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2017-06-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24843318</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Partyzánská</are:ulice>
+      <are:cisloPop>3603</are:cisloPop>
+      <are:cisloOr>35</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>HOPJAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-06-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2017-06-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4148991</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76333</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Štítná nad Vláří-Popov</are:obec>
+      <are:castObce>Popov</are:castObce>
+      <are:cisloPop>109</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>ŠURÁŇ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-06-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24847399</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79604</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Antonína Slavíčka</are:ulice>
+      <are:cisloPop>3943</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>VALENTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>02:21:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26258269</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek  Partyzánská 3602/33,3603/35 Prostějov</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24843300</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>79601</are:psc>
+    <are:okres>Prostějov</are:okres>
+    <are:obec>Prostějov</are:obec>
+    <are:ulice>Partyzánská</are:ulice>
+    <are:cisloTxt>33</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-09-27</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+Správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-09-27" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-09-27" dvy="2001-12-31">
+    <are:Text>
+K písemnému právnímu úkonu postačí podpis pověřeného vlastníka.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-09-27" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Pověřený vlastník</are:nazev>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Za drahou</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>Oděvní průmysl, a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-04-09T14:44:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-04-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-04-09</are:Datum_vypisu>
+   <are:Cas_vypisu>14:44:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45538441</are:ICO>
+   <are:ObchodniFirma>ASATEX, spol. s r.o. Chrudim v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:obec>Chrudim IV</are:obec>
+    <are:ulice>Na rozhledně</are:ulice>
+    <are:cisloTxt>768</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-03-31</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-03-31" dvy="1997-10-09">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-03-31" dvy="1993-03-24">
+    <are:Text>
+Jménem společnosti je oprávněn jednat navenek a podepisovat za ni jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-03-24" dvy="1997-10-09">
+    <are:Text>
+Jménem společnosti jedná navenek a podepisuje za ni likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-03-31" dvy="1993-03-24">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Nimh Duc-ung Hoa</are:obec>
+      <are:ulice>Ha Son Binh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Van Hoanh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-24" dvy="1997-10-09">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7629923</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chvaletice</are:obec>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloTxt>72</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdena</are:jmeno>
+     <are:prijmeni>Dirbáková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1997-10-09">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="1997-10-09" dvy="2013-08-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7692781</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>K barvírně</are:ulice>
+      <are:cisloTxt>240</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Tyc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21597634</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51101</are:psc>
+      <are:obec>Turnov</are:obec>
+      <are:castObce>Turnov</are:castObce>
+      <are:ulice>Diamantová</are:ulice>
+      <are:cisloPop>1907</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>SLAVÍKOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-03-31">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Hoa-Ha Son Binh</are:obec>
+      <are:ulice>Minh Duc-ung</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Hguyen Van Hoanh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Thuy-Thai Binh</are:obec>
+      <are:ulice>Thai Hung-Thai</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Dao Xuan Quy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Thuy-Thai Binh</are:obec>
+      <are:ulice>Thai Hung-Thai</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Vu Khac Tuan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Hoa-Ha Son Binh</are:obec>
+      <are:ulice>Kim Duong-Ung</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Do Thi Kin Thoa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Liem-Aha Nam Ninh</are:obec>
+      <are:ulice>Thanh Tam-Thanh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Le Thi Vinh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Liem-Ha Noi</are:obec>
+      <are:ulice>Nhan Chinhtu</are:ulice>
+     </are:adresa>
+     <are:jmeno>Cao</are:jmeno>
+     <are:prijmeni>Phong</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Giang-Hai Hung</are:obec>
+      <are:ulice>Thanh Xuan-Chau</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Hguyen Thanh Hac</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ha-Vinh Phu</are:obec>
+      <are:ulice>Co Khi Che-Thanh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Hguyen Minh Khuong</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Lam-Ha Noi</are:obec>
+      <are:ulice>Duong Ha-Gia</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Do Duc Hao</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Thuy-Thai Binh</are:obec>
+      <are:ulice>Thai Hung-Thai</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Hguyen Thi Hong Nhi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ha Nam Ninh</are:obec>
+      <are:ulice>Kim Xuan-Lynhan</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Hguyen Thi Kim Dung</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Dinh-Ha Noi</are:obec>
+      <are:ulice>23 Quan Thanh-Ba</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Anh Dung</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

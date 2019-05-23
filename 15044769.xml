@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:13:03"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:13:03</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>15044769</are:ICO>
+   <are:ObchodniFirma>TAKO, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>16905768</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Jablonec nad Jizerou</are:obec>
+    <are:ulice>Končiny</are:ulice>
+    <are:cisloTxt>56</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-11-25</are:DatumZapisu>
+   <are:DatumVymazu>1993-12-08</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+- obchodní a zprostředkovatelské služby s výjimkou těch, ke
+kterým je třeba zvláštní povolení dle platných předpisů
+- činnosti a výkony odbytu a zásobování s výjimkou těch, ke
+kterým je třeba zvláštní povolení dle platných právních předpisů
+- výkony zahraničního obchodu (v souladu s par. 4 vyhl. FMZO č.
+27/91 Sb. u dovozu a vývozu dle nař. vl. č. 256/90 Sb.)
+- poradenské služby pro řízení podniků s výjimkou těch, ke kterým
+je třeba povolení dle platných právních předpisů
+- výkony vnitřního obchodu s výjimkou těch, ke kterým je třeba
+zvláštní povolení dle platných právních předpisů
+     </are:Text>
+     <are:Text>
+- průzkum trhu, konzultační a poradenská činnost v oblasti
+obchodu a služeb
+- projektování textilních technologií
+- poradenská, konstrukční a projekční činnost při přípravě a
+realizaci investičních a modernizačních záměrů v průmyslu s
+výjimkou těch, ke kterým je třeba zvláštní povolení dle platných
+právních předpisů
+- výrobní činnost a prodej výrobků ze dřeva, kovů, skla,
+keramiky, textilu, kůže, gumy a plastů
+- technologická měření fyzikálních veličin v  průmyslu včetně
+návrhu způsobu jejich měření a snímání
+- provoz malých vodních elektráren
+     </are:Text>
+     <are:Text>
+V případě, že k provozování některé z výše uvedených činností je
+třeba souhlasu příslušného orgánu státní správy, může být tato
+činnost vykonávána až po udělení tohoto souhlasu.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-11-25" dvy="1993-12-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="1991-11-25" dvy="1993-12-08">
+    <are:funkce>
+     <are:nazev>Ředitel společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12075311</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Desná I</are:obec>
+      <are:cisloTxt>342</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Pavlas</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-06-14" dvy="1993-12-08">
+    <are:funkce>
+     <are:nazev>likvidátor společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Desná v Jizer.horách I čp.342</are:obec>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Pavlasová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T11:33:52"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>11:33:52</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28307798</are:ICO>
+   <are:ObchodniFirma>Raiffeisen Agro Mikulov, spol. s r.o., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>15302385</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>69201</are:psc>
+    <are:obec>Mikulov</are:obec>
+    <are:ulice>Vídeňská</are:ulice>
+    <are:cisloTxt>257/18</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2008-10-20</are:DatumZapisu>
+   <are:DatumVymazu>2013-12-24</are:DatumVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-10-20" dvy="2013-12-24">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2008-10-20" dvy="2013-12-24">
+    <are:Text>
+Způsob jednání: Za společnost jednají dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2008-10-20" dvy="2013-12-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-10-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18974821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69146</are:psc>
+      <are:obec>Ladná</are:obec>
+      <are:ulice>Úlehlova</are:ulice>
+      <are:cisloTxt>200/39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Thalhammer</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-10-20" dvy="2013-12-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-10-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:psc>2151</are:psc>
+      <are:obec>Asparn</are:obec>
+      <are:ulice>Altmanns</are:ulice>
+      <are:cisloTxt>54</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karl</are:jmeno>
+     <are:prijmeni>Petz</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-10-20" dvy="2013-12-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-10-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:psc>2162</are:psc>
+      <are:obec>Falkenstein</are:obec>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alfred</are:jmeno>
+     <are:prijmeni>Schuster</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2012-12-31" dvy="2013-12-24">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2012-12-31" dvy="2013-12-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6766625</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34562</are:psc>
+      <are:obec>Holýšov</are:obec>
+      <are:castObce>Holýšov</are:castObce>
+      <are:ulice>Tylova</are:ulice>
+      <are:cisloPop>446</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Hamerník</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-10-20" dvy="2013-12-24">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2012-12-31" dvy="2013-12-24">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:psc>2170</are:psc>
+      <are:obec>Poysdorf</are:obec>
+      <are:ulice>Bahnstrasse</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>Raiffeisen Lagerhaus Weinviertel Nordost eGen</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

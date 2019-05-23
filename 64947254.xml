@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-24T10:41:11"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-24</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-24</are:Datum_vypisu>
+   <are:Cas_vypisu>10:41:12</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>64947254</are:ICO>
+   <are:ObchodniFirma>Bytové družstvo M.J.Lermontova 3, v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22184759</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>16000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Bubeneč</are:castObce>
+    <are:mop>Praha 6</are:mop>
+    <are:ulice>M. J. Lermontova</are:ulice>
+    <are:cisloPop>1020</are:cisloPop>
+    <are:cisloOr>3</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1996-03-26</are:DatumZapisu>
+   <are:DatumVymazu>2019-01-16</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Z obchodního rejstříku se vymazává Bytové družstvo M.J.Lermontova 3, v likvidaci, identifikační číslo: 649 47 254, včetně všech zapsaných skutečností.
+Právní důvod výmazu: Ukončení likvidace bytového družstva.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zajišťování bytových potřeb svých členů dle stanov
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1996-03-26" dvy="2019-01-16">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1996-03-26" dvy="2014-11-14">
+    <are:Text>
+Za družstvo jako statutární orgán jedná navenek předseda
+a v jeho nepřítomnosti některý z místopředsedů.Je-li pro právní
+úkon který činí předseda,potčebná písemná forma,je třeba podpisu
+předsedy a některého z místopředsedů.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-11-14" dvy="2019-01-16">
+    <are:Text>
+Bytové družstvo zastupuje předseda představenstva nebo v době jeho nepřítomnosti místopředseda představenstva. Písemné právní jednání představenstva za družstvo podepisuje předseda spolu s místopředsedou, v případě nepřítomnosti některého z nich podepisuj
+e předseda nebo místopředseda spolu s dalším členem představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1996-03-26" dvy="1999-10-18">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>M.J.Lermontova</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kostroun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-03-26" dvy="1999-10-18">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>M.J.Lermontova</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Landa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-03-26" dvy="1999-10-18">
+    <are:funkce>
+     <are:nazev>předsedseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22183191</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>M.J.Lermontova</are:ulice>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Tinlová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-18" dvy="2003-03-27">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:zanikFunkce>2003-01-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>M.J.Lermontova</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Evžen</are:jmeno>
+     <are:prijmeni>Holkovič</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-18" dvy="2014-11-14">
+    <are:clenstvi>
+     <are:zanikClenstvi>2014-06-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:zanikFunkce>2014-06-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>M.J.Lermontova</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Tinlová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-18" dvy="2014-11-14">
+    <are:clenstvi>
+     <are:zanikClenstvi>2014-06-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:zanikFunkce>2014-06-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>M.J.Lermontova</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Romana</are:jmeno>
+     <are:prijmeni>Rolníková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-27" dvy="2014-11-14">
+    <are:clenstvi>
+     <are:zanikClenstvi>2014-06-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2003-01-16</are:vznikFunkce>
+     <are:zanikFunkce>2014-06-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>M.J.Lermontova</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Němec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-11-14" dvy="2016-07-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-06-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-06-30</are:vznikFunkce>
+     <are:zanikFunkce>2016-06-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>M. J. Lermontova</are:ulice>
+      <are:cisloPop>1020</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>NĚMEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-11-14" dvy="2019-01-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-06-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-06-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>M. J. Lermontova</are:ulice>
+      <are:cisloPop>1020</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>TINLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-11-14" dvy="2019-01-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-06-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-06-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>M. J. Lermontova</are:ulice>
+      <are:cisloPop>1020</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROMANA</are:jmeno>
+     <are:prijmeni>ROLNÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-07-27" dvy="2019-01-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2016-06-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>M. J. Lermontova</are:ulice>
+      <are:cisloPop>1020</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FILIP</are:jmeno>
+     <are:prijmeni>MAGRAM</are:prijmeni>
+     <are:titulPred>MgA</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-01-01" dvy="2019-01-16">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-01-01" dvy="2019-01-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5927820</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:okres>Beroun</are:okres>
+      <are:obec>Beroun</are:obec>
+      <are:castObce>Beroun-Město</are:castObce>
+      <are:ulice>Na Náhonu</are:ulice>
+      <are:cisloPop>55</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>HELENA</are:jmeno>
+     <are:prijmeni>KORDULOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2014-11-14" dvy="2019-01-16">
+   <are:Nazev>Kontrolní komise</are:Nazev>
+   <are:Clen dza="2014-11-14" dvy="2019-01-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-06-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda kontrolní komise</are:nazev>
+     <are:vznikFunkce>2014-06-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22184759</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>M. J. Lermontova</are:ulice>
+      <are:cisloPop>1020</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>PEČENÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-11-14" dvy="2019-01-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-06-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22183515</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Terronská</are:ulice>
+      <are:cisloPop>894</are:cisloPop>
+      <are:cisloOr>56</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>KRÁSNÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-11" dvy="2019-01-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-06-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22205870</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dejvice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Na Dionysce</are:ulice>
+      <are:cisloPop>1755</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>JEDLIČKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

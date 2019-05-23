@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T08:57:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>08:57:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28073916</are:ICO>
+   <are:ObchodniFirma>CB Home s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>40320863</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>37005</are:psc>
+    <are:obec>České Budějovice</are:obec>
+    <are:castObce>České Budějovice 2</are:castObce>
+    <are:ulice>Zavadilka</are:ulice>
+    <are:cisloPop>2689</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2007-11-26</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem nemovitostí bez poskytování jiných než základních služeb
+     </are:Text>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-11-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2007-11-26">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-11-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-11-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Almetevsk</are:obec>
+      <are:ulice>ul.Gercena</are:ulice>
+      <are:cisloTxt>80 b</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zulfiya</are:jmeno>
+     <are:prijmeni>Yamaeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-03-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-03-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Almetevsk</are:obec>
+      <are:ulice>Pushkina</are:ulice>
+      <are:cisloTxt>37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kamil</are:jmeno>
+     <are:prijmeni>Minnakhmetov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2007-11-26">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-10-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Almetevsk</are:obec>
+      <are:ulice>ul.Gercena</are:ulice>
+      <are:cisloTxt>80 b</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zulfiya</are:jmeno>
+     <are:prijmeni>Yamaeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-10-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Almetevsk</are:obec>
+      <are:ulice>ul.Pushkina</are:ulice>
+      <are:cisloTxt>37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kamil</are:jmeno>
+     <are:prijmeni>Minakhmetov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

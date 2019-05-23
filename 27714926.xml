@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T04:19:08"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>04:19:08</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27714926</are:ICO>
+   <are:ObchodniFirma>Quadbase Systems Inc. - organizační složka</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>999999999</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>58601</are:psc>
+    <are:obec>Jihlava</are:obec>
+    <are:ulice>Chlumova</are:ulice>
+    <are:cisloTxt>1</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2007-01-23</are:DatumZapisu>
+   <are:DatumVymazu>2015-02-05</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Právní důvod výmazu je rozhodnutí zřizovatele o ukončení provozu odštěpného závodu zahraniční právnické osoby ze dne 5.11.2014.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Poskytování software a poradenství v oblasti hardware a software
+     </are:Text>
+     <are:Text>
+Zpracování dat, služby databank, správa sítí
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-01-23" dvy="2015-02-05">
+   <are:Nazev>Vedoucí organizační složky</are:Nazev>
+   <are:Clen dza="2007-01-23" dvy="2009-01-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12344800</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58601</are:psc>
+      <are:obec>Jihlava</are:obec>
+      <are:ulice>Třída Legionářů</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Leoš</are:jmeno>
+     <are:prijmeni>Přikryl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-01-13" dvy="2015-02-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12332194</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58601</are:psc>
+      <are:obec>Jihlava</are:obec>
+      <are:ulice>Helenínská</are:ulice>
+      <are:cisloTxt>181/50</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Leoš</are:jmeno>
+     <are:prijmeni>Přikryl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2007-01-23" dvy="2015-02-05">
+   <are:Nazev>Zřizovatel - zahraniční osoba</are:Nazev>
+   <are:Clen dza="2009-01-13" dvy="2015-02-05">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>840</are:stat>
+      <are:psc>95051</are:psc>
+      <are:obec>Santa Clara, CA</are:obec>
+      <are:ulice>275 Saratoga Ave</are:ulice>
+      <are:cisloTxt>105</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>QuadBase Systems Inc.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

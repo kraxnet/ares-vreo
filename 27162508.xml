@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T09:33:18"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>09:33:18</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27162508</are:ICO>
+   <are:ObchodniFirma>EMALIS s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21764913</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>13000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Vinohrady</are:castObce>
+    <are:mop>Praha 3</are:mop>
+    <are:ulice>Chrudimská</are:ulice>
+    <are:cisloPop>2158</are:cisloPop>
+    <are:cisloOr>5</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2004-06-24</are:DatumZapisu>
+   <are:DatumVymazu>2017-02-15</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost EMALIS s.r.o. v likvidaci se sídlem Chrudimská 2158/5, Vinohrady, 130 00 Praha 3, IČO: 271 62 508, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze,oddíl C, vložka 101057. Právním d
+ůvodem výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+přípravné práce pro stavby
+     </are:Text>
+     <are:Text>
+správa a údržba nemovitostí
+     </are:Text>
+     <are:Text>
+výroba potravinářských výrobků
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-06-24" dvy="2017-02-15">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2004-06-24" dvy="2017-02-15">
+    <are:Text>
+Za společnost jedná samostatně každý z jednatelů společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-06-24" dvy="2015-04-16">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2004-06-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Na radosti</are:ulice>
+     </are:adresa>
+     <are:jmeno>Gheorghe</are:jmeno>
+     <are:prijmeni>Hincu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2004-06-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>40763421</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15521</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Zličín</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Na Radosti</are:ulice>
+      <are:cisloPop>473</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>GHEORGHE</are:jmeno>
+     <are:prijmeni>HINCU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-06-07" dvy="2017-02-15">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-06-07" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21775231</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Sudoměřská</are:ulice>
+      <are:cisloPop>814</are:cisloPop>
+      <are:cisloOr>46</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VĚRA</are:jmeno>
+     <are:prijmeni>SEDLOŇOVÁ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2004-06-24" dvy="2017-02-15">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Kaluský okres, Perekosy</are:text>
+     </are:adresa>
+     <are:jmeno>MARIYA</are:jmeno>
+     <are:prijmeni>IBRAGIMOVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Cherson, 200 let Chersonu</are:text>
+     </are:adresa>
+     <are:jmeno>IRYNA</are:jmeno>
+     <are:prijmeni>MASLYAYEVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Bolechiv, Mazepy 16</are:text>
+     </are:adresa>
+     <are:jmeno>TETYANA</are:jmeno>
+     <are:prijmeni>DYAKIV</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Kaluský okres, Perekosy</are:text>
+     </are:adresa>
+     <are:jmeno>GANNA</are:jmeno>
+     <are:prijmeni>ROGAL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Horodenkivský okres, Toporivci, V.Stusa 14A</are:text>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>KANTYMYR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Kolomyjský okres, Pečeniryn, Cupryja 56</are:text>
+     </are:adresa>
+     <are:jmeno>SVITLANA</are:jmeno>
+     <are:prijmeni>DROTENKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Bolechiv, L.Ukrajinky 56</are:text>
+     </are:adresa>
+     <are:jmeno>MARIYA</are:jmeno>
+     <are:prijmeni>SERPUTKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ternopil, Černjachovskoho 3/51</are:text>
+     </are:adresa>
+     <are:jmeno>VOLODYMYR</are:jmeno>
+     <are:prijmeni>KONAKHOVYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Dolynský okres, Dubrova 70</are:text>
+     </are:adresa>
+     <are:jmeno>LYUBOMYR</are:jmeno>
+     <are:prijmeni>GASHOVSKYY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, Kos.Poljana, Zavij 899</are:text>
+     </are:adresa>
+     <are:jmeno>MYKOLA</are:jmeno>
+     <are:prijmeni>SKACHKOV</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Tjačivský okres, Kalyny, Zaliznyčna 11</are:text>
+     </are:adresa>
+     <are:jmeno>YURIY</are:jmeno>
+     <are:prijmeni>CHEREVKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, Kob. Poljana, Kuljavčika 4</are:text>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>MOYSYUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, Vodycja 415</are:text>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>ROMANYUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, Rachivský okres, Vodycja 415</are:text>
+     </are:adresa>
+     <are:jmeno>YAROSLAV</are:jmeno>
+     <are:prijmeni>SOYMA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, rachivský okres, Kob. Poljana, Sportyvna 1</are:text>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>VARTSABA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Dolynský okres, Belejiv</are:text>
+     </are:adresa>
+     <are:jmeno>MYKOLA</are:jmeno>
+     <are:prijmeni>DOVGANYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Kaluský okres, Holyn, St.Bandery 36</are:text>
+     </are:adresa>
+     <are:jmeno>LYUBOV</are:jmeno>
+     <are:prijmeni>KAVYN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Kaluský okres, Perekosy, L. Ukrajinky 44</are:text>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>ROGAL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Horodenkivský okres, Toporivci, Mičurina 16</are:text>
+     </are:adresa>
+     <are:jmeno>GALYNA</are:jmeno>
+     <are:prijmeni>UGRYN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Horodenkivský okres, Toporivci, Mičurina 16</are:text>
+     </are:adresa>
+     <are:jmeno>MYKHAYLO</are:jmeno>
+     <are:prijmeni>GRYSHCHUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Dolynský okres, St. Mizun, Verchovyncja 96</are:text>
+     </are:adresa>
+     <are:jmeno>YURIY</are:jmeno>
+     <are:prijmeni>STEPANENKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ternopil, Tancorova 18/17</are:text>
+     </are:adresa>
+     <are:jmeno>ANDRIY</are:jmeno>
+     <are:prijmeni>KOKHAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Dolynský okres, Knjažoluka</are:text>
+     </are:adresa>
+     <are:jmeno>YAROSLAVA</are:jmeno>
+     <are:prijmeni>KISHCHUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Bolechivské městské rady, Tysiv</are:text>
+     </are:adresa>
+     <are:jmeno>SVITLANA</are:jmeno>
+     <are:prijmeni>PROKIPCHYN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Bolechivské městské rady, Huzijiv</are:text>
+     </are:adresa>
+     <are:jmeno>OLGA</are:jmeno>
+     <are:prijmeni>SOBOL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Bolechiv, Drohobyča 22A</are:text>
+     </are:adresa>
+     <are:jmeno>OLGA</are:jmeno>
+     <are:prijmeni>MYZDRYK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-16" dvy="2017-02-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská oblast, Bolechiv, Stryjska 5</are:text>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>DUB</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T16:14:44"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>16:14:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>29025711</are:ICO>
+   <are:ObchodniFirma>PTP GROUP, s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>6560172</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25401</are:psc>
+    <are:obec>Jílové u Prahy</are:obec>
+    <are:ulice>V Lázních</are:ulice>
+    <are:cisloTxt>395</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2010-01-27</are:DatumZapisu>
+   <are:DatumVymazu>2017-05-23</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost PTP GROUP, s.r.o. v likvidaci, se sídlem Jílové u Prahy, V Lázních 395, PSČ 25401, identifikační číslo 290 25 711, z obchodního rejstříku. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2010-01-27" dvy="2017-05-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2010-01-27" dvy="2017-05-23">
+    <are:Text>
+Jménem společnosti jedná a podepisuje jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2010-01-27" dvy="2014-05-15">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-01-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6346979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25219</are:psc>
+      <are:obec>Rudná</are:obec>
+      <are:ulice>Na Drahách</are:ulice>
+      <are:cisloTxt>383</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Fojt</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-05-15" dvy="2017-05-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-01-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6346979</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25219</are:psc>
+      <are:obec>Rudná</are:obec>
+      <are:castObce>Rudná</are:castObce>
+      <are:ulice>Na Drahách</are:ulice>
+      <are:cisloPop>383</are:cisloPop>
+      <are:cisloOr>35</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>FOJT</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-08-30" dvy="2017-05-23">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-08-30" dvy="2017-05-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>40335658</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28802</are:psc>
+      <are:okres>Nymburk</are:okres>
+      <are:obec>Nymburk</are:obec>
+      <are:castObce>Drahelice</are:castObce>
+      <are:ulice>Na Hroudách 1</are:ulice>
+      <are:cisloPop>217</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>KUKLA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2010-01-27" dvy="2017-05-23">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2010-01-27" dvy="2017-05-23">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>196</are:stat>
+      <are:text>Nikósie, LEDRA HOUSE, Agios Andreas, Agiou Pavlou 15, 1105</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>PTP GROUP LIMITED</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

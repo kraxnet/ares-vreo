@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T00:00:35"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>00:00:35</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>04104692</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků domu K Zastávce 538, Veselí nad Lužnicí</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>6721851</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>39181</are:psc>
+    <are:okres>Tábor</are:okres>
+    <are:obec>Veselí nad Lužnicí</are:obec>
+    <are:castObce>Veselí nad Lužnicí I</are:castObce>
+    <are:ulice>K Zastávce</are:ulice>
+    <are:cisloPop>538</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumVzniku>2013-06-27</are:DatumVzniku>
+   <are:DatumZapisu>2015-05-22</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Zajišťování správy domu č.p. 538, bytový dům, a pozemku parc. č. 2569/10, zastavěná plocha a nádvoří, popřípadě dalších pozemků uvedených v prohlášení ve vztahu k uvedenému domu č.p. 538, vše v katastrálním území Veselí nad Lužnicí, obci Veselí nad Lužnic
+í, části obce Veselí nad Lužnicí I.
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2015-05-22">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2015-05-22">
+    <are:Text>
+Společenství vlastníků zastupuje předseda společenství vlastníků samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2015-05-22">
+    <are:funkce>
+     <are:nazev>Předseda společenství vlastníků</are:nazev>
+     <are:vznikFunkce>2015-04-29</are:vznikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22175334</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Mlýnská</are:ulice>
+      <are:cisloTxt>6/3</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>26025965</are:ICO>
+     <are:ObchodniFirma>AMRA, s.r.o.</are:ObchodniFirma>
+     <are:Zastoupeni dza="2015-05-22" dvy="2016-08-22">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>22657011</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>10100</are:psc>
+        <are:okres>Hlavní město Praha</are:okres>
+        <are:obec>Praha</are:obec>
+        <are:castObce>Vršovice</are:castObce>
+        <are:mop>Praha 10</are:mop>
+        <are:ulice>Černomořská</are:ulice>
+        <are:cisloPop>234</are:cisloPop>
+        <are:cisloOr>2</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>JAN</are:jmeno>
+       <are:prijmeni>KODÁDEK</are:prijmeni>
+      </are:fosoba>
+     </are:Zastoupeni>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

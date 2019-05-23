@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T00:19:19"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>00:19:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48119130</are:ICO>
+   <are:ObchodniFirma>SCALAR, v.o.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>10000</are:psc>
+    <are:obec>Praha 10</are:obec>
+    <are:ulice>Černokostelecká</are:ulice>
+    <are:cisloTxt>87/14</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-04-08</are:DatumZapisu>
+   <are:DatumVymazu>2010-11-09</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-04-08" dvy="2010-11-09">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1993-04-08" dvy="2010-11-09">
+    <are:Text>
+Jednatel je oprávněn jednat jménem společnosti samostatně, pode-
+pisování se děje tak, že k vytištěnému nebo nadepsanému názvu
+společnosti připojí svůj podpis
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9 - Vysočany</are:obec>
+      <are:ulice>Ke Klíčovu 714/6</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vítězslav</are:jmeno>
+     <are:prijmeni>Pohanka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2003-04-07" dvy="2010-11-09">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2003-04-07" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25166549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Hradecká</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jarmila</are:jmeno>
+     <are:prijmeni>Veselá</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-04-08" dvy="2010-11-09">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9 - Vysočany</are:obec>
+      <are:ulice>Ke Klíčovu 714/6</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vítězslav</are:jmeno>
+     <are:prijmeni>Pohanka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>75 Phu tieu, Hai hung</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Trinh Van Lich</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>47B Hang thao, Nam dinh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Pham Thi Thoa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ha noi, Viet nam</are:obec>
+      <are:ulice>95 Dinh dong, Bach mai</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Do Van Yen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>34 Khuong thuong, Ha noi</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Ngo Dinh Nhan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>20B, Ngo quyen, Ha bac</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Dau Hong Tan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>12OB Tien giang, Ha bac</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Luu Quoc Thang</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>162 Nam dinh, Ha nam ninh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Hgoc Linh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>Huong su, Nghe tinh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Le Hgoc Hoang</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>68 Yen phong, Ha bac</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Dang Viet Cuong</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>5B Thanh cong, Ha noi</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Hoang Thi Loi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>10 Doi can, Ha noi</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Mai Thi Lan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>194B Ha tay</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Do Van Ha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>87A Ha tay</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Hgoc Vinh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>42 Pho yen, Bac thai</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Trinh Van Hanh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>T10 Kien xuong, Thai binh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Dao Quang Lam</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>20 Thi xa Thanh hoa</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Ngo Thi Lai</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>72 Tien son, Ha bac</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Tran Duy Thanh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>4 Yen thanh, Hghe tinh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Pham Gia Van</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>23 Nam dinh, Nam ha</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Tran Quoc Vu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>58 Me linh, Vinh phu</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Anh Tuan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>67 Binh tri thien</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Xuan Chi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>92 Lo duc, Ha noi</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Dang Quang</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>52 Quan su, Ha noi</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Le Ngoc Lan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>25 Quan su, Ha noi</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Mai Van Khoi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>131 Thich quang duc, Phu nhuan</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Thanh Phuong</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ha bac, Viet nam</are:obec>
+      <are:ulice>238 Duc ly, Ly nhan</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Dinh Thang</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>34 Viet yen, Ha bac</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Than Van Hieu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>26 Cau duong, Hai phong</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Le Thi Kim Loan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>56 Hai humg, Chi linh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Cao Minh Man</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hai hung, Viet nam</are:obec>
+      <are:ulice>9 An mo, Le loi, Chi linh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Van Manh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ha noi, Viet nam</are:obec>
+      <are:ulice>74 B1 TT Nguyen cong Tru,</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Duong Thi Kim Dung</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>22 Dong anh, Ha noi</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Van Long</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>H1 F57 TT Van chuong, Ha noi</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Pham Thi Hoi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>16 Nam dinh, Nam ha</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Ngo Thi Thuy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ha tay, Viet nam</are:obec>
+      <are:ulice>33 Hung tien, My duc</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Hguyen Thi Hguyen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Vietnam</are:obec>
+      <are:ulice>25 Kien xuong, Thai binh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Pham Ngoc Toan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ha bac, Vietnam</are:obec>
+      <are:ulice>45 Mai ding, Hiep hoa</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Ngo Van Phuong</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>16 Hai duong, Hai hung</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Thi Ha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>60 Kim thi, Hai hung</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Doan Thanh Hai</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>20 Le loi, Hai phong</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Tran Huu Hoang</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kontum, Viet nam</are:obec>
+      <are:ulice>49 Pleiku, Gia lai</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Ngo Huy Honh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ha noi, Viet nam</are:obec>
+      <are:ulice>110 Hai ba trung</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Duong Bich Diem</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ha son binh, Viet nam</are:obec>
+      <are:ulice>13 Binh minh, Thanh oai,</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Chu Du</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ha son binh, Viet nam</are:obec>
+      <are:ulice>66 Binh minh, Thanh oai</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nimh Tieu Kieu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hoa binh, Viet nam</are:obec>
+      <are:ulice>115 Binh minh, Thanh oai,</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Nguyen Manh Ha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>24 Ninhf thanh, Hai hung</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Vu Dinh Dung</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hai hung, Viet nam</are:obec>
+      <are:ulice>15 Dan chu, Tu loc</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Pham Phu Xuong</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Thu Duc, Viet nam</are:obec>
+      <are:ulice>191/2 Lang bao</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Ho Duc Binh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>191/2 Lang bao, Thu duc</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Bach Hong Son</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-08" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Viet nam</are:obec>
+      <are:ulice>168A Thi xa Thai binh</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Phi Van Chinh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

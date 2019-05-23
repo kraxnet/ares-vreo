@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T16:29:15"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>16:29:15</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25237551</are:ICO>
+   <are:ObchodniFirma>STAUTEX s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>26201437</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>34401</are:psc>
+    <are:obec>Domažlice</are:obec>
+    <are:ulice>Chrastavická</are:ulice>
+    <are:cisloPop>165</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-10-13</are:DatumZapisu>
+   <are:DatumVymazu>2013-12-12</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem nemovitostí včetně poskytování jiných než základních
+služeb
+     </are:Text>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-10-13" dvy="2013-12-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-10-13" dvy="2013-12-12">
+    <are:Text>
+Způsob jednání:
+a) zastupování - společnost zastupuje jednatel samostatně ve
+všech věcech
+b) podepisování - podepisování se provádí tak, že k napsanému
+nebo vytištěnému jménu společnosti připojí jednatel svůj podpis
+s uvedením jména a funkce
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-10-13" dvy="2011-12-06">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>276</are:stat>
+      <are:obec>93497 Willmering</are:obec>
+      <are:ulice>Zifling-Bierl</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Eva Christina Gobes, dat. nar. 31. srpna 1970</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-06" dvy="2013-06-22">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>276</are:stat>
+      <are:psc>93497</are:psc>
+      <are:obec>Willmering</are:obec>
+      <are:ulice>Zifling-Bierl</are:ulice>
+      <are:cisloPop>33</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Eva Christina</are:jmeno>
+     <are:prijmeni>Gobes</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-06-22" dvy="2013-12-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1999-10-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:obec>93497 Willmering</are:obec>
+      <are:ulice>Am Groitlfeld 31 /</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>EVA CHRISTINA</are:jmeno>
+     <are:prijmeni>FELDBAUER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-10-13" dvy="2013-12-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2011-12-06" dvy="2013-12-12">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:obec>6370 Stans</are:obec>
+      <are:ulice>Stansstaderstrasse</are:ulice>
+      <are:cisloPop>54</are:cisloPop>
+     </are:adresa>
+     <are:ObchodniFirma>c-concept AG</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

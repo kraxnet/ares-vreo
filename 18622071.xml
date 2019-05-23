@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-07T10:06:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-07</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-07</are:Datum_vypisu>
+   <are:Cas_vypisu>10:06:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>18622071</are:ICO>
+   <are:ObchodniFirma>Investia, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>6314376</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25225</are:psc>
+    <are:okres>Praha-západ</are:okres>
+    <are:obec>Jinočany</are:obec>
+    <are:castObce>Jinočany</are:castObce>
+    <are:ulice>Lidická</are:ulice>
+    <are:cisloPop>228</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-08-23</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+činnost realitní kanceláře
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-08-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-08-23" dvy="1993-08-30">
+    <are:Text>
+Podepisování za společnost se děje tak, že k názvu společnosti
+připojí svůj podpis s funkčním označením  &quot;ředitel&quot; jednatelé
+společnosti, každý samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-08-30">
+    <are:Text>
+Způsob jednámí jménem společnosti:
+Společnost zastupují a za ni podepisují jednatelé společnos-
+ti a to každý samostatně. Podepisování za společnost se děje
+tak, že k obchodnímu jménu spolenčosti připojí svůj podpis
+kterýkoliv z jednatelů.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-08-23" dvy="1993-08-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6314376</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25225</are:psc>
+      <are:obec>Jinočany</are:obec>
+      <are:ulice>Lidická</are:ulice>
+      <are:cisloTxt>228</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Koníček</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-23" dvy="1993-08-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22004939</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15200</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Chaplinovo nám.</are:ulice>
+      <are:cisloTxt>650</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Kučera</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-08-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22004939</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Chaplinovo nám.</are:ulice>
+      <are:cisloTxt>650</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zuzana</are:jmeno>
+     <are:prijmeni>Kučerová</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-08-30" dvy="2016-04-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21821313</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Matúškova</are:ulice>
+      <are:cisloTxt>795</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kamila</are:jmeno>
+     <are:prijmeni>Pobudová</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-08-30" dvy="2016-11-21">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21811628</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Ve studeném</are:ulice>
+      <are:cisloTxt>1455/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Seredycz</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-04-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12778559</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25242</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Jesenice</are:obec>
+      <are:castObce>Jesenice</are:castObce>
+      <are:ulice>Luční</are:ulice>
+      <are:cisloPop>367</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KAMILA</are:jmeno>
+     <are:prijmeni>POBUDOVÁ</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-21">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6312527</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25225</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Jinočany</are:obec>
+      <are:castObce>Jinočany</are:castObce>
+      <are:ulice>Na Poustce</are:ulice>
+      <are:cisloPop>43</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>SEREDYCZ</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2019-01-03">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2019-01-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28015207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Petržílkova</are:ulice>
+      <are:cisloPop>2707</are:cisloPop>
+      <are:cisloOr>38</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MILAN</are:jmeno>
+     <are:prijmeni>EDELMANN</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-08-23">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1993-08-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Chaplinovo n.</are:ulice>
+      <are:cisloTxt>650</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zuzana</are:jmeno>
+     <are:prijmeni>Kučerová</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6314376</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25225</are:psc>
+      <are:obec>Jinočany</are:obec>
+      <are:castObce>Jinočany</are:castObce>
+      <are:ulice>Lidická</are:ulice>
+      <are:cisloPop>228</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ALENA</are:jmeno>
+     <are:prijmeni>KONÍČKOVÁ</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-04-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12778559</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25242</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Jesenice</are:obec>
+      <are:castObce>Jesenice</are:castObce>
+      <are:ulice>Luční</are:ulice>
+      <are:cisloPop>367</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KAMILA</are:jmeno>
+     <are:prijmeni>POBUDOVÁ</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6312527</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25225</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Jinočany</are:obec>
+      <are:castObce>Jinočany</are:castObce>
+      <are:ulice>Na Poustce</are:ulice>
+      <are:cisloPop>43</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>SEREDYCZ</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

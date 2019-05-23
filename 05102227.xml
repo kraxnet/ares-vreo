@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T01:57:00"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>01:57:00</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>SR</are:Rejstrik>
+   <are:ICO>05102227</are:ICO>
+   <are:ObchodniFirma>INTERSOC, pobočka</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21436967</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>34201</are:psc>
+    <are:okres>Klatovy</are:okres>
+    <are:obec>Petrovice u Sušice</are:obec>
+    <are:castObce>Jiřičná</are:castObce>
+    <are:cisloPop>3</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2016-05-24</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+hostinská činnost
+     </are:Text>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách č.1až 3 živnostenského zákona - ubytování
+     </are:Text>
+    </are:PredmetCinnosti>
+    <are:Ucel>
+     <are:Text>
+Ochrana a podpora odpočinkových a volnočasových aktivit, dovolených a možností trávení dovolených v nejširším slova smyslu.
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2016-05-24">
+   <are:Nazev>Statutární orgán - vedoucí pobočky</are:Nazev>
+   <are:ZpusobJednani dza="2016-05-24">
+    <are:Text>
+Za pobočku jedná její vedoucí samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2016-05-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-05-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>vedoucí pobočky</are:nazev>
+     <are:vznikFunkce>2016-05-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>56</are:stat>
+      <are:psc>9520</are:psc>
+      <are:obec>Sint-Lievens-Houtem</are:obec>
+      <are:ulice>Veldstraat 11</are:ulice>
+     </are:adresa>
+     <are:jmeno>JOHAN GERD R</are:jmeno>
+     <are:prijmeni>SWINNEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2016-05-24">
+   <are:Nazev>Zahraniční spolek</are:Nazev>
+   <are:Clen dza="2016-05-24">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>56</are:stat>
+      <are:psc>1030</are:psc>
+      <are:obec>Schaarbeek</are:obec>
+      <are:ulice>Haachtsesteenweg 579</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>INTERSOC</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T09:28:09"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>09:28:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27153088</are:ICO>
+   <are:ObchodniFirma>K - and STAV s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22460993</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19700</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Kbely</are:castObce>
+    <are:mop>Praha 9</are:mop>
+    <are:ulice>Hornopočernická</are:ulice>
+    <are:cisloPop>245</are:cisloPop>
+    <are:cisloOr>23</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2004-05-24</are:DatumZapisu>
+   <are:DatumVymazu>2017-05-05</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost K - and STAV s.r.o. v likvidaci se sídlem Hornopočernická 245/23, Kbely, 197 00 Praha 9, IČO: 271 53 088, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze,oddíl C, vložka 100307. Pr
+ávním důvodem výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-05-24" dvy="2017-05-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2004-05-24" dvy="2017-05-05">
+    <are:Text>
+Jednatel jedná jménem společnosti v plném rozsahu předmětu její činnosti samostatně a bez omezení a podepisuje se tak, že k firmě společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-05-24" dvy="2015-05-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-05-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22542388</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Spojovací</are:ulice>
+      <are:cisloTxt>14/217</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stepan</are:jmeno>
+     <are:prijmeni>Shushman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-05-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22615415</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Strašnice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Nad Primaskou</are:ulice>
+      <are:cisloPop>1339</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>STEPAN</are:jmeno>
+     <are:prijmeni>SHUSHMAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-11-03" dvy="2017-05-05">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-11-03" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3324044</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70300</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Vítkovice</are:castObce>
+      <are:ulice>Mírová</are:ulice>
+      <are:cisloPop>98</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RADIM</are:jmeno>
+     <are:prijmeni>DĚDIC</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2004-05-24" dvy="2017-05-05">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22650881</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Hradešínská</are:ulice>
+      <are:cisloPop>1330</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HRYHORIY</are:jmeno>
+     <are:prijmeni>OBRYN</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopilska obl., Kozova</are:obec>
+      <are:ulice>Korolyova 19</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3858570</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76301</are:psc>
+      <are:obec>Mysločovice</are:obec>
+      <are:castObce>Mysločovice</are:castObce>
+      <are:cisloPop>126</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>KOSHUTA</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopilska obl., Ivankiv</are:obec>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22231820</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16400</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Přední Kopanina</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>K Tuchoměřicům</are:ulice>
+      <are:cisloPop>45</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>POPOVYCH</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., V. Byčkiv</are:obec>
+      <are:ulice>Promyslova 114</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22384651</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Heydukova</are:ulice>
+      <are:cisloPop>1220</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>OLEH</are:jmeno>
+     <are:prijmeni>MYSKIV</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska obl., Stryy</are:obec>
+      <are:ulice>Kossaka 6A</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>40447243</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malešice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Akademická</are:ulice>
+      <are:cisloPop>696</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HALYNA</are:jmeno>
+     <are:prijmeni>MYSKIV</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska obl.</are:obec>
+      <are:ulice>Sičovych Strilciv 8/32</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11424893</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28401</are:psc>
+      <are:obec>Kutná Hora</are:obec>
+      <are:castObce>Hlouška</are:castObce>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloPop>581</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>NATALIYA</are:jmeno>
+     <are:prijmeni>PAVLYUK</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Zaporižska obl.</are:obec>
+      <are:ulice>Vasylivka, Čekistiv 35</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21869685</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Sládkovičova</are:ulice>
+      <are:cisloPop>1241</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>NELYA</are:jmeno>
+     <are:prijmeni>GORBENKO</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Vinnica</are:obec>
+      <are:ulice>Vatutina 67</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21869685</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Sládkovičova</are:ulice>
+      <are:cisloPop>1241</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>OLEG</are:jmeno>
+     <are:prijmeni>GORBENKO</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Vinnica</are:obec>
+      <are:ulice>Vatutina 67</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22590226</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malešice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Nad úžlabinou</are:ulice>
+      <are:cisloPop>451</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>OSTAP</are:jmeno>
+     <are:prijmeni>TRUKH</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska obl., Stryy</are:obec>
+      <are:ulice>Lemyka 12</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., Boronjavo, 60-riččažovtnja 154</are:text>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Prystaya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3248186</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Hrabůvka</are:castObce>
+      <are:ulice>Horní</are:ulice>
+      <are:cisloPop>1110</are:cisloPop>
+      <are:cisloOr>54</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VITALIY</are:jmeno>
+     <are:prijmeni>SHEVCHENKO</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., V. Vodyane</are:obec>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22615415</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Strašnice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Nad Primaskou</are:ulice>
+      <are:cisloPop>1339</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>NATALIYA</are:jmeno>
+     <are:prijmeni>SHUSHMAN</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Rachiv</are:obec>
+      <are:ulice>okr. Kvasy 256</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22423800</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hloubětín</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Poděbradská</are:ulice>
+      <are:cisloPop>433</are:cisloPop>
+      <are:cisloOr>65</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>VYNNYK</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopilská obl., Madalijivka</are:obec>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1647318</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26801</are:psc>
+      <are:obec>Hořovice</are:obec>
+      <are:castObce>Hořovice</are:castObce>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloPop>1337</are:cisloPop>
+      <are:cisloOr>26a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HALYNA</are:jmeno>
+     <are:prijmeni>SHARAVARA</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Lviv</are:obec>
+      <are:ulice>Horodotska 188/20</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22615415</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Strašnice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Nad Primaskou</are:ulice>
+      <are:cisloPop>1339</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VIKTOR</are:jmeno>
+     <are:prijmeni>SHUSHMAN</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Kijivská obl., Tetiev</are:obec>
+      <are:ulice>Naberežna</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., Rachovskyj okr., Vodica 28</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Bodnar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26986256</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68605</are:psc>
+      <are:obec>Uherské Hradiště</are:obec>
+      <are:castObce>Mařatice</are:castObce>
+      <are:ulice>1. máje</are:ulice>
+      <are:cisloPop>205</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TETYANA</are:jmeno>
+     <are:prijmeni>SOLOVYOVA</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Lviv</are:obec>
+      <are:ulice>Staroznesenská 12</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Žitomir, Levanevskoho 12</are:text>
+     </are:adresa>
+     <are:jmeno>Viktoriya</are:jmeno>
+     <are:prijmeni>Belinska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., Rachovskyj okr., Vodica 12</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Nykorych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., Rachovskyj okr., Vodica 46</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Konyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Žitomyr, Maljovanská 52</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Voznyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22423800</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hloubětín</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Poděbradská</are:ulice>
+      <are:cisloPop>433</are:cisloPop>
+      <are:cisloOr>65</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>SVITLANA</are:jmeno>
+     <are:prijmeni>PRUTKO</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Kyjiv</are:obec>
+      <are:ulice>Rykova 5/25</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Kyjevská obl., Irpin, Miru 1A/57</are:text>
+     </are:adresa>
+     <are:jmeno>Alla</are:jmeno>
+     <are:prijmeni>Petrovska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20690959</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Konečná</are:ulice>
+      <are:cisloPop>900</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANNA</are:jmeno>
+     <are:prijmeni>RETIZNYK</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Bohdan</are:obec>
+      <are:ulice>Breboya 164</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., Vodica, Vinohradska 223</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Korzhuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-06-12" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22097023</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Smíchov</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Radlická</are:ulice>
+      <are:cisloPop>2018</are:cisloPop>
+      <are:cisloOr>78</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>URSTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-25" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22717501</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Běhounkova</are:ulice>
+      <are:cisloPop>2459</are:cisloPop>
+      <are:cisloOr>35</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>SVYATOSLAV</are:jmeno>
+     <are:prijmeni>KOLOSOVYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-08-26" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21776172</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Táboritská</are:ulice>
+      <are:cisloPop>911</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DMYTRO</are:jmeno>
+     <are:prijmeni>KORZHUK</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., V. Vodyane</are:obec>
+      <are:ulice>L. Ukrajinky 2</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-14" dvy="2017-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21715173</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Staré Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Valentinská</are:ulice>
+      <are:cisloPop>56</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IHOR</are:jmeno>
+     <are:prijmeni>ANDRIYEVSKYY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-22" dvy="2017-05-05">
+    <are:fosoba>
+     <are:jmeno>SERHIY</are:jmeno>
+     <are:prijmeni>NEMESH</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Ruske Pole</are:obec>
+      <are:ulice>K. Marxa 46</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

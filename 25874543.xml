@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T22:23:40"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:23:40</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25874543</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu č.p. 1881, Slezská Ostrava</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3219356</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>71000</are:psc>
+    <are:okres>Ostrava-město</are:okres>
+    <are:obec>Ostrava</are:obec>
+    <are:castObce>Slezská Ostrava</are:castObce>
+    <are:ulice>U Staré elektrárny</are:ulice>
+    <are:cisloPop>1881</are:cisloPop>
+    <are:cisloOr>2</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2001-03-28</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-03-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-03-28" dvy="2006-05-27">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná
+forma, je nezbytný podpis dvou členů výboru, obvykle předsedy a
+místopředsedy. V případě nepřítomnosti některého z nich dalšího
+člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2006-05-27" dvy="2012-05-05">
+    <are:Text>
+Za společenství jedná navenek pověřený vlastník.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-03-28" dvy="2003-08-21">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2003-03-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Heřmanice</are:obec>
+      <are:ulice>Záblatská</are:ulice>
+      <are:cisloTxt>41/22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kudela</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-03-28" dvy="2003-08-21">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2003-03-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Slezská Ostrava</are:obec>
+      <are:ulice>U staré elektrárny</are:ulice>
+      <are:cisloTxt>1881</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Pětroš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-03-28" dvy="2003-08-21">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:zanikFunkce>2003-03-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Slezská Ostrava</are:obec>
+      <are:ulice>U staré elektrárny</are:ulice>
+      <are:cisloTxt>1881/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Veselý</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-08-21" dvy="2004-06-04">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2003-03-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3219364</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Slezská Ostrava</are:castObce>
+      <are:ulice>U Staré elektrárny</are:ulice>
+      <are:cisloTxt>1881/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlasta</are:jmeno>
+     <are:prijmeni>Šebestíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-08-21" dvy="2004-06-04">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-03-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20584521</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Frýdek - Místek</are:obec>
+      <are:ulice>1. máje</are:ulice>
+      <are:cisloTxt>1832</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Beseda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-08-21" dvy="2005-08-10">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2003-03-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3212424</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Slezská Ostrava</are:castObce>
+      <are:ulice>Olbrachtova</are:ulice>
+      <are:cisloTxt>31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Švec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-06-04" dvy="2005-08-10">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2004-03-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3219356</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Slezská Ostrava</are:castObce>
+      <are:ulice>U Staré elektrárny</are:ulice>
+      <are:cisloTxt>1881/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslava</are:jmeno>
+     <are:prijmeni>Slunská</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-06-04" dvy="2006-05-27">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2004-03-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3219356</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Slezská Ostrava</are:castObce>
+      <are:ulice>U Staré elektrárny</are:ulice>
+      <are:cisloTxt>1881/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Rašková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-08-10" dvy="2006-05-27">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3219364</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Slezská Ostrava</are:castObce>
+      <are:ulice>U Staré elektrárny</are:ulice>
+      <are:cisloTxt>1881/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslava</are:jmeno>
+     <are:prijmeni>Slunská</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-08-10" dvy="2006-05-27">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3231160</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Kunčičky</are:castObce>
+      <are:ulice>Pernerova</are:ulice>
+      <are:cisloTxt>29/452</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Maštalíř</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-05-27" dvy="2007-05-11">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3231160</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Kunčičky</are:castObce>
+      <are:ulice>Pernerova</are:ulice>
+      <are:cisloTxt>29/452</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Maštalíř</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-05-11" dvy="2012-05-05">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3150321</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Muglinov</are:castObce>
+      <are:ulice>Úpadní</are:ulice>
+      <are:cisloTxt>8/408</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Slavomír</are:jmeno>
+     <are:prijmeni>Golomb</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-05-05" dvy="2016-05-04">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Osrava</are:obec>
+      <are:castObce>Slezská Ostrava</are:castObce>
+      <are:ulice>U Staré elektrárny</are:ulice>
+      <are:cisloPop>4</are:cisloPop>
+      <are:cisloOr>1881</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Švec</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-04" dvy="2017-06-01">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+     <are:zanikFunkce>2017-03-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3219364</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>71000</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Slezská Ostrava</are:castObce>
+      <are:ulice>U Staré elektrárny</are:ulice>
+      <are:cisloPop>1881</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>ŠVEC</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-06-01">
+    <are:funkce>
+     <are:nazev>předseda společenství vlastníků</are:nazev>
+     <are:vznikFunkce>2017-03-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3219364</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>71000</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Slezská Ostrava</are:castObce>
+      <are:ulice>U Staré elektrárny</are:ulice>
+      <are:cisloPop>1881</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BARBORA</are:jmeno>
+     <are:prijmeni>ČERNÁ DVOŘÁKOVÁ</are:prijmeni>
+     <are:titulPred>PhDr.</are:titulPred>
+     <are:titulZa>MBA</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:23:40</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25874543</are:ICO>
+   <are:ObchodniFirma>Společenství  vlastníků jednotek domu č.p. 1881, Slezská Ostrava</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>71000</are:psc>
+    <are:obec>Ostrava-Slezská Ostrava</are:obec>
+    <are:ulice>U staré elektrárny</are:ulice>
+    <are:cisloTxt>2,4/1881</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-03-28</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+1. Předmětem činnosti společenství je správa, provoz a opravy
+společných částí domu, vymezených způsobem stanoveným v zákoně
+(dále jen &quot;správa domu&quot;) a zabezpečování dalších činností
+spojených s provozem domu.
+     </are:Text>
+     <are:Text>
+2. Správou domu se rozumí zejména:
+a) zajišťování provozu domu a pozemku včetně technických
+zařízení a společných částí technických sítí, a to tak, aby
+společné části domu byly provozuschopné a sloužily k jejich
+řádnému užívání a k řádnému užívání bytů a nebytových prostorů v
+domě,
+b) zajišťování oprav a rekonstrukcí společných částí domu včetně
+havarijní údržby,
+c) zajišťování protipožárního zabezpečení domu a jeho revize a
+opravy,
+d) zajišťování revizí a oprav rozvodů elektrické energie,
+svislých a vodorovných rozvodů vody a odvodů odpadních vod,
+vzduchotechniky, výtahů, společné televizní a rozhlasové antény
+a ostatních systémů k příjmu a rozvodu televizního a
+rozhlasového signálu, elektrických sdělovacích zařízení v domě a
+hromosvodů,
+e) plnění dalších povinností, pokud vyplývají nebo vyplynou
+vlastníkům jednotek ze zvláštních právních předpisů v
+souvislosti s jejich spoluvlastnictvím ke společným částem domu,
+f) zajišťování administrativní a operativně technické činnosti
+spojené se správou domu a vedení příslušné technické a provozní
+dokumentace k domu,
+g) vybírání příspěvků od vlastníků jednotek na náklady spojené
+se správou společných částí domu a pozemku, popřípadě dalších,
+pokud jsou tyto příspěvky z rozhodnutí vlastníků vybírány,
+h) zajišťování vedení evidence plateb vlastníků jednotek na
+náklady spojené se správou společných částí domu a pozemku,
+popřípadě o dalších prostředcích, kterou jsou z rozhodnutí
+vlastníků vybírány,
+i) vedení evidence nákladů vzniklých se zajišťováním správy
+domu,
+j) vedení přehledu všech ostatních nákladů vztahujících se k
+domu a pozemku,
+k) zřízení účtu u banky a hospodaření s peněžními prostředky
+vlastníků jednotek, svěřených společenství na úhradu nákladů
+spojených se správou a provozem společných částí domu, s
+povinností oprávněných osob s nimi disponovat s péčí řádného
+správce cizího majetku a podle pokynů schválených vlastníky,
+l) vedení účetnictví domu podle zákona č. 563/1991 Sb., o
+účetnictví, ve znění pozdějších předpisů, s odděleným účtováním
+na jednotlivé jednotky (byty a nebytové prostory) a sledování
+nákladů a výnosů v příslušném účetním období.
+     </are:Text>
+     <are:Text>
+3. Na základě rozhodnutí shromáždění vlastníků jednotek
+zajišťuje společenství pojištění domu.
+     </are:Text>
+     <are:Text>
+4. Na základě rozhodnutí shromáždění vlastníků jednotek
+zajišťuje společenství.
+a) plnění poskytovaná s užíváním bytů a nebytových prostorů a
+společných částí domu (dále jen &quot;služby&quot;), s výjimkou těch,
+která si zajišťují vlastníci jednotek od dodavatele přímo (např.
+dodávka elektrické energie do jednotlivých bytů a nebytových
+prostorů),
+b) dodávky elektrické energie a vody a odvádění odpadních vod
+pro společné části domu,
+c) dodávky vody a odvádění odpadních vod pro jednotlivé
+jednotky,
+d) další povinnosti, které vyplynou pro vlastníky jednotek,
+případně pro společenství ze zvláštních právních předpisů.
+     </are:Text>
+     <are:Text>
+5. Předmětem činnosti společenství dále je
+a) vybírání záloh na úhradu za služby od vlastníků jednotek,
+b) vedení potřebné evidence plateb vlastníků jednotek na zálohy
+na úhradu za služby,
+c) zřízení účtu u banky a hospodaření s peněžními prostředky
+svěřenými vlastníky jednotek formou záloh na úhradu za služby,
+d) vyúčtování zálohových plateb na úhradu za služby pro
+jednotlivé vlastníky jednotek,
+e) provozování technických zařízení v domě, která slouží i jiným
+subjektům, s povinností osob, kterým je svěřena jejich obsluha,
+disponovat s nimi s péčí řádného správce majetku a podle pokynů
+schválených shromážděním vlastníků jednotek.
+     </are:Text>
+     <are:Text>
+6. Společenství je oprávněno sjednat smlouvu o zástavním právu k
+jednotce, včetně příslušného spoluvlastnického podílu na
+společných částech domu, k zajištění poohledávek vyplývajících z
+úvěru poskytnutého na náklady spojené se správou domu, a to
+pouze s písemných souhlasem vlastníka jednotky.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-03-28" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-03-28" dvy="2001-12-31">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná
+forma, je nezbytný podpis dvou členů výboru, obvykle předsedy a
+místopředsedy. V případě nepřítomnosti některého z nich dalšího
+člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-03-28" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Heřmanice</are:obec>
+      <are:ulice>Záblatská</are:ulice>
+      <are:cisloTxt>41/22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kudela</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-03-28" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Slezská Ostrava</are:obec>
+      <are:ulice>U staré elektrárny</are:ulice>
+      <are:cisloTxt>1881</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Pětroš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-03-28" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Slezská Ostrava</are:obec>
+      <are:ulice>U staré elektrárny</are:ulice>
+      <are:cisloTxt>1881/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Veselý</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T15:02:37"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>15:02:37</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25111698</are:ICO>
+   <are:ObchodniFirma>Daria Plus , s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21731195</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:okres>Praha 2</are:okres>
+    <are:obec>Praha 2</are:obec>
+    <are:ulice>Ječná</are:ulice>
+    <are:cisloTxt>15</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1997-03-07</are:DatumZapisu>
+   <are:DatumVymazu>2009-06-18</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zprostředkovatelská činnost v oblasti obchodu a služeb
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1997-03-07" dvy="2009-06-18">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1997-03-07" dvy="2009-06-18">
+    <are:Text>
+Způsob jednání za společnost: Jednatel zastupuje společnost
+navenek samostatně.  Podepisování se provádí tak, že k otisku
+razítka společnosti připojí jednatel vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1997-03-07" dvy="2009-06-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14492016</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Kolín</are:okres>
+      <are:obec>Český Brod</are:obec>
+      <are:ulice>Na cihelně</are:ulice>
+      <are:cisloTxt>1332</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Aneta</are:jmeno>
+     <are:prijmeni>Čadilová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2005-02-01" dvy="2009-06-18">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="2005-02-01" dvy="2009-06-18">
+    <are:Text>
+Usnesením č.j. 32 Cm 249/2003-8 ze dne 8.7.2004 rozhodl soud o zrušení obchodní společnosti Daria Plus, s.r.o., IČ: 25111698 s likvidací. Usnesení nabylo právní moci dne 3.8.2004.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2005-02-01" dvy="2009-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14492016</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Brod</are:obec>
+      <are:ulice>Na Cihelně</are:ulice>
+      <are:cisloTxt>1332</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Aneta</are:jmeno>
+     <are:prijmeni>Čadilová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1997-03-07" dvy="2009-06-18">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1997-03-07" dvy="2009-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Moskva</are:obec>
+      <are:ulice>Stroitelej</are:ulice>
+      <are:cisloTxt>6/17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marina</are:jmeno>
+     <are:prijmeni>Drozdova</are:prijmeni>
+     <are:titulZa>nar. 7.2.1956</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-03-07" dvy="2009-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Moskva</are:obec>
+      <are:ulice>ul. 3 Frunzenskaja</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalia</are:jmeno>
+     <are:prijmeni>Romanova</are:prijmeni>
+     <are:titulZa>nar. 5.10.1945</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-12T10:57:57"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-12</are:Datum_vypisu>
+   <are:Cas_vypisu>10:57:57</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27753549</are:ICO>
+   <are:ObchodniFirma>MCG FIN, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>26703327</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>60200</are:psc>
+    <are:okres>Brno-město</are:okres>
+    <are:obec>Brno</are:obec>
+    <are:castObce>Černá Pole</are:castObce>
+    <are:ulice>Lidická</are:ulice>
+    <are:cisloPop>2030</are:cisloPop>
+    <are:cisloOr>20</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2007-11-02</are:DatumZapisu>
+   <are:DatumVymazu>2017-10-31</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost MCG FIN, s.r.o. byla zrušena bez likvidace a zanikla v důsledku vnitrostátní fúze sloučením, při níž přešlo jmění zanikající společnosti na nástupnickou společnost GABKA s.r.o., se sídlem Brno, Lidická 2030/20, PSČ 602 00, IČ 293 07 856, podle
+projektu ze dne 19.9.2017.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa vlastního majetku
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-11-02" dvy="2017-10-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2007-11-02" dvy="2017-03-06">
+    <are:Text>
+Způsob jednání:  Jednatel je oprávněn jednat jménem společnosti ve všech věcech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2017-03-06" dvy="2017-10-31">
+    <are:Text>
+Jednatel zastupuje společnost ve všech věcech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-11-02" dvy="2009-02-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-11-02</are:vznikFunkce>
+     <are:zanikFunkce>2009-01-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19563132</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62500</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>ulice Kosmonautů</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Šrom</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-02-17" dvy="2013-08-02">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-01-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21766703</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Ondříčkova</are:ulice>
+      <are:cisloTxt>2385/32</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gabriela</are:jmeno>
+     <are:prijmeni>Jadrníčková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-02" dvy="2015-08-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-01-29</are:vznikFunkce>
+     <are:zanikFunkce>2015-08-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21766703</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Ondříčkova</are:ulice>
+      <are:cisloPop>2385</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>GABRIELA</are:jmeno>
+     <are:prijmeni>JADRNÍČKOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-08-26" dvy="2017-03-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-08-26</are:vznikFunkce>
+     <are:zanikFunkce>2017-03-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22616276</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Strašnice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>V olšinách</are:ulice>
+      <are:cisloPop>1411</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DAVID</are:jmeno>
+     <are:prijmeni>KNOP-KOSTKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-03-06" dvy="2017-10-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-03-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21941998</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nusle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Nuselská</are:ulice>
+      <are:cisloPop>84</are:cisloPop>
+      <are:cisloOr>24</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VOJTĚCH</are:jmeno>
+     <are:prijmeni>KNOP-KOSTKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2007-11-02" dvy="2017-10-31">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2017-03-06" dvy="2017-10-31">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>26703327</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Černá Pole</are:castObce>
+      <are:ulice>Lidická</are:ulice>
+      <are:cisloPop>2030</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:ICO>29307856</are:ICO>
+     <are:ObchodniFirma>GABKA s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

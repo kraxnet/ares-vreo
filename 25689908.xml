@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T20:39:44"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>20:39:44</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25689908</are:ICO>
+   <are:ObchodniFirma>PRAHA FACILITIES MANAGEMENT, a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22709126</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>18600</are:psc>
+    <are:okres>Praha 8</are:okres>
+    <are:obec>Praha 8</are:obec>
+    <are:ulice>Pobřežní</are:ulice>
+    <are:cisloTxt>620/3</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-08-25</are:DatumZapisu>
+   <are:DatumVymazu>2013-01-29</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+montáž, opravy, revize a zkoušky elektrických zařízení
+     </are:Text>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-08-25" dvy="2013-01-29">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="1998-08-25" dvy="2007-03-01">
+    <are:Text>
+Za společnost jedná a podepisuje místopředseda představenstva
+tak, že k vytištěnému či nadepsanému jménu společnosti připojí
+svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2007-03-01" dvy="2013-01-29">
+    <are:Text>
+Jménem společnosti jedná předseda představenstva nebo místopředseda představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-08-25" dvy="1998-08-25">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:obec>Praha l</are:obec>
+      <are:ulice>U Půjčovny</are:ulice>
+      <are:cisloTxt>5/968</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Frank</are:jmeno>
+     <are:prijmeni>Doucet</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-25" dvy="2000-02-28">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha l</are:obec>
+      <are:ulice>U Půjčovny</are:ulice>
+      <are:cisloTxt>5/968</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Frank</are:jmeno>
+     <are:prijmeni>Doucet</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-25" dvy="2001-11-14">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:zanikFunkce>2001-06-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:text>20, rue des Quatre Fils, 75003 Paříž</are:text>
+     </are:adresa>
+     <are:jmeno>Annick</are:jmeno>
+     <are:prijmeni>Lapotre</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-25" dvy="2007-03-01">
+    <are:clenstvi>
+     <are:zanikClenstvi>2006-04-28</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>1998-08-25</are:vznikFunkce>
+     <are:zanikFunkce>2006-04-28</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:text>12, rue d'Ouessant, 75015 Paříž</are:text>
+     </are:adresa>
+     <are:jmeno>Denis</are:jmeno>
+     <are:prijmeni>Bonin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-08-25" dvy="2007-03-01">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>1998-08-25</are:vznikFunkce>
+     <are:zanikFunkce>2006-04-28</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:text>15, rue Saint Vincent, 78570 Chanteloup-les Vignes</are:text>
+     </are:adresa>
+     <are:jmeno>Guy</are:jmeno>
+     <are:prijmeni>Hery</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-02-28" dvy="2002-05-06">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21739722</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 2</are:okres>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Vinohradská</are:ulice>
+      <are:cisloTxt>35/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jeröme</are:jmeno>
+     <are:prijmeni>Spanek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-11-14" dvy="2006-01-18">
+    <are:clenstvi>
+     <are:zanikClenstvi>2005-05-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2001-06-12</are:vznikFunkce>
+     <are:zanikFunkce>2005-05-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:text>8 square de ľ Hippodrome, 922 10 Saint Cloud</are:text>
+     </are:adresa>
+     <are:jmeno>Stéphane</are:jmeno>
+     <are:prijmeni>Aubin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-06" dvy="2006-01-18">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>1999-12-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:text>33120 Arcachon, 11bis, Allée de la Chapelle</are:text>
+     </are:adresa>
+     <are:jmeno>Jeröme</are:jmeno>
+     <are:prijmeni>Spanek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-18" dvy="2007-03-01">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>1999-12-13</are:vznikFunkce>
+     <are:zanikFunkce>2006-04-28</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:text>33120 Arcachon, 11bis, Allée de la Chapelle</are:text>
+     </are:adresa>
+     <are:jmeno>Jeröme</are:jmeno>
+     <are:prijmeni>Spanek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-18" dvy="2009-11-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-05-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-06-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2005-05-27</are:vznikFunkce>
+     <are:zanikFunkce>2009-06-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:psc>75019</are:psc>
+      <are:obec>Paříž</are:obec>
+      <are:ulice>rue de Crimée</are:ulice>
+      <are:cisloTxt>76</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stéphane</are:jmeno>
+     <are:prijmeni>Sebban</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-03-01" dvy="2007-03-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-04-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:psc>75019</are:psc>
+      <are:obec>Paříž</are:obec>
+      <are:ulice>rue Eugene Jumin</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Frank</are:jmeno>
+     <are:prijmeni>Doucer</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-03-01" dvy="2008-08-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-04-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2007-06-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-04-28</are:vznikFunkce>
+     <are:zanikFunkce>2007-06-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:text>Paříž, 15. obvod, rue Copreaux 15, 75015</are:text>
+     </are:adresa>
+     <are:jmeno>François</are:jmeno>
+     <are:prijmeni>de la Villéon</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-03-01" dvy="2010-08-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-04-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-07-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-04-28</are:vznikFunkce>
+     <are:zanikFunkce>2010-07-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:obec>Paříž</are:obec>
+      <are:castObce>16. obvod</are:castObce>
+      <are:ulice>Hameau Michel Ange</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marianne</are:jmeno>
+     <are:prijmeni>de Battisti</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-03-05" dvy="2010-08-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-04-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-07-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:psc>75019</are:psc>
+      <are:obec>Paříž</are:obec>
+      <are:ulice>rue Eugene Jumin</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Frank</are:jmeno>
+     <are:prijmeni>Doucet</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-11" dvy="2009-11-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-06-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-06-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2007-06-01</are:vznikFunkce>
+     <are:zanikFunkce>2009-06-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:text>Paříž, rue Dehesme 9, PSČ: 750 18</are:text>
+     </are:adresa>
+     <are:jmeno>Sébastien</are:jmeno>
+     <are:prijmeni>Cappigny</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-11-16" dvy="2010-08-31">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-06-29</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-07-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2009-06-29</are:vznikFunkce>
+     <are:zanikFunkce>2010-07-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:psc>78290</are:psc>
+      <are:obec>Croissy sur Seine</are:obec>
+      <are:castObce>Boulevard Fernand Hostachy</are:castObce>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eric</are:jmeno>
+     <are:prijmeni>Donnet</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-11-16" dvy="2010-08-31">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-06-29</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-07-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:psc>94160</are:psc>
+      <are:obec>Saint-Mandé</are:obec>
+      <are:castObce>Avenue Alphand</are:castObce>
+      <are:cisloTxt>35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mireille</are:jmeno>
+     <are:prijmeni>Chetioui</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-08-09" dvy="2010-08-31">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-07-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-07-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:psc>75004</are:psc>
+      <are:obec>Paříž</are:obec>
+      <are:ulice>rue du Temple</are:ulice>
+      <are:cisloPop>15</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Isabelle Laure</are:jmeno>
+     <are:prijmeni>Clerc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-08-09" dvy="2010-08-31">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-07-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-07-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:psc>75016</are:psc>
+      <are:obec>Paříž</are:obec>
+      <are:ulice>avenue Paul Doumer</are:ulice>
+      <are:cisloPop>33</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Christian Bernard Marie</are:jmeno>
+     <are:prijmeni>Delaire</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-08-31" dvy="2013-01-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-07-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-07-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15576311</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29306</are:psc>
+      <are:obec>Kosmonosy</are:obec>
+      <are:ulice>Pod Oborou</are:ulice>
+      <are:cisloPop>908</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Novotný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-08-31" dvy="2013-01-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-07-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-07-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25168321</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29301</are:psc>
+      <are:obec>Mladá Boleslav</are:obec>
+      <are:ulice>Svojsíkova</are:ulice>
+      <are:cisloPop>1346</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Bartoň</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-08-31" dvy="2013-01-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-07-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29306</are:psc>
+      <are:obec>Kosmonosy</are:obec>
+      <are:ulice>Bezdězská</are:ulice>
+      <are:cisloPop>13</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>David</are:jmeno>
+     <are:prijmeni>Fiala</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-08-31" dvy="2013-01-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-07-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21239690</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29301</are:psc>
+      <are:obec>Mladá Boleslav</are:obec>
+      <are:ulice>Partyzánská</are:ulice>
+      <are:cisloPop>300</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Vašek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1998-08-25" dvy="2013-01-29">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2010-08-31" dvy="2013-01-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-07-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2010-07-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5911818</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26706</are:psc>
+      <are:obec>Hýskov</are:obec>
+      <are:ulice>Kladenská</are:ulice>
+      <are:cisloPop>16</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Vrbský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-08-31" dvy="2013-01-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-07-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15576311</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29306</are:psc>
+      <are:obec>Kosmonosy</are:obec>
+      <are:ulice>Pod oborou</are:ulice>
+      <are:cisloPop>908</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Novotná</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-08-31" dvy="2013-01-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-07-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19070101</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62100</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Ivanovice</are:castObce>
+      <are:ulice>Podbabská</are:ulice>
+      <are:cisloPop>300</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Potomský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2010-08-09" dvy="2013-01-29">
+   <are:Nazev>Jediný akcionář</are:Nazev>
+   <are:Clen dza="2010-08-31" dvy="2013-01-29">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>26648415</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29301</are:psc>
+      <are:obec>Mladá Boleslav</are:obec>
+      <are:ulice>17.listopadu</are:ulice>
+      <are:cisloPop>1434</are:cisloPop>
+     </are:adresa>
+     <are:ICO>25059394</are:ICO>
+     <are:ObchodniFirma>TFN s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

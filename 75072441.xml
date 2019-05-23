@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T11:00:36"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>11:00:36</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>75072441</are:ICO>
+   <are:ObchodniFirma>Mateřská škola Sluníčko, příspěvková organizace, Milovice - Mladá</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>26600439</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>28923</are:psc>
+    <are:obec>Milovice</are:obec>
+    <are:castObce>Mladá</are:castObce>
+    <are:ulice>Topolová</are:ulice>
+    <are:cisloTxt>622</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2006-11-15</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:DoplnkovaCinnost>
+     <are:Text>
+pronájem prostor v budově školy
+     </are:Text>
+     <are:Text>
+pořádání kurzů a školení
+     </are:Text>
+     <are:Text>
+zhotovování drobných předmětů a jejich prodej
+     </are:Text>
+    </are:DoplnkovaCinnost>
+    <are:PredmetCinnosti>
+     <are:Text>
+druh školy podle § 7 odst. 3 z.č. 561/2004 Sb. - mateřská škola, která poskytuje předškolní vzdělání podle § 33 z.č. 561/2004 Sb. a vyhl. č. 145/2005 Sb.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2006-11-15">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2006-11-15">
+    <are:Text>
+Ředitel je oprávněn jednat ve všech věcech jménem organizace a zastupuje ji navenek.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-11-15" dvy="2014-08-03">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+     <are:vznikFunkce>2006-09-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18301690</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28922</are:psc>
+      <are:obec>Lysá nad Labem</are:obec>
+      <are:ulice>Sojovická</are:ulice>
+      <are:cisloTxt>372</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Soňa</are:jmeno>
+     <are:prijmeni>Růžičková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-08-03">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+     <are:vznikFunkce>2006-09-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>40830829</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28922</are:psc>
+      <are:obec>Lysá nad Labem</are:obec>
+      <are:castObce>Lysá nad Labem</are:castObce>
+      <are:ulice>Rybízová</are:ulice>
+      <are:cisloPop>1870</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>SOŇA</are:jmeno>
+     <are:prijmeni>RŮŽIČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2006-11-15">
+   <are:Nazev>Zřizovatel</are:Nazev>
+   <are:Clen dza="2012-03-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>26108372</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28924</are:psc>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Nám. 30. června</are:ulice>
+      <are:cisloTxt>508</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00239453</are:ICO>
+     <are:ObchodniFirma>Město Milovice</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

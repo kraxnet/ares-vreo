@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:59:16"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:59:16</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00133701</are:ICO>
+   <are:ObchodniFirma>Zemědělské družstvo Šlapanice, družstvo v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24102687</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>66408</are:psc>
+    <are:okres>Brno-venkov</are:okres>
+    <are:obec>Blažovice</are:obec>
+    <are:cisloTxt>340</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1951-06-18</are:DatumZapisu>
+   <are:DatumVymazu>2013-07-11</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem zemědělských objektů včetně obslužných činností
+     </are:Text>
+     <are:Text>
+poradenská, konzultační a manažerská činnost
+     </are:Text>
+     <are:Text>
+obchodní činnost
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1951-06-18" dvy="2013-07-11">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-04-23" dvy="1999-11-02">
+    <are:Text>
+Způsob jednání za družstvo:
+Navenek jedná za představenstvo předseda nebo místopředseda.
+Je-li pro právní úkon, který činí představenstvo předepsaná
+písemná forma, je třeba podpisu alespoň dvou členů
+představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1999-11-02" dvy="2013-07-11">
+    <are:Text>
+Způsob jednání za družstvo:
+Za družstvo podepisuje předseda družstva a v jeho nepřítomnosti
+další pověřený člen družstva. Tam, kde zákon ukládá písemnou
+formu právního úkonu, podepisují za družstvo předseda družstva
+společně s dalším pověřeným členem družstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24080373</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:ulice>Čechova</are:ulice>
+      <are:cisloTxt>300</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Zeman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24644188</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Podolí</are:obec>
+      <are:cisloTxt>311</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Klemčinský</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24093114</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:ulice>Na zahrádkách</are:ulice>
+      <are:cisloTxt>1582</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Studený</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24100528</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Blažovice</are:obec>
+      <are:cisloTxt>105</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>ing. Václav  Fišer</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24011711</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Újezd u Brna</are:obec>
+      <are:ulice>Revoluční</are:ulice>
+      <are:cisloTxt>341</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Nebl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24090638</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:ulice>Ponětovská</are:ulice>
+      <are:cisloTxt>1334</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludvík</are:jmeno>
+     <are:prijmeni>Topinka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24078573</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:ulice>Palackého</are:ulice>
+      <are:cisloTxt>115</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Zemanová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24080331</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:ulice>Čechova</are:ulice>
+      <are:cisloTxt>296</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Urban</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23933593</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:ulice>Bedřichovice</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimil</are:jmeno>
+     <are:prijmeni>Kos</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24093262</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:cisloTxt>1597</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimil</are:jmeno>
+     <are:prijmeni>Formánek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24091189</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:ulice>Na zahrádkách</are:ulice>
+      <are:cisloTxt>1389</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Remeš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24079791</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:ulice>Kalvodova</are:ulice>
+      <are:cisloTxt>240</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Staněk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23954621</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jiříkovice</are:obec>
+      <are:cisloTxt>209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Ondráček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Blažovice</are:obec>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Pivoda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24102385</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Blažovice</are:obec>
+      <are:cisloTxt>298</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloš</are:jmeno>
+     <are:prijmeni>Valtr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24100692</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Blažovice</are:obec>
+      <are:cisloTxt>125</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Mazálek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23954361</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jiříkovice</are:obec>
+      <are:cisloTxt>183</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Macháček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24143707</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Prace</are:obec>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Hofírková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-06-18" dvy="1993-04-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24144444</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Prace</are:obec>
+      <are:cisloTxt>113</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Dvořáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24100528</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Blažovice</are:obec>
+      <are:cisloTxt>105</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>ing. Václav  Fišer</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23933852</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Bedřichovice</are:obec>
+      <are:cisloTxt>54</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Veverka</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24100692</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Blažovice</are:obec>
+      <are:cisloTxt>125</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Mazálek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Blažovice</are:obec>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Paulík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19057857</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Dvorska</are:obec>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Schrom</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23954426</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jiříkovice</are:obec>
+      <are:cisloTxt>189</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Dvořáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jiříkovice</are:obec>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Mazálek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23953934</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jiříkovice</are:obec>
+      <are:cisloTxt>140</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Krčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13189280</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kobylnice</are:obec>
+      <are:cisloTxt>243</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Král</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ponětovice</are:obec>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Dvořáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24144487</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Prace</are:obec>
+      <are:cisloTxt>117</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Albín</are:jmeno>
+     <are:prijmeni>Kubínek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:cisloTxt>300</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Zeman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24090913</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:cisloTxt>1362</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Hanzlová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24091855</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:cisloTxt>1456</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Příkrý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Pěkná  22 a</are:ulice>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Kučerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24093114</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:cisloTxt>1582</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Studený</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-23" dvy="1999-11-02">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kobylnice</are:obec>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Klaška</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-11-02" dvy="2013-07-11">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24093114</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šlapanice</are:obec>
+      <are:ulice>Na zahrádkách</are:ulice>
+      <are:cisloTxt>1582</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Studený</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-11-02" dvy="2013-07-11">
+    <are:funkce>
+     <are:nazev>pověřený člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13186914</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kobylnice</are:obec>
+      <are:ulice>Na návsi</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Klaška</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2012-12-06" dvy="2013-07-11">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2012-12-06" dvy="2013-07-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19169345</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Veveří</are:castObce>
+      <are:ulice>Veveří</are:ulice>
+      <are:cisloPop>365</are:cisloPop>
+      <are:cisloOr>46</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Hodboď</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

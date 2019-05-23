@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-09-10T12:00:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-09-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-09-10</are:Datum_vypisu>
+   <are:Cas_vypisu>12:00:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>62738089</are:ICO>
+   <are:ObchodniFirma>KBS - mezinárodní autobusová a nákladní doprava s.r.o., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23545666</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>43111</are:psc>
+    <are:obec>Jirkov</are:obec>
+    <are:castObce>Jirkov</are:castObce>
+    <are:ulice>Jezerská</are:ulice>
+    <are:cisloPop>1539</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-04-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+silniční motorová doprava
+     </are:Text>
+     <are:Text>
+zprostředkování obchodní činnosti
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-04-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-04-12">
+    <are:Text>
+Jménem společnosti je oprávněn jednat jednatel. Za společnost
+se podepisuje tak, že k tištěnému nebo psanému názvu společnosti
+připojí své tištěné nebo psané jméno s uvedením funkce a vlastno-
+ruční podpis s otiskem razítka společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-04-12" dvy="2013-07-10">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23545666</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jirkov</are:obec>
+      <are:ulice>Jezerská</are:ulice>
+      <are:cisloTxt>1539</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Kácha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-04-12" dvy="2013-07-10">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2014-04-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Jirkov</are:obec>
+      <are:ulice>Gen. Svobody</are:ulice>
+      <are:cisloTxt>1724</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luboš</are:jmeno>
+     <are:prijmeni>Benák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-07-10">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23545666</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43111</are:psc>
+      <are:obec>Jirkov</are:obec>
+      <are:castObce>Jirkov</are:castObce>
+      <are:ulice>Jezerská</are:ulice>
+      <are:cisloPop>1539</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOSLAV</are:jmeno>
+     <are:prijmeni>KÁCHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-07-10" dvy="2014-07-25">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2014-04-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23547227</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43111</are:psc>
+      <are:obec>Jirkov</are:obec>
+      <are:castObce>Jirkov</are:castObce>
+      <are:ulice>Generála Svobody</are:ulice>
+      <are:cisloPop>1724</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUBOŠ</are:jmeno>
+     <are:prijmeni>BENÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2014-01-24">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2014-01-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23545666</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43111</are:psc>
+      <are:obec>Jirkov</are:obec>
+      <are:castObce>Jirkov</are:castObce>
+      <are:ulice>Jezerská</are:ulice>
+      <are:cisloPop>1539</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOSLAV</are:jmeno>
+     <are:prijmeni>KÁCHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-04-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2011-04-23">
+   </are:Clen>
+   <are:Clen dza="2013-07-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23545666</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43111</are:psc>
+      <are:obec>Jirkov</are:obec>
+      <are:castObce>Jirkov</are:castObce>
+      <are:ulice>Jezerská</are:ulice>
+      <are:cisloPop>1539</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOSLAV</are:jmeno>
+     <are:prijmeni>KÁCHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

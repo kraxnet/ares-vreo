@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T06:33:24"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>06:33:24</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>64048985</are:ICO>
+   <are:ObchodniFirma>EVATEX s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22029991</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 5</are:okres>
+    <are:obec>Praha 5</are:obec>
+    <are:ulice>Česká</are:ulice>
+    <are:cisloTxt>1135/5</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-10-03</are:DatumZapisu>
+   <are:DatumVymazu>2016-07-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Po zahájení likvidaci firmy, která přestala provozovat podnikatelskou činnost, byly učiněny veškeré kroky k následnému výmazu.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-10-03" dvy="2016-07-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-10-03" dvy="2016-07-27">
+    <are:Text>
+Jednání jménem společnosti:
+Společnost zastupují a jejím jménem jednají jednatel nebo jedna-
+telé, každý samostatně. Podepisují za společnost tak, že k napsa-
+nému nebo vytištěnému názvu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-10-03" dvy="2016-07-27">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22029991</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Česká</are:ulice>
+      <are:cisloTxt>1135/5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Taťjana</are:jmeno>
+     <are:prijmeni>Tomíčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-09-10" dvy="2016-07-27">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-09-10" dvy="2016-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22029991</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Česká</are:ulice>
+      <are:cisloTxt>1135/5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Taťjana</are:jmeno>
+     <are:prijmeni>Tomíčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-10-03" dvy="2016-07-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-10-03" dvy="2016-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>ul. Pyrijeva 26, blok 2</are:obec>
+      <are:ulice>Moskva, Rusko</are:ulice>
+     </are:adresa>
+     <are:jmeno>Serguei</are:jmeno>
+     <are:prijmeni>Annenkov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-10-03" dvy="2016-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Podkopajevský per. 9</are:obec>
+      <are:ulice>Moskva, Rusko</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Ivanov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-10-03" dvy="2016-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Birjulevská d.18, kor.2</are:obec>
+      <are:ulice>Moskva, Rusko</are:ulice>
+     </are:adresa>
+     <are:jmeno>Igor</are:jmeno>
+     <are:prijmeni>Lavrik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-10-03" dvy="2016-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22029991</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Česká</are:ulice>
+      <are:cisloTxt>1135/5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Taťjana</are:jmeno>
+     <are:prijmeni>Tomíčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-05-23" dvy="2016-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:text>ul. Pyrijeva 26, blok 2, Moskva,</are:text>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Annenkova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-05-23" dvy="2016-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:text>Podkopajevský per. 9, Moskva</are:text>
+     </are:adresa>
+     <are:jmeno>Natalia</are:jmeno>
+     <are:prijmeni>Koroleva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-05-23" dvy="2016-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:text>Birjulevská d.18, kor. 2, Moskva</are:text>
+     </are:adresa>
+     <are:jmeno>Marina</are:jmeno>
+     <are:prijmeni>Lavrik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-05-23" dvy="2016-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:text>Oktjabrskaja 23, byt 43, Magnitogorsk</are:text>
+     </are:adresa>
+     <are:jmeno>Evgueni</are:jmeno>
+     <are:prijmeni>Smirnov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-05-23" dvy="2016-07-27">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>442</are:stat>
+      <are:text>Luxembourg, 2 rue Astrid, L 1143</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>EVACOR s.a.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-08-27T19:00:36"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-08-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-08-27</are:Datum_vypisu>
+   <are:Cas_vypisu>19:00:36</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28921836</are:ICO>
+   <are:ObchodniFirma>Columbia Sportswear Czech s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>26136571</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14900</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Chodov</are:castObce>
+    <are:ulice>Türkova</are:ulice>
+    <are:cisloPop>2319</are:cisloPop>
+    <are:cisloOr>5b</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2009-06-30</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2009-06-30">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2009-06-30">
+    <are:Text>
+Každý z jednatelů je oprávněn jednat jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2009-06-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-06-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>250</are:stat>
+      <are:text>Oberhausbergen, rue des Tilleuls 5, 67205</are:text>
+     </are:adresa>
+     <are:jmeno>Catherine</are:jmeno>
+     <are:prijmeni>Roullet</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-06-30" dvy="2017-07-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-06-30</are:vznikFunkce>
+     <are:zanikFunkce>2017-05-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:text>Beaverton, SW Marseilles Dr. 8962, OR 97007</are:text>
+     </are:adresa>
+     <are:prijmeni>Thomas Burke Cusick</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-17" dvy="2018-08-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-05-05</are:vznikFunkce>
+     <are:zanikFunkce>2018-06-28</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>97201</are:psc>
+      <are:obec>Portland, Oregon</are:obec>
+      <are:ulice>2710 SW Talbot Rd</are:ulice>
+     </are:adresa>
+     <are:jmeno>PETER MICHAEL</are:jmeno>
+     <are:prijmeni>RAUCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-08-22">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2018-06-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>250</are:stat>
+      <are:psc>74000</are:psc>
+      <are:obec>Annecy</are:obec>
+      <are:ulice>15 Rue de la Préfecture</are:ulice>
+     </are:adresa>
+     <are:jmeno>MATTHIEU</are:jmeno>
+     <are:prijmeni>SCHEGG</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2009-06-30">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2014-07-14">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>442</are:stat>
+      <are:text>Munsbach, Rue Gabriel Lippmann 6c, L-5365</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>Columbia Sportswear Luxembourg Holdings S.á r.l.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-02">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:psc>1213</are:psc>
+      <are:obec>Petit-Lancy</are:obec>
+      <are:ulice>Avenue des Morgines 12</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>Columbia Brands International S.á r.l.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

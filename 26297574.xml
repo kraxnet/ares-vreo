@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T02:43:11"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>02:43:11</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26297574</are:ICO>
+   <are:ObchodniFirma>SW STAWEST s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>13659677</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>69681</are:psc>
+    <are:obec>Bzenec</are:obec>
+    <are:ulice>nám. Svobody</are:ulice>
+    <are:cisloTxt>75</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-10-12</are:DatumZapisu>
+   <are:DatumVymazu>2010-03-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+specializovaný maloobchod
+     </are:Text>
+     <are:Text>
+provádění staveb, jejich změn a odstraňování
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-10-12" dvy="2010-03-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-10-12" dvy="2010-03-31">
+    <are:Text>
+Způsob zastupování: Jednatel jedná jménem společnosti
+samostatně. Podepisování za společnost se děje tak, že k napsané
+nebo vytištěné firmě společnosti připojí svůj podpis jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-10-12" dvy="2004-12-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2002-10-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Bráník</are:castObce>
+      <are:ulice>Ve Svahu</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Šimek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-12-31" dvy="2005-05-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2002-10-12</are:vznikFunkce>
+     <are:zanikFunkce>2004-08-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>86810</are:psc>
+      <are:obec>Praha 1 - Staré Město</are:obec>
+      <are:ulice>Bílkova</are:ulice>
+      <are:cisloTxt>868/10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Šimek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-05-04" dvy="2010-03-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:text>neuveden</are:text>
+     </are:adresa>
+     <are:prijmeni>neuveden</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-09-30" dvy="2010-03-31">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="2009-09-30" dvy="2010-03-31">
+    <are:Text>
+Způsob zastupování: Za společnost jedná a podepisuje likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2009-09-30" dvy="2010-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19718080</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Bystřinova</are:ulice>
+      <are:cisloTxt>35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miluše</are:jmeno>
+     <are:prijmeni>Sedláková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2002-10-12" dvy="2010-03-31">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2004-12-31" dvy="2010-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Tannenkamp 46, 22359 Hamburg, Německo</are:text>
+     </are:adresa>
+     <are:jmeno>Manfred</are:jmeno>
+     <are:prijmeni>Tangermann</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

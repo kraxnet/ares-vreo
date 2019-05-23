@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T09:40:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>09:40:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27176886</are:ICO>
+   <are:ObchodniFirma>PAD Consult Group s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21819700</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14900</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Borošova</are:ulice>
+    <are:cisloTxt>631/1</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2004-09-21</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+inženýrská činnost v investiční výstavbě
+     </are:Text>
+     <are:Text>
+činnost podnikatelských, finančních, organizačních a ekonomických poradců
+     </are:Text>
+     <are:Text>
+zprostředkování služeb
+     </are:Text>
+     <are:Text>
+činnost technických poradců v oblasti stavebnictví a architektury
+     </are:Text>
+     <are:Text>
+realitní činnost
+     </are:Text>
+     <are:Text>
+překladatelská a tlumočnická činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-09-21">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2004-09-21" dvy="2005-07-20">
+    <are:Text>
+Statutárním orgánem společnosti je a jejím jménem samostatně jedná jediný jednatel. Jednatel se jménem společnosti podepisuje tak, že k vytištěné nebo napsané obchodní firmě připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2005-07-20">
+    <are:Text>
+Statutárním orgánem společnosti jsou a jejím jménem samostatně jednají dva jednatelé. Jednatel se jménem společnosti podepisuje tak, že k vytištěné nebo napsané obchodní firmě připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-09-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-09-21</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22663606</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Vršovická</are:ulice>
+      <are:cisloTxt>769/52</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Monika</are:jmeno>
+     <are:prijmeni>Cíglerová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-07-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-07-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>826</are:stat>
+      <are:obec>Burgess Hill</are:obec>
+      <are:ulice>Mill Road</are:ulice>
+      <are:cisloTxt>91</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Paul Antohy Davis</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2004-09-21">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2004-09-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>826</are:stat>
+      <are:text>West Sussex, Burgess Hill, Mill Road 91</are:text>
+     </are:adresa>
+     <are:prijmeni>Paul Anthony Davis</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-09-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22663606</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Vršovická</are:ulice>
+      <are:cisloTxt>769/52</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Monika</are:jmeno>
+     <are:prijmeni>Cíglerová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

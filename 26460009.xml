@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-08-06T11:18:54"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-08-02</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-08-06</are:Datum_vypisu>
+   <are:Cas_vypisu>11:18:54</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26460009</are:ICO>
+   <are:ObchodniFirma>MAGIKAN s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21904197</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Nusle</are:castObce>
+    <are:ulice>Děkanská</are:ulice>
+    <are:cisloTxt>201/10</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-06-18</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zprostředkování služeb
+     </are:Text>
+     <are:Text>
+dokončovací stavební  práce
+     </are:Text>
+     <are:Text>
+přípravné práce pro stavby
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-06-18">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-06-18">
+    <are:Text>
+Způsob jednání za  společnost: Jednatel jedná jménem společnosti
+samostatně a za společnost se podeisuje tak, že k její napsanén
+nebo vytištěné obchodní firmě připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-06-18" dvy="2017-06-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2001-06-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9726128</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51742</are:psc>
+      <are:okres>Rychnov nad Kněžnou</are:okres>
+      <are:obec>Doudleby nad Orlicí</are:obec>
+      <are:ulice>Rudé armády</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Král</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-06-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2001-06-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9726781</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51742</are:psc>
+      <are:okres>Rychnov nad Kněžnou</are:okres>
+      <are:obec>Doudleby nad Orlicí</are:obec>
+      <are:castObce>Doudleby nad Orlicí</are:castObce>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloPop>68</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>KRÁL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-07-25">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-07-25">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22103147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Smíchov</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Braunova</are:ulice>
+      <are:cisloPop>2529</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:ICO>07098367</are:ICO>
+     <are:ObchodniFirma>Alma insolvence v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-06-18">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Neresnycja</are:obec>
+      <are:castObce>Tjačevský okr.</are:castObce>
+      <are:ulice>Školská</are:ulice>
+      <are:cisloTxt>25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Ponedko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sevastopol</are:obec>
+      <are:castObce>Krymská obl.</are:castObce>
+      <are:ulice>Jumaševa</are:ulice>
+      <are:cisloTxt>15/B-1/28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Dyachkov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sevastopol</are:obec>
+      <are:castObce>Krymská obl.</are:castObce>
+      <are:ulice>Gerojev Bresta</are:ulice>
+      <are:cisloTxt>21/91</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vyacheslav</are:jmeno>
+     <are:prijmeni>Antonov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Haničí</are:obec>
+      <are:castObce>Zakiarpatská obl. Tjačevský okr.</are:castObce>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Katrych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Midjanská</are:obec>
+      <are:castObce>Zakarpatská obl. Tjačevský okr.</are:castObce>
+      <are:ulice>Vološina</are:ulice>
+      <are:cisloTxt>101</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Midyanka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Dulovo</are:obec>
+      <are:castObce>Zakarpatská obl., Tjačevský okr.</are:castObce>
+      <are:ulice>Kyjivská</are:ulice>
+      <are:cisloTxt>540</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Danch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Luck</are:obec>
+      <are:castObce>Volyňská obl.</are:castObce>
+      <are:ulice>Volodymyrská</are:ulice>
+      <are:cisloTxt>107/16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Troshchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Luck</are:obec>
+      <are:castObce>Volyňská obl.</are:castObce>
+      <are:ulice>G. Artemovského</are:ulice>
+      <are:cisloTxt>5/72</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Hayduk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Užhorod</are:obec>
+      <are:castObce>Zakarpatská obl.</are:castObce>
+      <are:ulice>Divoča</are:ulice>
+      <are:cisloTxt>35/50</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vira</are:jmeno>
+     <are:prijmeni>Karbovanets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sokyrnycja</are:obec>
+      <are:castObce>Zakarpatská obl., Chutský okr.</are:castObce>
+      <are:ulice>Družby</are:ulice>
+      <are:cisloTxt>72</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Kretinin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Svaryčiv</are:obec>
+      <are:castObce>Ivano-Frankivská obl.Rožnjativský okr.</are:castObce>
+      <are:ulice>Novoselycja</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Rybchak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čeremchiv</are:obec>
+      <are:castObce>Lvivská obl. Žydačivský okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Buchynskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Chodoriv</are:obec>
+      <are:castObce>Lvivská obl.Žydačivský okr.</are:castObce>
+      <are:ulice>Šeptyckého</are:ulice>
+      <are:cisloTxt>4/38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lyubomyr</are:jmeno>
+     <are:prijmeni>Shtykh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kryvyj Rih</are:obec>
+      <are:castObce>Dnipropetrovská obl.</are:castObce>
+      <are:ulice>Sodružestvá</are:ulice>
+      <are:cisloTxt>88/14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Buhayova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kryvyj Rih</are:obec>
+      <are:castObce>Halenko</are:castObce>
+      <are:ulice>Dnipropetrovská obl.</are:ulice>
+      <are:cisloTxt>5/16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Biriukova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kryvošyjinci</are:obec>
+      <are:castObce>Kyjivská obl.,Skvyrský okr.</are:castObce>
+      <are:ulice>Kovalivka</are:ulice>
+      <are:cisloTxt>II/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Paliychuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kosivská Poljana</are:obec>
+      <are:castObce>Zakarpatská obl., Rachivský okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Vorokhta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kosivská Poljana</are:obec>
+      <are:castObce>Zakarpatská obl, Rachivský okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Kurylyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kosivská Poljana</are:obec>
+      <are:castObce>Zakarpatská obl., Rachivský okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Hrechenyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rachiv</are:obec>
+      <are:castObce>Zakarpatská obl.,Rachivský okr.</are:castObce>
+      <are:ulice>Ševčenak</are:ulice>
+      <are:cisloTxt>162B</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Maryna</are:jmeno>
+     <are:prijmeni>Mytryuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kaluš</are:obec>
+      <are:castObce>Ivano-Frankivská obl., Kalušský okr.</are:castObce>
+      <are:ulice>O.Tychoho</are:ulice>
+      <are:cisloTxt>5/32</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Demkiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Krajnykovo</are:obec>
+      <are:castObce>Zakarpatská obl., Chutský okr.</are:castObce>
+      <are:cisloTxt>51</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Vaynahiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Krajnykovo</are:obec>
+      <are:castObce>Zakarpatská obl., Chutský okr.</are:castObce>
+      <are:cisloTxt>51</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Vayhaiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Novobarovo</are:obec>
+      <are:castObce>Zakarpatská obl., Tjačeský okr.</are:castObce>
+      <are:ulice>Rusčaka</are:ulice>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Sabadosh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kryčevo</are:obec>
+      <are:castObce>Zakarpatská obl.,Tjačevský okr.</are:castObce>
+      <are:ulice>L.Ukrajinky</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Stoyka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Uhlja</are:obec>
+      <are:castObce>Zakarpatská obl.,Tjačevský okr.</are:castObce>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>93/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vyacheslav</are:jmeno>
+     <are:prijmeni>Chaban</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Mykolajiv</are:obec>
+      <are:castObce>Mykolajivská obl.</are:castObce>
+      <are:ulice>Ščorsa</are:ulice>
+      <are:cisloTxt>40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Inna</are:jmeno>
+     <are:prijmeni>Babiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Nikopol</are:obec>
+      <are:castObce>Dnipropetrovská obl.</are:castObce>
+      <are:ulice>Haharina</are:ulice>
+      <are:cisloTxt>82/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alla</are:jmeno>
+     <are:prijmeni>Babenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Nikopol</are:obec>
+      <are:castObce>Dnipropetrovská obl.</are:castObce>
+      <are:ulice>Haharina</are:ulice>
+      <are:cisloTxt>82/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Vydrin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hnylcí</are:obec>
+      <are:castObce>Berežanský</are:castObce>
+      <are:ulice>Ternopilská</are:ulice>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Skoryk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kosivská Poljana</are:obec>
+      <are:castObce>Zakarpatská obl.,Rachivský okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Pavlo</are:jmeno>
+     <are:prijmeni>Moysenyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kosivská Poljana</are:obec>
+      <are:castObce>Zakarpatská obl.,Rachivský okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Khimchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Novobarovo</are:obec>
+      <are:castObce>Zakarpatská obl.m Tjačeský okr.</are:castObce>
+      <are:ulice>Rusčaka</are:ulice>
+      <are:cisloTxt>346</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Shvalya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Užhorod</are:obec>
+      <are:castObce>Zakarpatská obl.</are:castObce>
+      <are:ulice>Pravdy</are:ulice>
+      <are:cisloTxt>45</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Inesa</are:jmeno>
+     <are:prijmeni>Dobosh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Martynivka</are:obec>
+      <are:castObce>Zakarpatská obl., Svaljavský okr.</are:castObce>
+      <are:cisloTxt>95</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Heorhiy</are:jmeno>
+     <are:prijmeni>Krekhnyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Buštyno</are:obec>
+      <are:castObce>Zakarpatská obl.m Tjačevský okr.</are:castObce>
+      <are:ulice>Ševčenka</are:ulice>
+      <are:cisloTxt>44</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Hryts</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Buštyno</are:obec>
+      <are:castObce>Zakarpatská obl., Tjačevský okr.</are:castObce>
+      <are:ulice>Pavková</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Lunchenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lazy</are:obec>
+      <are:castObce>Zakarpatská obl.m Tjačevský okr.</are:castObce>
+      <are:ulice>Peremohy</are:ulice>
+      <are:cisloTxt>137</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Prodanets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Tjačiv</are:obec>
+      <are:castObce>Zakarpatská obl., Tjačevský okr.</are:castObce>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>54/40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Tyasko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Buštyno</are:obec>
+      <are:castObce>Zakarpatská obl. , Tjačevský okr.</are:castObce>
+      <are:ulice>Travnevá</are:ulice>
+      <are:cisloTxt>48</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vitaliy</are:jmeno>
+     <are:prijmeni>Madzhara</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Buštyno</are:obec>
+      <are:castObce>Zakarpatská obl, Tjačevský okr.</are:castObce>
+      <are:ulice>Lužna</are:ulice>
+      <are:cisloTxt>40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vyacheslav</are:jmeno>
+     <are:prijmeni>Tomyshynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Buštyno</are:obec>
+      <are:castObce>Zakarpatská obl., Tjačevský okr.</are:castObce>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Olah</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Tjačiv</are:obec>
+      <are:castObce>Zaklarpatská obl.,Tjačevský okr.</are:castObce>
+      <are:ulice>Tyčyny</are:ulice>
+      <are:cisloTxt>5/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Myroslav</are:jmeno>
+     <are:prijmeni>Hushman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Dulovo</are:obec>
+      <are:castObce>Zakarpatská obl.m Tjačevský okr.</are:castObce>
+      <are:ulice>Borkanjuka</are:ulice>
+      <are:cisloTxt>336</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Markush</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Buštyno</are:obec>
+      <are:castObce>Zakarpatská obl.,Tjačevský okr.</are:castObce>
+      <are:ulice>Lužná</are:ulice>
+      <are:cisloTxt>63</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Fera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Tjačiv</are:obec>
+      <are:castObce>Zakarpatská obl, Tjačevský okr.</are:castObce>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>28/26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Lemak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Buštyno</are:obec>
+      <are:castObce>Zakarpatská obl.m Tjačevský okr.</are:castObce>
+      <are:ulice>Horb</are:ulice>
+      <are:cisloTxt>22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavlo</are:jmeno>
+     <are:prijmeni>Reberka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Buštyno</are:obec>
+      <are:castObce>Zakarpatská obl., Tjačevský okr.</are:castObce>
+      <are:ulice>Myru</are:ulice>
+      <are:cisloTxt>99</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Olah</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Buštyno</are:obec>
+      <are:castObce>Zakarpatská obl., Tjačevský okr.</are:castObce>
+      <are:ulice>Borkanjuka</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Serhiy</are:jmeno>
+     <are:prijmeni>Kozak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

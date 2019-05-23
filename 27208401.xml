@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-15T21:56:40"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-15</are:Datum_vypisu>
+   <are:Cas_vypisu>21:56:41</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27208401</are:ICO>
+   <are:ObchodniFirma>Bytové družstvo Na kopečku 198/3 - v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>14610086</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25001</are:psc>
+    <are:obec>Brandýs nad Labem - Stará Boleslav</are:obec>
+    <are:ulice>Na kopečku</are:ulice>
+    <are:cisloTxt>198/3</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2005-01-27</are:DatumZapisu>
+   <are:DatumVymazu>2012-03-13</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zajišťování bytových potřeb členů družstva
+provoz a správa bytového domu ve vlastnictví družstva
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2005-01-27" dvy="2012-03-13">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2005-01-27" dvy="2012-03-13">
+    <are:Text>
+Jménem družstva jedná navenek samostatně předseda nebo místopředseda družstva. Je-li po právní úkon družstva předepsaná písemná forma, je třeba, aby ke jménu družstva připojil svůj podpis předseda a místopředseda družstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2005-01-27" dvy="2008-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-01-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-01-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2005-01-27</are:vznikFunkce>
+     <are:zanikFunkce>2008-01-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14610086</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brandýs nad Labem - Stará Boleslav</are:obec>
+      <are:ulice>Na kopečku</are:ulice>
+      <are:cisloTxt>198/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gabriela</are:jmeno>
+     <are:prijmeni>Čermáková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-01-27" dvy="2008-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-01-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-01-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2005-01-27</are:vznikFunkce>
+     <are:zanikFunkce>2008-01-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14610086</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brandýs nad Labem - Stará Boleslav</are:obec>
+      <are:ulice>Na kopečku</are:ulice>
+      <are:cisloTxt>198/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Hložková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-13" dvy="2012-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-01-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2008-01-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14610086</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25001</are:psc>
+      <are:obec>Brandýs nad Labem - Stará Boleslav</are:obec>
+      <are:ulice>Na kopečku</are:ulice>
+      <are:cisloTxt>198/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gabriela</are:jmeno>
+     <are:prijmeni>Čermáková</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-13" dvy="2012-03-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-01-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2008-01-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14610086</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25001</are:psc>
+      <are:obec>Brandýs nad Labem - Stará Boleslav</are:obec>
+      <are:ulice>Na kopečku</are:ulice>
+      <are:cisloTxt>198/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Hložková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2011-01-18" dvy="2012-03-13">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2011-01-18" dvy="2012-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14610086</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25001</are:psc>
+      <are:obec>Brandýs nad Labem-Stará Boleslav</are:obec>
+      <are:castObce>Brandýs nad Labem</are:castObce>
+      <are:ulice>Na Kopečku</are:ulice>
+      <are:cisloPop>198</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Hložková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

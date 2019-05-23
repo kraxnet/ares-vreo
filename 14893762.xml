@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:07:28"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:07:28</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>14893762</are:ICO>
+   <are:ObchodniFirma>SURE, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22078291</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>15000</are:psc>
+    <are:obec>Praha 5</are:obec>
+    <are:ulice>Podbělohorská</are:ulice>
+    <are:cisloTxt>12/374</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-01-09</are:DatumZapisu>
+   <are:DatumVymazu>1994-06-13</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+vývoj, výroba, nákup, prodej, instalace a montáž, pronájem,
+opravy, úpravy, servis elektrických zařízení a přístrojů
+všeho druhu, kancelářské techniky, spotřební elektroniky,
+programování návazných poradenských konzultačních, informačních
+a zprostředkovatelských služeb
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-01-09" dvy="1994-06-13">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-01-09" dvy="1992-02-26">
+    <are:Text>
+zastupování a podepisování:
+za společnost jednají a za společnost se podepisují oba společní-
+ci samostatně
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1992-02-26" dvy="1992-05-14">
+    <are:Text>
+zastupování a podepisování:
+za společnost jednají a za společnost se podepisují:
+ředitel a zástupce ředitele a to každý samostatně
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1992-05-14" dvy="1994-06-13">
+    <are:Text>
+způsob jednání jménem společnosti:
+každý z jednatelů jedná samostatně v e všech věcech a
+samostatně se za společnost podepisuje
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-01-09" dvy="1992-02-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Hálkova</are:ulice>
+      <are:cisloTxt>6/1361</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>JUDr Richard Sacher</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-02-26" dvy="1992-05-14">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21874751</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Točitá</are:ulice>
+      <are:cisloTxt>5/1726</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ing Jozef Dziak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-02-26" dvy="1992-05-14">
+    <are:funkce>
+     <are:nazev>zást.ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Hálkova</are:ulice>
+      <are:cisloTxt>6/1361</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>JUDr Richard Sacher</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-05-14" dvy="1994-06-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21874751</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Točitá</are:ulice>
+      <are:cisloTxt>1726/5</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>ing Jozef Dziak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-05-14" dvy="1994-06-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Hálkova</are:ulice>
+      <are:cisloTxt>6/1361</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>JUDr Richard Sacher</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-01-09" dvy="1994-06-13">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-02-26" dvy="1994-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21874751</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Točitá</are:ulice>
+      <are:cisloTxt>1726/5</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>ing Jozef Dziak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-02-26" dvy="1994-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Hálkova</are:ulice>
+      <are:cisloTxt>6/1361</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>JUDr Richard Sacher</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-02-26" dvy="1994-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha-Zeleneč</are:obec>
+      <are:ulice>Olbrachtova 185</are:ulice>
+     </are:adresa>
+     <are:prijmeni>ing Marek Lukáš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-02-26" dvy="1994-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2272890</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54101</are:psc>
+      <are:obec>Trutnov</are:obec>
+      <are:ulice>Kacíř</are:ulice>
+      <are:cisloTxt>445</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>ing arch Petr Sogel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-02-26" dvy="1994-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22194398</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Karasovská</are:ulice>
+      <are:cisloTxt>5/832</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>JUDr Taťána Vojtová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-05-14" dvy="1994-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2262673</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54101</are:psc>
+      <are:obec>Trutnov</are:obec>
+      <are:ulice>Papírenská</are:ulice>
+      <are:cisloTxt>594</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>JUDr Heinz Efler</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

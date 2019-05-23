@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T16:33:19"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>16:33:19</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25245007</are:ICO>
+   <are:ObchodniFirma>&quot;Družstvo Staniční 49 - družstvo&quot; v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24470180</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>31200</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:castObce>Doubravka</are:castObce>
+    <are:ulice>Staniční</are:ulice>
+    <are:cisloPop>1271</are:cisloPop>
+    <are:cisloOr>49</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-05-09</are:DatumZapisu>
+   <are:DatumVymazu>2017-02-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se družstvo &quot;Družstvo Staniční 49 - družstvo&quot; v likvidaci, se sídlem Staniční 1271/49 Doubravka, 312 00 Plzeň, identifikační číslo 252 45 007 z obchodního rejstříku včetně všech zapsaných údajů. Výmaz se provádí po skončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+provoz a správa bytového fondu, nebytových prostor a hospodaření se společným majetkem pouze pro členy družstva
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-05-09" dvy="2007-07-16">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:Clen dza="2000-05-09" dvy="2007-07-16">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:zanikFunkce>2006-06-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24470180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloTxt>1271/49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Dvořáček</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-09" dvy="2007-07-16">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:zanikFunkce>2006-06-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24470180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloTxt>1271/49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Tříska</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2000-05-09" dvy="2009-12-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2007-07-16" dvy="2009-06-01">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2006-06-16</are:vznikFunkce>
+     <are:zanikFunkce>2009-04-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24470180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloTxt>1271/49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Tříska</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-07-16" dvy="2009-06-01">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2006-06-16</are:vznikFunkce>
+     <are:zanikFunkce>2009-04-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24470180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloTxt>1271/49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Chejlava</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-06-01" dvy="2009-12-01">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2009-04-16</are:vznikFunkce>
+     <are:zanikFunkce>2009-11-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24470180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31211</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Doubravka</are:castObce>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloTxt>1271/49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Kardoš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-06-01" dvy="2009-12-01">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2009-04-16</are:vznikFunkce>
+     <are:zanikFunkce>2009-11-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24470180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31211</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Doubravka</are:castObce>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloTxt>1271/49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Chejlava</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-12-01" dvy="2017-02-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-05-09" dvy="2017-02-01">
+    <are:Text>
+Způsob jednání:
+a) zastupování - předseda a místopředseda jednají navenek jménem
+družstva
+b) podepisování - je-li pro právní úkon, který činí předseda,
+předepsaná písemná forma, je třeba též spolupodpisu
+místopředsedy družstva
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2009-12-01" dvy="2010-05-31">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2009-11-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24470180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloTxt>1271/49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Tříska</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-01" dvy="2010-05-31">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2009-11-09</are:vznikFunkce>
+     <are:zanikFunkce>2010-02-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24470180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloTxt>1271/49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Dvořáček</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-05-31" dvy="2016-08-10">
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2009-11-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24470180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloTxt>1271/49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Tříska</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-05-31" dvy="2016-08-10">
+    <are:funkce>
+     <are:nazev>místopředseda družstva</are:nazev>
+     <are:vznikFunkce>2010-04-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24397342</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31707</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Nad Úhlavou</are:ulice>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Harmáček</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-08-10" dvy="2017-02-01">
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2009-11-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24470180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Doubravka</are:castObce>
+      <are:ulice>Staniční</are:ulice>
+      <are:cisloPop>1271</are:cisloPop>
+      <are:cisloOr>49</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>TŘÍSKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-08-10" dvy="2017-02-01">
+    <are:funkce>
+     <are:nazev>místopředseda družstva</are:nazev>
+     <are:vznikFunkce>2010-04-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24397342</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Radobyčice</are:castObce>
+      <are:ulice>Nad Úhlavou</are:ulice>
+      <are:cisloPop>239</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>HARMÁČEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2011-08-15" dvy="2017-02-01">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2011-08-15" dvy="2011-12-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1086243</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33202</are:psc>
+      <are:obec>Starý Plzenec</are:obec>
+      <are:ulice>Čelakovského</are:ulice>
+      <are:cisloPop>1007</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Ledvina</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-13" dvy="2016-06-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1086243</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33202</are:psc>
+      <are:obec>Starý Plzenec</are:obec>
+      <are:ulice>Čelakovského</are:ulice>
+      <are:cisloPop>1007</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Michael</are:jmeno>
+     <are:prijmeni>Ledvina</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-06-01" dvy="2017-02-01">
+    <are:fosoba>
+     <are:jmeno>MICHAEL</are:jmeno>
+     <are:prijmeni>LEDVINA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

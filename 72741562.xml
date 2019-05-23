@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T10:45:26"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>10:45:26</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>72741562</are:ICO>
+   <are:ObchodniFirma>Mateřská škola Provodín, okr. Česká Lípa - příspěvková organizace</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>13067770</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>47167</are:psc>
+    <are:okres>Česká Lípa</are:okres>
+    <are:obec>Provodín</are:obec>
+    <are:castObce>Provodín</are:castObce>
+    <are:cisloPop>1</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-06-04</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+hostinská činnost - příprava a prodej stravy pro cizí strávníky
+(hlavní jídlo)
+     </are:Text>
+    </are:PredmetPodnikani>
+    <are:PredmetCinnosti>
+     <are:Text>
+Poskytování předškolní výchovy dětí, podle zák.č.29/84 Sb.,
+zák.č. 76/1978 Sb. a vyhlášky č.35/1992 Sb.,v platném znění a
+veškerých aktivit s výchovně vzdělávací činnosti související.
+Součástí mateřské školy je školní jídelna, jejíž hlavním účelem
+je zajišťování  stravovávní žáků a pracovníků mateřské školy,
+žáků a pracovníků ZŠ Provodín.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-06-04">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-06-04" dvy="2015-03-13">
+    <are:Text>
+Za příspěvkovou organizaci jedná ředitelka mateřské školy Provo-
+dín, paní Jaroslava Dismanova.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-03-13">
+    <are:Text>
+Za příspěvkovou organizaci jedná ředitelka mateřské školy Provodín, paní Lenka Kuklová.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-06-04" dvy="2015-03-13">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+     <are:vznikFunkce>2003-01-01</are:vznikFunkce>
+     <are:zanikFunkce>2013-01-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18860451</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29421</are:psc>
+      <are:obec>Bělá pod Bezdězem</are:obec>
+      <are:ulice>Tyršova</are:ulice>
+      <are:cisloTxt>364</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Dismanová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-03-13">
+    <are:funkce>
+     <are:nazev>ředitel Mateřské školy Provodín</are:nazev>
+     <are:vznikFunkce>2013-01-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13104225</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>47201</are:psc>
+      <are:obec>Doksy</are:obec>
+      <are:castObce>Doksy</are:castObce>
+      <are:ulice>Máchova</are:ulice>
+      <are:cisloPop>419</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>KUKLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2016-10-13">
+   <are:Nazev>Zřizovatel</are:Nazev>
+   <are:Clen dza="2016-10-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>13068547</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>47167</are:psc>
+      <are:okres>Česká Lípa</are:okres>
+      <are:obec>Provodín</are:obec>
+      <are:castObce>Provodín</are:castObce>
+      <are:cisloPop>80</are:cisloPop>
+     </are:adresa>
+     <are:ICO>00524760</are:ICO>
+     <are:ObchodniFirma>Obec Provodín</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

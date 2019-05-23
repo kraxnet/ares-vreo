@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-03T09:10:58"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-03</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-03</are:Datum_vypisu>
+   <are:Cas_vypisu>09:10:58</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48528595</are:ICO>
+   <are:ObchodniFirma>KON - BA s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 5</are:obec>
+    <are:ulice>Podbělohorská</are:ulice>
+    <are:cisloTxt>739</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-06-03</are:DatumZapisu>
+   <are:DatumVymazu>2018-11-26</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Obchodní korporace KON - BA s.r.o., Praha 5, Podbělohorská 739, identifikační číslo 485 28 595 se vymazává ke dni nabytí právní moci rozhodnutí z veřejného rejstříku. Právním důvodem je zrušení konkursu na majetek společnosti po splnění rozvrhového usnese
+ní, a to Usnesením Městského soudu v Praze ze dne 22.12.2004 č.j. 79 K 19/200-197, které nabylo právní moci dne 19.01.2005. K tomu navrhovatel uvádí, že společnost nepodává daňová přiznání k dani z příjmů právnických osob od roku 2006, ačkoliv jí to uklád
+á ust. § 38m odst. 1 zákona č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů a dále společnost založila pouze účetní závěrku za zdaňovací období 1996 do Sbírky listin do obchodního rejstříku. Společnost tak neplní povinnosti dané zákony (
+§ 21a odst. 4 zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, § 66 písm. c) zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob ).
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-06-03" dvy="2018-11-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-06-03" dvy="2018-11-26">
+    <are:Text>
+Způsob zastupování:za společnost jedná a podepisuje jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-06-03" dvy="2000-03-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13312146</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Tišnov</are:obec>
+      <are:ulice>Cáhlovská</are:ulice>
+      <are:cisloTxt>55</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Slavíček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-06-03" dvy="2018-11-26">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2012-09-22" dvy="2018-11-26">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Podbělohorská</are:ulice>
+      <are:cisloPop>739</are:cisloPop>
+     </are:adresa>
+     <are:ICO>48528595</are:ICO>
+     <are:ObchodniFirma>KON -BA s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

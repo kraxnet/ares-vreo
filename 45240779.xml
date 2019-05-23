@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T21:05:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>21:05:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45240779</are:ICO>
+   <are:ObchodniFirma>FATA MORGANA, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22038566</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 5</are:okres>
+    <are:obec>Praha 5</are:obec>
+    <are:ulice>Zbraslavská</are:ulice>
+    <are:cisloTxt>53</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-01-31</are:DatumZapisu>
+   <are:DatumVymazu>2012-10-02</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+služby a obchod v oblasti reklamy, informatiky
+     </are:Text>
+     <are:Text>
+vydavatelská činnost, expedice, zasilatelství, kurýrní služby,
+zprostředkování
+     </are:Text>
+     <are:Text>
+volný čas a kongresové služby
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-01-31" dvy="2012-10-02">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-01-31" dvy="2012-10-02">
+    <are:Text>
+Zastupování společnosti a podepisování za ní:
+l. K jednání jménem společnosti jsou oprávněni:
+-ředitel společnosti jako její statutární orgán neomezeně
+-provozní ředitel v rámci zmocnění uděleném valnou hromadou
+-prokurista v rozsahu stanoveném právními předpisy
+2.Podepisování za společnost se děje v souladu s podpisovým
+řádem společnosti tak, že k vytištěnému nebo napsanému názvu
+společnosti připojí svůj podpis ředitel nebo provozní ředitel
+nebo prokurista.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-01-31" dvy="1992-01-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>.</are:text>
+     </are:adresa>
+     <are:prijmeni>.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2004-04-13" dvy="2012-10-02">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2004-04-13" dvy="2012-10-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22588370</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Káranská</are:ulice>
+      <are:cisloTxt>278/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Sud</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-07-01" dvy="2012-10-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21707952</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Senovážné nám.</are:ulice>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Přemysl</are:jmeno>
+     <are:prijmeni>Kamenář</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-01-31" dvy="2012-10-02">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-01-31" dvy="2012-10-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:obec>Praha 4-Kamýk</are:obec>
+      <are:ulice>Písnická</are:ulice>
+      <are:cisloTxt>755</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Jablonský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-26" dvy="2012-10-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22690093</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Ašská</are:ulice>
+      <are:cisloTxt>648</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Kučera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T22:57:40"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>22:57:40</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>47124407</are:ICO>
+   <are:ObchodniFirma>MERX s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22541560</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19000</are:psc>
+    <are:obec>Praha 9</are:obec>
+    <are:ulice>Bassova</are:ulice>
+    <are:cisloTxt>32</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-09-22</are:DatumZapisu>
+   <are:DatumVymazu>1994-03-10</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+činnost organizačních a ekonomických poradců
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+uvádění prvotní emise cenných papírů na trh (příprava
+prospektu emitenta cenných papírů,nabídka cenných papírů
+potencionálním investorům,upisování )
+     </are:Text>
+     <are:Text>
+zprostředkování nákupu a prodeje cenných papírů vlastním
+jménem na cizí účet
+     </are:Text>
+     <are:Text>
+poradenská činnost,týkající se nákupu a prodeje cenných
+papírů
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-09-22" dvy="1994-03-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-09-22" dvy="1994-03-10">
+    <are:Text>
+Způsob jednání jménem společnosti: společnost zastupuje jednatel.
+  Podepisování za společnost se děje tak, že k vytištěnému nebo
+  jinak vyznačenému obchodnímu názvu společnosti připojí svůj
+  podpis jednatel společnosti, popř. zmocněná nebo jinak k tomuto
+  aktu oprávněná osoba.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-09-22" dvy="1994-03-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10900</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Kochmannova</are:ulice>
+      <are:cisloTxt>334</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimil</are:jmeno>
+     <are:prijmeni>Hloužek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-09-22" dvy="1994-03-10">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-09-22" dvy="1994-03-10">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22499032</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Českomoravská</are:ulice>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>17049644</are:ICO>
+     <are:ObchodniFirma>HZ Praha s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1992-09-22" dvy="1994-03-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Bolevova</are:ulice>
+      <are:cisloTxt>3099</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Nikl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-09-22" dvy="1994-03-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21937052</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Hausmannova</are:ulice>
+      <are:cisloTxt>3047</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Ret</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

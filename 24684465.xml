@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T12:05:27"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>12:05:27</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>24684465</are:ICO>
+   <are:ObchodniFirma>Maryna Hreblych</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>26638436</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>15500</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Stodůlky</are:castObce>
+    <are:mop>Praha 5</are:mop>
+    <are:ulice>Jeremiášova</are:ulice>
+    <are:cisloPop>1493</are:cisloPop>
+    <are:cisloOr>18a</are:cisloOr>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:stat>804</are:stat>
+    <are:text>Zakarpatská oblast, Kostylivka, Dovbuša 53</are:text>
+   </are:Bydliste>
+   <are:Pobyt>
+    <are:ruianKod>22545875</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19000</are:psc>
+    <are:obec>Praha 9</are:obec>
+    <are:ulice>Kolmá</are:ulice>
+    <are:cisloPop>673</are:cisloPop>
+    <are:cisloOr>7</are:cisloOr>
+   </are:Pobyt>
+   <are:DatumZapisu>2010-05-21</are:DatumZapisu>
+   <are:DatumVymazu>2016-04-23</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Z obchodního rejstříku se vymazává Maryna Hreblych, Jeremiášova 1493/18a, Stodůlky, 155 00 Praha 5, identifikační číslo 246 84 465, včetně všech zapsaných skutečností. Právní důvod - zánik podmínek pro zápis v obchodním rejstříku.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2010-05-21" dvy="2016-04-23">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="2010-05-21" dvy="2016-03-31">
+    <are:fosoba>
+     <are:jmeno>Maryna</are:jmeno>
+     <are:prijmeni>Hreblych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-31" dvy="2016-04-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20728743</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Drahovice</are:castObce>
+      <are:ulice>Gagarinova</are:ulice>
+      <are:cisloPop>499</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARYNA</are:jmeno>
+     <are:prijmeni>HREBLYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

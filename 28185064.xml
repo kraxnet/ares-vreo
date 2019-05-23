@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T10:14:39"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>10:14:40</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28185064</are:ICO>
+   <are:ObchodniFirma>Škola jazyků Liberec s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23691417</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>46010</are:psc>
+    <are:obec>Liberec</are:obec>
+    <are:castObce>Liberec X-Františkov</are:castObce>
+    <are:ulice>Řídkého</are:ulice>
+    <are:cisloPop>230</are:cisloPop>
+    <are:cisloOr>8</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2007-11-07</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+    <are:PredmetCinnosti>
+     <are:Text>
+Pronájem nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-11-07">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2007-11-07">
+    <are:Text>
+Jednatel je oprávněn jednat jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-11-07" dvy="2013-06-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-11-07</are:vznikFunkce>
+     <are:zanikFunkce>2013-05-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22516778</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Střížkov</are:castObce>
+      <are:ulice>Novoborská</are:ulice>
+      <are:cisloTxt>374/29</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tatiana</are:jmeno>
+     <are:prijmeni>Samarina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-06-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-05-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:psc>625000</are:psc>
+      <are:obec>Tjumeňská oblast, Tjumeň</are:obec>
+      <are:ulice>ul. Širotnaja 112</are:ulice>
+     </are:adresa>
+     <are:jmeno>ALBINA</are:jmeno>
+     <are:prijmeni>VASILEVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2007-11-07">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2007-11-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Tjumeň Širotnaja 83/165, Ruská federace</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Belanchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-06-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:psc>625000</are:psc>
+      <are:obec>Tjumeňská oblast, Tjumeň</are:obec>
+      <are:ulice>ul. Širotnaja 112</are:ulice>
+     </are:adresa>
+     <are:jmeno>ALBINA</are:jmeno>
+     <are:prijmeni>VASILEVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

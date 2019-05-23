@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-06T14:57:01"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:57:01</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28263103</are:ICO>
+   <are:ObchodniFirma>DREXAN, s.r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>25244477</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>77900</are:psc>
+    <are:obec>Olomouc</are:obec>
+    <are:ulice>Holická</are:ulice>
+    <are:cisloTxt>1173/49a</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2008-01-08</are:DatumZapisu>
+   <are:DatumVymazu>2015-04-03</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost se vymazává z obchodního rejstříku včetně všech zapsaných skutečností.
+    </are:Text>
+    <are:Text>
+Právní důvod výmazu: Společnost se vymazává z obchodního rejstříku po skončení likvidace na návrh společnosti doručený soudu dne 30.03.2015.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+specializovaný maloobchod a maloobchod se smíšeným zbožím
+     </are:Text>
+     <are:Text>
+zprostředkování obchodu a služeb
+     </are:Text>
+     <are:Text>
+velkoobchod
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-01-08" dvy="2015-04-03">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2008-01-08" dvy="2015-04-03">
+    <are:Text>
+Způsob zastupování: Jménem společnosti jedná jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2008-01-08" dvy="2008-03-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-01-08</are:vznikFunkce>
+     <are:zanikFunkce>2008-02-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10231510</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76901</are:psc>
+      <are:obec>Holešov</are:obec>
+      <are:castObce>Všetuly</are:castObce>
+      <are:ulice>Slovenská</are:ulice>
+      <are:cisloTxt>293</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Rozehnalová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-06" dvy="2012-01-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-02-06</are:vznikFunkce>
+     <are:zanikFunkce>2012-01-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76861</are:psc>
+      <are:obec>Bystřice pod Hostýnem</are:obec>
+      <are:ulice>U Hřiště</are:ulice>
+      <are:cisloTxt>1637</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Šiška</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-01-31" dvy="2015-04-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-01-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:text>Martin, Podháj, Gorkého 1084/10</are:text>
+     </are:adresa>
+     <are:jmeno>Ján</are:jmeno>
+     <are:prijmeni>Ertel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-08-14" dvy="2015-04-03">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2013-08-14" dvy="2015-04-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23324520</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Šantova</are:ulice>
+      <are:cisloPop>719</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RADIM</are:jmeno>
+     <are:prijmeni>JANOUŠEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-01-08" dvy="2015-04-03">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2012-01-31" dvy="2015-04-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:text>Martin, Podháj, Gorkého 1084/10</are:text>
+     </are:adresa>
+     <are:jmeno>Ján</are:jmeno>
+     <are:prijmeni>Ertel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

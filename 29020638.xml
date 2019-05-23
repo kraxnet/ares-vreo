@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T16:12:51"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>16:12:51</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>29020638</are:ICO>
+   <are:ObchodniFirma>ACMC s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21723397</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:obec>Praha 1</are:obec>
+    <are:castObce>Staré Město</are:castObce>
+    <are:ulice>Masná</are:ulice>
+    <are:cisloTxt>697/19</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2010-01-06</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+Činnost účetních poradců, vedení účetnictví, vedení daňové evidence
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2010-01-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2010-01-06">
+    <are:Text>
+Jednatel je oprávněn jednat jménem společnosti v celém rozsahu a samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2010-01-06" dvy="2015-08-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-01-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21723397</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:castObce>Staré Město</are:castObce>
+      <are:ulice>Masná</are:ulice>
+      <are:cisloTxt>697/19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Čihák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-08-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-01-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8644641</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26901</are:psc>
+      <are:okres>Rakovník</are:okres>
+      <are:obec>Rakovník</are:obec>
+      <are:castObce>Rakovník II</are:castObce>
+      <are:ulice>Nádražní</are:ulice>
+      <are:cisloPop>261</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>ČIHÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2010-01-06">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-08-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8644641</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26901</are:psc>
+      <are:okres>Rakovník</are:okres>
+      <are:obec>Rakovník</are:obec>
+      <are:castObce>Rakovník II</are:castObce>
+      <are:ulice>Nádražní</are:ulice>
+      <are:cisloPop>261</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>ČIHÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22077022</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Smíchov</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Radlická</are:ulice>
+      <are:cisloPop>255</are:cisloPop>
+      <are:cisloOr>24</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANNA</are:jmeno>
+     <are:prijmeni>ČIHÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

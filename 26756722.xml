@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T05:51:44"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>05:51:44</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26756722</are:ICO>
+   <are:ObchodniFirma>BURAX v.o.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22235353</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>16100</are:psc>
+    <are:okres>Praha 6</are:okres>
+    <are:obec>Praha 6</are:obec>
+    <are:ulice>Na Jivinách</are:ulice>
+    <are:cisloTxt>5/247</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-02-03</are:DatumZapisu>
+   <are:DatumVymazu>2010-05-08</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem nemovitostí bytů a nebytových prostor a poskytování
+základních služeb zajišťujících řádný provoz nemovitostí bytů a
+nebytových prostor
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-02-03" dvy="2010-05-08">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="2003-02-03" dvy="2010-05-08">
+    <are:Text>
+Způsob jednání jednatele jménem společnosti :
+Podepisování za společnost se děje tak, že k obchodnímu jménu
+společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-02-03" dvy="2004-05-24">
+    <are:funkce>
+     <are:nazev>Jednatel společnosti-společník</are:nazev>
+     <are:vznikFunkce>2003-02-03</are:vznikFunkce>
+     <are:zanikFunkce>2003-12-08</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Moldavská republika, Kejnarský okres, o.Misovka</are:text>
+     </are:adresa>
+     <are:prijmeni>Volcovscaia Liudmila</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-24" dvy="2010-05-08">
+    <are:funkce>
+     <are:vznikFunkce>2003-12-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Volutova</are:ulice>
+      <are:cisloTxt>2522</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Baznat</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2008-10-23" dvy="2010-05-08">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2008-10-23" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22185151</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jednořadá</are:ulice>
+      <are:cisloTxt>53</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lucie</are:jmeno>
+     <are:prijmeni>Horčičková</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-02-03" dvy="2010-05-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Rusko, m.Iki-Burul,Krasnyj Putilovec, ul.Internacionalnaja 30/2</are:text>
+     </are:adresa>
+     <are:prijmeni>Molozaeva Svetlana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Republika Moldova, okres Orchej, obec Seliště</are:text>
+     </are:adresa>
+     <are:prijmeni>Scripcari Larisa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Republika Moldova, okres Gloden, obec Balatina</are:text>
+     </are:adresa>
+     <are:prijmeni>Baznat Ludmila</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Republika Moldova, m. Kišenev, ul.M.Sadovjanu 4/1, b.č.56</are:text>
+     </are:adresa>
+     <are:prijmeni>Duca Ion</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Republika Moldova, okres Kišivev, obec Bačoj, ul.Independencij 50/27</are:text>
+     </are:adresa>
+     <are:prijmeni>Volacu Tatiana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Republika Moldova, m. Kišivev, ul.Renešterij 20/72</are:text>
+     </are:adresa>
+     <are:prijmeni>Stratan Iman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Republika Moldova, m.Orchej, ul.V.Lupu 177a/1</are:text>
+     </are:adresa>
+     <are:prijmeni>Gospodarenco Natalia</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina, o.Slavuta, ul. Gvardejskaja 22, Chmelnickaja obl.,</are:text>
+     </are:adresa>
+     <are:prijmeni>Ivanova Svitlana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina, Slavutský okres, o.Lomonovka, ul.Uljanových 6</are:text>
+     </are:adresa>
+     <are:prijmeni>Zhytovoz Oksana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Republika Moldova, o.Orchej</are:text>
+     </are:adresa>
+     <are:prijmeni>Stávilá Svetlana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina, o.Slavuta, ul.50Let Oktjabrja 13/15</are:text>
+     </are:adresa>
+     <are:prijmeni>Mitchenko Valentyna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Moldavská Republika, m.Kišinev, ul. Doniča 7/2</are:text>
+     </are:adresa>
+     <are:prijmeni>Curbatova Tatiana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Moldavská Republika, Kišenevskaja oblast, Kantimirovský okres, o. Batnorešty</are:text>
+     </are:adresa>
+     <are:prijmeni>Ciumacenco Natalia</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Moldavská Republika, Kišenevskaja obl., Kantimirovský okres, o. Akuj</are:text>
+     </are:adresa>
+     <are:prijmeni>Baes Mariana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,m. Kyjiv, tř. Obolonskij 23A/199</are:text>
+     </are:adresa>
+     <are:prijmeni>Boyev Oleksandr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Moldavská Republika, Ungeny, o. Četyreny</are:text>
+     </are:adresa>
+     <are:prijmeni>Calenicenco Ecaterina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Rusko, Rostovskaja obl.,m.Gukovo, ul. Pervomajskaja 96</are:text>
+     </are:adresa>
+     <are:prijmeni>Veretelnikova Nina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>okres Kejnari, o. Kernecej</are:text>
+     </are:adresa>
+     <are:jmeno>Natalia</are:jmeno>
+     <are:prijmeni>Bindiu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>m. Kišenev, ul. M. Sadovjanu 30/1</are:text>
+     </are:adresa>
+     <are:jmeno>Elena</are:jmeno>
+     <are:prijmeni>Burlaca</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Taraklijský okres, o. Novoselovka</are:text>
+     </are:adresa>
+     <are:jmeno>Natalia</are:jmeno>
+     <are:prijmeni>Chirneva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>m. Kišenev, ul. Lomonosova 39/36</are:text>
+     </are:adresa>
+     <are:jmeno>Lucia</are:jmeno>
+     <are:prijmeni>Mereniuc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-03" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>m. Kišenev, ul. Iona Krjange 62/33</are:text>
+     </are:adresa>
+     <are:jmeno>Ilie</are:jmeno>
+     <are:prijmeni>Cebotari</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-12" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>m. Kišiněv</are:obec>
+      <are:ulice>ul. Skinosy-deal</are:ulice>
+      <are:cisloTxt>71a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olesa</are:jmeno>
+     <are:prijmeni>Bondari</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-12" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>m. Belcy</are:obec>
+      <are:ulice>ul. Voročilova</are:ulice>
+      <are:cisloTxt>26/26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalia</are:jmeno>
+     <are:prijmeni>Nicoleac</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-12" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>m. Jedincy</are:obec>
+      <are:ulice>ul. Bukovenij</are:ulice>
+      <are:cisloTxt>24/53</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Banahovscaia</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-12" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:obec>Čičirk</are:obec>
+      <are:castObce>Taškentská obl.</are:castObce>
+      <are:ulice>ul. Pobedy</are:ulice>
+      <are:cisloTxt>6/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Aleksandra</are:jmeno>
+     <are:prijmeni>Syusyukina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-12" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:obec>m. Taškent</are:obec>
+      <are:ulice>ul. Čivanzir</are:ulice>
+      <are:cisloTxt>12/33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nasrgiza</are:jmeno>
+     <are:prijmeni>Begayeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-12" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:obec>Čirčik</are:obec>
+      <are:castObce>Taškentská obl.</are:castObce>
+      <are:ulice>10-ý mikrorajon</are:ulice>
+      <are:cisloTxt>16/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tatyana</are:jmeno>
+     <are:prijmeni>Nerovnya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-12" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>m. Komrat</are:obec>
+      <are:ulice>Novaja Bogdanovka</are:ulice>
+     </are:adresa>
+     <are:jmeno>Elena</are:jmeno>
+     <are:prijmeni>Cernega</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-12" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>m. Belcy</are:obec>
+      <are:ulice>ul Sv. Nikolaja</are:ulice>
+      <are:cisloTxt>62/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Onorina</are:jmeno>
+     <are:prijmeni>Birnaz</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-12" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>o. Duruitoare</are:obec>
+      <are:castObce>Ryškanský okres</are:castObce>
+     </are:adresa>
+     <are:jmeno>Veronica</are:jmeno>
+     <are:prijmeni>Tomuz</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-12" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>m. Soroki</are:obec>
+      <are:ulice>ul. Alchionia</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Veronica</are:jmeno>
+     <are:prijmeni>Anton</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-08-06" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>m.Velký Berezný, ul.Ševčenka 66/3</are:text>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Pekar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-08-06" dvy="2010-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>m.Velký, Berezný, ul.Fizkulturná 13</are:text>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Voronyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

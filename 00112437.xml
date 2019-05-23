@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:53:38"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:53:38</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00112437</are:ICO>
+   <are:ObchodniFirma>Zemědělské družstvo Kovářov</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>5581168</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>39855</are:psc>
+    <are:okres>Písek</are:okres>
+    <are:obec>Kovářov</are:obec>
+    <are:castObce>Kovářov</are:castObce>
+    <are:cisloPop>113</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1973-08-23</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1/ zemědělská výroba a prodej nezpracovaných zemědělských
+výrobků
+     </are:Text>
+     <are:Text>
+2/ výroba a opravy zemědělských strojů
+     </are:Text>
+     <are:Text>
+3/ truhlářství
+     </are:Text>
+     <are:Text>
+4/ opravy motorových vozidel
+     </are:Text>
+     <are:Text>
+5/ služby zemědělskou technikou
+     </are:Text>
+     <are:Text>
+6/ obchodní činnost - koupě zboží za účelem jeho dalšího
+prodeje a prodej
+     </are:Text>
+     <are:Text>
+7/ pronájem a nájem věcí movitých
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-05-03">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-02-22">
+    <are:Text>
+Statutárním orgánem družstva je představenstvo. Jednání a právní
+úkony za představenstvo činí předseda, v jeho nepřítomnosti
+místopředseda . K písemné formě právního úkonu představenstva
+postačí podpis předsedy, v jeho nepřítomnosti místopředsedy a
+jednoho člena představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-05-03" dvy="1994-04-22">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581362</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>133</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Hroník</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-03" dvy="1994-04-22">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5497752</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sobědraž</are:obec>
+      <are:cisloTxt>35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Dvořák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="1994-04-22">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5497388</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Přílepov</are:obec>
+      <are:cisloTxt>44</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Šácha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="1994-04-22">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zahořany</are:obec>
+      <are:cisloTxt>72</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Štemberk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="1994-04-22">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581621</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>159</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Týla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="1994-04-22">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581257</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Vlna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="1996-08-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5580153</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Hácha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="1996-08-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kostelec nad Vlt. 96</are:obec>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Slivka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="1999-05-10">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Předbořice</are:obec>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Škoch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="2001-09-26">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chrást</are:obec>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlasta</are:jmeno>
+     <are:prijmeni>Kolínová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="2001-09-26">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8562105</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Lašovice</are:obec>
+      <are:cisloTxt>40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Větrovská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="2001-09-26">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zahořany</are:obec>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Víšek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-22" dvy="2001-09-26">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5582008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Radvánov</are:obec>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Vlna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-22" dvy="1996-08-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zahořany</are:obec>
+      <are:cisloTxt>86</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Pešička</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-22" dvy="1999-05-10">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5497752</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sobědraž</are:obec>
+      <are:cisloTxt>35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Dvořák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-22" dvy="2000-08-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>l59</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Týla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-22" dvy="2004-07-27">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5582261</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Radvánov</are:obec>
+      <are:cisloTxt>29</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kortan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-22" dvy="2004-07-27">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5582831</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Vepice</are:obec>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiřina</are:jmeno>
+     <are:prijmeni>Hlavínová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-22" dvy="2004-07-27">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>l22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Vlna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-08-21" dvy="2000-08-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Předbořice 50</are:obec>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Holán</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-08-21" dvy="2004-07-27">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chrást 41</are:obec>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Doubek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-08-21" dvy="2015-05-08">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2015-03-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sobědraž 5</are:obec>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Šácha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-10" dvy="2004-07-27">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581923</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39855</are:psc>
+      <are:okres>Písek</are:okres>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>189</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Vlna</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-10" dvy="2015-10-21">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581915</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39855</are:psc>
+      <are:okres>Písek</are:okres>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>188</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Dvořák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-08-24" dvy="2001-09-26">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581826</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Písek</are:okres>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>179</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Týla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-08-24" dvy="2015-05-08">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5580358</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Písek</are:okres>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>32</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohumír</are:jmeno>
+     <are:prijmeni>Gottfríd</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-09-26" dvy="2004-07-27">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581621</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Písek</are:okres>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>159</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Týla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-09-26" dvy="2011-08-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>1991-03-22</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-03-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zahořany</are:obec>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Víšek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-09-26" dvy="2014-05-10">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2014-03-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6883320</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zahořany</are:obec>
+      <are:cisloTxt>40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Větrovská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-27" dvy="2011-08-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>1991-03-22</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-03-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581826</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Písek</are:okres>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>179</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Týla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-27" dvy="2015-05-08">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chrást</are:obec>
+      <are:cisloTxt>41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Doubek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-27" dvy="2015-10-21">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581257</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Vlna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-27" dvy="2015-10-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5583128</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Vladyčín</are:obec>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Brůžek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-27" dvy="2015-10-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581257</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kovářov</are:obec>
+      <are:cisloTxt>122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Kuchta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-27" dvy="2015-10-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5497710</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sobědraž</are:obec>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Štemberková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-05-10" dvy="2015-10-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581613</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39855</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Kovářov</are:castObce>
+      <are:cisloPop>158</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>KOTRBOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-08" dvy="2015-10-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-03-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5583861</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39901</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Chrást</are:castObce>
+      <are:cisloPop>41</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>DOUBEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-08" dvy="2015-10-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-03-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5580358</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39855</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Kovářov</are:castObce>
+      <are:cisloPop>32</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>BOHUMÍR</are:jmeno>
+     <are:prijmeni>GOTTFRÍD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-08" dvy="2015-10-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-03-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26573342</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39901</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Zahořany</are:castObce>
+      <are:cisloPop>96</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOŠ</are:jmeno>
+     <are:prijmeni>HÁCHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-21">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581915</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39855</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Kovářov</are:castObce>
+      <are:cisloPop>188</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>DVOŘÁK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-21">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581257</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39855</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Kovářov</are:castObce>
+      <are:cisloPop>122</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>VLNA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5583128</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39901</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Vladyčín</are:castObce>
+      <are:cisloPop>6</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>BRŮŽEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581257</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39855</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Kovářov</are:castObce>
+      <are:cisloPop>122</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>KUCHTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5497710</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39901</are:psc>
+      <are:obec>Kostelec nad Vltavou</are:obec>
+      <are:castObce>Sobědraž</are:castObce>
+      <are:cisloPop>30</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>ŠTEMBERKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5581613</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39855</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Kovářov</are:castObce>
+      <are:cisloPop>158</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>KOTRBOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-03-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5583861</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39901</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Chrást</are:castObce>
+      <are:cisloPop>41</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>DOUBEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-03-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5580358</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39855</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Kovářov</are:castObce>
+      <are:cisloPop>32</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>BOHUMÍR</are:jmeno>
+     <are:prijmeni>GOTTFRÍD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-03-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26573342</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39901</are:psc>
+      <are:obec>Kovářov</are:obec>
+      <are:castObce>Zahořany</are:castObce>
+      <are:cisloPop>96</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOŠ</are:jmeno>
+     <are:prijmeni>HÁCHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:48:12"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:48:13</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>16577621</are:ICO>
+   <are:ObchodniFirma>AMIWELL, spol. s r.o.  &quot; v likvidaci &quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>7795262</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>53009</are:psc>
+    <are:okres>Pardubice</are:okres>
+    <are:obec>Pardubice</are:obec>
+    <are:castObce>Polabiny</are:castObce>
+    <are:ulice>Nová</are:ulice>
+    <are:cisloTxt>čp. 306</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-08-14</are:DatumZapisu>
+   <are:DatumVymazu>2014-06-14</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výrobní a zpracovatelská činnost v oboru obalová technika
+     </are:Text>
+     <are:Text>
+výroba, montáž a opravy výrobků a zařízení spotřební elektroniky
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-08-14" dvy="2014-06-14">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-08-14" dvy="1993-12-22">
+    <are:Text>
+Zastupování a podepisování za společnost: Oba společníci,každý
+z nich v plném rozsahu samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-12-22" dvy="1998-01-21">
+    <are:Text>
+Společnost zastupuje navenek jednatel. Podepisuje se tak,že
+k obchodnímu jménu připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1998-01-21" dvy="2014-06-14">
+    <are:Text>
+Jménem společnosti navenek jedná a podepisuje likvidátor, který
+k obchodnímu jménu společnosti s doložkou &quot; v likvidaci &quot;
+připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-08-14" dvy="1993-12-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>.</are:text>
+     </are:adresa>
+     <are:prijmeni>.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-12-22" dvy="1998-01-21">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18325262</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29001</are:psc>
+      <are:okres>Nymburk</are:okres>
+      <are:obec>Poděbrady</are:obec>
+      <are:ulice>Hakenova</are:ulice>
+      <are:cisloTxt>1121</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kohout</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1998-01-21" dvy="2014-06-14">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="1998-01-21" dvy="2005-09-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:obec>Třinec VI</are:obec>
+      <are:ulice>Třinec VI</are:ulice>
+      <are:cisloTxt>296</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Kotajny</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-09-28" dvy="2005-11-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>608971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33007</are:psc>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>307</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vítězslav</are:jmeno>
+     <are:prijmeni>Blažek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-11-04" dvy="2014-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9746927</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51741</are:psc>
+      <are:obec>Kostelec nad Orlicí</are:obec>
+      <are:ulice>Jůnova</are:ulice>
+      <are:cisloTxt>1115</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Pavelka</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-08-14" dvy="2014-06-14">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1993-12-22" dvy="2014-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18325262</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29001</are:psc>
+      <are:okres>Nymburk</are:okres>
+      <are:obec>Poděbrady</are:obec>
+      <are:ulice>Hakenova</are:ulice>
+      <are:cisloTxt>1121</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kohout</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

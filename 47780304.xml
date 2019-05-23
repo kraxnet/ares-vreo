@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T23:47:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>23:47:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>47780304</are:ICO>
+   <are:ObchodniFirma>ZAHRAŽANY, společnost s ručením omezeným v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:obec>Most</are:obec>
+    <are:ulice>J.Opletala</are:ulice>
+    <are:cisloTxt>1748</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-12-04</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-12-04">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-12-04">
+    <are:Text>
+Jednatel jedná ve všech věcech společnosti samostatně.
+Podepisování za společnost se děje tak, že k napsanému nebo
+vytištěnému jménu společnosti připojí jednatel svůj podpis s
+uvedením funkce jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-12-04" dvy="1994-04-18">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Most</are:obec>
+      <are:ulice>Bělehradská</are:ulice>
+      <are:cisloTxt>404/622</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohuslav</are:jmeno>
+     <are:prijmeni>Záruba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-18" dvy="2006-02-22">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>1999-08-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22118667</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Vlachova</are:ulice>
+      <are:cisloTxt>1510</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Houška</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2008-05-13">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2008-05-13" dvy="2015-09-08">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>5092370</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:obec>Most</are:obec>
+      <are:ulice>Višňová</are:ulice>
+      <are:cisloTxt>983</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>25418831</are:ICO>
+     <are:ObchodniFirma>Dražebník v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2015-09-08">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>5092370</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:obec>Most</are:obec>
+      <are:ulice>Višňová</are:ulice>
+      <are:cisloTxt>983</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>25418831</are:ICO>
+     <are:ObchodniFirma>Dražebník v.o.s. v likvidaci</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-12-04">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-12-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24905046</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73601</are:psc>
+      <are:okres>Karviná</are:okres>
+      <are:obec>Havířov</are:obec>
+      <are:castObce>Město</are:castObce>
+      <are:ulice>A. S. Puškina</are:ulice>
+      <are:cisloPop>909</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>STACHELOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

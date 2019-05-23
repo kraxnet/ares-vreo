@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-08-21T10:51:56"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-08-21</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-08-21</are:Datum_vypisu>
+   <are:Cas_vypisu>10:51:57</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25717812</are:ICO>
+   <are:ObchodniFirma>HL Fin, s.r.o., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4902050</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>68774</are:psc>
+    <are:okres>Uherské Hradiště</are:okres>
+    <are:obec>Starý Hrozenkov</are:obec>
+    <are:cisloTxt>208</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-12-09</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+kovoobráběčství
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-12-09">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1998-12-09">
+    <are:Text>
+Jednatel je oprávněn jednat jménem společnosti samostatně a
+neomezeně.
+Jednatel za společnost podepisuje tak, že k napsanému, nebo
+vytištěnému názvu společnosti připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-12-09" dvy="2009-03-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2009-02-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Kutná Hora</are:okres>
+      <are:obec>Kutná Hora</are:obec>
+      <are:ulice>Lorecká</are:ulice>
+      <are:cisloTxt>57</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zoltán</are:jmeno>
+     <are:prijmeni>Rózsa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-03-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-02-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>95501</are:psc>
+      <are:obec>Topolčany</are:obec>
+      <are:ulice>Topolčany mesto</are:ulice>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Hanko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-08-17">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-08-17">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>19183445</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Zábrdovice</are:castObce>
+      <are:ulice>Příkop</are:ulice>
+      <are:cisloPop>843</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:ICO>66225973</are:ICO>
+     <are:ObchodniFirma>JUDr. Kateřina Pavlíková, advokát</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1998-12-09">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2009-03-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>95501</are:psc>
+      <are:obec>Topolčany</are:obec>
+      <are:ulice>Topolčany mesto</are:ulice>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Hanko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

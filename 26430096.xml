@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-28T12:24:28"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:24:28</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26430096</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu Košťálkova č.p. 1538, Beroun 2</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>5941008</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>26601</are:psc>
+    <are:okres>Beroun</are:okres>
+    <are:obec>Beroun</are:obec>
+    <are:castObce>Beroun-Město</are:castObce>
+    <are:ulice>Košťálkova</are:ulice>
+    <are:cisloPop>1538</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-01-25</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-01-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-01-25" dvy="2007-07-04">
+    <are:Text>
+Výkonným a statutárním orgánem společenství je pověřený
+vlastník.Podepisování za společenství se děje tak,že k napsanému
+nebo vytištěnému názvu společenství připojí svůj podpis pověřený
+vlastník.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2007-07-04" dvy="2015-11-03">
+    <are:Text>
+Za výbor jedná navenek jeho předseda. Je-li pro právní úkon zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-11-03">
+    <are:Text>
+Za výbor jedná navenek jeho předseda nebo místopředseda. Jde-li o písemné právní jednání, které činí výbor, dokument musí být podepsán předsedou nebo místopředsedou a dalším členem výboru. Podepisuje-li se  předseda spolu s místopředsedou, je podpis místo
+předsedy považován za podpis dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-01-25" dvy="2003-09-10">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21775338</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 3</are:okres>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Seifertova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Pražská správa nemovitostí,spol. s r.o.,IČO 17048869</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-09-10" dvy="2004-04-10">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Dvořák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-09-10" dvy="2005-08-10">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlasta</are:jmeno>
+     <are:prijmeni>Molová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-09-10" dvy="2010-03-10">
+    <are:clenstvi>
+     <are:zanikClenstvi>2009-03-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jindřiška</are:jmeno>
+     <are:prijmeni>Zítová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-04-10" dvy="2005-08-10">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Morava</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-08-10" dvy="2007-05-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-08-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-04-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Truneček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-08-10" dvy="2010-03-10">
+    <are:clenstvi>
+     <are:zanikClenstvi>2009-03-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2009-03-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Morava</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-08-10" dvy="2010-03-10">
+    <are:clenstvi>
+     <are:zanikClenstvi>2009-03-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2009-03-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Věra</are:jmeno>
+     <are:prijmeni>Skřepská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-08-10" dvy="2010-03-10">
+    <are:clenstvi>
+     <are:zanikClenstvi>2009-03-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kamil</are:jmeno>
+     <are:prijmeni>Vladyka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-10" dvy="2013-09-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-03-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-03-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libor</are:jmeno>
+     <are:prijmeni>Bravený</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-10" dvy="2015-11-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-03-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-03-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2009-03-25</are:vznikFunkce>
+     <are:zanikFunkce>2014-03-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeňka</are:jmeno>
+     <are:prijmeni>Moravová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-10" dvy="2015-11-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-03-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-03-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2009-03-25</are:vznikFunkce>
+     <are:zanikFunkce>2014-03-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloTxt>1538</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Věra</are:jmeno>
+     <are:prijmeni>Skřepská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-13" dvy="2015-11-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-03-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2015-10-12</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:castObce>Beroun-Město</are:castObce>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloPop>1538</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>HIPČOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2015-10-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:castObce>Beroun-Město</are:castObce>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloPop>1538</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILAN</are:jmeno>
+     <are:prijmeni>SKŘEPSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:castObce>Beroun-Město</are:castObce>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloPop>1538</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>HIPČOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03" dvy="2018-10-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-12</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-10-06</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-10-12</are:vznikFunkce>
+     <are:zanikFunkce>2018-10-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:obec>Beroun</are:obec>
+      <are:castObce>Beroun-Město</are:castObce>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloPop>1538</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>MORAVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-11-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:okres>Beroun</are:okres>
+      <are:obec>Beroun</are:obec>
+      <are:castObce>Beroun-Město</are:castObce>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloPop>1538</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDĚNKA</are:jmeno>
+     <are:prijmeni>MORAVOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-23" dvy="2019-01-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-11-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předsešda výboru</are:nazev>
+     <are:vznikFunkce>2018-11-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5941008</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:okres>Beroun</are:okres>
+      <are:obec>Beroun</are:obec>
+      <are:castObce>Beroun-Město</are:castObce>
+      <are:ulice>Košťálkova</are:ulice>
+      <are:cisloPop>1538</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDĚNKA</are:jmeno>
+     <are:prijmeni>MORAVOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:24:28</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26430096</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu Košťálkova č.p. 1538, Beroun 2</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>26601</are:psc>
+    <are:obec>Beroun 2</are:obec>
+    <are:ulice>Košťálkova</are:ulice>
+    <are:cisloTxt>č.p.1538</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-01-25</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-01-25" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-01-25" dvy="2001-12-31">
+    <are:Text>
+Výkonným a statutárním orgánem společenství je pověřený
+vlastník.Podepisování za společenství se děje tak,že k napsanému
+nebo vytištěnému názvu společenství připojí svůj podpis pověřený
+vlastník.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-01-25" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21775338</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 3</are:okres>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Seifertova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Pražská správa nemovitostí,spol. s r.o.,IČO 17048869</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

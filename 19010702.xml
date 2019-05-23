@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T07:39:55"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>07:39:55</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>19010702</are:ICO>
+   <are:ObchodniFirma>&quot;PEKÁRNY GBM, společnost s ručením omezeným&quot;, zkratka    PEKÁRNY GBM, spol. s r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Ostrava - Hrabůvka</are:obec>
+    <are:ulice>ul. Plzeňská 13</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-05-03</are:DatumZapisu>
+   <are:DatumVymazu>2005-07-20</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba a prodej v oboru pekárenství a cukrárenství.
+     </are:Text>
+     <are:Text>
+Výroba technologického zařízení, součástí a doplňků pro obor
+ pekárenství, cukrárenství a potravinářský průmysl vůbec.
+     </are:Text>
+     <are:Text>
+Dovoz a vývoz, nákup a prodej zboží všeho druhu v souladu
+ s přísl. předpisy v dovozu a vývozu zboží.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-05-03" dvy="2005-07-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-05-03" dvy="2005-07-20">
+    <are:Text>
+Zastupování společnosti: Právo zastupovat společnost Pekárny
+GBM spol. s r.o. navenek a podpisové právo má každý z členů
+Správní rady společnosti, kterými pro právní funkční období jsou:
+Gerald Tokár, MUDr. Milan Urbanský.
+K právním úkonům, které podmiňují vznik, zánik nebo změnu běž-
+ných závazků společnosti, jež souvisí s předmětem činnosti, je
+oprávněn kterýkoliv z členů rady. Jde-li o závazek přesahující
+svým rozsahem částku 500 000.-  Kčs, je třeba souhlasu obou čle-
+nů Správní rady, přesahuje-li vyčíslitelná hodnota částku jeden-
+milión korun, je k platnosti úkonu nutný souhlas (aspoň potvrzený
+faxem) všech členů společnosti. Souhlasu všech společníků je též
+třeba při převodech nemovitostí (společnosti nebo pro společnost)
+a také tenkrát, jestliže se uvažovaný závazek netýká předmětu
+činnosti společnosti a jde o závazek nikoliv běžný.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-05-03" dvy="2005-07-20">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Košice</are:obec>
+      <are:ulice>Kuzmányho</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gerald</are:jmeno>
+     <are:prijmeni>Tokár</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-05-03" dvy="2005-07-20">
+    <are:funkce>
+     <are:nazev>Splečník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Košice</are:obec>
+      <are:ulice>Vihorlatská</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Urbanský</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1998-10-23" dvy="2005-07-20">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="1998-10-23" dvy="2004-06-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Výškovice</are:obec>
+      <are:ulice>Charvátská</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Klus</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-06-23" dvy="2005-07-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava 1</are:obec>
+      <are:ulice>28. října</are:ulice>
+      <are:cisloTxt>150</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Macháč</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-05-03" dvy="2005-07-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-05-03" dvy="2005-07-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Calgary, Alberta - Kanada</are:obec>
+      <are:ulice>Avenue, S.W. 1520-720-13</are:ulice>
+     </are:adresa>
+     <are:jmeno>Bohdan</are:jmeno>
+     <are:prijmeni>Lasák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-05-03" dvy="2005-07-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Košice</are:obec>
+      <are:ulice>Vihorlatská</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Urbanský</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-05-03" dvy="2005-07-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Košice</are:obec>
+      <are:ulice>Kuzmányho</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gerald</are:jmeno>
+     <are:prijmeni>Tokár</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T06:27:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>06:27:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27892352</are:ICO>
+   <are:ObchodniFirma>Jello s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22664041</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>10100</are:psc>
+    <are:obec>Praha 10</are:obec>
+    <are:castObce>Vršovice</are:castObce>
+    <are:ulice>Ruská</are:ulice>
+    <are:cisloTxt>804/58</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2007-05-23</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+maloobchod provozovaný mimo řádné provozovny
+     </are:Text>
+     <are:Text>
+činnost podnikatelských, finančních, organizačních a ekonomických poradců
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-05-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2007-05-23" dvy="2013-09-16">
+    <are:Text>
+Jménem společnosti jedná každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2013-09-16">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-05-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-05-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22664041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Vršovice</are:castObce>
+      <are:ulice>Ruská</are:ulice>
+      <are:cisloTxt>804/58</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Jiřík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-05-23" dvy="2013-09-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-05-23</are:vznikFunkce>
+     <are:zanikFunkce>2013-09-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22664041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Vršovice</are:castObce>
+      <are:ulice>Ruská</are:ulice>
+      <are:cisloTxt>804/58</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavlína</are:jmeno>
+     <are:prijmeni>Jiříková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-10" dvy="2013-09-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-02-22</are:vznikFunkce>
+     <are:zanikFunkce>2013-09-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41501</are:psc>
+      <are:obec>Teplice</are:obec>
+      <are:ulice>Heydukova</are:ulice>
+      <are:cisloTxt>1648/48</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radka</are:jmeno>
+     <are:prijmeni>Chalupová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-10" dvy="2013-09-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-02-22</are:vznikFunkce>
+     <are:zanikFunkce>2013-09-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41501</are:psc>
+      <are:obec>Teplice</are:obec>
+      <are:ulice>Heydukova</are:ulice>
+      <are:cisloTxt>1648/48</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Daniel</are:jmeno>
+     <are:prijmeni>Chalupa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2007-05-23">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-09-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22664041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Vršovice</are:castObce>
+      <are:ulice>Ruská</are:ulice>
+      <are:cisloTxt>804/58</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Jiřík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

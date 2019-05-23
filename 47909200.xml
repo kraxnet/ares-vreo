@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T23:56:07"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>23:56:07</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>47909200</are:ICO>
+   <are:ObchodniFirma>SAAP, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>13220021</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>66448</are:psc>
+    <are:okres>Brno-venkov</are:okres>
+    <are:obec>Nebovidy</are:obec>
+    <are:castObce>Nebovidy</are:castObce>
+    <are:cisloEv>350</are:cisloEv>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-04-14</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+hostinská činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-04-14">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-04-14" dvy="1997-08-04">
+    <are:Text>
+Způsob zastupování: za společnost jedná a podepisuje jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1997-08-04" dvy="2012-03-30">
+    <are:Text>
+Způsob zastupování: za společnost v likvidaci jedná a podepisuje
+likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2012-03-30">
+    <are:Text>
+Způsob zastupování: Jednatelé jsou oprávněni jednat za společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-04-14" dvy="2007-04-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>1997-05-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24833215</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Okružní</are:ulice>
+      <are:cisloTxt>59</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Šádek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-14" dvy="2012-03-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2012-03-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24847429</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>A. Slavíčka</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Krčmář</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-03-30" dvy="2016-11-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13220021</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66448</are:psc>
+      <are:obec>Nebovidy</are:obec>
+      <are:cisloEv>350</are:cisloEv>
+     </are:adresa>
+     <are:jmeno>David</are:jmeno>
+     <are:prijmeni>Krčmář</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-29" dvy="2016-11-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-04-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19122039</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63900</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Štýřice</are:castObce>
+      <are:ulice>Dvorského</are:ulice>
+      <are:cisloPop>38</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Petra</are:jmeno>
+     <are:prijmeni>Hovorková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13220021</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66448</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Nebovidy</are:obec>
+      <are:castObce>Nebovidy</are:castObce>
+      <are:cisloEv>350</are:cisloEv>
+     </are:adresa>
+     <are:jmeno>DAVID</are:jmeno>
+     <are:prijmeni>KRČMÁŘ</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-04-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11191708</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75125</are:psc>
+      <are:okres>Přerov</are:okres>
+      <are:obec>Veselíčko</are:obec>
+      <are:castObce>Veselíčko</are:castObce>
+      <are:cisloPop>60</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETRA</are:jmeno>
+     <are:prijmeni>ZEMÁNKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1997-08-04">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="2007-11-07">
+    <are:Text>
+Způsob zastupování: Jménem společnosti jedná a podepisuje likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1997-08-04" dvy="2005-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>79804</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Určice</are:obec>
+      <are:ulice>Seloutky</are:ulice>
+      <are:cisloTxt>106</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Spurný</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-29" dvy="2007-11-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>neuveden</are:text>
+     </are:adresa>
+     <are:prijmeni>neuveden</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-11-07" dvy="2016-11-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24847429</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Antonína Slavíčka</are:ulice>
+      <are:cisloTxt>3946/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Krčmář</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24847429</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79604</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:castObce>Prostějov</are:castObce>
+      <are:ulice>Antonína Slavíčka</are:ulice>
+      <are:cisloPop>3946</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>KRČMÁŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-04-14">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-11-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13220021</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66448</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Nebovidy</are:obec>
+      <are:castObce>Nebovidy</are:castObce>
+      <are:cisloEv>350</are:cisloEv>
+     </are:adresa>
+     <are:jmeno>DAVID</are:jmeno>
+     <are:prijmeni>KRČMÁŘ</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11191708</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75125</are:psc>
+      <are:okres>Přerov</are:okres>
+      <are:obec>Veselíčko</are:obec>
+      <are:castObce>Veselíčko</are:castObce>
+      <are:cisloPop>60</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETRA</are:jmeno>
+     <are:prijmeni>ZEMÁNKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

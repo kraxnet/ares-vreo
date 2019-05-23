@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:00:18"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:00:18</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>14799995</are:ICO>
+   <are:ObchodniFirma>ISTA, spol. s r.o., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>14512441</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25090</are:psc>
+    <are:okres>Praha-východ</are:okres>
+    <are:obec>Jirny</are:obec>
+    <are:castObce>Nové Jirny</are:castObce>
+    <are:ulice>U Lesa</are:ulice>
+    <are:cisloPop>156</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-02-01</are:DatumZapisu>
+   <are:DatumVymazu>2016-07-08</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost byla na základě rozhodnutí jediného společníka v působnosti valné hromady zrušena s likvidací s datem vstupu do likvidace
+ke dni 1.5.2015.
+1.Obchodní věstník-zveřejnění15.5.2015 pod značkou OV467124/150515
+2.Obchodní věstník-zveřejnění 29.5.2015 pod značkou OV467124/150529
+3.OSSZ- značka 42009/220-8009-25.5.2015/HC/R46/15
+4.VZPČR-spisová značka:S-KV-VZP-15-01562054-A9CG Ag.číslo:KV6-2619-2015 Číslo jednací:VZP-15-01562054-A9CG
+5.FÚ-ČJ.4282226/15/2101-40511-208829  souhlas s výmazem z Obchodního rejstříku
+6.ŽÚ-Čj.720802/2015-70/Mar zrušení živnostenského oprávnění
+7.Čestné prohlášení o neexistenci soudních sporů
+8.Archivace firemních písemností
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-02-01" dvy="2016-07-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-02-01" dvy="1994-11-23">
+    <are:Text>
+Za společnost jednají a za společnost podepisují oba společ-
+níci
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1994-11-23" dvy="2016-07-08">
+    <are:Text>
+Za společnost může jednat jednatel společnosti samostatně
+ve všech věcech.Podepisování za společnost se provádí tak,že
+k vytištěnému názvu společnosti připojí svůj vlastnoruční
+podpis jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-02-01" dvy="1994-11-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6362745</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25230</are:psc>
+      <are:obec>Řevnice</are:obec>
+      <are:ulice>dr. Pecla</are:ulice>
+      <are:cisloTxt>966</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ing. antonín Pazourek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-02-01" dvy="2016-07-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>25290</are:psc>
+      <are:obec>Nové Jirny</are:obec>
+      <are:cisloTxt>156</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Štefan</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-05-04" dvy="2016-07-08">
+   <are:Nazev>Likvidátoři</are:Nazev>
+   <are:Clen dza="2015-05-04" dvy="2016-07-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14512441</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25090</are:psc>
+      <are:obec>Jirny</are:obec>
+      <are:castObce>Nové Jirny</are:castObce>
+      <are:ulice>U Lesa</are:ulice>
+      <are:cisloPop>156</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KVĚTOSLAVA</are:jmeno>
+     <are:prijmeni>ŠTEFANOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-02-01" dvy="2016-07-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1994-11-23" dvy="2016-07-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14512441</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Nové Jirny</are:obec>
+      <are:ulice>U lesa</are:ulice>
+      <are:cisloTxt>156</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Štefan</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T01:23:04"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>01:23:04</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26165198</are:ICO>
+   <are:ObchodniFirma>XAM s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22690735</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 1O</are:obec>
+    <are:ulice>Kurčatovova</are:ulice>
+    <are:cisloTxt>322/73</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-03-20</are:DatumZapisu>
+   <are:DatumVymazu>2015-09-02</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost XAM s.r.o. v likvidaci, se sídlem Praha 10, Kurčatovova 322/10, identifikační číslo 261 65 198, se vymazává z obchodního rejstříku. Právním důvodem výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-03-20" dvy="2015-09-02">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-03-20" dvy="2015-09-02">
+    <are:Text>
+Společnost zastupuje jednatel, který jedná jménem společnosti, a
+to samostatně. Podepisování za společnost se děje tak, že k
+vytištěnému nebo nadepsanému názvu společnosti připojí svůj
+podpis jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-03-20" dvy="2005-06-28">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2005-06-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 10</are:okres>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Kurčatovova</are:ulice>
+      <are:cisloTxt>322/73</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Nguyen Quoc Khanh, nar. 25.9.1943</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-28" dvy="2015-09-02">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-06-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23469676</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>Máchova</are:ulice>
+      <are:cisloTxt>17</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Nguyen Thi The</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2010-06-22" dvy="2015-09-02">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2010-06-22" dvy="2015-08-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22652132</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:ulice>Bratří Čapků</are:ulice>
+      <are:cisloPop>1851</are:cisloPop>
+      <are:cisloOr>24</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Zinglová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-08-28" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22416749</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19012</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dolní Počernice</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Strážkovická</are:ulice>
+      <are:cisloPop>329</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ANNA</are:jmeno>
+     <are:prijmeni>ZINGLOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-03-20" dvy="2015-09-02">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22482580</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Zvíkovská</are:ulice>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Nguyen Ngoc Dung, nar. 5.8.1966</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>704</are:stat>
+      <are:text>Ha Noi</are:text>
+     </are:adresa>
+     <are:prijmeni>Nguyen Thi Kim Thoa, nar. 30.10.1970</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22046691</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>U Jankovky</are:ulice>
+      <are:cisloTxt>2/190</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Chu Manh Thang, nar. 7.11.1973</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>704</are:stat>
+      <are:text>Ha Noi</are:text>
+     </are:adresa>
+     <are:prijmeni>Dang Xuan Thang, nar. 2.2.1973</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Třinecká</are:ulice>
+      <are:cisloTxt>416</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Nguyen Minh Nam, nar. 23.6.1969</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Třinecká</are:ulice>
+      <are:cisloTxt>416</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Vu Minh Toan, nar. 8.6.1975</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21163898</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kolín II</are:obec>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloTxt>820</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Pham Phu Thinh, nar. 3.10.1971</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>704</are:stat>
+      <are:text>Nghe An</are:text>
+     </are:adresa>
+     <are:prijmeni>Le Nhat Phong, nar. 8.9.1973</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Praha-východ</are:obec>
+      <are:ulice>Škroupova</are:ulice>
+      <are:cisloTxt>132</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Vu Quang Hiep, nar. 8.9.1975</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Třinecká</are:ulice>
+      <are:cisloTxt>416</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Le Thanh Hung, nar. 10.9.1971</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Třinecká</are:ulice>
+      <are:cisloTxt>416</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ta Duc Minh, nar. 5.1.1964</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>St.Boleslav</are:obec>
+      <are:ulice>Komenského</are:ulice>
+      <are:cisloTxt>45/20</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Pham Quang Huy, nar. 23.2.1974</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12054593</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Klatovy</are:okres>
+      <are:obec>Železná Ruda</are:obec>
+      <are:ulice>Javorská</are:ulice>
+      <are:cisloTxt>122</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Phan Thi Thuy Hang, nar. 3.7.1980</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12054593</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Klatovy</are:okres>
+      <are:obec>Železná Ruda</are:obec>
+      <are:ulice>Javorská</are:ulice>
+      <are:cisloTxt>122</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ho Viet Tam, nar. 1.10.1965</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12054593</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Klatovy</are:okres>
+      <are:obec>Železná Ruda</are:obec>
+      <are:ulice>Javorská</are:ulice>
+      <are:cisloTxt>122</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Nguyen Van Dan, nar. 7.11.1951</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>704</are:stat>
+      <are:text>Ha Noi</are:text>
+     </are:adresa>
+     <are:prijmeni>Nguyen Thien Luong, nar. 31.3.1962</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-20" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>704</are:stat>
+      <are:text>Ga Son Binh</are:text>
+     </are:adresa>
+     <are:prijmeni>Pham Thi Bich Ngoc, nar. 9.2.1957</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-28" dvy="2015-09-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23469676</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>Máchova</are:ulice>
+      <are:cisloTxt>17</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Nguyen Thi The</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

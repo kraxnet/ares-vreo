@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T05:02:44"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>05:02:44</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>62418564</are:ICO>
+   <are:ObchodniFirma>CCCZ,spol.s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21809666</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14200</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Braník</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Údolní</are:ulice>
+    <are:cisloPop>1273</are:cisloPop>
+    <are:cisloOr>98</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1994-10-18</are:DatumZapisu>
+   <are:DatumVymazu>2016-05-05</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Obchodní společnost CCCZ,spol.s r.o. v likvidaci, se sídlem Údolní 1273/98, Braník, 142 00 Praha 4, identifikační číslo: 624 18 564, se ke dni právní moci tohoto rozhodnutí vymazává z obchodního rejstříku. Právní důvod výmazu je ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+reklamní činnost
+-zprostředkovatelská činnost v oblasti obchodu
+-koupě zboží za účelem jeho dalšího prodeje a prodej
+v rozsahu živnosti volné
+-poradenské služby v oblasti obchodu
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1994-10-18" dvy="2016-05-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1994-10-18" dvy="2016-05-05">
+    <are:Text>
+Za společnost jedná a podepisuje samostatně jednatel.Podepiso-
+vání za společnost se děje tak, že k vytištěnému nebo napsanému
+obchodnímu jménu společnosti připojí svůj podpis jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1994-10-18" dvy="2015-05-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21809666</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Údolní</are:ulice>
+      <are:cisloTxt>1273</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bernhard</are:jmeno>
+     <are:prijmeni>Gabl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-04" dvy="2016-05-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21809666</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Údolní</are:ulice>
+      <are:cisloTxt>1273</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>BERNHARD</are:jmeno>
+     <are:prijmeni>GABL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-05-06" dvy="2016-05-05">
+   <are:Nazev>Likvidátoři</are:Nazev>
+   <are:Clen dza="2015-05-06" dvy="2016-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2568357</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29474</are:psc>
+      <are:obec>Skorkov</are:obec>
+      <are:castObce>Otradovice</are:castObce>
+      <are:cisloPop>37</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RADOMÍR</are:jmeno>
+     <are:prijmeni>VÁLEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-10-18" dvy="2016-05-05">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1994-10-18" dvy="2016-05-05">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Nikozia,Kypr</are:obec>
+      <are:ulice>Sofouli str.kanc.302</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>C.C.I.Connection (Overseas) LTD</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:28:41"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:28:41</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>15531660</are:ICO>
+   <are:ObchodniFirma>&quot; STAVOS &quot; Boskovice</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Boskovice</are:obec>
+    <are:ulice>ul. Chrudichromská</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-03-04</are:DatumZapisu>
+   <are:DatumVymazu>1994-01-20</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+inženýrská činnost a poradenství
+dadávky stavebních prací do zahraničí vyjma zák. č. 113/1990 Sb.
+§7 odst. 3. písm. b), c).
+prodej stavebního a hutního materiálu a materiálu pro práce
+mechanizačními prostředky pro právnické a fyzické osoby
+půjčování stavebních mechanismů, lešení a DKP právnickým a
+fyzickým osobám
+opravárenská činnost osobních a nákladních vozidel
+zajištění výuky střediska praktického vyučování stavebních a
+montážních oborů
+     </are:Text>
+     <are:Text>
+poskytovat na území ČSFR právnickým a fyzickým osobám služby a
+dodávky v rozsahu základního předmětu činnosti
+     </are:Text>
+     <are:Text>
+plnit úkoly v souladu s potřebami ochrany a obrany státu
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-03-04" dvy="1994-01-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-03-04" dvy="1994-01-20">
+    <are:Text>
+Podepisování: K názvu státního podniku připojí svůj podpis
+ředitel nebo jeho zástupce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-03-04" dvy="1994-01-20">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15278077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Boskovice</are:obec>
+      <are:ulice>Ludvíka Vojtěcha</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Přibyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-04" dvy="1994-01-20">
+    <are:funkce>
+     <are:nazev>zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Boskovice</are:obec>
+      <are:ulice>nám. T.G. Masaryka</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohumil</are:jmeno>
+     <are:prijmeni>Chrástka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-03-04" dvy="1994-01-20">
+   <are:Nazev>Zakladatel</are:Nazev>
+   <are:Clen dza="1991-03-04" dvy="1994-01-20">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Boskovice</are:obec>
+     </are:adresa>
+     <are:ObchodniFirma>Městský úřad v Boskovicích</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

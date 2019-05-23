@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T05:10:05"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>05:10:05</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>62577310</are:ICO>
+   <are:ObchodniFirma>SINTOR, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21741271</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 2</are:okres>
+    <are:obec>Praha 2</are:obec>
+    <are:ulice>Americká</are:ulice>
+    <are:cisloTxt>41</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1994-11-02</are:DatumZapisu>
+   <are:DatumVymazu>2005-10-25</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+realitní kancelář
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v oblasti obchodu a služeb
+     </are:Text>
+     <are:Text>
+poradenská činnost v oblasti nákupu a prodeje zboží
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1994-11-02" dvy="2005-10-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1994-11-02" dvy="1995-01-30">
+    <are:Text>
+Za společnost jedná jednatel.
+Podepisování za společnost je děje tak, že k napsanému nebo
+vytištěnému jménu společnosti připojí svůj vlastnoruční podpis
+a označení jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-01-30" dvy="2005-10-25">
+    <are:Text>
+Za společnost jednají jednatelé. Každý z nich je oprávněn
+jednat samostatně. Za společnost se podepisování děje tak,
+že k napsanému nebo vytištěnému jménu společnosti připojí
+svůj vlastnoruční podpis a označení jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1994-11-02" dvy="1995-01-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22149511</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>U druhé baterie</are:ulice>
+      <are:cisloTxt>57</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roberto</are:jmeno>
+     <are:prijmeni>Roccatti</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-30" dvy="1998-07-02">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22132503</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Vilímkova</are:ulice>
+      <are:cisloTxt>222</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Šustera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-30" dvy="1998-07-02">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Roztoky u Prahy</are:obec>
+      <are:ulice>Pod Řivňáčem 1455</are:ulice>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Lorenc</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-07-02" dvy="2005-10-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21323763</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25092</are:psc>
+      <are:obec>Šestajovice</are:obec>
+      <are:ulice>Husova</are:ulice>
+      <are:cisloTxt>102</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Pernicová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2004-06-10" dvy="2005-10-25">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2004-06-10" dvy="2005-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>U 1. baterie</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Doubrava</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-11-02" dvy="2005-10-25">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-01-30" dvy="2005-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Baldissero Torinese</are:obec>
+      <are:ulice>Strada Bellavista 26</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Gian Carlo Balbo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-30" dvy="2005-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pinerollo</are:obec>
+      <are:ulice>Via Carlo Alberto 42</are:ulice>
+     </are:adresa>
+     <are:jmeno>Sergio</are:jmeno>
+     <are:prijmeni>Campra</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-30" dvy="2005-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Torino</are:obec>
+      <are:ulice>C.so Francia 98</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Pier Luigi Rossi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-30" dvy="2005-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chieri</are:obec>
+      <are:ulice>Piazza Gerbido 3</are:ulice>
+     </are:adresa>
+     <are:jmeno>Franco</are:jmeno>
+     <are:prijmeni>Cucchiarati</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-30" dvy="2005-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Torino</are:obec>
+      <are:ulice>Via S. Marino 11</are:ulice>
+     </are:adresa>
+     <are:jmeno>Pierangelo</are:jmeno>
+     <are:prijmeni>Roccatti</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-30" dvy="2005-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Torino</are:obec>
+      <are:ulice>C. so Rosselli 732</are:ulice>
+     </are:adresa>
+     <are:jmeno>Giorgio</are:jmeno>
+     <are:prijmeni>Roccatti</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

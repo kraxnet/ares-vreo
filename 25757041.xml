@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T21:14:31"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>21:14:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25757041</are:ICO>
+   <are:ObchodniFirma>SHERLOCK BOHEMIA, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 4 - Modřany</are:obec>
+    <are:ulice>Churnajevova</are:ulice>
+    <are:cisloTxt>12</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-04-23</are:DatumZapisu>
+   <are:DatumVymazu>2010-09-01</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej s výjimkou
+zboží uvedeného v příloze zák.č. 455/9l Sb. o živnostenském
+podnikání ve znění p.p.
+     </are:Text>
+     <are:Text>
+zámečnictví
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v oblasti obchodu a služeb včetně
+poradenství
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-04-23" dvy="2010-09-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-04-23" dvy="2001-03-26">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2001-03-26" dvy="2010-09-01">
+    <are:Text>
+Každý z jednatelů jedná za společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-04-23" dvy="2007-10-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2007-09-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4 - Modřany</are:obec>
+      <are:ulice>Churnajevova</are:ulice>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Fedík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-03-26" dvy="2003-10-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73601</are:psc>
+      <are:obec>Havířov -  Podlesí</are:obec>
+      <are:ulice>Točitá</are:ulice>
+      <are:cisloTxt>1177/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lukáš</are:jmeno>
+     <are:prijmeni>Trávníček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-10-31" dvy="2010-09-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-07-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25011758</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Pivcova</are:ulice>
+      <are:cisloTxt>945/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Biskup</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-10-01" dvy="2007-10-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-09-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>85107</are:psc>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Ĺubovnianska</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Koporec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-10-01" dvy="2008-11-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-09-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>85107</are:psc>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Ĺubovnianska</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Peter</are:jmeno>
+     <are:prijmeni>Koporec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-11-04" dvy="2010-09-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-09-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>82109</are:psc>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Mliekárenská</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Peter</are:jmeno>
+     <are:prijmeni>Koporec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-04-23" dvy="2010-09-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2003-01-08" dvy="2010-09-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>85107</are:psc>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Ĺubovnianska</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>SHERLOCK, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

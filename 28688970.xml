@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-10T09:48:34"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-10</are:Datum_vypisu>
+   <are:Cas_vypisu>09:48:34</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>28688970</are:ICO>
+   <are:ObchodniFirma>Společenstí vlastníků Polní 749</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>27608051</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>46001</are:psc>
+    <are:okres>Liberec</are:okres>
+    <are:obec>Liberec</are:obec>
+    <are:castObce>Liberec XII-Staré Pavlovice</are:castObce>
+    <are:ulice>Polní</are:ulice>
+    <are:cisloPop>749</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumVzniku>2008-09-22</are:DatumVzniku>
+   <are:DatumZapisu>2009-01-26</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2009-01-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2009-01-26" dvy="2018-12-06">
+    <are:Text>
+Způsob jednání a podepisování:
+Za společenství jedná navenek pověřený vlastník ve všech věcech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2018-12-06">
+    <are:Text>
+Za společenství jedná navenek předseda společenství vlastníků ve všech věcech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2009-01-26" dvy="2013-10-12">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+     <are:vznikFunkce>2009-01-08</are:vznikFunkce>
+     <are:zanikFunkce>2013-05-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:obec>Liberec XII</are:obec>
+      <are:castObce>Staré Pavlovice</are:castObce>
+      <are:ulice>Polní</are:ulice>
+      <are:cisloTxt>749</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Lisal</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-10-12" dvy="2018-12-06">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+     <are:vznikFunkce>2013-05-24</are:vznikFunkce>
+     <are:zanikFunkce>2018-05-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23724064</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46015</are:psc>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec XV-Starý Harcov</are:castObce>
+      <are:ulice>Slezská</are:ulice>
+      <are:cisloPop>725</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>BULÍŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-12-06">
+    <are:funkce>
+     <are:nazev>Předseda společenství vlastníků</are:nazev>
+     <are:vznikFunkce>2018-10-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27608051</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec XII-Staré Pavlovice</are:castObce>
+      <are:ulice>Polní</are:ulice>
+      <are:cisloPop>749</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>FILIP</are:jmeno>
+     <are:prijmeni>ANDRÝSEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

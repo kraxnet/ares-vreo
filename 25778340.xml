@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T21:27:11"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>21:27:11</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25778340</are:ICO>
+   <are:ObchodniFirma>SHELEMBA - OG s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 9 - Satalice</are:obec>
+    <are:ulice>Netřebická</are:ulice>
+    <are:cisloTxt>185</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-07-02</are:DatumZapisu>
+   <are:DatumVymazu>2008-01-23</are:DatumVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-07-02" dvy="2008-01-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-07-02" dvy="2008-01-23">
+    <are:Text>
+Způsob jednání za společnost: Společnost zastupuje každý z
+jednatelů samostatně.  Podepisování za společnost se děje tak,
+že k obchodnímu jménu společnosti připojí kterýkoliv z jednatelů
+svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21752991</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 2</are:okres>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Chodská</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Shelemba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-02-22" dvy="2008-01-23">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-02-22" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22123202</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15500</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Modrá</are:ulice>
+      <are:cisloTxt>1980</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeňka</are:jmeno>
+     <are:prijmeni>Kundratová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-07-02" dvy="2008-01-23">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Tjačivský okr. Šyroký Luh</are:obec>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Shelemba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Kolodno</are:obec>
+      <are:ulice>Haharina</are:ulice>
+      <are:cisloTxt>50</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Shuhay</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Tysolove</are:obec>
+      <are:ulice>Haharina</are:ulice>
+      <are:cisloTxt>25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Tokar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Dubove</are:obec>
+      <are:ulice>Suvorova</are:ulice>
+      <are:cisloTxt>57</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Tsubera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Novoselycja</are:obec>
+      <are:ulice>Barkanjuka</are:ulice>
+      <are:cisloTxt>54</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Tokar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Dubove</are:obec>
+      <are:ulice>Haharina</are:ulice>
+      <are:cisloTxt>74</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Tsubera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Tjačivský okr.,Šyroky Luh</are:obec>
+      <are:cisloTxt>652</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Dudla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Dubove</are:obec>
+      <are:ulice>Kalinina</are:ulice>
+      <are:cisloTxt>76</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Bray</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Kolodno</are:obec>
+      <are:ulice>Čapajeva</are:ulice>
+      <are:cisloTxt>31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Shuhay</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Dolynský okr.</are:obec>
+      <are:ulice>Hošiv</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Yakimiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Dolyna</are:obec>
+      <are:ulice>Nezaležnosti</are:ulice>
+      <are:cisloTxt>16/20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zonoviy</are:jmeno>
+     <are:prijmeni>Girnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopol</are:obec>
+      <are:ulice>St.Budnoho</are:ulice>
+      <are:cisloTxt>26/91</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Babak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopol</are:obec>
+      <are:ulice>St.Budnoho</are:ulice>
+      <are:cisloTxt>26/91</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vitaliy</are:jmeno>
+     <are:prijmeni>Babak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Dolynsky okr.</are:obec>
+      <are:ulice>Slobda - Dolynska</are:ulice>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Krentsiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-07-02" dvy="2008-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Berezny</are:obec>
+      <are:ulice>Centralna</are:ulice>
+      <are:cisloTxt>128</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lyubomyr</are:jmeno>
+     <are:prijmeni>Motsko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-02-26T10:51:30"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-02-26</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-02-26</are:Datum_vypisu>
+   <are:Cas_vypisu>10:51:30</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45145539</are:ICO>
+   <are:ObchodniFirma>AMISTAR spol.s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1361392</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>27308</are:psc>
+    <are:okres>Kladno</are:okres>
+    <are:obec>Pchery</are:obec>
+    <are:castObce>Pchery</are:castObce>
+    <are:ulice>U Hřiště</are:ulice>
+    <are:cisloPop>160</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-03-06</are:DatumZapisu>
+   <are:DatumVymazu>2018-02-22</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost AMISTAR spol.s r.o. v likvidaci, se sídlem U Hřiště 160, 273 08 Pchery, IČ: 451 45 539 se vymazává z obchodního rejstříku. Právním důvodem výmazu je ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-03-06" dvy="2018-02-22">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-03-06" dvy="2018-02-22">
+    <are:Text>
+Způsob jednání jménem společnosti:
+Společnost zatsupuje a jejím jménem jedná ve všech
+jejích věcech jednatel společnosti pan Ing.František
+Javůrek,bytem Pchery - Theodor 160,okr.Kladno
+Podepisování za společnost se děje tak,že k vypsanému
+nebo vytištěnému názvu společnosti připojí svůj podpis
+jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-03-06" dvy="2015-03-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2015-02-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>27201</are:psc>
+      <are:obec>okr.Kladno</are:obec>
+      <are:ulice>Pchery - Theodor 160</are:ulice>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Javůrek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-07-20" dvy="2018-02-22">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-07-20" dvy="2018-02-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27518078</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25067</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Klecany</are:obec>
+      <are:castObce>Klecany</are:castObce>
+      <are:ulice>Na Vyhlídce</are:ulice>
+      <are:cisloPop>537</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROBERT</are:jmeno>
+     <are:prijmeni>HYNEK</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-03-06" dvy="2018-02-22">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-03-06" dvy="2018-02-22">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:obec>8000 Mnichov 81</are:obec>
+      <are:ulice>Turfstr.1</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>společnost GRAFT a HELBIG a LUTZ</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-03" dvy="2018-02-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22383247</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>náměstí Dr. Václava Holého</are:ulice>
+      <are:cisloPop>1056</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>JAVŮREK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

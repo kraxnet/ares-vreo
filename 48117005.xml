@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T00:18:26"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>00:18:26</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48117005</are:ICO>
+   <are:ObchodniFirma>BORON, společnost s ručením omezeným v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22624724</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>10000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Strašnice</are:castObce>
+    <are:mop>Praha 10</are:mop>
+    <are:ulice>Černokostelecká</are:ulice>
+    <are:cisloPop>2111</are:cisloPop>
+    <are:cisloOr>131</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-01-22</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+--
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-01-22">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-01-22">
+    <are:Text>
+Jménem společnosti jedná:
+jednatel společnosti a ředitelé společnosti
+Podepisování:
+za společnost se podepisuje tím způsobem, že pod psaný,
+vytištěný nebo razítkem předtištěný název společnosti připojí
+svůj podpis společník. Společnost FLEXICO spol. s r.o., zast.
+jejím jednatelem panem Mgr. Pavlem Borovičkou a kterýkoliv
+ze společníků společnosti nebo prokurista, ten však
+s dodatkem prokuru označující.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-01-22" dvy="2015-11-26">
+    <are:funkce>
+     <are:nazev>jednatel společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22624724</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Černokostelecká</are:ulice>
+      <are:cisloTxt>2111</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Borovička</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-26">
+    <are:funkce>
+     <are:nazev>jednatel společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26095904</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Modřany</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Písková</are:ulice>
+      <are:cisloPop>830</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>BOROVIČKA</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-02-22">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-02-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27518078</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25067</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Klecany</are:obec>
+      <are:castObce>Klecany</are:castObce>
+      <are:ulice>Na Vyhlídce</are:ulice>
+      <are:cisloPop>537</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROBERT</are:jmeno>
+     <are:prijmeni>HYNEK</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-01-22">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1993-01-22">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22624724</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Černokostelecká</are:ulice>
+      <are:cisloTxt>2111</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>společnost FLEXICO spol. s r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ulice>Čonkadze 14</are:ulice>
+     </are:adresa>
+     <are:jmeno>TAMAZ M</are:jmeno>
+     <are:prijmeni>ROČIKŠVILI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:obec>Tbilisi</are:obec>
+      <are:ulice>Asatiany 12</are:ulice>
+     </are:adresa>
+     <are:jmeno>UŠANGI O.</are:jmeno>
+     <are:prijmeni>NIKOLAJŠVILI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:obec>Tbilisi</are:obec>
+      <are:ulice>Čonkadze 7</are:ulice>
+     </are:adresa>
+     <are:jmeno>OTAR A.</are:jmeno>
+     <are:prijmeni>BOCHOČADZE</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

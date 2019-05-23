@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T00:09:47"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>00:09:47</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48032514</are:ICO>
+   <are:ObchodniFirma>Bytové družstvo Česká v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22029737</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 5</are:obec>
+    <are:ulice>Česká</are:ulice>
+    <are:cisloTxt>9</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-10-01</are:DatumZapisu>
+   <are:DatumVymazu>2012-10-11</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Činnost družstva je založena na družstevním vlastnictví domů, by-
+tů, objektů s nebytovými prostorami (garáže, ateliery), na správě
+a provozu bytů a na ostatním majetku družstva.
+Družstvo zejména : a) provádí, popřípadě zabezpečuje údržby,
+opravy, rekonstrukci a modernizaci bytových a nebytových objektů
+a to pro své členy, b) poskytuje popřípadě zabezpečuje plnění
+a služby spojené s bydlením a to pro své členy, c) vykonává i ji-
+né činnosti schválené členskou schůzí.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-10-01" dvy="2012-10-11">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-10-01" dvy="2012-10-11">
+    <are:Text>
+Předseda je oprávněn jednat jménem družstva navenek ve všech vě-
+cech. V době jeho nepřítomnosti jedná jedná místopředseda. Právní
+úkony družstva, pro které je předepsána písemná forma, podepisu-
+jí za družstvo vždy dva členové, a to předseda (místopředseda) a
+další člen pověřený členskou schůzí, která podle par.245 plní
+funkci představenstva družstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-10-01" dvy="2012-10-11">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22029737</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Česká</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Soudil</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-01" dvy="2012-10-11">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22029737</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Česká</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dušan</are:jmeno>
+     <are:prijmeni>Smetana</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2011-09-03" dvy="2012-10-11">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2011-09-03" dvy="2012-10-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21962821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:ulice>Levá</are:ulice>
+      <are:cisloPop>393</are:cisloPop>
+      <are:cisloOr>17</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Alena</are:jmeno>
+     <are:prijmeni>Svobodová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

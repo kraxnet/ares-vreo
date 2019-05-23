@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-03-26T15:20:37"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-03-26</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-03-26</are:Datum_vypisu>
+   <are:Cas_vypisu>15:20:37</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25726463</are:ICO>
+   <are:ObchodniFirma>Universal - Tempo s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21810087</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14700</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Braník</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Mikuleckého</are:ulice>
+    <are:cisloPop>1310</are:cisloPop>
+    <are:cisloOr>6</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-01-08</are:DatumZapisu>
+   <are:DatumVymazu>2018-03-20</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost Universal - Tempo s.r.o. v likvidaci,  Mikuleckého 1310/6, Braník, 147 00 Praha 4, identifikační číslo 25726463 se vymazává z obchodního rejstříku včetně všech zapsaných skutečností. Právním důvodem výmazu je  ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+stavební práce bez požadavku na odbornou kvalifikaci
+     </are:Text>
+     <are:Text>
+úklid
+     </are:Text>
+     <are:Text>
+výroba betonových stavebních dílců a forem pro stavební dílce
+     </are:Text>
+     <are:Text>
+lesní práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-01-08" dvy="2018-03-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-01-08" dvy="2018-03-20">
+    <are:Text>
+Jednatel jedná ve všech věcech společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-01-08" dvy="2004-05-17">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Mělník</are:okres>
+      <are:obec>Horní Počáply</are:obec>
+      <are:cisloTxt>č. 1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Popadjuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-17" dvy="2004-12-29">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2004-11-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Mělník</are:okres>
+      <are:obec>Horní Počáply</are:obec>
+      <are:cisloTxt>č. 1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Popadyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-12-29" dvy="2018-03-20">
+    <are:funkce>
+     <are:vznikFunkce>2004-11-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Ubytovna Todez, Horní Počaply, 277 03  Mělník</are:text>
+     </are:adresa>
+     <are:prijmeni>Borys Boltsarivskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-07-24" dvy="2018-03-20">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-07-24" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22283315</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Veleslavín</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Krásného</are:ulice>
+      <are:cisloPop>351</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>ČERVENKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-01-08" dvy="2018-03-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská obl., Javoriv</are:text>
+     </are:adresa>
+     <are:jmeno>Taras</are:jmeno>
+     <are:prijmeni>Batig</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská obl., N. Strutyn</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Didokha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Poltavská obl., Mošny</are:text>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Moskvin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Poltavská obl., Čutovo</are:text>
+     </are:adresa>
+     <are:jmeno>Andrij</are:jmeno>
+     <are:prijmeni>Kulyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská obl., M. Horožanka</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Ivanyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská obl., Zbora</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Fediv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská obl., Zbora</are:text>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Kostjuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská obl, Zbora</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Mendela</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., Zbora</are:text>
+     </are:adresa>
+     <are:jmeno>Viktor</are:jmeno>
+     <are:prijmeni>Vanin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská obl., Suchodil</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Gutsul</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., Brid</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Lomaha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská obl, Teršiv</are:text>
+     </are:adresa>
+     <are:jmeno>Stepan</are:jmeno>
+     <are:prijmeni>Seneta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lvivská obl, Stradč</are:text>
+     </are:adresa>
+     <are:jmeno>Orest</are:jmeno>
+     <are:prijmeni>Zavada</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-08" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ternopilská obl., Milno</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Nakonečnyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-17" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská obl., Bodnariv</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Popadynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-12-29" dvy="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivská obl., ul. Mazepy 183/50</are:text>
+     </are:adresa>
+     <are:prijmeni>Borys Boltsarivskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

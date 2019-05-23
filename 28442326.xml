@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T12:39:19"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>12:39:19</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28442326</are:ICO>
+   <are:ObchodniFirma>Brokstav s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22379231</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>18000</are:psc>
+    <are:obec>Praha 8</are:obec>
+    <are:ulice>Braunerova</are:ulice>
+    <are:cisloTxt>563/7</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2008-08-06</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-08-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2008-08-06">
+    <are:Text>
+Jednatel je oprávněn jednat za společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2008-08-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-08-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22368221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 8</are:obec>
+      <are:castObce>Kobylisy</are:castObce>
+      <are:ulice>Paláskova</are:ulice>
+      <are:cisloTxt>1107/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Brukhal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-07-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-07-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22291849</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Vokovice</are:castObce>
+      <are:ulice>Tobrucká</are:ulice>
+      <are:cisloPop>710</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Galyna</are:jmeno>
+     <are:prijmeni>Mogytych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-08-06">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22368221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 8</are:obec>
+      <are:castObce>Kobylisy</are:castObce>
+      <are:ulice>Paláskova</are:ulice>
+      <are:cisloTxt>1107/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Brukhal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Melnyč</are:obec>
+      <are:castObce>Lvivská oblast</are:castObce>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Liubeznyi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Dnipropetrovsk</are:obec>
+      <are:ulice>Mazepy</are:ulice>
+      <are:cisloTxt>76/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kateryna</are:jmeno>
+     <are:prijmeni>Kovylina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Melnyč</are:obec>
+      <are:castObce>Lvivská oblast</are:castObce>
+      <are:ulice>Dorošenka</are:ulice>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Romaniv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Luhansk</are:obec>
+      <are:ulice>Sahaydačnoho</are:ulice>
+      <are:cisloTxt>18/76</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Denys</are:jmeno>
+     <are:prijmeni>Mishyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Bolechiv</are:obec>
+      <are:ulice>I. Franka</are:ulice>
+      <are:cisloTxt>135/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Chekh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Soligorsk</are:obec>
+      <are:castObce>Minská oblast</are:castObce>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Antanovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Kamenka</are:obec>
+      <are:castObce>Čerkaská oblast</are:castObce>
+      <are:ulice>Vasilyni</are:ulice>
+      <are:cisloTxt>43</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Myroslav</are:jmeno>
+     <are:prijmeni>Donenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>112</are:stat>
+      <are:obec>Vitebsk</are:obec>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>6/69</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volga</are:jmeno>
+     <are:prijmeni>Krylova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Borščiv</are:obec>
+      <are:castObce>Ternopilská oblast</are:castObce>
+      <are:ulice>Šuchevyča</are:ulice>
+      <are:cisloTxt>37/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Korchak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Svalyava</are:obec>
+      <are:ulice>Partizánská</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Rusyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Stebnyk</are:obec>
+      <are:ulice>Melnyka</are:ulice>
+      <are:cisloTxt>8/81</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ihor</are:jmeno>
+     <are:prijmeni>Bednarchyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Kaluš</are:obec>
+      <are:ulice>B. Chmelnyckoho</are:ulice>
+      <are:cisloTxt>16/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Zakharkiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivská oblast</are:obec>
+      <are:castObce>Žuravno</are:castObce>
+      <are:ulice>Dorošenko</are:ulice>
+      <are:cisloTxt>53/19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Rusyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Nový Rozdil</are:obec>
+      <are:ulice>Šaškevyča</are:ulice>
+      <are:cisloTxt>15a/59</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lyudmyla</are:jmeno>
+     <are:prijmeni>Ryzhko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Kerecky</are:obec>
+      <are:castObce>Zakarpatská oblast</are:castObce>
+      <are:ulice>Lasky</are:ulice>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Hryha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Bohdanivka</are:obec>
+      <are:castObce>Mykolajivská oblast</are:castObce>
+     </are:adresa>
+     <are:jmeno>Alevtyna</are:jmeno>
+     <are:prijmeni>Kartulyeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

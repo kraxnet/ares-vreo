@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T01:12:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>01:12:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48951757</are:ICO>
+   <are:ObchodniFirma>AGRONEB Nebužely, spol s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>12599751</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>29428</are:psc>
+    <are:obec>Chotětov</are:obec>
+    <are:cisloTxt>67</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1994-06-20</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zemědělství včetně prodeje nezpracovaných zemědělských
+výrobků za účelem zpracování nebo dalšího prodeje
+     </are:Text>
+     <are:Text>
+nákup zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1994-06-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1994-06-20">
+    <are:Text>
+Jednatel zastupuje společnost v plném rozsahu.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1994-06-20" dvy="1998-02-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Nosálov, p.Lobeč, okr. Mělník</are:obec>
+      <are:ulice>Nosálov č.70</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vladimár</are:jmeno>
+     <are:prijmeni>Cejp</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-02-12" dvy="2010-01-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2009-11-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13103911</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Doksy</are:obec>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloTxt>387</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Borovička</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-01-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-11-21</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12599182</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29428</are:psc>
+      <are:obec>Chotětov</are:obec>
+      <are:ulice>Husovo náměstí</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Hložek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-06-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6180051</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27734</are:psc>
+      <are:obec>Nebužely</are:obec>
+      <are:castObce>Nebužely</are:castObce>
+      <are:cisloPop>60</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>IRENA</are:jmeno>
+     <are:prijmeni>RŮŽIČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11687011</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27601</are:psc>
+      <are:obec>Mělník</are:obec>
+      <are:castObce>Mělník</are:castObce>
+      <are:ulice>Zádušní</are:ulice>
+      <are:cisloPop>2927</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>BOŽENA</are:jmeno>
+     <are:prijmeni>NOVOTNÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27142442</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46015</are:psc>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec XV-Starý Harcov</are:castObce>
+      <are:ulice>Na Skřivanech</are:ulice>
+      <are:cisloPop>815</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>FRANC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1724452</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50743</are:psc>
+      <are:obec>Sobotka</are:obec>
+      <are:castObce>Sobotka</are:castObce>
+      <are:ulice>Fügnerova</are:ulice>
+      <are:cisloPop>634</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>VRANÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2060680</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27735</are:psc>
+      <are:obec>Kanina</are:obec>
+      <are:castObce>Kanina</are:castObce>
+      <are:cisloPop>18</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILADA</are:jmeno>
+     <are:prijmeni>CARDOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13035088</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>47201</are:psc>
+      <are:obec>Chlum</are:obec>
+      <are:castObce>Chlum</are:castObce>
+      <are:cisloPop>66</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>KAMARÁD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13360892</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69671</are:psc>
+      <are:obec>Blatnice pod Svatým Antonínkem</are:obec>
+      <are:castObce>Blatnice pod Svatým Antonínkem</are:castObce>
+      <are:cisloPop>603</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>SIEBER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13360892</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69671</are:psc>
+      <are:obec>Blatnice pod Svatým Antonínkem</are:obec>
+      <are:castObce>Blatnice pod Svatým Antonínkem</are:castObce>
+      <are:cisloPop>603</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>SIEBEROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2096137</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27742</are:psc>
+      <are:obec>Obříství</are:obec>
+      <are:castObce>Obříství</are:castObce>
+      <are:ulice>Chovatelská</are:ulice>
+      <are:cisloPop>173</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>ŠIMKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12599182</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29428</are:psc>
+      <are:obec>Chotětov</are:obec>
+      <are:castObce>Chotětov</are:castObce>
+      <are:ulice>Husovo náměstí</are:ulice>
+      <are:cisloPop>1</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>HLOŽEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21796084</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Spojovací</are:ulice>
+      <are:cisloPop>2607</are:cisloPop>
+      <are:cisloOr>42</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANIELA</are:jmeno>
+     <are:prijmeni>TUČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21249547</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29301</are:psc>
+      <are:obec>Mladá Boleslav</are:obec>
+      <are:castObce>Mladá Boleslav II</are:castObce>
+      <are:ulice>Havlíčkova</are:ulice>
+      <are:cisloPop>883</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>POCHMAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23125870</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>47141</are:psc>
+      <are:obec>Dubá</are:obec>
+      <are:castObce>Dubá</are:castObce>
+      <are:ulice>Nové město</are:ulice>
+      <are:cisloPop>332</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>PLZÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21265704</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29301</are:psc>
+      <are:obec>Mladá Boleslav</are:obec>
+      <are:castObce>Mladá Boleslav III</are:castObce>
+      <are:ulice>Východní</are:ulice>
+      <are:cisloPop>1246</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUBOMÍR</are:jmeno>
+     <are:prijmeni>POSTRÁNECKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16875753</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41108</are:psc>
+      <are:obec>Štětí</are:obec>
+      <are:castObce>Štětí</are:castObce>
+      <are:ulice>U stadionu</are:ulice>
+      <are:cisloPop>481</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOSLAVA</are:jmeno>
+     <are:prijmeni>FRANCOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25982176</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46014</are:psc>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec XIV-Ruprechtice</are:castObce>
+      <are:ulice>Krakonošova</are:ulice>
+      <are:cisloPop>1083</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>NOVÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-07-28">
+   </are:Clen>
+   <are:Clen dza="2017-04-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15506746</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29441</are:psc>
+      <are:okres>Mladá Boleslav</are:okres>
+      <are:obec>Dobrovice</are:obec>
+      <are:castObce>Dobrovice</are:castObce>
+      <are:ulice>Zahradní</are:ulice>
+      <are:cisloPop>584</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>BUDKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

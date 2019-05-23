@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T22:11:32"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>22:11:32</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>46509402</are:ICO>
+   <are:ObchodniFirma>RŮŽIČKA &amp; spol. v.o.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23910607</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>50003</are:psc>
+    <are:okres>Hradec Králové</are:okres>
+    <are:obec>Hradec Králové</are:obec>
+    <are:castObce>Slezské Předměstí</are:castObce>
+    <are:ulice>Jižní</are:ulice>
+    <are:cisloPop>870</are:cisloPop>
+    <are:cisloOr>2</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-06-18</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-06-18">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1992-06-18">
+    <are:Text>
+Způsob jednání za společnost:
+Jménem společnosti je oprávněn jednat navenek a podepisovat za ni statutární zástupce společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-06-18">
+    <are:funkce>
+     <are:nazev>statutární zástupce</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23813130</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50009</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Na konečné</are:ulice>
+      <are:cisloPop>1019</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Růžička</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-09-29">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-09-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>41634021</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50341</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Věkoše</are:castObce>
+      <are:ulice>Plotišťská</are:ulice>
+      <are:cisloPop>513</are:cisloPop>
+      <are:cisloOr>2a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DALIBOR</are:jmeno>
+     <are:prijmeni>JANDURA</are:prijmeni>
+     <are:titulPred>Mgr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-06-18">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23813130</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50009</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Na konečné</are:ulice>
+      <are:cisloPop>1019</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Růžička</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9606394</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58001</are:psc>
+      <are:obec>Havlíčkův Brod</are:obec>
+      <are:ulice>Ledečská</are:ulice>
+      <are:cisloPop>2134</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Ulrich</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23817232</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50012</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Třída Edvarda Beneše</are:ulice>
+      <are:cisloPop>1429</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Rudolf</are:jmeno>
+     <are:prijmeni>Polavka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1656287</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50801</are:psc>
+      <are:obec>Bříšťany</are:obec>
+      <are:cisloPop>100</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Klepsa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23922796</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50341</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Velká</are:ulice>
+      <are:cisloPop>349</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Valenta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23909820</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50003</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Jižní</are:ulice>
+      <are:cisloPop>792</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Ulrich</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1692917</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50801</are:psc>
+      <are:obec>Milovice u Hořic</are:obec>
+      <are:cisloPop>77</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Dolanský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9813764</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>51721</are:psc>
+      <are:obec>Týniště nad Orlicí</are:obec>
+      <are:ulice>Turkova</are:ulice>
+      <are:cisloPop>41</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Polák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Žilina</are:obec>
+      <are:ulice>Na záchrastí</are:ulice>
+      <are:cisloPop>7</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Janiga</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7296568</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>55222</are:psc>
+      <are:obec>Jasenná</are:obec>
+      <are:cisloPop>300</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Hlava</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23916893</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50006</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Třebeš</are:castObce>
+      <are:ulice>Blodkova</are:ulice>
+      <are:cisloPop>367</are:cisloPop>
+      <are:cisloOr>24</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANTONÍN</are:jmeno>
+     <are:prijmeni>JABLONSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23837853</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50004</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Plačice</are:castObce>
+      <are:ulice>Vilová</are:ulice>
+      <are:cisloPop>154</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>MAREČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15736814</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50304</are:psc>
+      <are:obec>Černožice</are:obec>
+      <are:castObce>Černožice</are:castObce>
+      <are:ulice>Hradecká</are:ulice>
+      <are:cisloPop>263</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>REICH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21033226</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50303</are:psc>
+      <are:obec>Smržov</are:obec>
+      <are:castObce>Hubíles</are:castObce>
+      <are:cisloPop>28</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>ŠPAČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23909480</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50003</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Slezské Předměstí</are:castObce>
+      <are:ulice>Severní</are:ulice>
+      <are:cisloPop>758</are:cisloPop>
+      <are:cisloOr>38</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ALEŠ</are:jmeno>
+     <are:prijmeni>KUDR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19103697</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Staré Brno</are:castObce>
+      <are:ulice>Husova</are:ulice>
+      <are:cisloPop>165</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>MOKRÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25484036</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50301</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Plotiště nad Labem</are:castObce>
+      <are:ulice>Petra Jilemnického</are:ulice>
+      <are:cisloPop>609</are:cisloPop>
+      <are:cisloOr>163</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>KAVKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20366922</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54454</are:psc>
+      <are:obec>Velký Vřešťov</are:obec>
+      <are:castObce>Velký Vřešťov</are:castObce>
+      <are:cisloPop>79</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>ČERNÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1659707</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50777</are:psc>
+      <are:obec>Cerekvice nad Bystřicí</are:obec>
+      <are:castObce>Cerekvice nad Bystřicí</are:castObce>
+      <are:cisloPop>24</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>SUCHÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1659944</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50777</are:psc>
+      <are:obec>Cerekvice nad Bystřicí</are:obec>
+      <are:castObce>Cerekvice nad Bystřicí</are:castObce>
+      <are:cisloPop>48</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>KOLLARIK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21023786</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50303</are:psc>
+      <are:obec>Lejšovka</are:obec>
+      <are:castObce>Lejšovka</are:castObce>
+      <are:cisloPop>61</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JINDŘICH</are:jmeno>
+     <are:prijmeni>KEJZLAR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23818140</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50012</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Nový Hradec Králové</are:castObce>
+      <are:ulice>Pod Zámečkem</are:ulice>
+      <are:cisloPop>1521</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>ANDREJS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23908386</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50003</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Slezské Předměstí</are:castObce>
+      <are:ulice>Markovická</are:ulice>
+      <are:cisloPop>648</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>GIČ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23898097</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Pražské Předměstí</are:castObce>
+      <are:ulice>Jungmannova</are:ulice>
+      <are:cisloPop>1508</are:cisloPop>
+      <are:cisloOr>45</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUBOŠ</are:jmeno>
+     <are:prijmeni>TÉRA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15796841</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50327</are:psc>
+      <are:obec>Urbanice</are:obec>
+      <are:castObce>Urbanice</are:castObce>
+      <are:cisloPop>88</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>PEŠEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23929669</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50006</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Moravské Předměstí</are:castObce>
+      <are:ulice>Kyjovská</are:ulice>
+      <are:cisloPop>475</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>KUKLA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15841511</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50346</are:psc>
+      <are:obec>Třebechovice pod Orebem</are:obec>
+      <are:castObce>Třebechovice pod Orebem</are:castObce>
+      <are:ulice>Resslova</are:ulice>
+      <are:cisloPop>985</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ALBIN</are:jmeno>
+     <are:prijmeni>KOKY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23909838</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50003</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Slezské Předměstí</are:castObce>
+      <are:ulice>Jižní</are:ulice>
+      <are:cisloPop>793</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>TLÁSKAL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7295146</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>55222</are:psc>
+      <are:obec>Jasenná</are:obec>
+      <are:castObce>Jasenná</are:castObce>
+      <are:cisloPop>157</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>FORMAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23870508</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Hradec Králové</are:castObce>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloPop>712</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>TOŠOVSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23929332</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50011</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Moravské Předměstí</are:castObce>
+      <are:ulice>Šantrochova</are:ulice>
+      <are:cisloPop>422</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>VÍTEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23893711</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Pražské Předměstí</are:castObce>
+      <are:ulice>Zamenhofova</are:ulice>
+      <are:cisloPop>1070</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>BRŮNA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23812249</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50009</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Nový Hradec Králové</are:castObce>
+      <are:ulice>Mrštíkova</are:ulice>
+      <are:cisloPop>930</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>STANISLAVA</are:jmeno>
+     <are:prijmeni>LUKÁŠKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>74582089</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Pražské Předměstí</are:castObce>
+      <are:ulice>Na Rybárně</are:ulice>
+      <are:cisloPop>1747</are:cisloPop>
+      <are:cisloOr>16a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>KLÍR</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-07-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23925370</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50341</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Věkoše</are:castObce>
+      <are:ulice>K Sokolovně</are:ulice>
+      <are:cisloPop>104</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>HRUBÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-03-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17433711</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50601</are:psc>
+      <are:obec>Jičín</are:obec>
+      <are:castObce>Holínské Předměstí</are:castObce>
+      <are:ulice>Jarošovská</are:ulice>
+      <are:cisloPop>285</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>PETŘÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1659995</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50777</are:psc>
+      <are:okres>Jičín</are:okres>
+      <are:obec>Cerekvice nad Bystřicí</are:obec>
+      <are:castObce>Cerekvice nad Bystřicí</are:castObce>
+      <are:cisloPop>53</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>SUCHÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-09-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17540895</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50801</are:psc>
+      <are:okres>Jičín</are:okres>
+      <are:obec>Hořice</are:obec>
+      <are:castObce>Hořice</are:castObce>
+      <are:ulice>Čelakovského</are:ulice>
+      <are:cisloPop>653</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>HAMAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>77731701</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50331</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Vysoká nad Labem</are:obec>
+      <are:castObce>Vysoká nad Labem</are:castObce>
+      <are:cisloPop>643</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>RUBÍN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-12-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1659995</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50777</are:psc>
+      <are:okres>Jičín</are:okres>
+      <are:obec>Cerekvice nad Bystřicí</are:obec>
+      <are:castObce>Cerekvice nad Bystřicí</are:castObce>
+      <are:cisloPop>53</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>ZIMA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

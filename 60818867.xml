@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-02-07T14:13:29"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-02-07</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-02-07</are:Datum_vypisu>
+   <are:Cas_vypisu>14:13:29</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>SR</are:Rejstrik>
+   <are:ICO>60818867</are:ICO>
+   <are:ObchodniFirma>Klub vojáků v záloze při Územní vojenské správě Jindřichův Hradec</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>14805715</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>37701</are:psc>
+    <are:okres>Jindřichův Hradec</are:okres>
+    <are:obec>Jindřichův Hradec</are:obec>
+    <are:castObce>Jindřichův Hradec III</are:castObce>
+    <are:ulice>Sídliště</are:ulice>
+    <are:cisloPop>395</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumVzniku>1995-10-26</are:DatumVzniku>
+   <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+sportovní činnost
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2015-06-02">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2015-06-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>1995-10-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+     <are:vznikFunkce>2015-03-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14805715</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37701</are:psc>
+      <are:obec>Jindřichův Hradec</are:obec>
+      <are:castObce>Jindřichův Hradec III</are:castObce>
+      <are:ulice>Sídliště</are:ulice>
+      <are:cisloPop>395</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>POKOVBA</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2014-01-01">
+   <are:Nazev>Zakladatel</are:Nazev>
+   <are:Clen dza="2016-02-25">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22312480</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Holešovice</are:castObce>
+      <are:ulice>U Pergamenky</are:ulice>
+      <are:cisloPop>1511</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:ICO>47610603</are:ICO>
+     <are:ObchodniFirma>Svaz vojáků v záloze České republiky, z.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

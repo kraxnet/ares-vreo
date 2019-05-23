@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-02-04T12:56:30"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-02-04</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-04</are:Datum_vypisu>
+   <are:Cas_vypisu>12:56:30</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26120356</are:ICO>
+   <are:ObchodniFirma>PINAJEV.STAV.ZPO.s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21998051</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Žilinská</are:ulice>
+    <are:cisloTxt>216</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-10-13</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Stavební práce nevyžadující odbornou kvalifikaci
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-10-13">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-10-13">
+    <are:Text>
+Jednatel zastupuje společnost v plném rozsahu, včetně
+samostatného podpisového práva s tím, že k vytištěnému nebo
+napsanému názvu společnosti jednatel připojí svůj vlastnoruční
+podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-10-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:text>ul. Bohomolova 2/48,m. Solihorsk kraj, Minský</are:text>
+     </are:adresa>
+     <are:jmeno>Ihar</are:jmeno>
+     <are:prijmeni>Pinayeu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2019-01-30">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2019-01-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21725276</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Staré Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Dušní</are:ulice>
+      <are:cisloPop>866</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘINA</are:jmeno>
+     <are:prijmeni>LUŽOVÁ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-10-13">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:text>Bohomolova ul. 2/48, m. Solihorsk, kraj Minský</are:text>
+     </are:adresa>
+     <are:jmeno>Ihar</are:jmeno>
+     <are:prijmeni>Pinayeu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Volodymyra Velykoho ul. č. 15/104,m. Drhobyč, kraj Lvivskyj</are:text>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Mazur</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Sičovych Strilciv ul. č. II/9,m. Stebnyk, kraj Lvivskyj</are:text>
+     </are:adresa>
+     <are:jmeno>Zinoviy</are:jmeno>
+     <are:prijmeni>Marholych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>v. Ivanivka, kraj Žytomyrský</are:text>
+     </are:adresa>
+     <are:jmeno>Anastasiya</are:jmeno>
+     <are:prijmeni>Zhalomska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lenkavskoho ul. č. 8a/2, m. Ivano-Frankivsk, kraj Ivano-Frankivskyj</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Yakoviv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>v. Steceva, okr. Snjatynskyj, kraj Ivano-Frankivskyj</are:text>
+     </are:adresa>
+     <are:jmeno>Lesya</are:jmeno>
+     <are:prijmeni>Pechenyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Šyroka ul. č. 32/8, m. Sarny, kraj Rivnenskyj</are:text>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Shevchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Luck, Ben ul. č. 40</are:text>
+     </are:adresa>
+     <are:jmeno>Ihor</are:jmeno>
+     <are:prijmeni>Dryl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>v.Ivanivka, kraj Žitomyrskyj</are:text>
+     </are:adresa>
+     <are:jmeno>Ganna</are:jmeno>
+     <are:prijmeni>Pisnyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lysynka ul. č. 2/23, m. Sarny, kraj Rivenskyj</are:text>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Smolya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ševčenka ul. č. 81/33, m. Horodenka, kraj Ivano-Frankivskyj</are:text>
+     </are:adresa>
+     <are:jmeno>Ruslan</are:jmeno>
+     <are:prijmeni>Konovalyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Strašeň</are:obec>
+      <are:ulice>Nečulče</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Boris</are:jmeno>
+     <are:prijmeni>Mura</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>v. Poljana č. 987, okr. Bereznjanskyj, kraj Zakarpatský</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Reypashi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ševčenka ul. č. 13, v. Žytyn, kraj Rivenský</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Protsyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Y. Berezni, ul. Lokoty 54, kraj Zakarpatský</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Tsyhak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. V.Berezni, ul. Zavodska 2/7, kraj Zakarpatský</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Dutov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Burštyn, ul. Bandery 92/2</are:text>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Nakonechnyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Dnipropetrovsk, ul. K. Marksa 7/3</are:text>
+     </are:adresa>
+     <are:jmeno>Olexandr</are:jmeno>
+     <are:prijmeni>Bizyukov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Dnpropetrovsk, ul. Pobedy 108/40</are:text>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Zubaryeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m.Dnipropetrovsk, ul. Avtostraja 8/95</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Pyelykh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1564960</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26601</are:psc>
+      <are:okres>Beroun</are:okres>
+      <are:obec>Chyňava</are:obec>
+      <are:castObce>Malé Přílepy</are:castObce>
+      <are:ulice>Na Bělče</are:ulice>
+      <are:cisloPop>82</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>OKSANA</are:jmeno>
+     <are:prijmeni>ZAKHARCHYN</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>okr. Skolivský, kraj Lvivskyj</are:obec>
+      <are:ulice>v.Sopit</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>m. Dnipropetrovsk</are:obec>
+      <are:ulice>Karla Marksa ul. č. 6/43</are:ulice>
+     </are:adresa>
+     <are:jmeno>NATALIYA</are:jmeno>
+     <are:prijmeni>KORETS'KA - ZADOYAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22369210</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kobylisy</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Rajmonova</are:ulice>
+      <are:cisloPop>1197</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BOHDAN</are:jmeno>
+     <are:prijmeni>KORCHEMNYY</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>okr. Bereznjanský, kraj Zakarpatský</are:obec>
+      <are:ulice>v. Kostryno 53</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>m. Dnipropetrovsk</are:obec>
+      <are:ulice>ul. Haharina 59</are:ulice>
+     </are:adresa>
+     <are:jmeno>OL'GA</are:jmeno>
+     <are:prijmeni>KISEL'OVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22692576</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Černý Most</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Bryksova</are:ulice>
+      <are:cisloPop>954</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>YURIY</are:jmeno>
+     <are:prijmeni>YANKOVSKYY</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>okr. Užhorodský, kraj Zakarpatský</are:obec>
+      <are:ulice>v. Paskanjov 141</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

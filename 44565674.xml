@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-02-16T17:34:54"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-02-16</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-02-16</are:Datum_vypisu>
+   <are:Cas_vypisu>17:34:54</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>44565674</are:ICO>
+   <are:ObchodniFirma>Pozemní stavitelství - Fr. Marek k.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:obec>Polepy v sídle ZD Polepy</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-04-02</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Provádění činnosti stavitelské (provádění jednoduchých staveb a
+poddodávek pro dopravní, inženýrské, průmyslové, bytové a
+občanské stavby, jakož i provádění činností lakýrnických a
+pokrývačských.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-04-02">
+   <are:Nazev>Statutární orgán - komplementář</are:Nazev>
+   <are:ZpusobJednani dza="1992-04-02">
+    <are:Text>
+Společnost zastupuje a za ni podepisuje komplementář František
+Marek. Podepisování se děje tak, že k napsanému nebo otištěnému
+názvu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-04-02" dvy="2013-11-22">
+    <are:funkce>
+     <are:nazev>Komplementář</are:nazev>
+     <are:zanikFunkce>2013-05-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16875010</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Štětí</are:obec>
+      <are:ulice>Lukešova</are:ulice>
+      <are:cisloTxt>387</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Marek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1992-04-02">
+   <are:Nazev>Společníci - komplementáři</are:Nazev>
+   <are:Clen dza="1992-04-02" dvy="2013-11-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16875010</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Litoměřice</are:okres>
+      <are:obec>Štětí</are:obec>
+      <are:ulice>Lukešova</are:ulice>
+      <are:cisloTxt>387</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Marek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16875010</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41108</are:psc>
+      <are:obec>Štětí</are:obec>
+      <are:castObce>Štětí</are:castObce>
+      <are:ulice>Lukešova</are:ulice>
+      <are:cisloPop>387</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>BOŽENA</are:jmeno>
+     <are:prijmeni>MARKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-11-01">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-11-01" dvy="2013-11-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16875010</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41108</are:psc>
+      <are:obec>Štětí</are:obec>
+      <are:ulice>Lukešova</are:ulice>
+      <are:cisloTxt>387</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Marek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>41201</are:psc>
+      <are:obec>Litoměřice</are:obec>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloPop>22</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>KUŘE</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

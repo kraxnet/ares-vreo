@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T01:46:35"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>01:46:35</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26207290</are:ICO>
+   <are:ObchodniFirma>BLYKY - 2 s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21943095</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Vladimirova</are:castObce>
+    <are:cisloTxt>5/289</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-10-25</are:DatumZapisu>
+   <are:DatumVymazu>2016-10-31</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z obchodního rejstříku včetně všech zapsaných skutečností. Právní důvod výmazu : skončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-10-25" dvy="2016-10-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-10-25" dvy="2016-10-31">
+    <are:Text>
+Společnost zastupuje každý z jednatelů samostatně.
+Podepisování za společnost se děje tak,že k obchodnímu
+jménu společnosti připojí kterýkoliv z jednatelů svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21738963</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 2</are:okres>
+      <are:obec>Praha 2</are:obec>
+      <are:castObce>Jaromírova</are:castObce>
+      <are:cisloTxt>10/654</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dosya</are:jmeno>
+     <are:prijmeni>Kornyeyeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-03-25" dvy="2016-10-31">
+   <are:Nazev>Likvidátoři</are:Nazev>
+   <are:Clen dza="2015-03-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22283315</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Veleslavín</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Krásného</are:ulice>
+      <are:cisloPop>351</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>ČERVENKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-10-25" dvy="2016-10-31">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21738963</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 2</are:okres>
+      <are:obec>Praha 2</are:obec>
+      <are:castObce>Jaromírova</are:castObce>
+      <are:cisloTxt>10/654</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dosya</are:jmeno>
+     <are:prijmeni>Kornyeyeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Kyjiv,Klimenko 1</are:text>
+     </are:adresa>
+     <are:jmeno>Nelli</are:jmeno>
+     <are:prijmeni>Doudnikova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Doneck,Lunačarskeho 79/93</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Ishkova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Chmelnyck,Kutuzova 31/19</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Kutsa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Lvivska,Drohobyč,Vitivska Hora 155</are:text>
+     </are:adresa>
+     <are:jmeno>Nadiya</are:jmeno>
+     <are:prijmeni>Kostyra</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Chmelnycka,Kamenets-Podolskij</are:text>
+     </are:adresa>
+     <are:jmeno>Olesya</are:jmeno>
+     <are:prijmeni>Izovit</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Mykolajiv,Krylova 44A/30</are:text>
+     </are:adresa>
+     <are:jmeno>Kateryna</are:jmeno>
+     <are:prijmeni>Pikalova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Mykolajiv,Spaska 70</are:text>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Baymuratova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Mykolajiv,H.Stalinhradu 93a/100</are:text>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Yelisyeyeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Luhanska,Alčevsk,Metalurhov 20/84</are:text>
+     </are:adresa>
+     <are:jmeno>Anzhelika</are:jmeno>
+     <are:prijmeni>Shybanova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Iv.-Frankivska,Novoselycja,L.Ukrajinky 10</are:text>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Levytska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Mykolajiv,Enhelsa 56/11</are:text>
+     </are:adresa>
+     <are:jmeno>Vira</are:jmeno>
+     <are:prijmeni>Zhukova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Rusko,Kostroma,Davydovskij 2/55</are:text>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Botina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Lvivska,Stebnik</are:text>
+     </are:adresa>
+     <are:jmeno>Ihor</are:jmeno>
+     <are:prijmeni>Kozak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Rachivskyj,Kostylivka</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Tkach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Vynohradovo,Sadova 31</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Kosto</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Vel.Bereznyj,Vakarova 2/33</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Ripak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Vynohradovo,Myru 37</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Fanta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Vyhohradovo</are:text>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Kormosh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Iv.-Frankivska,Dolynský,Hoshiv</are:text>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Pylypiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Iv.-Frankivska,Dolynský,Hoshiv</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Pylypiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Lvivska,Žydačivský</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Buchynskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Tjačivskyj,Chumalevo,Danchiv</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Sava</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Tjačivskyj,Chumalevo 37</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Drahula</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Tjačivskyj,Kryčevo,Vaydy 19</are:text>
+     </are:adresa>
+     <are:jmeno>Diana</are:jmeno>
+     <are:prijmeni>Turok</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Tjačivskyj,Kryčevo</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Maleta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Chustskyj,Selyshe</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Louska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Ternopilska,Myškovyči</are:text>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Lushpak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Rachivskyj,Vodycja</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Derdyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Tjačivský,Vonihovo</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Hisem</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Lvivska,Stebnyk</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Korytovskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-25" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ukrajina,Zakarpatska,Dilove</are:text>
+     </are:adresa>
+     <are:jmeno>Aleksandr</are:jmeno>
+     <are:prijmeni>Hudec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

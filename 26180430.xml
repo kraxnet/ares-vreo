@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T01:31:20"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>01:31:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26180430</are:ICO>
+   <are:ObchodniFirma>Bytové družstvo Nový život, v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22290206</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>16000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Vokovice</are:castObce>
+    <are:mop>Praha 6</are:mop>
+    <are:ulice>Jemenská</are:ulice>
+    <are:cisloPop>579</are:cisloPop>
+    <are:cisloOr>4</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-06-02</are:DatumZapisu>
+   <are:DatumVymazu>2017-04-14</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem, správa, údržba a renovace bytového a nebytového fondu
+domů
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-06-02" dvy="2017-04-14">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-06-02" dvy="2017-04-14">
+    <are:Text>
+Jménem družstva za představenstvo jedná navenek předseda nebo
+místopředseda představenstva, každý samostatně v plném rozsahu.
+Je-li pro právní úkon předepsána písemná forma, musí být
+podepsán dvěma členy představenstva, z nichž jeden musí být
+předseda nebo místopředseda představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-06-02" dvy="2003-07-23">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2000-06-02</are:vznikFunkce>
+     <are:zanikFunkce>2003-02-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jemenská čp</are:ulice>
+      <are:cisloTxt>579</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Štědrá</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-06-02" dvy="2003-07-23">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2000-06-02</are:vznikFunkce>
+     <are:zanikFunkce>2002-12-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jemenská čp</are:ulice>
+      <are:cisloTxt>580</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Konečný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-06-02" dvy="2003-07-23">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2000-06-02</are:vznikFunkce>
+     <are:zanikFunkce>2003-02-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jemenská čp</are:ulice>
+      <are:cisloTxt>579</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Halama</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-06-02" dvy="2003-07-23">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2000-06-02</are:vznikFunkce>
+     <are:zanikFunkce>2003-02-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jemenská čp</are:ulice>
+      <are:cisloTxt>580</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Bachtjan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-06-02" dvy="2016-11-25">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jemenská čp</are:ulice>
+      <are:cisloTxt>579</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Hergesell</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-07-23" dvy="2004-06-17">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2003-02-17</are:vznikFunkce>
+     <are:zanikFunkce>2004-04-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22290206</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jemenská</are:ulice>
+      <are:cisloTxt>čp. 579</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Halama</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-07-23" dvy="2004-06-17">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2003-02-17</are:vznikFunkce>
+     <are:zanikFunkce>2004-04-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22290214</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jemenská</are:ulice>
+      <are:cisloTxt>čp. 580</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Bachtjan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-07-23" dvy="2010-07-20">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2003-01-22</are:vznikFunkce>
+     <are:zanikFunkce>2008-02-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21710236</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Soukenická</are:ulice>
+      <are:cisloTxt>25/1188</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Věra</are:jmeno>
+     <are:prijmeni>Nováková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-06-17" dvy="2014-05-04">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2004-04-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22290214</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jemenská</are:ulice>
+      <are:cisloTxt>580</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Bachtjan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-06-17" dvy="2016-11-25">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2004-04-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22290206</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Jemenská</are:ulice>
+      <are:cisloTxt>579</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Halama</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-07-20" dvy="2016-11-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-06-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2009-06-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21749434</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:ulice>Legerova</are:ulice>
+      <are:cisloPop>995</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Ilona</are:jmeno>
+     <are:prijmeni>Kepáková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-05-04" dvy="2017-04-14">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2004-04-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>42612501</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38203</are:psc>
+      <are:obec>Holubov</are:obec>
+      <are:castObce>Holubov</are:castObce>
+      <are:cisloPop>195</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>BACHTJAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-25" dvy="2016-11-29">
+    <are:clenstvi>
+     <are:zanikClenstvi>2013-08-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22290206</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vokovice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Jemenská</are:ulice>
+      <are:cisloPop>579</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDĚNEK</are:jmeno>
+     <are:prijmeni>HERGESELL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-25" dvy="2017-04-14">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2004-04-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22290206</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vokovice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Jemenská</are:ulice>
+      <are:cisloPop>579</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>HALAMA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-25" dvy="2017-04-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-06-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2009-06-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22290214</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vokovice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Jemenská</are:ulice>
+      <are:cisloPop>580</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ILONA</are:jmeno>
+     <are:prijmeni>KEPÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2014-05-27" dvy="2017-04-14">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2014-05-27" dvy="2017-04-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21755370</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Slavíkova</are:ulice>
+      <are:cisloPop>1620</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTINA</are:jmeno>
+     <are:prijmeni>VÁCHOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

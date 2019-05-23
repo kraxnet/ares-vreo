@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-04-18T14:41:07"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-04-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-04-18</are:Datum_vypisu>
+   <are:Cas_vypisu>14:41:07</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48248827</are:ICO>
+   <are:ObchodniFirma>Vasiľ Lukačejda - LUX</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>6649297</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>39131</are:psc>
+    <are:obec>Jistebnice</are:obec>
+    <are:castObce>Vlásenice</are:castObce>
+    <are:cisloPop>37</are:cisloPop>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:stat>703</are:stat>
+    <are:psc>08501</are:psc>
+    <are:obec>Bardejov</are:obec>
+    <are:ulice>Andrejová</are:ulice>
+    <are:cisloTxt>36</are:cisloTxt>
+   </are:Bydliste>
+   <are:DatumZapisu>1995-05-31</are:DatumZapisu>
+   <are:DatumVymazu>2018-04-14</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se ke dni právní moci tohoto rozhodnutí z Obchodního rejstříku včetně všech zapsaných skutečností podnikatel Vasiľ Lukačejda - LUX, Jistebnice - Vlásenice 37, PSČ 39131, identifikační číslo 482 48 827.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-05-31" dvy="2018-04-14">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="1995-05-31" dvy="2001-11-07">
+    <are:fosoba>
+     <are:jmeno>Vasil</are:jmeno>
+     <are:prijmeni>Lukačejda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-11-07" dvy="2018-01-03">
+    <are:fosoba>
+     <are:jmeno>Vasiľ</are:jmeno>
+     <are:prijmeni>Lukačejda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-01-03" dvy="2018-04-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>30818770</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39131</are:psc>
+      <are:okres>Tábor</are:okres>
+      <are:obec>Jistebnice</are:obec>
+      <are:castObce>Vlásenice</are:castObce>
+      <are:cisloPop>41</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VASIĽ</are:jmeno>
+     <are:prijmeni>LUKAČEJDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

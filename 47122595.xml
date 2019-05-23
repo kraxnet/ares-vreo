@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T22:56:47"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>22:56:47</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>47122595</are:ICO>
+   <are:ObchodniFirma>INSIDE s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:psc>10600</are:psc>
+    <are:obec>Praha 10</are:obec>
+    <are:ulice>Žírovnická</are:ulice>
+    <are:cisloTxt>5</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-10-08</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-10-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-10-08">
+    <are:Text>
+Zastupování a podepisování za společnost:
+Statutarním orgánem společnosti je jednatel. Společnost může
+mít jednoho nebo více jednatelů. Každý jednatel zastupuje společ-
+nost navenek a podepisuje za ni samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-10-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Charles de Gaulle</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Kokrment</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-10-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-10-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Reppenstedt, SRN</are:obec>
+      <are:ulice>Christian Andersen 9</are:ulice>
+     </are:adresa>
+     <are:jmeno>Donata</are:jmeno>
+     <are:prijmeni>Trieschová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-10-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Reppenstedt, SRN</are:obec>
+      <are:ulice>Christian Andersen 9</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jochen</are:jmeno>
+     <are:prijmeni>Triesch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-10-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>1142</are:psc>
+      <are:obec>Berlin, SRN</are:obec>
+      <are:ulice>Raul Wallenbergstrasse 41</are:ulice>
+     </are:adresa>
+     <are:jmeno>Achim</are:jmeno>
+     <are:prijmeni>Schmich</are:prijmeni>
+     <are:titulPred>Dr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-10-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>2120</are:psc>
+      <are:obec>Vastorf, SRN</are:obec>
+      <are:ulice>Volksdorf 20</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Dr. Karl-Joachim Meyer</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

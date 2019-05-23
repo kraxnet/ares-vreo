@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T10:00:55"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>10:00:55</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>70857211</are:ICO>
+   <are:ObchodniFirma>Relmo GmbH, organizační složka</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>40533</are:psc>
+    <are:obec>Děčín V</are:obec>
+    <are:ulice>J.Š.Baara</are:ulice>
+    <are:cisloTxt>36</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-06-23</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+činnost organizačních a ekonomických poradců
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v oblasti poskytování služeb
+     </are:Text>
+     <are:Text>
+vnitrostátní a mezinárodní zasilatelství
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-06-23">
+   <are:Nazev>Vedoucí organizační složky</are:Nazev>
+   <are:Clen dza="2000-06-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Děčín XVII-Jalůvčí</are:obec>
+      <are:ulice>ul. 5. května</are:ulice>
+      <are:cisloTxt>126</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Vurma</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-06-23">
+   <are:Nazev>Zřizovatel - zahraniční osoba</are:Nazev>
+   <are:Clen dza="2000-06-23">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>8953 Dietikon, Zinggenstrasse 9, zastoup. jednatelkou Monikou Vurma-Lauper (registr. v obch. rejstříku Kantonu Zürich-hl. rejstřík, č. firmy CH-020.4.020.740-6)</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>Relmo GmbH</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-10T12:20:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-10</are:Datum_vypisu>
+   <are:Cas_vypisu>12:20:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>47780851</are:ICO>
+   <are:ObchodniFirma>ŽALUD Most, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>30045291</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>43521</are:psc>
+    <are:okres>Most</are:okres>
+    <are:obec>Obrnice</are:obec>
+    <are:castObce>Obrnice</are:castObce>
+    <are:ulice>Nová výstavba</are:ulice>
+    <are:cisloPop>168</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-12-10</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-12-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-12-10">
+    <are:Text>
+Jednatel je oprávněn jednat jménem společnosti samostatně ve
+všech věcech. Podepisování se děje tak, že jednatel připojí svůj
+podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-12-10" dvy="1992-12-10">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Most</are:obec>
+      <are:ulice>J.Suka</are:ulice>
+      <are:cisloTxt>bl.509/269</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Žalud</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-10" dvy="2018-03-20">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Most</are:obec>
+      <are:ulice>J.Suka</are:ulice>
+      <are:cisloTxt>bl.509/269</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Žalud</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-17" dvy="1997-03-07">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Most</are:obec>
+      <are:ulice>Zd.Štěpánka</are:ulice>
+      <are:cisloTxt>2808</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Žalud</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-03-20">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26902982</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>44101</are:psc>
+      <are:okres>Louny</are:okres>
+      <are:obec>Petrohrad</are:obec>
+      <are:castObce>Bílenec</are:castObce>
+      <are:cisloEv>1</are:cisloEv>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>ŽALUD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-10-04">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-10-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26756307</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43401</are:psc>
+      <are:okres>Most</are:okres>
+      <are:obec>Most</are:obec>
+      <are:castObce>Most</are:castObce>
+      <are:ulice>Bělehradská</are:ulice>
+      <are:cisloPop>3347</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>SOŇA</are:jmeno>
+     <are:prijmeni>AUBRECHTOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>IČ 62760840</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-12-21">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2018-03-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26902982</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>44101</are:psc>
+      <are:okres>Louny</are:okres>
+      <are:obec>Petrohrad</are:obec>
+      <are:castObce>Bílenec</are:castObce>
+      <are:cisloEv>1</are:cisloEv>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>ŽALUD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

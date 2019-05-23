@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T02:56:23"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>02:56:23</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26320428</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků náměstí Generála Píky 19, 20, 21, 22, Plzeň</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24519529</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>32600</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:castObce>Východní Předměstí</are:castObce>
+    <are:ulice>náměstí Generála Píky</are:ulice>
+    <are:cisloPop>2216</are:cisloPop>
+    <are:cisloOr>19</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2001-01-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-01-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-01-12" dvy="2015-06-12">
+    <are:Text>
+Způsob jednání: Jménem společenství jedná výbor. Za výbor jedná
+navenek předseda výboru nebo výborem písemně pověřený člen
+výboru. Je-li pro právní úkon zapotřebí písemná forma, je
+nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-06-12" dvy="2017-07-13">
+    <are:Text>
+Za společenství jedná společně předseda výboru a další člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2017-07-13">
+    <are:Text>
+Společenství zastupuje společně předseda výboru a další člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-01-12" dvy="2012-06-19">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>nám. Gen. Píky</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Honzíček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-12" dvy="2012-06-19">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519545</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>nám. Gen. Píky</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Hrubant</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-12" dvy="2012-06-19">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519537</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>nám. Gen. Píky</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Šigutová</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-12" dvy="2012-06-19">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519553</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>nám. Gen. Píky</are:ulice>
+      <are:cisloTxt>22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luděk</are:jmeno>
+     <are:prijmeni>Jirásek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-19" dvy="2015-10-30">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Honzíček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-19" dvy="2015-10-30">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519545</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Hrubant</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-19" dvy="2015-10-30">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519537</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Vainerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-19" dvy="2015-10-30">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519553</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Filip</are:jmeno>
+     <are:prijmeni>Holeček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-30" dvy="2016-03-11">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519537</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloPop>2217</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVLA</are:jmeno>
+     <are:prijmeni>VAINEROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-30" dvy="2017-07-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-05-03</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2017-05-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloPop>2216</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>HONZÍČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-30" dvy="2017-07-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-05-03</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2017-05-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519545</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloPop>2218</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>HRUBANT</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-30" dvy="2017-07-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-05-03</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519553</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloPop>2219</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FILIP</are:jmeno>
+     <are:prijmeni>HOLEČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-11" dvy="2017-07-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2017-05-03</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7127642</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33701</are:psc>
+      <are:okres>Rokycany</are:okres>
+      <are:obec>Medový Újezd</are:obec>
+      <are:castObce>Medový Újezd</are:castObce>
+      <are:cisloPop>93</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVLA</are:jmeno>
+     <are:prijmeni>VAINEROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-05-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2017-05-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7127642</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33701</are:psc>
+      <are:okres>Rokycany</are:okres>
+      <are:obec>Medový Újezd</are:obec>
+      <are:castObce>Medový Újezd</are:castObce>
+      <are:cisloPop>93</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVLA</are:jmeno>
+     <are:prijmeni>VAINEROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-05-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloPop>2216</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>HONZÍČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-05-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519545</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloPop>2218</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>HRUBANT</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-05-04</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519553</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>náměstí Generála Píky</are:ulice>
+      <are:cisloPop>2219</are:cisloPop>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FILIP</are:jmeno>
+     <are:prijmeni>HOLEČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>02:56:24</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26320428</are:ICO>
+   <are:ObchodniFirma>Společenství náměstí Generála Píky 19, Plzeň</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24519529</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:ulice>nám. Generála Píky</are:ulice>
+    <are:cisloTxt>2216/19</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-01-12</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-01-12" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-01-12" dvy="2001-12-31">
+    <are:Text>
+Způsob jednání: Jménem společenství jedná výbor. Za výbor jedná
+navenek předseda výboru nebo výborem písemně pověřený člen
+výboru. Je-li pro právní úkon zapotřebí písemná forma, je
+nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-01-12" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519529</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>nám. Gen. Píky</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Honzíček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-12" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519545</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>nám. Gen. Píky</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Hrubant</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-12" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519537</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>nám. Gen. Píky</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Šigutová</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-12" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24519553</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>nám. Gen. Píky</are:ulice>
+      <are:cisloTxt>22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luděk</are:jmeno>
+     <are:prijmeni>Jirásek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

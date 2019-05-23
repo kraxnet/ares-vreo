@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-18T15:06:30"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-18</are:Datum_vypisu>
+   <are:Cas_vypisu>15:06:30</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26725509</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu čp. 392 v Praze 6-Břevnově</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24990582</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>16900</are:psc>
+    <are:okres>Praha 6</are:okres>
+    <are:obec>Praha 6</are:obec>
+    <are:castObce>Břevnov</are:castObce>
+    <are:ulice>Hošťálkova</are:ulice>
+    <are:cisloTxt>392/1a</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumVzniku>2001-03-07</are:DatumVzniku>
+   <are:DatumZapisu>2002-09-18</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+správa bytového domu a pozemků
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-09-18">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-09-18" dvy="2012-01-17">
+    <are:Text>
+.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2017-01-12">
+    <are:Text>
+Navenek zastupuje společenství předseda výboru a v době nepřítomnosti předsedy místopředseda. Písemná právní jednání za společenství podepisuje předseda společně dalším členem výboru; v době nepřítomnosti předsedy výboru podepisují za společenství dva čle
+nové výboru. Kdo za společenství podepisuje, připojí k názvu společenství svůj podpis a údaj o své funkci.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-05-26" dvy="2005-09-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-06-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-03-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2003-07-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>127892</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40801</are:psc>
+      <are:obec>Rumburk</are:obec>
+      <are:ulice>Severní</are:ulice>
+      <are:cisloTxt>573/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Koštíř</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-26" dvy="2005-09-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-06-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-03-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2003-07-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:ulice>Mikulova</are:ulice>
+      <are:cisloTxt>9/1574</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roswitha</are:jmeno>
+     <are:prijmeni>Bozděchová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-26" dvy="2005-09-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-06-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-03-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Tomanova</are:ulice>
+      <are:cisloTxt>1884/92</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Raabová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-26" dvy="2005-09-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-06-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-03-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>27351</are:psc>
+      <are:obec>Horní Bezděkov</are:obec>
+      <are:cisloTxt>53</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Blanka</are:jmeno>
+     <are:prijmeni>Mírná</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-26" dvy="2005-09-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-06-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-03-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloTxt>392/1a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Henzlová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-26" dvy="2005-09-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-06-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-03-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25725190</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Na krutci</are:ulice>
+      <are:cisloTxt>805/15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Suchopár</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-26" dvy="2006-12-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-06-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-06-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloTxt>392/1b</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Procházková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-26" dvy="2011-12-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-06-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-06-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloTxt>392/1b</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Klára</are:jmeno>
+     <are:prijmeni>Steiger</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-09-09" dvy="2011-12-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-03-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-03-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2005-04-04</are:vznikFunkce>
+     <are:zanikFunkce>2008-03-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21841284</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Mikulova</are:ulice>
+      <are:cisloTxt>1574/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Šinták</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-09-09" dvy="2011-12-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-03-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-03-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2005-04-04</are:vznikFunkce>
+     <are:zanikFunkce>2008-03-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990507</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Za Strahovem</are:ulice>
+      <are:cisloTxt>76</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Drahotušský</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-28" dvy="2010-01-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-06-14</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-04-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloTxt>392/1a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ondřej</are:jmeno>
+     <are:prijmeni>Bydžovský</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-01-20" dvy="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-04-29</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-04-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22735852</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Břevnovská</are:ulice>
+      <are:cisloTxt>485/16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Procházková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-22" dvy="2012-01-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-05-11</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2008-04-21</are:vznikFunkce>
+     <are:zanikFunkce>2011-05-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21841284</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:ulice>Mikulova</are:ulice>
+      <are:cisloPop>1574</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Šinták</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-22" dvy="2012-01-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-05-11</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2008-04-21</are:vznikFunkce>
+     <are:zanikFunkce>2011-05-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990507</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Za Strahovem</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>76</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Drahotušský</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-22" dvy="2012-01-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-06-14</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-04-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990591</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>1b</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Klára</are:jmeno>
+     <are:prijmeni>Steiger</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-01-17" dvy="2012-08-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-05-11</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-04-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2011-05-26</are:vznikFunkce>
+     <are:zanikFunkce>2012-04-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21841284</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:ulice>Mikulova</are:ulice>
+      <are:cisloPop>1574</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Šinták</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-01-17" dvy="2012-08-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-05-11</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2011-05-26</are:vznikFunkce>
+     <are:zanikFunkce>2012-06-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990507</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Za Strahovem</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>76</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Drahotušský</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-01-17" dvy="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-04-29</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-04-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990591</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>1b</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Klára</are:jmeno>
+     <are:prijmeni>Steiger</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-01-17" dvy="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-05-11</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-05-11</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22769005</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15500</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:ulice>Bašteckého</are:ulice>
+      <are:cisloPop>2554</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Renáta</are:jmeno>
+     <are:prijmeni>Zbranková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-08-17" dvy="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-05-11</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-05-11</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2012-06-07</are:vznikFunkce>
+     <are:zanikFunkce>2016-05-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990507</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Za Strahovem</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>76</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Drahotušský</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-08-17" dvy="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-05-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-06-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2012-06-07</are:vznikFunkce>
+     <are:zanikFunkce>2016-06-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990507</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Za Strahovem</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>76</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Leština</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-08-17" dvy="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-05-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-06-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990604</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>1c</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Čejka</are:prijmeni>
+     <are:titulPred>Ing. Arch.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2016-07-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990507</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Za Strahovem</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>76</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>DRAHOTUŠSKÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2016-06-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990591</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>1b</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KLARA</are:jmeno>
+     <are:prijmeni>STEIGER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2016-06-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22769005</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15500</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Bašteckého</are:ulice>
+      <are:cisloPop>2554</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RENÁTA</are:jmeno>
+     <are:prijmeni>ZBRANKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2016-06-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22154469</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloPop>629</are:cisloPop>
+      <are:cisloOr>53</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>PROCHÁZKOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2016-06-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990604</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>1c</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>ČEJKA</are:prijmeni>
+     <are:titulPred>Ing. arch.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-12" dvy="2019-01-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2016-07-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24990507</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Za Strahovem</are:ulice>
+      <are:cisloPop>392</are:cisloPop>
+      <are:cisloOr>76</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>LEŠTINA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2016-07-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22151303</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Kochanova</are:ulice>
+      <are:cisloPop>366</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>LEŠTINA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2002-09-18" dvy="2004-05-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2002-09-18" dvy="2004-05-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-03-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-03-18</are:vznikFunkce>
+     <are:zanikFunkce>2003-06-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21945900</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Táborská</are:ulice>
+      <are:cisloTxt>706/18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Leština</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-09-18" dvy="2004-05-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-03-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-03-18</are:vznikFunkce>
+     <are:zanikFunkce>2003-06-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>127892</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Děčín</are:okres>
+      <are:obec>Rumburk</are:obec>
+      <are:ulice>Severní</are:ulice>
+      <are:cisloTxt>573/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Koštíř</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-09-18" dvy="2004-05-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-03-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-03-18</are:vznikFunkce>
+     <are:zanikFunkce>2003-06-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloTxt>392/1b</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Klára</are:jmeno>
+     <are:prijmeni>Steiger</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-09-18" dvy="2004-05-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-03-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-03-18</are:vznikFunkce>
+     <are:zanikFunkce>2003-06-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22170294</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Tomanova</are:ulice>
+      <are:cisloTxt>1884/92</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Raabová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-09-18" dvy="2004-05-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-03-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-03-18</are:vznikFunkce>
+     <are:zanikFunkce>2003-06-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloTxt>392/1b</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Procházková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-09-18" dvy="2004-05-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-03-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-03-18</are:vznikFunkce>
+     <are:zanikFunkce>2003-06-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22600299</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 10</are:okres>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Černokostelecká</are:ulice>
+      <are:cisloTxt>118/19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Blanka</are:jmeno>
+     <are:prijmeni>Mírná</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-09-18" dvy="2004-05-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-03-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-03-18</are:vznikFunkce>
+     <are:zanikFunkce>2003-06-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Břevnov</are:castObce>
+      <are:ulice>Hošťálkova</are:ulice>
+      <are:cisloTxt>392/1a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Henzlová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

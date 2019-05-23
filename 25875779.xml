@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-01-25T14:06:34"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-01-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-01-25</are:Datum_vypisu>
+   <are:Cas_vypisu>14:06:34</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25875779</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu Havlíčkovo náměstí 20</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:psc>70800</are:psc>
+    <are:obec>Ostrava-Poruba</are:obec>
+    <are:ulice>Havlíčkovo náměstí</are:ulice>
+    <are:cisloTxt>20</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-03-28</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-03-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-03-28" dvy="2016-12-02">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná
+forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-12-02">
+    <are:Text>
+Za společenství vlastníků jedná člen výboru samostatně s výjimkou právních jednání v písemné formě, kdy za společenství jednají dva členové výboru společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-03-28" dvy="2003-06-06">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-02-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloTxt>727</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Nevludová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-03-28" dvy="2003-06-06">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-02-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloTxt>727</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Květoslav</are:jmeno>
+     <are:prijmeni>Lulák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-03-28" dvy="2003-06-06">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-02-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloTxt>727</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Šimák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-08-23" dvy="2005-06-08">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloTxt>727/20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Kuruc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-08-23" dvy="2005-06-08">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloTxt>727/20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavol</are:jmeno>
+     <are:prijmeni>Zajac</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-08-23" dvy="2005-06-08">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloTxt>727/20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Hirner</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-08" dvy="2011-04-23">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo nám.</are:ulice>
+      <are:cisloTxt>727/20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Schneiderová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-08" dvy="2012-04-06">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo nám.</are:ulice>
+      <are:cisloTxt>727/20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kateřina</are:jmeno>
+     <are:prijmeni>Hirnerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-08" dvy="2012-04-06">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo nám.</are:ulice>
+      <are:cisloTxt>727/20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Mikeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-04-23" dvy="2012-08-18">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo nám.</are:ulice>
+      <are:cisloPop>727</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Tichá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-04-06" dvy="2012-08-18">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo nám.</are:ulice>
+      <are:cisloPop>727</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Mikeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-04-06" dvy="2016-12-02">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-12-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo nám.</are:ulice>
+      <are:cisloPop>727</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Opava</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-08-18" dvy="2016-12-02">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-12-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2015-12-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo nám.</are:ulice>
+      <are:cisloPop>727</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Tichá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-08-18" dvy="2016-12-02">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-12-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2015-12-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo nám.</are:ulice>
+      <are:cisloPop>727</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Šárka</are:jmeno>
+     <are:prijmeni>Rovenská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-14</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-12-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloPop>727</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>TICHÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-14</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2015-12-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloPop>727</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ŠÁRKA</are:jmeno>
+     <are:prijmeni>ROVENSKÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-02" dvy="2018-01-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-12-14</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-11-08</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloPop>727</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>OPAVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-01-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-11-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3290549</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloPop>727</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>SKLENÁŘ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-01-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-01-25</are:Datum_vypisu>
+   <are:Cas_vypisu>14:06:35</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25875779</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu Havlíčkovo náměstí 20</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>70800</are:psc>
+    <are:obec>Ostrava-Poruba</are:obec>
+    <are:ulice>Havlíčkovo náměstí</are:ulice>
+    <are:cisloTxt>20</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-03-28</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+1. Předmětem činnosti společenství je správa, provoz a opravy
+   společných částí domu, vymezených prohlášením vlastníka způ-
+   sobem stanoveným v zákoně č. 72/1994 Sb. § 2 písm. g a zabez-
+   pečování dalších činností spojených s provozem domu /dále jen
+   správa domu/.
+     </are:Text>
+     <are:Text>
+2. Správou domu se rozumí:
+     </are:Text>
+     <are:Text>
+a. zajišťování provozu domu a pozemku včetně technických zaří-
+   zení a společných částí technických sítí a to tak, aby spo-
+   lečné části domu byly provozuschopné a sloužily k jejich řád-
+   nému užívání bytů a nebytových prostorů v domě,
+     </are:Text>
+     <are:Text>
+b. zajišťování, koordinace a slaďování oprav a rekonstrukcí spo-
+   lečných částí domu, včetně šestnácti balkonů, jejichž nosná
+   konstrukce je součástí vodorovné nosné konstrukce domu tak,
+   aby stav a vzhled domu byl zásadně jednotný, včetně zajišťo-
+   vání havarijní služby,
+     </are:Text>
+     <are:Text>
+c. zajišťování protipožárního zabezpečení domu a jeho revize a
+   opravy,
+     </are:Text>
+     <are:Text>
+d. zajišťování revizí a oprav rozvodů plynu, rozvodů elektrické
+   energie, svislých a vodorovných rozvodů vody a odvodů odpad-
+   ních vod, rozvodů tepla, teplé užitkové vody, rozvodů společ-
+   né televizní a rozhlasové antény a ostatních systémů k příjmu
+   a rozvodu televizního a rozhlasového signálu, elektrických
+   sdělovacích zařízení v domě a hromosvodů, zajišťování revizí
+   a oprav nutných k provozu radiátorů ústředního vytápění.
+   Všechny rozvody až po hlavní uzávěry nebo napojení na hlavní
+   řád majitele příslušných rozvodů na jedné straně, až po
+   vnitřní instalace v bytech na straně druhé,
+     </are:Text>
+     <are:Text>
+e. plnění dalších povinností, které vyplynou vlastníkům jednotek
+   ze zvláštních právních předpisů v souvislosti s jejich spolu-
+   vlastnictvím ke společným částem domu,
+     </are:Text>
+     <are:Text>
+f. zajišťování administrativní a operativně technické činnosti
+   spojené se správou domu a vedení příslušné technické a pro-
+   vozní dokumentace k domu,
+     </are:Text>
+     <are:Text>
+g. vybírání příspěvků od vlastníků jednotek na náklady spojené
+   se správou společných částí domu a pozemku,
+     </are:Text>
+     <are:Text>
+h. zajišťování vedení evidence plateb vlastníků jednotek na ná-
+   klady spojené se správou společných částí domu a pozemku a o
+   dalších prostředcích, které jsou z rozhodnutí vlastníků vy-
+   bírány,
+     </are:Text>
+     <are:Text>
+i. vedení evidence nákladů vzniklých se zajišťováním správy
+   domu,
+     </are:Text>
+     <are:Text>
+j. vedení přehledu všech ostatních nákladů vztahujících se k
+   domu a pozemku,
+     </are:Text>
+     <are:Text>
+k. zřízení účtu u banky a hospodaření s peněžními prostředky
+   vlastníků jednotek, svěřených společenství na úhradu nákladů,
+   spojených se správou a provozem společných částí domu, s po-
+   vinností oprávněných osob s nimi disponovat s péčí řádného
+   správce cizího majetku, podle pokynů schválených vlastníky,
+     </are:Text>
+     <are:Text>
+l. vedení účetnictví domu podle zákona č. 563/1991 Sb. o účet-
+   nictví, ve znění pozdějších spředpisů, s odděleným účtováním
+   na jednotlivé jednoty /byty a nebytové prostory/ a sledování
+   nákladů a výnosů v příslušném účetním období.
+     </are:Text>
+     <are:Text>
+3. Na základě pověření všech vlastníků jednotek zajišťuje spo-
+   lečenství pojištění jednotlivých jednotek a k nim přísluše-
+   jících podílů na společných částech domu s odpovědností za
+   dodržení předepsaných termínů jednotlivých plateb pojistného
+   za ty vlastníky jednotek, kteří společenství včas poskytnou
+   peněžní prostředky k úhradě pojistného.
+     </are:Text>
+     <are:Text>
+4. Na základě pověření vlastníků jednotek zajišťuje společen-
+   ství:
+     </are:Text>
+     <are:Text>
+a. plnění poskytovaná s užíváním bytů a nebytových prostorů a
+   společných částí domu /dále jen služby/, s výjimkou těch,
+   která si zajišťují vlastníci jednotek od dodavatele přímo
+   /dodávky el. energie nebo plynu do jednotlivých bytů/,
+     </are:Text>
+     <are:Text>
+b. dodávky elektrické energie a vody a odvádění odpadních vod
+   pro společné části domu,
+     </are:Text>
+     <are:Text>
+c. dodávky vody a odvádění odpadních vod pro jednotlivé jednotky
+     </are:Text>
+     <are:Text>
+d. dodávky tepla a teplé užitkové vody od dodavatele tepla ze
+   zdroje umístěného mimo dům,
+     </are:Text>
+     <are:Text>
+e. další povinnosti, které vyplynou pro vlastníky jednotek, pří-
+   padně pro společenství ze zvláštních právních předpisů.
+     </are:Text>
+     <are:Text>
+5. Činnost společenství při zajišťování služeb pro vlastníky
+   jednotek:
+     </are:Text>
+     <are:Text>
+a. vybírání záloh na úhradu za služby od vlastníků jednotek,
+     </are:Text>
+     <are:Text>
+b. vedení potřebné evidence plateb vlastníků jednotek na zálohy
+   na úhradu za služby,
+     </are:Text>
+     <are:Text>
+c. zřízení účtu u banky a hospodaření s peněžními prostředky
+   svěřenými vlastníky jednotek formou záloh na úhradu za služby
+     </are:Text>
+     <are:Text>
+d. vyúčtování zálohových plateb na úhradu za služby pro jednot-
+   livé vlastníky jednotek.
+     </are:Text>
+     <are:Text>
+6. Společenství je oprávněno sjednat smlouvu o zástavním právu
+   k jednotce, včetně příslušného spoluvlastnického podílu na
+   společných částech domu, k zajištění pohledávek vyplývajících
+   z úvěru poskytnutého na náklady spojené se správou domu, a to
+   se souhlasem vlastníka jednotky.
+     </are:Text>
+     <are:Text>
+7. Všechny změny, které se týkají označení jednotek a velikosti
+   spoluvlastnických podílů na společných částech domu, je spo-
+   lečenství povinno do 30 dnů oznámit katastrálnímu úřadu.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-03-28" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-03-28" dvy="2001-12-31">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná
+forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-03-28" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-02-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloTxt>727</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Nevludová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-03-28" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-02-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloTxt>727</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Květoslav</are:jmeno>
+     <are:prijmeni>Lulák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-03-28" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-02-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Havlíčkovo náměstí</are:ulice>
+      <are:cisloTxt>727</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Šimák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

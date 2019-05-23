@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T21:50:31"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>21:50:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45806063</are:ICO>
+   <are:ObchodniFirma>V.Fraas,spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>okr.Prostějov</are:obec>
+    <are:ulice>Horní Štěpánov č.p.333</are:ulice>
+   </are:Sidlo>
+   <are:Sidlo>
+    <are:ruianKod>21782890</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 3</are:obec>
+    <are:ulice>Domažlická</are:ulice>
+    <are:cisloTxt>4</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-08-12</are:DatumZapisu>
+   <are:DatumVymazu>1992-11-30</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zprostředkovatelská činnost v oblasti nemovitostí
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-08-12" dvy="1992-11-30">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-11-30" dvy="1992-11-30">
+    <are:Text>
+Způsob jednání jménem společnosti: Jednatel jedná jménem
+společnosti samostatně a za společnost se podepisuje tak,
+že k vypsanému nebo vytištěnému názvu společnosti připojí
+svůj podpis s uvedením funkce a eventuálně otisk razítka.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-08-12" dvy="1992-11-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21782890</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Domažlická</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luděk</are:jmeno>
+     <are:prijmeni>Kolenatý</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-08-12" dvy="1992-11-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21781842</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Sudoměřská</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Holoubek</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-11-30" dvy="1992-11-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79803</are:psc>
+      <are:obec>Plumlov, okr.Prostějov</are:obec>
+      <are:ulice>Žárovice 5</are:ulice>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Parák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-08-12" dvy="1992-11-30">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-08-12" dvy="1992-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21782890</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Domažlická</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luděk</are:jmeno>
+     <are:prijmeni>Kolenatý</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-08-12" dvy="1992-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21781842</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Sudoměřská</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Holoubek</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-11-30" dvy="1992-11-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Helmbrechts  SRN</are:obec>
+      <are:ulice>Theodor-Heuss Str.6</are:ulice>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Schmidt</are:prijmeni>
+     <are:titulPred>Dr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>21:50:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45806063</are:ICO>
+   <are:ObchodniFirma>V. Fraas, spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>okr. Prostějov</are:obec>
+    <are:ulice>Horní Štěpánov č.p. 333</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>1994-11-02</are:DatumZapisu>
+   <are:DatumVymazu>1995-05-24</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zprostředkovatelská činnost v oblasti nemovitostí
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1994-11-02" dvy="1995-05-24">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1994-11-02" dvy="1995-05-24">
+    <are:Text>
+Způsob jednání jménem společnosti: Jednatel jedná jménem společ-
+nosti samostatně a za společnost se podepisuje tak, že k vypsané-
+mu nebo vytištěnému názvu společnosti připojí svůj podpis
+s uvedením funkce a eventuálně otisk razítka.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1994-11-02" dvy="1995-05-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79803</are:psc>
+      <are:obec>Plumlov, okr. Prostějov</are:obec>
+      <are:ulice>Žárovice 5</are:ulice>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Parák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-11-02" dvy="1995-05-24">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-03-16" dvy="1995-05-24">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>okr. Prostějov</are:obec>
+      <are:ulice>Horní Štěpánov 333</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>V. FRAAS CZ, spol. s r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1995-03-16" dvy="1995-05-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>95233 Helmbrechts.SRN</are:obec>
+      <are:ulice>Theodor-Heuss Str. 6</are:ulice>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Schmidt</are:prijmeni>
+     <are:titulPred>dr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

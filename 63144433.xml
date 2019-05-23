@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T05:42:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>05:42:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>63144433</are:ICO>
+   <are:ObchodniFirma>H + P Varnsdorf s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:obec>Varnsdorf</are:obec>
+    <are:ulice>Bezručova</are:ulice>
+    <are:cisloTxt>1417</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-09-26</are:DatumZapisu>
+   <are:DatumVymazu>2016-06-08</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost H + P Varnsdorf s.r.o. v likvidaci se sídlem Varnsdorf, Bezručova 1417, identifikační číslo : 631 44 433 ke dni právní moci tohoto usnesení, včetně všech zapsaných skutečností.
+ 
+Právní důvod výmazu : Společnost byla zobchodního rejstříku vymazána na základě skončené likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-09-26" dvy="2016-06-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-09-26" dvy="2016-06-08">
+    <are:Text>
+Jednání jménem společnosti:
+Jednatelé jednají odděleně, každý z jednatelů může sám společnost
+zastupovat.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-09-26" dvy="1998-12-14">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23464437</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>Mariánská</are:ulice>
+      <are:cisloTxt>566</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomislav</are:jmeno>
+     <are:prijmeni>Procházka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-09-26" dvy="1998-12-14">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Kumpfmüllerstrasse 53a</are:obec>
+      <are:ulice>Regensburk, SRN</are:ulice>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Hajný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-12-14" dvy="2016-06-08">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Kumfmüllerstrasse 53a, Regensburk, SRN                            v ČR:  Sloup v Čechách, rekreační středisko OÁZA</are:text>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Hajný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-04-14" dvy="2016-06-08">
+   <are:Nazev>Likvidátoři</are:Nazev>
+   <are:Clen dza="2015-04-14" dvy="2016-06-08">
+    <are:fosoba>
+     <are:adresa>
+     </are:adresa>
+     <are:jmeno>Narcis</are:jmeno>
+     <are:prijmeni>Tomášek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-09-26" dvy="2016-06-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1998-12-14" dvy="2016-06-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Kumfmüllerstrasse 53a, Regensburk, SRN                                  v ČR: Sloup v Čechách, rekreační středisko OÁZA</are:text>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Hajný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

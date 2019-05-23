@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-06T18:54:53"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>18:54:53</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>49285530</are:ICO>
+   <are:ObchodniFirma>A.K. ENGINEERING, spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>19143052</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>60200</are:psc>
+    <are:obec>Brno</are:obec>
+    <are:ulice>Preslova</are:ulice>
+    <are:cisloTxt>33</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-05-20</are:DatumZapisu>
+   <are:DatumVymazu>1995-08-23</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Poskytování inženýrských služeb v oblasti strojírenství.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-05-20" dvy="1995-08-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-05-20" dvy="1995-02-23">
+    <are:Text>
+Způsob jednání za společnost:
+Každý z jednatelů je oprávněn jednat jménem společnosti navenek
+a podepisovat za ni.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-02-23" dvy="1995-08-23">
+    <are:Text>
+Zastupování za společnost:
+Společnost má 2 jednatele, kteří jednají a podepisují za
+společnost každý samostatně, a to tak, že k napsanému nebo
+natištěnému obchodnímu jménu společnosti připojí svůj
+vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-05-20" dvy="1995-02-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9647503</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58401</are:psc>
+      <are:obec>Ledeč nad Sázavou</are:obec>
+      <are:ulice>Zahrádecká</are:ulice>
+      <are:cisloTxt>1008</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Mainer</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-05-20" dvy="1995-02-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22623621</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>V olšinách</are:ulice>
+      <are:cisloTxt>2012</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Igor</are:jmeno>
+     <are:prijmeni>Ovčáčik</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-05-20" dvy="1995-08-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19143052</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Preslova</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Zamazal</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-05-09" dvy="1995-08-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Rohule - Rejčkov 18</are:obec>
+     </are:adresa>
+     <are:prijmeni>Adolfo Borgoňo   P u y u e l o</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-05-20" dvy="1995-08-23">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-02-23" dvy="1995-08-23">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>724</are:stat>
+      <are:obec>08006 Barcelona</are:obec>
+      <are:ulice>Balmes 191</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>INGENIERA AGULLO  S.A., zastoupená Miguelem Agullo Negui</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>18:54:53</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>49285530</are:ICO>
+   <are:ObchodniFirma>ASTRO-CHEKIA, spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>66412</are:psc>
+    <are:obec>Oslavany - Padochov</are:obec>
+    <are:cisloTxt>228</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-05-30</are:DatumZapisu>
+   <are:DatumVymazu>1999-11-26</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+stavba strojů s mechanickým pohonem provozovaná průmyslovým
+způsobem
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-05-30" dvy="1999-11-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-05-30" dvy="1999-11-26">
+    <are:Text>
+Způsob zastupování: společnost má 2 jednatele, kteří jednají
+a podepisují za společnost každý samostatně, a to tak, že
+k napsanému nebo natištěnému obchodnímu jménu společnosti připojí
+svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-05-30" dvy="1996-09-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Rohule-Rejčkov 18</are:obec>
+     </are:adresa>
+     <are:prijmeni>Adolfo Borgnoňo Puyuelo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="1997-03-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19143052</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Preslova</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Zamazal</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-09-18" dvy="1997-03-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19143052</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Preslova</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Adolfo Borgoňo Puyuelo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-03-26" dvy="1999-11-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19143052</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Preslova</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Zamazal</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-03-26" dvy="1999-11-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19143052</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Preslova</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Adolfo Borgoňo Puyuelo nar. 13.10.1943</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-05-30" dvy="1999-11-26">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-05-30" dvy="1999-11-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>08006 Barcelona, Španělsko</are:obec>
+      <are:ulice>Balmes 191</are:ulice>
+     </are:adresa>
+     <are:prijmeni>INGENIERA AGULLO S.A.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

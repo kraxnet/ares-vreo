@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-08-17T13:31:23"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-08-17</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-08-17</are:Datum_vypisu>
+   <are:Cas_vypisu>13:31:23</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25763857</are:ICO>
+   <are:ObchodniFirma>II.LAG, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22681329</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>10600</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Záběhlice</are:castObce>
+    <are:mop>Praha 10</are:mop>
+    <are:ulice>Jabloňová</are:ulice>
+    <are:cisloPop>2136</are:cisloPop>
+    <are:cisloOr>11</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-05-17</are:DatumZapisu>
+   <are:DatumVymazu>2018-08-08</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost II.LAG, spol. s r.o. v likvidaci se sídlem Jabloňová 2136/11, Záběhlice, 106 00 Praha 10, IČ: 25763857, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 68079. Práv
+ním důvodem výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem bytových a nebytových prostor s poskytováním základních
+služeb spojených s pronájmem
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-05-17" dvy="2018-08-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-05-17" dvy="2018-08-08">
+    <are:Text>
+Způsob jednání za společnost:  Každý z jednatelů jedná
+samostatně a podepisování za společnost se provádí tak, že k
+napsanému nebo vytištěnému názvu společnosti připojí jednatel
+svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-05-17" dvy="2015-11-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2626527</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35755</are:psc>
+      <are:obec>Bukovany</are:obec>
+      <are:cisloTxt>102</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Světinský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-08" dvy="2018-08-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21154872</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28002</are:psc>
+      <are:okres>Kolín</are:okres>
+      <are:obec>Kolín</are:obec>
+      <are:castObce>Kolín I</are:castObce>
+      <are:ulice>Karlovo náměstí</are:ulice>
+      <are:cisloPop>78</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>SVĚTINSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-02-22" dvy="2018-08-08">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-02-22" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21734585</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Tyršova</are:ulice>
+      <are:cisloPop>1835</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETRA</are:jmeno>
+     <are:prijmeni>HÝSKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-05-17" dvy="2018-08-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:cisloTxt>34/113</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Tsybulya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:cisloTxt>1/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Yasvoin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:cisloTxt>470/38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Shakhova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Leningradkaja</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Larisa</are:jmeno>
+     <are:prijmeni>Babchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Sedova</are:ulice>
+      <are:cisloTxt>50</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Khorushenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Verboveckoho</are:ulice>
+      <are:cisloTxt>63/45</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vita</are:jmeno>
+     <are:prijmeni>Oberemko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Potrovskoho</are:ulice>
+      <are:cisloTxt>134</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetora</are:jmeno>
+     <are:prijmeni>Oleksandra</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Engelsa</are:ulice>
+      <are:cisloTxt>172/36</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ljudmila</are:jmeno>
+     <are:prijmeni>Burkatska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Smetanskaja</are:ulice>
+      <are:cisloTxt>97/I</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Melnykova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Petrovskoho</are:ulice>
+      <are:cisloTxt>158/II</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Goncharova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Petrovskoho</are:ulice>
+      <are:cisloTxt>158/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alla</are:jmeno>
+     <are:prijmeni>Fursova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Radiščeva</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Irina</are:jmeno>
+     <are:prijmeni>Yeromina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Petrovskoho</are:ulice>
+      <are:cisloTxt>158/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lyudmila</are:jmeno>
+     <are:prijmeni>Gorbatyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Sumagajskoho</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Rushay</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Glinki</are:ulice>
+      <are:cisloTxt>18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yana</are:jmeno>
+     <are:prijmeni>Zakharkina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>bul.Krupska</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viktoriya</are:jmeno>
+     <are:prijmeni>Kovalska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>pr.Chimikiv</are:ulice>
+      <are:cisloTxt>56</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Glotova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-17" dvy="2018-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasy</are:obec>
+      <are:ulice>Rustavi</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alevtyna</are:jmeno>
+     <are:prijmeni>Galytska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-02-24" dvy="2018-08-08">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22681329</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10600</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Záběhlice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Jabloňová</are:ulice>
+      <are:cisloPop>2136</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:ICO>25763857</are:ICO>
+     <are:ObchodniFirma>II.LAG, spol. s r.o. v likvidaci</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T20:45:32"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>20:45:32</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>44847131</are:ICO>
+   <are:ObchodniFirma>B CONSULT, spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22654275</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>10000</are:psc>
+    <are:okres>Praha 10</are:okres>
+    <are:obec>Praha 10</are:obec>
+    <are:ulice>Říčanská</are:ulice>
+    <are:cisloTxt>7</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-12-31</are:DatumZapisu>
+   <are:DatumVymazu>2008-10-18</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+projektová činnost v investiční výstavbě
+     </are:Text>
+     <are:Text>
+inženýrská činnost
+     </are:Text>
+     <are:Text>
+poradenství ve stavebnictví
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-12-31" dvy="2008-10-18">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-12-31" dvy="1995-03-15">
+    <are:Text>
+Společnost zastupují a podepisují za ni dva jednatelé
+společně,nebo jednatel společně s prokuristou.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-03-15" dvy="2008-10-18">
+    <are:Text>
+Společnost je zastupována a podepisuje se za ní jeden
+jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-12-31" dvy="1993-05-14">
+    <are:funkce>
+     <are:nazev>Jednatel společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>München 22</are:obec>
+      <are:ulice>Steinsdorferstrasse 8</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Dr.Ing.Hans Ulrich Werner</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-12-31" dvy="1996-06-12">
+    <are:funkce>
+     <are:nazev>Jednatel společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21727988</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Na Zbořenci</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Bulín</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-05-14" dvy="1995-03-15">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22029125</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Pod Šmukýřkou</are:ulice>
+      <are:cisloTxt>1048</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Dr.Ing.Hans Ulrich Werner</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-06-12" dvy="2008-10-18">
+    <are:funkce>
+     <are:nazev>Jednatel společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21739170</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Praha 2</are:okres>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Krokova</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Bulín</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-12-31" dvy="2008-10-18">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2008-07-15" dvy="2008-10-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21739170</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Krokova</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Bulín</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

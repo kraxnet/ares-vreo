@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:41:22"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:41:22</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00565326</are:ICO>
+   <are:ObchodniFirma>DŘEVOOPTIMA spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21746583</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Vinohrady</are:castObce>
+    <are:mop>Praha 2</are:mop>
+    <are:ulice>Vocelova</are:ulice>
+    <are:cisloPop>686</are:cisloPop>
+    <are:cisloOr>4</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-10-25</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-10-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1990-10-25" dvy="1993-06-30">
+    <are:Text>
+Způsob jednání za společnost:
+Navenek jedná jménem společnosti kterýkoli ze společníků.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-06-30" dvy="1995-10-11">
+    <are:Text>
+Způsob zastupování:
+Společnost zastupuje a za ni se podepisuje jednatel. Každý
+z jednatelů jedná samostatně. Podepisuje se tak, že k
+napsanému nebo vytištěnému názvu společnosti připojí svůj
+podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-10-11">
+    <are:Text>
+Společnost zastupuje a za ni se podepisuje likvidátor.
+Podepisuje se tak, že k napsanému nebo vytištěnému názvu
+společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-10-25" dvy="1992-02-03">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1645111</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hořovice</are:obec>
+      <are:ulice>U remízku</are:ulice>
+      <are:cisloTxt>1224</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Smrčka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-10-25" dvy="1992-02-03">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17275164</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Obecnice</are:obec>
+      <are:ulice>Obecnice</are:ulice>
+      <are:cisloTxt>178</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Křížek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-10-25" dvy="1993-06-30">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Mirošov</are:obec>
+      <are:ulice>Mirošov</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivo</are:jmeno>
+     <are:prijmeni>Malimánek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-10-25" dvy="1993-06-30">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Březnice</are:obec>
+      <are:ulice>Rožmirálská</are:ulice>
+      <are:cisloTxt>123</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Váňa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-10-25" dvy="1993-06-30">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1643576</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hořovice</are:obec>
+      <are:ulice>Jabloňová</are:ulice>
+      <are:cisloTxt>1150</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Špička</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-10-25" dvy="1994-05-13">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21746583</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Vocelova</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlasta</are:jmeno>
+     <are:prijmeni>Filipová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-06-30" dvy="1994-05-13">
+    <are:funkce>
+     <are:nazev>Společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1645331</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hořovice</are:obec>
+      <are:ulice>Višňová</are:ulice>
+      <are:cisloTxt>1235</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivo</are:jmeno>
+     <are:prijmeni>Malimánek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-06-30" dvy="1994-11-04">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1643576</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hořovice</are:obec>
+      <are:ulice>Jabloňová</are:ulice>
+      <are:cisloTxt>1150</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Špička</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-06-30" dvy="2015-10-14">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Březnice</are:obec>
+      <are:ulice>Za oborou</are:ulice>
+      <are:cisloTxt>677</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Váňa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-10-11">
+    <are:funkce>
+     <are:nazev>likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Příbram</are:obec>
+      <are:ulice>Třebsko</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zuzana</are:jmeno>
+     <are:prijmeni>Kuželová</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-14">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17300185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26272</are:psc>
+      <are:okres>Příbram</are:okres>
+      <are:obec>Březnice</are:obec>
+      <are:castObce>Březnice</are:castObce>
+      <are:ulice>Za lihovarem</are:ulice>
+      <are:cisloPop>677</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>VÁŇA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1990-10-25">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-10-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17300185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26272</are:psc>
+      <are:okres>Příbram</are:okres>
+      <are:obec>Březnice</are:obec>
+      <are:castObce>Březnice</are:castObce>
+      <are:ulice>Za lihovarem</are:ulice>
+      <are:cisloPop>677</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>VÁŇA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1643576</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26801</are:psc>
+      <are:okres>Beroun</are:okres>
+      <are:obec>Hořovice</are:obec>
+      <are:castObce>Hořovice</are:castObce>
+      <are:ulice>Jabloňová</are:ulice>
+      <are:cisloPop>1150</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>ŠPIČKA</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

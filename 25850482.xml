@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T22:07:15"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:07:15</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25850482</are:ICO>
+   <are:ObchodniFirma>LUBMET,s.r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>8453527</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>74221</are:psc>
+    <are:okres>Nový Jičín</are:okres>
+    <are:obec>Kopřivnice</are:obec>
+    <are:castObce>Kopřivnice</are:castObce>
+    <are:ulice>Erbenova</are:ulice>
+    <are:cisloPop>627</are:cisloPop>
+    <are:cisloOr>6</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-12-16</are:DatumZapisu>
+   <are:DatumVymazu>2016-11-02</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Právní důvod výmazu:
+Společnost se vymazává z obchodního rejstříku po ukončení likvidace společnosti, na základě návrhu likvidátora, který bezúspěšně prověřil možnost uplatnit neplatnost nebo neúčinnost právních jednání právnické osoby a majetek této osoby nepostačuje ani k ú
+hradě nákladů insolvenčního řízení.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-12-16" dvy="2016-11-02">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-12-16" dvy="2016-11-02">
+    <are:Text>
+Jednání za společnost: Každý z jednatelů může činit jménem
+společnosti samostatně veškeré právní úkony bez omezení.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-12-16" dvy="2002-01-04">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2000-06-22</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8453527</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74221</are:psc>
+      <are:obec>Kopřivnice</are:obec>
+      <are:ulice>Erbenova</are:ulice>
+      <are:cisloTxt>627</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Alimov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2003-03-21" dvy="2016-11-02">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2003-03-21" dvy="2013-09-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22378286</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Zenklova</are:ulice>
+      <are:cisloTxt>460/86</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marcel</are:jmeno>
+     <are:prijmeni>Popelář</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-20" dvy="2016-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22378286</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Zenklova</are:ulice>
+      <are:cisloPop>460</are:cisloPop>
+      <are:cisloOr>86</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARCEL</are:jmeno>
+     <are:prijmeni>POPELÁŘ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-02-01" dvy="2016-06-29">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Řeznická 33, Frýdek - Místek, 738 01</are:text>
+     </are:adresa>
+     <are:ICO>46539751</are:ICO>
+     <are:ObchodniFirma>Ing. Petr Klus CSc.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2016-06-29" dvy="2016-11-02">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>3368076</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>72400</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Stará Bělá</are:castObce>
+      <are:ulice>Proskovická</are:ulice>
+      <are:cisloPop>473</are:cisloPop>
+      <are:cisloOr>229</are:cisloOr>
+     </are:adresa>
+     <are:ICO>46539751</are:ICO>
+     <are:ObchodniFirma>Ing. Petr Klus, CSc.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-12-16" dvy="2016-11-02">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-12-16" dvy="2016-11-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kiev</are:obec>
+      <are:ulice>Lomonosova</are:ulice>
+      <are:cisloTxt>30/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Mykytenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-12-16" dvy="2016-11-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kiev</are:obec>
+      <are:ulice>Pitěrskaja</are:ulice>
+      <are:cisloTxt>6/42</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Andriy Sanko-Novik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-12-16" dvy="2016-11-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Bojarka</are:obec>
+      <are:ulice>Krupskoj</are:ulice>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Alimov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-20" dvy="2016-11-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22378286</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Zenklova</are:ulice>
+      <are:cisloPop>460</are:cisloPop>
+      <are:cisloOr>86</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARCEL</are:jmeno>
+     <are:prijmeni>POPELÁŘ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

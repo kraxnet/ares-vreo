@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T17:52:04"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>17:52:04</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>29312469</are:ICO>
+   <are:ObchodniFirma>HROMEK Podlahy, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>19082738</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>64100</are:psc>
+    <are:okres>Brno-město</are:okres>
+    <are:obec>Brno</are:obec>
+    <are:castObce>Žebětín</are:castObce>
+    <are:ulice>Křivánkovo náměstí</are:ulice>
+    <are:cisloPop>156</are:cisloPop>
+    <are:cisloOr>24</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2012-03-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2012-03-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2012-03-12">
+    <are:Text>
+Způsob zastupování: Za společnost jedná a podepisuje samostatně jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2012-03-12" dvy="2015-11-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26240904</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66441</are:psc>
+      <are:obec>Troubsko</are:obec>
+      <are:ulice>Jarní</are:ulice>
+      <are:cisloPop>663</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Nikolas</are:jmeno>
+     <are:prijmeni>Hromek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-03-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28119533</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>67906</are:psc>
+      <are:obec>Kulířov</are:obec>
+      <are:castObce>Kulířov</are:castObce>
+      <are:cisloPop>136</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>NIKOLAS</are:jmeno>
+     <are:prijmeni>HROMEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2012-03-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-11-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28119533</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>67906</are:psc>
+      <are:obec>Kulířov</are:obec>
+      <are:castObce>Kulířov</are:castObce>
+      <are:cisloPop>136</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>NIKOLAS</are:jmeno>
+     <are:prijmeni>HROMEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

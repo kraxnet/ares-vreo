@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T00:15:18"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>00:15:18</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48109380</are:ICO>
+   <are:ObchodniFirma>CEHA, spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>25166263</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>13000</are:psc>
+    <are:obec>Praha 3</are:obec>
+    <are:ulice>Chrudimská</are:ulice>
+    <are:cisloTxt>2526/2a</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-12-23</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+hostinská činnost
+     </are:Text>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-12-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-12-23" dvy="1993-06-28">
+    <are:Text>
+Jednatelé jednají jménem společnosti a to každý samostatně.
+Podepisování za společnost se provádí tak, že k obchodnímu jménu
+společnosti  připojí svůj podpis jednatel
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-06-28" dvy="2003-10-21">
+    <are:Text>
+Jednatel jedná jménem společnosti navenek a podepisuje se
+za společnost tak, že k obchodnímu jménu společnosti připojí
+svůj podpis s označením &quot;jednatel&quot;.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2003-10-21" dvy="2009-06-03">
+    <are:Text>
+Jednatelé jednají jménem společnosti samostatně v plném rozsahu s tím, že podepisování jménem společnosti se děje tak, že k vyištěné nebo napsané obchodní firmě společnosti připojí jeden z jednatelů svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2009-06-03">
+    <are:Text>
+Jménem společnosti jedná jednatel samostastně v plném rozsahu.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-12-23" dvy="1993-06-28">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>Jankovcova</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Jaromír hauf</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-23" dvy="2005-06-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2005-01-28</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22315314</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>Nad Kazankou</are:ulice>
+      <are:cisloTxt>5/589</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Černý</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-10-21" dvy="2005-06-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-07-21</are:vznikFunkce>
+     <are:zanikFunkce>2005-01-28</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22315314</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17100</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>Nad Kazankou</are:ulice>
+      <are:cisloTxt>5/589</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Monika</are:jmeno>
+     <are:prijmeni>Černá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-01" dvy="2005-12-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-01-28</are:vznikFunkce>
+     <are:zanikFunkce>2005-12-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22702377</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Borovanského</are:ulice>
+      <are:cisloTxt>2219/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alban</are:jmeno>
+     <are:prijmeni>Gega</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-12-21" dvy="2007-12-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-12-01</are:vznikFunkce>
+     <are:zanikFunkce>2007-11-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Varšavská</are:ulice>
+      <are:cisloTxt>34/195</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Havelka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-12-21" dvy="2009-06-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-12-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25229</are:psc>
+      <are:obec>Dobřichovice</are:obec>
+      <are:castObce>Lety</are:castObce>
+      <are:ulice>Příčná</are:ulice>
+      <are:cisloTxt>310</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Synková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-12-12" dvy="2009-06-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-11-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15582256</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25067</are:psc>
+      <are:obec>Klecany</are:obec>
+      <are:ulice>Čsl. armády</are:ulice>
+      <are:cisloTxt>384</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Velíšek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-06-03" dvy="2010-06-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-05-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26179881</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Modřany</are:castObce>
+      <are:ulice>Semická</are:ulice>
+      <are:cisloTxt>2026/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gennadiy</are:jmeno>
+     <are:prijmeni>Mikhelson</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-06-04" dvy="2014-09-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-04-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12800236</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25229</are:psc>
+      <are:obec>Lety</are:obec>
+      <are:ulice>Příčná</are:ulice>
+      <are:cisloPop>310</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Synková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-09-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-04-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12800236</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25229</are:psc>
+      <are:obec>Lety</are:obec>
+      <are:castObce>Lety</are:castObce>
+      <are:ulice>Příčná</are:ulice>
+      <are:cisloPop>310</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>SYNKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-12-23">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2014-09-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12800236</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25229</are:psc>
+      <are:obec>Lety</are:obec>
+      <are:castObce>Lety</are:castObce>
+      <are:ulice>Příčná</are:ulice>
+      <are:cisloPop>310</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>SYNKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

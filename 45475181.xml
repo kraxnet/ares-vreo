@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T21:30:30"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>21:30:30</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45475181</are:ICO>
+   <are:ObchodniFirma>BOS, spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>18976174</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>69146</are:psc>
+    <are:obec>Ladná</are:obec>
+    <are:castObce>Ladná</are:castObce>
+    <are:ulice>Růžová</are:ulice>
+    <are:cisloPop>320</are:cisloPop>
+    <are:cisloOr>19</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-03-03</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-03-03">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-03-03" dvy="1998-01-30">
+    <are:Text>
+Způsob zastupování společnosti: jednat ve jménu společnosti je
+oprávněný každý ze společníků samostatně v běžných věcech, v
+případě uzavírání smlouvy anebo právního ukonu přesahující
+hodnotu Kčs 200 000,- jen za přítomnosti dalšího společníka.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1998-01-30" dvy="2006-12-21">
+    <are:Text>
+Za společnost jedná a podepisuje kterýkoliv z jednatelů. Ke
+sjednání obchodního případu nad 100.000,- Kč je zapotřebí
+podpisů dvou jednatelů, přičemž jedním z nich je buď Ing. J.
+Redková nebo V. Osička nebo V. Baxová.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2006-12-21">
+    <are:Text>
+Jménem společnosti jedná každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-03-03" dvy="1998-01-30">
+    <are:funkce>
+     <are:nazev>jednatel, společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Lichardova 4</are:ulice>
+     </are:adresa>
+     <are:jmeno>Dagmar</are:jmeno>
+     <are:prijmeni>Machová</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-03" dvy="1998-01-30">
+    <are:funkce>
+     <are:nazev>jednatel, společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Břeclav</are:obec>
+      <are:ulice>Valtická</are:ulice>
+      <are:cisloTxt>75</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Kuja</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-03" dvy="1998-01-30">
+    <are:funkce>
+     <are:nazev>jednatel, společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Bratislava</are:obec>
+      <are:ulice>Lichardova 4</are:ulice>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Mach</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-03" dvy="1998-01-30">
+    <are:funkce>
+     <are:nazev>jednatel, společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10127097</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Valtice</are:obec>
+      <are:ulice>Růžová</are:ulice>
+      <are:cisloTxt>67</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viktorie</are:jmeno>
+     <are:prijmeni>Baxová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-03" dvy="1998-01-30">
+    <are:funkce>
+     <are:nazev>jednatel, společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18987532</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Břeclav</are:obec>
+      <are:ulice>Gagarinova</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Redlová</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-03" dvy="1998-01-30">
+    <are:funkce>
+     <are:nazev>jednatel, společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19018479</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Břeclav</are:obec>
+      <are:ulice>U splavu</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Osička</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-01-30" dvy="2001-01-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10127097</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Valtice</are:obec>
+      <are:ulice>Růžová</are:ulice>
+      <are:cisloTxt>67</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viktorie</are:jmeno>
+     <are:prijmeni>Baxová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-01-30" dvy="2015-08-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18987532</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Břeclav</are:obec>
+      <are:ulice>Gagarinova</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Redková</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-01-30" dvy="2015-08-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19018479</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Břeclav</are:obec>
+      <are:ulice>U splavu</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Osička</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-10" dvy="2001-04-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Valtice</are:obec>
+      <are:ulice>P. Bezruče</are:ulice>
+      <are:cisloTxt>181</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viktorie</are:jmeno>
+     <are:prijmeni>Baxová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-08-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18987532</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69141</are:psc>
+      <are:okres>Břeclav</are:okres>
+      <are:obec>Břeclav</are:obec>
+      <are:castObce>Poštorná</are:castObce>
+      <are:ulice>Gagarinova</are:ulice>
+      <are:cisloPop>841</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>REDKOVÁ</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-08-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19018479</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69002</are:psc>
+      <are:okres>Břeclav</are:okres>
+      <are:obec>Břeclav</are:obec>
+      <are:castObce>Břeclav</are:castObce>
+      <are:ulice>U Splavu</are:ulice>
+      <are:cisloPop>2874</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>OSIČKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1996-10-18">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-02-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18987532</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69141</are:psc>
+      <are:obec>Břeclav</are:obec>
+      <are:castObce>Poštorná</are:castObce>
+      <are:ulice>Gagarinova</are:ulice>
+      <are:cisloPop>841</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>REDKOVÁ</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-02-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18976611</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69146</are:psc>
+      <are:obec>Ladná</are:obec>
+      <are:castObce>Ladná</are:castObce>
+      <are:ulice>Úlehlova</are:ulice>
+      <are:cisloPop>352</are:cisloPop>
+      <are:cisloOr>47</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAMIL</are:jmeno>
+     <are:prijmeni>PAVLÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

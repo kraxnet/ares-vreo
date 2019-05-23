@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T19:19:55"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>19:19:55</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>40614271</are:ICO>
+   <are:ObchodniFirma>MODA IN, s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21708746</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Nové Město</are:castObce>
+    <are:mop>Praha 1</are:mop>
+    <are:ulice>Na poříčí</are:ulice>
+    <are:cisloPop>1048</are:cisloPop>
+    <are:cisloOr>30</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-07-26</are:DatumZapisu>
+   <are:DatumVymazu>2017-01-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost MODA IN, s.r.o., IČ: 40614271, se sídlem Na Poříčí 1048/30, 110 00 Praha 1, z obchodního rejstříku. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-07-26" dvy="2017-01-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-07-26" dvy="1994-07-27">
+    <are:Text>
+Za společnost jednají a za společnost podepisují oba jednatelé
+a to každý samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1994-07-27" dvy="2017-01-27">
+    <are:Text>
+Za společnost jedná a podepisuje jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-07-26" dvy="1994-07-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Vittoria Veneto, Itálie</are:obec>
+      <are:ulice>Via Alessandro Volta 3</are:ulice>
+     </are:adresa>
+     <are:jmeno>Ivana</are:jmeno>
+     <are:prijmeni>Agnoli</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-07-26" dvy="1994-07-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19258593</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Brožíkova</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Matula</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-07-27" dvy="1997-11-12">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Vittorio Veneto, Itálie</are:obec>
+      <are:ulice>Via Alessandro Volta 3</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Ivana Paříková - Agnoli</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-11-12" dvy="2004-09-25">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2004-07-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>380</are:stat>
+      <are:obec>Vittorio Veneto, Itálie</are:obec>
+      <are:ulice>Via Alessandro Volta</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivana</are:jmeno>
+     <are:prijmeni>Agnoliová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-05-20" dvy="2017-01-27">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-05-20" dvy="2017-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>26712</are:psc>
+      <are:obec>Loděnice</are:obec>
+      <are:ulice>Chrustenice</are:ulice>
+      <are:cisloPop>208</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILAN</are:jmeno>
+     <are:prijmeni>EDELMANN</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-07-26" dvy="2017-01-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1994-07-27" dvy="2017-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Vittorio Veneto, Itálie</are:obec>
+      <are:ulice>Via Alessandro Volta 3</are:ulice>
+     </are:adresa>
+     <are:jmeno>Roberto</are:jmeno>
+     <are:prijmeni>Agnoli</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-08-13" dvy="2017-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19641982</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61500</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Židenice</are:castObce>
+      <are:ulice>Vymazalova</are:ulice>
+      <are:cisloPop>2275</are:cisloPop>
+      <are:cisloOr>20</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVANA</are:jmeno>
+     <are:prijmeni>AGNOLIOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

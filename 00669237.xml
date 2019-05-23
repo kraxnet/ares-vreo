@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-18T15:06:55"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-18</are:Datum_vypisu>
+   <are:Cas_vypisu>15:06:55</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00669237</are:ICO>
+   <are:ObchodniFirma>VOS VaH TRANS veřejná obchodní společnost v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:obec>Dobřany</are:obec>
+    <are:ulice>Plzeňská 815/81</are:ulice>
+    <are:cisloTxt>u Petra Holavy</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-12-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+půjčování automobilů a přívěsů
+     </are:Text>
+     <are:Text>
+obchodní činnost (nákup a prodej)
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+    <are:PredmetCinnosti>
+     <are:Text>
+veřejná nákladní automobilová doprava v tuzemsku
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-12-12">
+   <are:Nazev>Orgány společnosti:</are:Nazev>
+   <are:ZpusobJednani dza="1990-12-12">
+    <are:Text>
+Zastupování a podepisování společnosti: k jednání a podepisování
+jménem společnosti je oprávněn každý ze společníků.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>.</are:text>
+     </are:adresa>
+     <are:prijmeni>Právní vztahy mezi společníky jsou postaveny na roveň.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-12-13">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-12-13" dvy="2017-12-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8654344</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26901</are:psc>
+      <are:obec>Rakovník</are:obec>
+      <are:ulice>Vojtěšská</are:ulice>
+      <are:cisloTxt>1279</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Holava</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-12-16" dvy="2018-02-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8654344</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26901</are:psc>
+      <are:okres>Rakovník</are:okres>
+      <are:obec>Rakovník</are:obec>
+      <are:castObce>Rakovník II</are:castObce>
+      <are:ulice>Vojtěšská</are:ulice>
+      <are:cisloPop>1279</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>HOLAVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-02-03" dvy="2019-01-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8563128</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27052</are:psc>
+      <are:okres>Rakovník</are:okres>
+      <are:obec>Lišany</are:obec>
+      <are:castObce>Lišany</are:castObce>
+      <are:ulice>Za rybníkem</are:ulice>
+      <are:cisloPop>44</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>HOLAVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11671980</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27601</are:psc>
+      <are:okres>Mělník</are:okres>
+      <are:obec>Mělník</are:obec>
+      <are:castObce>Mělník</are:castObce>
+      <are:ulice>U Besedy</are:ulice>
+      <are:cisloPop>1402</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>HOLAVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1990-12-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1990-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1059751</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Dobřany</are:obec>
+      <are:ulice>Spojovací</are:ulice>
+      <are:cisloTxt>827</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Veselý</are:prijmeni>
+     <are:titulZa>svobodný</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11671980</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27601</are:psc>
+      <are:okres>Mělník</are:okres>
+      <are:obec>Mělník</are:obec>
+      <are:castObce>Mělník</are:castObce>
+      <are:ulice>U Besedy</are:ulice>
+      <are:cisloPop>1402</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>HOLAVA</are:prijmeni>
+     <are:titulZa>svobodný</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

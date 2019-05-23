@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T07:28:03"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>07:28:03</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>18626319</are:ICO>
+   <are:ObchodniFirma>NOKAST, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22187171</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>16000</are:psc>
+    <are:obec>Praha 6</are:obec>
+    <are:ulice>Srbská</are:ulice>
+    <are:cisloTxt>1</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-08-21</are:DatumZapisu>
+   <are:DatumVymazu>1994-06-29</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1. Obchodní činnost při nákupu a prodeji strojů pro zpracování
+dat (počítačů), reprografických strojů, přístrojů a zařízení
+kancelářské techniky, dále spotřební, investiční a telekomuni-
+kační elektroniky a elektrotechniky spolu s programovým vyba.
+vením všech kategorií a provozním materiálem pro výše uvedená
+zařízení
+2. Marketingová, zprostředkovatelská a poradenská činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-08-21" dvy="1994-06-29">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-08-21" dvy="1994-06-29">
+    <are:Text>
+Společnost navenek zastupuje jednatel
+Podepisování: K razítku nebo jinak vyznačenému názvu společnosti
+připojí svůj podpis společně jednatel a další společník nebo spo-
+lečně dva zmocnění společníci.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:funkce>
+     <are:nazev>Jedntel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22187171</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Srbská</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Kutílek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22187171</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Srbská</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Kutílek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-08-21" dvy="1994-06-29">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46010</are:psc>
+      <are:obec>Liberec 12</are:obec>
+      <are:ulice>Hrdinů 515</are:ulice>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Bouša</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Huskova</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Brzobohatý</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24506494</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Slovanská</are:ulice>
+      <are:cisloTxt>143</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Bultas</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21782644</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Přemyslovská</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Bureš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20336942</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50401</are:psc>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Sportovní</are:ulice>
+      <are:cisloTxt>397</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Bydžovský</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25263</are:psc>
+      <are:obec>Roztoky u Prahy</are:obec>
+      <are:ulice>Gen. Svobody 780</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Čapek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Bratislavská</are:ulice>
+      <are:cisloTxt>29</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Dolák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22317317</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>K pískovně</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michael</are:jmeno>
+     <are:prijmeni>Dörl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Přechodní</are:ulice>
+      <are:cisloTxt>1338</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Holubář</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22368752</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Taussigova</are:ulice>
+      <are:cisloTxt>1152</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Horníková</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58601</are:psc>
+      <are:obec>Jihlava</are:obec>
+      <are:ulice>Obránců míru</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Jun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>tř. T. Bati</are:ulice>
+      <are:cisloTxt>1285/208</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Juráš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21786861</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Jeseniova</are:ulice>
+      <are:cisloTxt>65/1805</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vítězslav</are:jmeno>
+     <are:prijmeni>Kastner</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>B. Pažoutové</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Rudolf</are:jmeno>
+     <are:prijmeni>Krajča</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70300</are:psc>
+      <are:obec>Ostrava 3</are:obec>
+      <are:ulice>Jugoslávská 6</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Krob</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>92524</are:psc>
+      <are:obec>Králová pri Senci 502</are:obec>
+     </are:adresa>
+     <are:jmeno>Karol</are:jmeno>
+     <are:prijmeni>Kročan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22187171</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Srbská</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimít</are:jmeno>
+     <are:prijmeni>Kutílek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21846286</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Augustinova</are:ulice>
+      <are:cisloTxt>2068</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Michl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22396527</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Na Šutce</are:ulice>
+      <are:cisloTxt>24</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Plajner</are:prijmeni>
+     <are:titulPred>Dr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22250590</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Nevanova</are:ulice>
+      <are:cisloTxt>1070</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Prior</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21693471</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Široká</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Pulkráb</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Relichova</are:ulice>
+      <are:cisloTxt>610/31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Roztočil</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22030107</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Ke Kotlářce</are:ulice>
+      <are:cisloTxt>1146</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Ryšavý</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19678185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Vavřinecká</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Smékal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27351</are:psc>
+      <are:obec>Unhošť</are:obec>
+      <are:ulice>Červený Újezd</are:ulice>
+      <are:cisloTxt>78</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oldřich</are:jmeno>
+     <are:prijmeni>Sojka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37010</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>Franty Ondříčka</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Svoboda</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>raha 4</are:obec>
+      <are:ulice>Kotorská 1569/14</are:ulice>
+     </are:adresa>
+     <are:jmeno>Otto</are:jmeno>
+     <are:prijmeni>Šebor</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Kochmannova</are:ulice>
+      <are:cisloTxt>381</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Šimonová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33301</are:psc>
+      <are:obec>Stod</are:obec>
+      <are:ulice>nám ČSA</are:ulice>
+      <are:cisloTxt>66</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Štengl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33001</are:psc>
+      <are:obec>,</are:obec>
+      <are:ulice>Kyšice 141</are:ulice>
+     </are:adresa>
+     <are:jmeno>Alexandr</are:jmeno>
+     <are:prijmeni>Štrunc</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Famfulíková</are:ulice>
+      <are:cisloTxt>1134/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Štěpánka</are:jmeno>
+     <are:prijmeni>Vacínová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27946002</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Hviezdoslavova</are:ulice>
+      <are:cisloTxt>22/525</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Vladík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23353881</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37001</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>Krčínova</are:ulice>
+      <are:cisloTxt>50</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Vokáč</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23378450</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37001</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>Pekárenská</are:ulice>
+      <are:cisloTxt>40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Wolf</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-21" dvy="1994-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22263764</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Na Malovance</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Česlav</are:jmeno>
+     <are:prijmeni>Zelený</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-08-13T10:37:33"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-08-13</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-08-13</are:Datum_vypisu>
+   <are:Cas_vypisu>10:37:33</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>04867301</are:ICO>
+   <are:ObchodniFirma>magm s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21746885</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Vinohrady</are:castObce>
+    <are:mop>Praha 2</are:mop>
+    <are:ulice>Varšavská</are:ulice>
+    <are:cisloPop>715</are:cisloPop>
+    <are:cisloOr>36</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2016-03-02</are:DatumZapisu>
+   <are:DatumVymazu>2018-08-06</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost magm s.r.o. v likvidaci, se sídlem Varšavská 715/36, Vinohrady, 120 00 Praha 2, IČ: 048 67 301 se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 254807. Právním důvo
+dem výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2016-03-02" dvy="2018-08-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2016-03-02" dvy="2018-08-06">
+    <are:Text>
+Každý z jednatelů zastupuje společnost samostatně. Podepisování za společnost se děje tak, že k vytištěné nebo vypsané obchodní firmě společnosti připojí jednatel svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2016-03-02" dvy="2018-08-06">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2016-03-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25538632</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54371</are:psc>
+      <are:obec>Hostinné</are:obec>
+      <are:castObce>Hostinné</are:castObce>
+      <are:ulice>Pod Strání</are:ulice>
+      <are:cisloPop>865</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>HRUBÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-02" dvy="2018-08-06">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2016-03-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20563655</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73994</are:psc>
+      <are:obec>Vendryně</are:obec>
+      <are:castObce>Vendryně</are:castObce>
+      <are:cisloPop>500</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TOMASZ</are:jmeno>
+     <are:prijmeni>OMYLA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-12-21" dvy="2018-08-06">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-12-21" dvy="2018-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21734585</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Tyršova</are:ulice>
+      <are:cisloPop>1835</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETRA</are:jmeno>
+     <are:prijmeni>HÝSKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2016-03-02" dvy="2018-08-06">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-03-02" dvy="2018-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25538632</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54371</are:psc>
+      <are:obec>Hostinné</are:obec>
+      <are:castObce>Hostinné</are:castObce>
+      <are:ulice>Pod Strání</are:ulice>
+      <are:cisloPop>865</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>HRUBÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-02" dvy="2018-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20563655</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73994</are:psc>
+      <are:obec>Vendryně</are:obec>
+      <are:castObce>Vendryně</are:castObce>
+      <are:cisloPop>500</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TOMASZ</are:jmeno>
+     <are:prijmeni>OMYLA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

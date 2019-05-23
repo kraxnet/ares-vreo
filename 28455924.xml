@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T12:45:14"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>12:45:14</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28455924</are:ICO>
+   <are:ObchodniFirma>Džata s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22676074</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>10600</are:psc>
+    <are:obec>Praha 10</are:obec>
+    <are:castObce>Záběhlice</are:castObce>
+    <are:ulice>Kosatcová</are:ulice>
+    <are:cisloTxt>1320/22</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2008-09-05</are:DatumZapisu>
+   <are:DatumVymazu>2016-05-04</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost:  Džata s.r.o. v likvidaci, Praha 10 - Záběhlice, Kosatcová 1320/22, PSČ 10600, identifikační číslo 284 55 924 z obchodního rejstříku. Právní důvod výmazu je ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-09-05" dvy="2016-05-04">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2008-09-05" dvy="2016-05-04">
+    <are:Text>
+Jednatel zastupuje společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-09-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivská oblast</are:obec>
+      <are:castObce>o. Stebnyk</are:castObce>
+      <are:ulice>Drohobycka</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Koval</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-08-13" dvy="2016-05-04">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2015-08-13" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21704945</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloPop>700</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUCIE</are:jmeno>
+     <are:prijmeni>MAREŠOVÁ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-09-05" dvy="2016-05-04">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>o. Velykyj Byčkiv</are:castObce>
+      <are:ulice>Ševčenka</are:ulice>
+      <are:cisloTxt>92</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Surduk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivská oblast</are:obec>
+      <are:castObce>o. Syvorohy</are:castObce>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Ilkiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankivská oblast</are:obec>
+      <are:castObce>o. Yavoriv</are:castObce>
+      <are:ulice>Nova</are:ulice>
+      <are:cisloTxt>25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Romanyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankivská oblast</are:obec>
+      <are:castObce>o. Strilče</are:castObce>
+      <are:ulice>Stepana Bandery</are:ulice>
+      <are:cisloTxt>40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ulyana</are:jmeno>
+     <are:prijmeni>Romanska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankivská oblast</are:obec>
+      <are:castObce>m. Otyniya</are:castObce>
+      <are:ulice>Myru</are:ulice>
+      <are:cisloTxt>49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Mykhaylyshyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankivská oblast</are:obec>
+      <are:castObce>o. Otyniya</are:castObce>
+      <are:ulice>Myru</are:ulice>
+      <are:cisloTxt>49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lyubomyr</are:jmeno>
+     <are:prijmeni>Ilkiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>o. Čumalevo</are:castObce>
+      <are:ulice>Peremohy</are:ulice>
+      <are:cisloTxt>164</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Krets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čerkasskaja oblast</are:obec>
+      <are:castObce>o. Zolotonoša</are:castObce>
+      <are:ulice>Zgarskaja</are:ulice>
+      <are:cisloTxt>42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nataliia</are:jmeno>
+     <are:prijmeni>Pobyvanets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Strašeni okres</are:obec>
+      <are:castObce>o. Vorničen</are:castObce>
+      <are:ulice>Inkulec</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gheorghe</are:jmeno>
+     <are:prijmeni>Goineanu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Kachulský okres</are:obec>
+      <are:castObce>o. Slobozejo-Mari</are:castObce>
+      <are:ulice>Štefan-Čel-Mari</are:ulice>
+      <are:cisloTxt>102</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vitalie</are:jmeno>
+     <are:prijmeni>Saraian</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivská oblast</are:obec>
+      <are:castObce>m. Stebnyk</are:castObce>
+      <are:ulice>Sičovych Strilciv</are:ulice>
+      <are:cisloTxt>3/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Melko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>m. Zaporožje</are:obec>
+      <are:castObce>Batarejnaja</are:castObce>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Ivanov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivská oblast</are:obec>
+      <are:castObce>o. Zamočok</are:castObce>
+      <are:ulice>L. Ukrajinky</are:ulice>
+      <are:cisloTxt>83</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Tyzhnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>704</are:stat>
+      <are:obec>Phu Luong</are:obec>
+      <are:castObce>Bac Ninh</are:castObce>
+      <are:ulice>Que Vo</are:ulice>
+     </are:adresa>
+     <are:jmeno>Nguyen Thien</are:jmeno>
+     <are:prijmeni>Thung</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>704</are:stat>
+      <are:obec>Lac Hong</are:obec>
+      <are:castObce>Hung Yen</are:castObce>
+      <are:ulice>Van Lam</are:ulice>
+     </are:adresa>
+     <are:jmeno>Nguyen Duc</are:jmeno>
+     <are:prijmeni>Thang</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankivská oblast</are:obec>
+      <are:castObce>m. Kolomyja</are:castObce>
+      <are:ulice>Leontovyča</are:ulice>
+      <are:cisloTxt>22/28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Protsyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankivská oblast</are:obec>
+      <are:castObce>m. Kolomyja</are:castObce>
+      <are:ulice>Kostamarova</are:ulice>
+      <are:cisloTxt>2/99</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Valentyn</are:jmeno>
+     <are:prijmeni>Vorobiov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>o. Strojno</are:castObce>
+      <are:cisloTxt>236</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Popovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankivská oblast</are:obec>
+      <are:castObce>m. Kolomyja</are:castObce>
+      <are:ulice>Čajkovskoho</are:ulice>
+      <are:cisloTxt>44/67</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iarosalava</are:jmeno>
+     <are:prijmeni>Bratchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-05" dvy="2016-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivská oblast</are:obec>
+      <are:castObce>m. Stebnyk</are:castObce>
+      <are:ulice>Drohobycka</are:ulice>
+      <are:cisloTxt>80</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Koval</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

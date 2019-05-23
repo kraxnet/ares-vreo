@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T05:36:38"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>05:36:38</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>13135040</are:ICO>
+   <are:ObchodniFirma>Jan Reisiegel - JAREL</are:ObchodniFirma>
+   <are:Bydliste>
+    <are:ruianKod>21782792</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>13000</are:psc>
+    <are:okres>Praha 3</are:okres>
+    <are:obec>Praha 3</are:obec>
+    <are:ulice>Koněvova</are:ulice>
+    <are:cisloTxt>1497/108</are:cisloTxt>
+   </are:Bydliste>
+   <are:DatumZapisu>1992-03-18</are:DatumZapisu>
+   <are:DatumVymazu>2010-06-29</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+elektroinstalatérství
+výroba, instalace a opravy elektrických strojů a přístrojů
+obchodní činnost
+     </are:Text>
+     <are:Text>
+montáž, opravy, údržba a revize vyhrazených elektrických
+zařízení a výroba rozvaděčů nízkého napětí
+     </are:Text>
+     <are:Text>
+stěhování (bez dopravy)
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-03-18" dvy="2010-06-29">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="1992-03-18" dvy="2010-06-29">
+    <are:fosoba>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Reisiegel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

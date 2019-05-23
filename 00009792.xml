@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:31:01"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:31:01</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00009792</are:ICO>
+   <are:ObchodniFirma>Bateria Slaný, státní podnik v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Slaný</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1988-07-01</are:DatumZapisu>
+   <are:DatumVymazu>2007-07-10</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+správa majetku určeného k restituci
+     </are:Text>
+     <are:Text>
+vypořádání hospodářské činnosti státního podniku
+     </are:Text>
+     <are:Text>
+provedení smluvního převodu práv z průmyslového nebo jiného
+duševního vlastnictví
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1988-07-01" dvy="2007-07-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1988-07-01" dvy="1988-12-19">
+    <are:Text>
+Za podnik jedná ředitel.
+Podpisování : K názvu podniku připojí svůj podpis ředitel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1988-12-19" dvy="2007-07-10">
+    <are:Text>
+Za podnik jedná ředitel nebo jeho zástupce.
+Podpisování : K názvu podniku připojí svůj podpis ředitel
+nebo jeho zástupce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1988-07-01" dvy="1988-12-19">
+    <are:funkce>
+     <are:nazev>Ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6037861</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slaný</are:obec>
+      <are:ulice>Na Dolíkách</are:ulice>
+      <are:cisloTxt>503</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Svoboda</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1988-12-19" dvy="1990-12-03">
+    <are:funkce>
+     <are:nazev>Ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slaný - Kvíc</are:obec>
+      <are:ulice>Na chmelnici 125</are:ulice>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Hnízdil</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1988-12-19" dvy="1990-12-03">
+    <are:funkce>
+     <are:nazev>Zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>okr. Kladno</are:obec>
+      <are:ulice>Koleč 156</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Kabát</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-12-03" dvy="1991-07-11">
+    <are:funkce>
+     <are:nazev>Ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>okr. Kladno</are:obec>
+      <are:ulice>Koleč 156</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Kabát</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-12-03" dvy="1991-07-11">
+    <are:funkce>
+     <are:nazev>1. zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6047483</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slaný</are:obec>
+      <are:ulice>Tomanova</are:ulice>
+      <are:cisloTxt>1639</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Mohyla</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-12-03" dvy="1991-07-11">
+    <are:funkce>
+     <are:nazev>2. zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6046843</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slaný</are:obec>
+      <are:ulice>Vítězná</are:ulice>
+      <are:cisloTxt>1572</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Homolka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-12-03" dvy="1991-07-11">
+    <are:funkce>
+     <are:nazev>3. zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6047432</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slaný</are:obec>
+      <are:ulice>Tomanova</are:ulice>
+      <are:cisloTxt>1634</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Kučera</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-07-11" dvy="1997-06-16">
+    <are:funkce>
+     <are:nazev>Ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6047483</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slaný</are:obec>
+      <are:ulice>Tomanova</are:ulice>
+      <are:cisloTxt>1639</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Mohyla</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-07-11" dvy="2007-07-10">
+    <are:funkce>
+     <are:nazev>1. zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>okr. Kladno</are:obec>
+      <are:ulice>Koleč 156</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Kabát</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-07-11" dvy="2007-07-10">
+    <are:funkce>
+     <are:nazev>2. zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6047777</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slaný</are:obec>
+      <are:ulice>Všehlušická</are:ulice>
+      <are:cisloTxt>1667</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eliška</are:jmeno>
+     <are:prijmeni>Dandová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-06-16" dvy="2007-07-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14444011</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Kladno</are:okres>
+      <are:obec>Libušín</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>448</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Božena</are:jmeno>
+     <are:prijmeni>Dudová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2006-01-03" dvy="2007-07-10">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="2006-01-03" dvy="2007-07-10">
+    <are:Text>
+Na likvidátora jeho jmenováním přešla působnost statutárního orgánu jednat jménem státního podniku.
+Likvidátor činí jménem státního podniku jen úkony směřující k likvidaci státního podniku.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-01-03" dvy="2007-07-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26085275</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Újezd</are:castObce>
+      <are:ulice>Pastevců</are:ulice>
+      <are:cisloTxt>483/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Švábenický</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

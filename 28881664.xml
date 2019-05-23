@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T15:21:36"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>15:21:36</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28881664</are:ICO>
+   <are:ObchodniFirma>Fedetex Ltd., organizační složka v České republice</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21775834</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>13000</are:psc>
+    <are:obec>Praha 3</are:obec>
+    <are:castObce>Žižkov</are:castObce>
+    <are:ulice>Bořivojova</are:ulice>
+    <are:cisloTxt>35/878</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2009-05-27</are:DatumZapisu>
+   <are:DatumVymazu>2014-10-18</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z obchodního rejstříku včetně všech zapsaných údajů Fedetex Ltd., organizační složka v České republice, se sídlem Praha 3, Žižkov, Bořivojova 878/35, PSČ 130 00, identifikační číslo 288 81 664, zapsaná v oddílu A, vložce 66373, u obchodního re
+jstříku Městského soudu v Praze. Právním důvodem výmazu je rozhodnutí zřizovatele o zrušení organizační složky v České republice.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2009-05-27" dvy="2014-10-18">
+   <are:Nazev>Statutární orgán zřizovatele - zahraniční osoby</are:Nazev>
+   <are:Clen dza="2009-05-27" dvy="2014-10-18">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+     <are:vznikFunkce>2009-01-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>826</are:stat>
+      <are:text>Wakefield, Riverside View/Thorns Lane, WF1 5QW</are:text>
+     </are:adresa>
+     <are:jmeno>Stuart</are:jmeno>
+     <are:prijmeni>Poppleton</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-05-27" dvy="2014-10-18">
+   <are:Nazev>Vedoucí organizační složky</are:Nazev>
+   <are:Clen dza="2009-05-27" dvy="2014-10-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>826</are:stat>
+      <are:text>Goldbourne, Warrington, Manley  Avenue 14, WA3 3XB</are:text>
+     </are:adresa>
+     <are:jmeno>Peter Edward</are:jmeno>
+     <are:prijmeni>Huggan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2009-05-27" dvy="2014-10-18">
+   <are:Nazev>Zřizovatel - zahraniční osoba</are:Nazev>
+   <are:Clen dza="2009-05-27" dvy="2014-10-18">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>826</are:stat>
+      <are:text>Salford, Manchester, M3 6BZ, Bexley Square 6</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>Fedetex Ltd.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

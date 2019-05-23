@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T03:44:14"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>03:44:14</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26422956</are:ICO>
+   <are:ObchodniFirma>ROSAN s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22474307</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19014</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Klánovice</are:castObce>
+    <are:mop>Praha 9</are:mop>
+    <are:ulice>Slavětínská</are:ulice>
+    <are:cisloPop>662</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-12-28</are:DatumZapisu>
+   <are:DatumVymazu>2017-10-10</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost ROSAN s.r.o. v likvidaci se sídlem Slavětínská 662, Klánovice, 190 14 Praha 9, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka  81065. Právním důvodem výmazu je uk
+ončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+nájem a pronájem nemovitostí bez poskytování jiných než
+základních služeb
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-12-28" dvy="2017-10-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-12-28" dvy="2017-10-10">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-12-28" dvy="2002-05-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2002-03-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23357797</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>Zavadilka</are:ulice>
+      <are:cisloTxt>2076</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Krichvalov</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-05-11" dvy="2017-10-10">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-05-11" dvy="2017-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21734585</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Tyršova</are:ulice>
+      <are:cisloPop>1835</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETRA</are:jmeno>
+     <are:prijmeni>HÝSKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-12-28" dvy="2017-10-10">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2000-12-28" dvy="2017-10-10">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22771727</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Voskovcova</are:ulice>
+      <are:cisloTxt>1075/47</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>26172194</are:ICO>
+     <are:ObchodniFirma>Role s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-06" dvy="2017-10-10">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22771727</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Voskovcova</are:ulice>
+      <are:cisloTxt>1075/47</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>26195224</are:ICO>
+     <are:ObchodniFirma>RVS - Praha s.r.o. - v likvidaci</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

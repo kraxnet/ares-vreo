@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T06:57:36"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>06:57:36</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26877341</are:ICO>
+   <are:ObchodniFirma>Rieger Automotive, s.r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>8424012</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>74401</are:psc>
+    <are:obec>Frenštát pod Radhoštěm</are:obec>
+    <are:ulice>Rožnovská</are:ulice>
+    <are:cisloTxt>241</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2005-12-12</are:DatumZapisu>
+   <are:DatumVymazu>2013-08-20</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba plastových výrobků a pryžových výrobků
+     </are:Text>
+     <are:Text>
+velkoobchod
+     </are:Text>
+     <are:Text>
+výroba kovového spotřebního zboží
+     </are:Text>
+     <are:Text>
+povrchové úpravy a svařování kovů a dalších materiálů
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2005-12-12" dvy="2013-08-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2005-12-12" dvy="2013-08-20">
+    <are:Text>
+Způsob jednání za společnost: Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2005-12-12" dvy="2013-08-20">
+    <are:funkce>
+     <are:vznikFunkce>2005-12-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Schaffhausen, Lahnhalde 7, 8200</are:text>
+     </are:adresa>
+     <are:prijmeni>Veit Roland Schuler</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2011-08-31" dvy="2013-08-20">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2011-08-31" dvy="2013-08-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17218284</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75661</are:psc>
+      <are:obec>Rožnov pod Radhoštěm</are:obec>
+      <are:ulice>Za Hážovkou</are:ulice>
+      <are:cisloPop>1944</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Slovák</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2005-12-12" dvy="2013-08-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2005-12-12" dvy="2013-08-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Schaffhausen, Lahnhalde 7, 8200</are:text>
+     </are:adresa>
+     <are:prijmeni>Veit Roland Schuler</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

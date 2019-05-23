@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-30T12:49:08"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-30</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-30</are:Datum_vypisu>
+   <are:Cas_vypisu>12:49:08</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27410200</are:ICO>
+   <are:ObchodniFirma>Renc Optik s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21740208</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:obec>Praha 2</are:obec>
+    <are:ulice>Francouzská</are:ulice>
+    <are:cisloPop>80</are:cisloPop>
+    <are:cisloOr>6</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2006-01-25</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Oční optika
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2006-01-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2006-01-25" dvy="2014-04-23">
+    <are:Text>
+Statutární orgánem společnosti jsou dva jednatelé, kteří za společnost jednají a podepisují se ve všech věcech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-04-23" dvy="2014-10-22">
+    <are:Text>
+Statutární orgánem společnosti jsou dva jednatelé, kteří za společnost jednají apodepisují se ve všech věcech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-10-22">
+    <are:Text>
+Každý jednatel je oprávněn jednat za společnost samostatně bez omezení.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-01-25" dvy="2012-02-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-01-25</are:vznikFunkce>
+     <are:zanikFunkce>2012-02-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11663219</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27601</are:psc>
+      <are:obec>Mělník</are:obec>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloTxt>458</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Markéta</are:jmeno>
+     <are:prijmeni>Dvorná</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-25" dvy="2012-05-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-01-25</are:vznikFunkce>
+     <are:zanikFunkce>2012-05-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Dejvice</are:castObce>
+      <are:ulice>Bubenečská</are:ulice>
+      <are:cisloTxt>17/351</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michael</are:jmeno>
+     <are:prijmeni>Vaňata</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-02-23" dvy="2012-03-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-02-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26711061</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25301</are:psc>
+      <are:obec>Hostivice</are:obec>
+      <are:ulice>Toskánská</are:ulice>
+      <are:cisloPop>2496</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Lukáš</are:jmeno>
+     <are:prijmeni>Franta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-03-01" dvy="2014-04-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-02-14</are:vznikFunkce>
+     <are:zanikFunkce>2014-03-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26711061</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25301</are:psc>
+      <are:obec>Hostivice</are:obec>
+      <are:ulice>Toskánská</are:ulice>
+      <are:cisloPop>2496</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Lukáš</are:jmeno>
+     <are:prijmeni>Fantura</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-05-23" dvy="2013-07-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-05-04</are:vznikFunkce>
+     <are:zanikFunkce>2014-03-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8663025</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26901</are:psc>
+      <are:obec>Rakovník</are:obec>
+      <are:ulice>V Lukách</are:ulice>
+      <are:cisloPop>2157</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Daniela</are:jmeno>
+     <are:prijmeni>Beláková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-07-30" dvy="2014-04-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-05-04</are:vznikFunkce>
+     <are:zanikFunkce>2014-03-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8663025</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26901</are:psc>
+      <are:obec>Rakovník</are:obec>
+      <are:castObce>Rakovník II</are:castObce>
+      <are:ulice>V Lukách</are:ulice>
+      <are:cisloPop>2157</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DANIELA</are:jmeno>
+     <are:prijmeni>BURIANOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-04-23" dvy="2018-12-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2014-03-25</are:vznikFunkce>
+     <are:zanikFunkce>2018-11-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26180758</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26901</are:psc>
+      <are:obec>Rakovník</are:obec>
+      <are:castObce>Rakovník II</are:castObce>
+      <are:ulice>Keramiků</are:ulice>
+      <are:cisloPop>2618</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>RENC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-04-23" dvy="2018-12-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2014-03-25</are:vznikFunkce>
+     <are:zanikFunkce>2018-11-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26180758</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26901</are:psc>
+      <are:obec>Rakovník</are:obec>
+      <are:castObce>Rakovník II</are:castObce>
+      <are:ulice>Keramiků</are:ulice>
+      <are:cisloPop>2618</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ALENA</are:jmeno>
+     <are:prijmeni>RENCOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-12-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2018-11-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8755329</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38273</are:psc>
+      <are:okres>Český Krumlov</are:okres>
+      <are:obec>Vyšší Brod</are:obec>
+      <are:castObce>Vyšší Brod</are:castObce>
+      <are:ulice>Česká</are:ulice>
+      <are:cisloPop>316</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JINDŘICH</are:jmeno>
+     <are:prijmeni>HANZLÍČEK</are:prijmeni>
+     <are:titulPred>PhDr.Ing.</are:titulPred>
+     <are:titulZa>Dis.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-12-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2018-11-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21787093</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Viklefova</are:ulice>
+      <are:cisloPop>1825</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARKÉTA</are:jmeno>
+     <are:prijmeni>HANZLÍČKOVÁ</are:prijmeni>
+     <are:titulZa>Dis.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2006-01-25">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2018-12-21">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>24519189</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Táborská</are:ulice>
+      <are:cisloPop>2190</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:ICO>49788019</are:ICO>
+     <are:ObchodniFirma>PRO - OPTIK s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

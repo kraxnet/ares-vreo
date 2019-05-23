@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-09-25T17:02:04"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-09-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-09-25</are:Datum_vypisu>
+   <are:Cas_vypisu>17:02:04</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>41602102</are:ICO>
+   <are:ObchodniFirma>Biomedicínské centrum spol. s r.o. - v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>19506741</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>62100</are:psc>
+    <are:okres>Brno-město</are:okres>
+    <are:obec>Brno</are:obec>
+    <are:castObce>Řečkovice</are:castObce>
+    <are:ulice>Medlánecká</are:ulice>
+    <are:cisloPop>1349</are:cisloPop>
+    <are:cisloOr>10</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-08-15</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+obchodní živnost - koupě zboží za účelem jeho dalšího prodeje a
+prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-08-15">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-02-16">
+    <are:Text>
+Způsob zastupování: jménem společnosti jedná a podepisuje
+jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-08-15" dvy="1993-02-16">
+    <are:funkce>
+     <are:nazev>statut.org.-člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>62100</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Jasmínova</are:ulice>
+      <are:cisloTxt>22</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Stráský Lubomír Ing.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-08-15" dvy="1993-02-16">
+    <are:funkce>
+     <are:nazev>statut.org.-člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>5204 Strasswalchen  Rakousko</are:obec>
+      <are:ulice>Steindorf 66</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Klimstein Johann Franz</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-16" dvy="1993-10-15">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19506741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Medlánecká</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iveta</are:jmeno>
+     <are:prijmeni>Kučerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-16" dvy="1997-11-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19317441</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Kuršova</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Křenek</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-15" dvy="1994-09-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19506741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Medlánecká</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iveta</are:jmeno>
+     <are:prijmeni>Tvrdá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-09-23" dvy="1997-11-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>67906</are:psc>
+      <are:obec>Jedovnice</are:obec>
+      <are:cisloTxt>191</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gustav</are:jmeno>
+     <are:prijmeni>Magula</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-11-14" dvy="2016-10-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19561229</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Karpatská</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jozef</are:jmeno>
+     <are:prijmeni>Mariančik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-31" dvy="2017-06-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19391455</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61700</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Komárov</are:castObce>
+      <are:ulice>Hněvkovského</are:ulice>
+      <are:cisloPop>30</are:cisloPop>
+      <are:cisloOr>65</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOZEF</are:jmeno>
+     <are:prijmeni>MARIANČÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-06-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19208430</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Trnitá</are:castObce>
+      <are:ulice>Křenová</are:ulice>
+      <are:cisloPop>291</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOZEF</are:jmeno>
+     <are:prijmeni>MARIANČÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-03-07">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-03-07" dvy="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19659083</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Židenice</are:castObce>
+      <are:ulice>Slatinská</are:ulice>
+      <are:cisloTxt>3902/31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Řičánek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-31" dvy="2018-02-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19659083</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63600</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Židenice</are:castObce>
+      <are:ulice>Slatinská</are:ulice>
+      <are:cisloPop>3902</are:cisloPop>
+      <are:cisloOr>31</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANTONÍN</are:jmeno>
+     <are:prijmeni>ŘIČÁNEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-10-15">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-10-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24373494</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74601</are:psc>
+      <are:okres>Opava</are:okres>
+      <are:obec>Opava</are:obec>
+      <are:castObce>Město</are:castObce>
+      <are:ulice>Horní náměstí</are:ulice>
+      <are:cisloPop>382</are:cisloPop>
+      <are:cisloOr>69</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAMIL</are:jmeno>
+     <are:prijmeni>HEIM</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-06-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19208430</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Trnitá</are:castObce>
+      <are:ulice>Křenová</are:ulice>
+      <are:cisloPop>291</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOZEF</are:jmeno>
+     <are:prijmeni>MARIANČÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-09-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24124419</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66448</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Moravany</are:obec>
+      <are:castObce>Moravany</are:castObce>
+      <are:ulice>Žitná</are:ulice>
+      <are:cisloPop>181</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ANTONÍN</are:jmeno>
+     <are:prijmeni>ŘIČÁNEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

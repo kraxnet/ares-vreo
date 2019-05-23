@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T01:12:04"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>01:12:04</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>27487971</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek v domě č.p. 95 v Pardubicích - Dražkovicích</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>7674741</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>53333</are:psc>
+    <are:obec>Pardubice</are:obec>
+    <are:castObce>Dražkovice</are:castObce>
+    <are:cisloTxt>95</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumVzniku>2003-11-26</are:DatumVzniku>
+   <are:DatumZapisu>2006-01-17</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2006-01-17">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2006-01-17">
+    <are:Text>
+Způsob jednání za společenství:
+Za výbor jedná navenek předseda výboru, místopředseda výboru nebo výborem písemně pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-01-17" dvy="2008-03-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-01-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-01-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2006-01-17</are:vznikFunkce>
+     <are:zanikFunkce>2008-01-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7724144</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53003</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Národních hrdinů</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Chaloupecký</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-17" dvy="2008-03-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-01-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-01-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7674741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloTxt>95</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Dlouhý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-17" dvy="2010-07-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-01-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-04-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2006-01-17</are:vznikFunkce>
+     <are:zanikFunkce>2010-04-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7674741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloTxt>95</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Monika</are:jmeno>
+     <are:prijmeni>Mládková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-15" dvy="2010-07-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-01-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-04-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2008-01-20</are:vznikFunkce>
+     <are:zanikFunkce>2010-04-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Dražkovice</are:ulice>
+      <are:cisloTxt>95</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kateřina</are:jmeno>
+     <are:prijmeni>Dlouhá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-15" dvy="2010-07-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-01-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-04-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Dražkovice</are:ulice>
+      <are:cisloTxt>95</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Soňa</are:jmeno>
+     <are:prijmeni>Hudcová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-07-23" dvy="2012-06-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-04-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-04-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2010-04-18</are:vznikFunkce>
+     <are:zanikFunkce>2012-04-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7674741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloPop>95</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Soňa</are:jmeno>
+     <are:prijmeni>Hudcová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-07-23" dvy="2012-06-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-04-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-04-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2010-04-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7674741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloPop>95</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Kateřina</are:jmeno>
+     <are:prijmeni>Dlouhá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-07-23" dvy="2012-06-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-04-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-04-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7674741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloPop>95</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Monika</are:jmeno>
+     <are:prijmeni>Mládková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-10-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-04-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2014-04-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7674741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloPop>95</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ADÉLA</are:jmeno>
+     <are:prijmeni>HAŠPICOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-10-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-04-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2014-04-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7674741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloPop>95</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VERONIKA</are:jmeno>
+     <are:prijmeni>NEUMANNOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-10-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-04-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7674741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloPop>95</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KATEŘINA</are:jmeno>
+     <are:prijmeni>DLOUHÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2012-06-08" dvy="2014-10-08">
+   <are:Nazev>statutární orgán - výbor společenství</are:Nazev>
+   <are:Clen dza="2012-06-08" dvy="2014-10-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-04-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-04-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2012-04-15</are:vznikFunkce>
+     <are:zanikFunkce>2014-04-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloPop>95</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Adéla</are:jmeno>
+     <are:prijmeni>Hašpicová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-08" dvy="2014-10-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-04-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-04-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2012-04-15</are:vznikFunkce>
+     <are:zanikFunkce>2014-04-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloPop>95</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Veronika</are:jmeno>
+     <are:prijmeni>Neumannová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-08" dvy="2014-10-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-04-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-04-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7674741</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53333</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Dražkovice</are:castObce>
+      <are:cisloPop>95</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Kateřina</are:jmeno>
+     <are:prijmeni>Dlouhá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

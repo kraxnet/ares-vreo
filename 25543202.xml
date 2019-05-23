@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T19:23:43"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>19:23:43</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25543202</are:ICO>
+   <are:ObchodniFirma>ROBDOL s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>18998241</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Břeclav</are:okres>
+    <are:obec>Břeclav</are:obec>
+    <are:ulice>Šilingrova</are:ulice>
+    <are:cisloTxt>19</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-10-29</are:DatumZapisu>
+   <are:DatumVymazu>2015-12-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z veřejného rejstříku po právní moci usnesení se všemi zápisy.
+    </are:Text>
+    <are:Text>
+Subjekt se vymazává po ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-10-29" dvy="2015-12-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1998-10-29" dvy="2015-12-01">
+    <are:Text>
+Způsob zastupování: společnost zastupuje ve všech věcech
+jednatel a při podepisování připojí svůj podpis jednatel k
+obchodnímu jménu společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Chust s.</are:obec>
+      <are:ulice>Iza</are:ulice>
+      <are:cisloTxt>114</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Dolya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-12-28" dvy="2015-12-01">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2013-12-28" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>69501</are:psc>
+      <are:obec>Hodonín</are:obec>
+      <are:ulice>Národní tř.</are:ulice>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Vítězslav</are:jmeno>
+     <are:prijmeni>Krabička</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1998-10-29" dvy="2015-12-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Chust s.</are:obec>
+      <are:ulice>Iza</are:ulice>
+      <are:cisloTxt>114</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Dolya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Velatyno</are:ulice>
+      <are:cisloTxt>121</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Dordi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Bystry</are:ulice>
+      <are:cisloTxt>408</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Bobonych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>S Bystry</are:ulice>
+      <are:cisloTxt>391</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Barna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Velatyno</are:ulice>
+      <are:cisloTxt>215</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Puka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankivská obl.</are:obec>
+      <are:ulice>h. Kolomya, ul. Kryvovzalna</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Fenyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Nankovo</are:ulice>
+      <are:cisloTxt>37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Danylo</are:jmeno>
+     <are:prijmeni>Peleshkey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankivská obl.</are:obec>
+      <are:ulice>Kolomyjski rajon, s. Vosprečnci</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Igor</are:jmeno>
+     <are:prijmeni>Bileychuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., m. Chust</are:obec>
+      <are:ulice>ul. Lenina</are:ulice>
+      <are:cisloTxt>12a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Rosokha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Kiyvská obl., Belocerkovski r.</are:obec>
+      <are:ulice>s. Michajlovka</are:ulice>
+      <are:cisloTxt>112</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Derev</are:jmeno>
+     <are:prijmeni>Yanko</are:prijmeni>
+     <are:titulPred>Mykhaylo</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Volinská oblast, h. Volin</are:obec>
+      <are:ulice>ul. Hohola</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavlo</are:jmeno>
+     <are:prijmeni>Kuchmyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Volinská oblast, h. Volin</are:obec>
+      <are:ulice>ul. Franka</are:ulice>
+      <are:cisloTxt>18a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Hradyskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Volinská oblast, h. Volin</are:obec>
+      <are:ulice>ul. Čapajeva</are:ulice>
+      <are:cisloTxt>18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Lychkovskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopilská obl., h. Ternopol</are:obec>
+      <are:ulice>ul. Mičurina</are:ulice>
+      <are:cisloTxt>114</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Kryvokulskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Černivecká oblast, h. Bučač</are:obec>
+      <are:ulice>ul. Lermontova</are:ulice>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Kozmenyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankivská oblast</are:obec>
+      <are:ulice>h. Kolomya, ul. Franka</are:ulice>
+      <are:cisloTxt>67</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Demyan</are:jmeno>
+     <are:prijmeni>Levytskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Velatyno</are:ulice>
+      <are:cisloTxt>111</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Maday</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivská oblast, h. Kolomya</are:obec>
+      <are:ulice>ul. Dolynska</are:ulice>
+      <are:cisloTxt>37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bogdan</are:jmeno>
+     <are:prijmeni>Korol</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Horynčevo</are:ulice>
+      <are:cisloTxt>162</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Kut</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Volinská oblast, h. Volin</are:obec>
+      <are:ulice>ul. 3 kosmonautov</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Leonid</are:jmeno>
+     <are:prijmeni>Boyko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Doněcká oblast, h. Jaroslav</are:obec>
+      <are:ulice>ul. Puškina</are:ulice>
+      <are:cisloTxt>19b</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Pop</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Volinská oblast, h. Volin</are:obec>
+      <are:ulice>ul. Gagarina</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksiy</are:jmeno>
+     <are:prijmeni>Hryhola</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Myžgorsky ra</are:obec>
+      <are:ulice>s. Siněvir</are:ulice>
+      <are:cisloTxt>132</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Mykulin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská ob., Myžgorsky raj</are:obec>
+      <are:ulice>s. Siněvir</are:ulice>
+      <are:cisloTxt>128</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Vaherych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Doněcká ob., Novomoskovský raj</are:obec>
+      <are:ulice>s. Obchovka</are:ulice>
+      <are:cisloTxt>161</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ihor</are:jmeno>
+     <are:prijmeni>Riznichenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská ob., Rachovský raj</are:obec>
+      <are:ulice>s. Divove</are:ulice>
+      <are:cisloTxt>326</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Petretskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Iršava</are:obec>
+      <are:ulice>ul. Franka</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Kachur</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Seliště</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vyacheslav</are:jmeno>
+     <are:prijmeni>Rusinko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Černivecká oblast, Černovce</are:obec>
+      <are:ulice>ul. Hospodárská</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vadym</are:jmeno>
+     <are:prijmeni>Kovtsun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Iza</are:ulice>
+      <are:cisloTxt>224</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viktor</are:jmeno>
+     <are:prijmeni>Zhuba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Kopašnevo</are:ulice>
+      <are:cisloTxt>199</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Popadynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopolská oblast, Ternopol</are:obec>
+      <are:ulice>Kocira</are:ulice>
+      <are:cisloTxt>37a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ruslan</are:jmeno>
+     <are:prijmeni>Khortyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Velatyno</are:ulice>
+      <are:cisloTxt>1300a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Divynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Tačevský raj</are:obec>
+      <are:ulice>s. Unihovo</are:ulice>
+      <are:cisloTxt>372</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Yasinko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-29" dvy="2015-12-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl., Chustský raj</are:obec>
+      <are:ulice>s. Velatyno</are:ulice>
+      <are:cisloTxt>188</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Dovhiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

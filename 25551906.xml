@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-28T12:34:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:34:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25551906</are:ICO>
+   <are:ObchodniFirma>VIZIT-IF, s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>18759874</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>67401</are:psc>
+    <are:okres>Třebíč</are:okres>
+    <are:obec>Třebíč</are:obec>
+    <are:castObce>Vnitřní Město</are:castObce>
+    <are:ulice>Karlovo nám.</are:ulice>
+    <are:cisloPop>133</are:cisloPop>
+    <are:cisloOr>5</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-01-22</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-01-22">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-01-22">
+    <are:Text>
+Způsob jednání:
+Za společnost jedná a podepisuje jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-01-22" dvy="2000-05-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl.,Mukačevský r.</are:obec>
+      <are:ulice>vesnice Rakošino, ul. Lenina</are:ulice>
+      <are:cisloTxt>316</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Fedak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-05-19" dvy="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpat.obl.,Mukačevský r.</are:obec>
+      <are:ulice>vesnice Rakošino, ul. Lenina 316</are:ulice>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Fedak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>FEDAK</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Rakošino, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Lenina316</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2019-01-25">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2019-01-25">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>18673023</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>67521</are:psc>
+      <are:okres>Třebíč</are:okres>
+      <are:obec>Okříšky</are:obec>
+      <are:castObce>Okříšky</are:castObce>
+      <are:ulice>Pod tratí</are:ulice>
+      <are:cisloPop>317</are:cisloPop>
+     </are:adresa>
+     <are:ICO>46181806</are:ICO>
+     <are:ObchodniFirma>František Mareš</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-01-22">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>FEDAK</are:prijmeni>
+     <are:bydliste>
+      <are:stat>804</are:stat>
+      <are:obec>Rakošino, Zakrpatská oblast</are:obec>
+      <are:ulice>ul. Lenina 316</are:ulice>
+     </are:bydliste>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Stanovo, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Lenina</are:ulice>
+     </are:adresa>
+     <are:jmeno>IVANCHO</are:jmeno>
+     <are:prijmeni>MYKHAYLO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Stanovo, Zakarpatská oblast</are:obec>
+      <are:ulice>ul Lenina 50</are:ulice>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>IVANCHO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rakošino, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Lenina 28</are:ulice>
+     </are:adresa>
+     <are:jmeno>STANISLAV</are:jmeno>
+     <are:prijmeni>KURTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Žukovo, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Mira 5</are:ulice>
+     </are:adresa>
+     <are:jmeno>ANDRIY</are:jmeno>
+     <are:prijmeni>BALKHOVITIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kirovo, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Ševčenka</are:ulice>
+     </are:adresa>
+     <are:jmeno>VALERIY</are:jmeno>
+     <are:prijmeni>KASYNETS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rakošino, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Lenina 2</are:ulice>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>VOLODYMYR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kločki 38, Zakarpatská oblast</are:obec>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>MEDENTSI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rakošino, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Lenina 3</are:ulice>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>TORONI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rakošino, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Franka 22</are:ulice>
+     </are:adresa>
+     <are:jmeno>MYKHAYLO</are:jmeno>
+     <are:prijmeni>FEDAK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rakošino, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Žovtneva 112</are:ulice>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>KULYA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lochovo, Zakasrpatská oblast</are:obec>
+      <are:ulice>ul. Vakarova 12</are:ulice>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>HERTS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22573160</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hostivař</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Tenisová</are:ulice>
+      <are:cisloPop>850</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>KELMAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ruske, Zakarpatská oblast</are:obec>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>ANDRUS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Davidkovo 80, Zakarpatská oblast</are:obec>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>MASALOVYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Stanovo, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Lenina 219</are:ulice>
+     </are:adresa>
+     <are:jmeno>YAROSLAV</are:jmeno>
+     <are:prijmeni>IVANCHO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Stanovo, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Lenina 219</are:ulice>
+     </are:adresa>
+     <are:jmeno>VOLODYMYR</are:jmeno>
+     <are:prijmeni>IVANCHO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Stare Davidkovo 51, Zakarpatská oblast</are:obec>
+     </are:adresa>
+     <are:jmeno>VOLODYMYR</are:jmeno>
+     <are:prijmeni>BALAZH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Mukačevo</are:obec>
+      <are:ulice>ul. Dzerdžinskeho d. 49, byt 89, Zakarpatská oblast</are:ulice>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>KRYSYNA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kločki, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Sadova</are:ulice>
+     </are:adresa>
+     <are:jmeno>MYKHAYLO</are:jmeno>
+     <are:prijmeni>KOSTYULYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Čopivci, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Višneva 12</are:ulice>
+     </are:adresa>
+     <are:jmeno>VOLODYMYR</are:jmeno>
+     <are:prijmeni>LENDEL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rakošino, Zakarpatská oblast</are:obec>
+      <are:ulice>ul. Novosilska 22</are:ulice>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>KOHUTYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Davidkovo 80, Zakarpatská oblast</are:obec>
+     </are:adresa>
+     <are:jmeno>STEPAN</are:jmeno>
+     <are:prijmeni>LENDYEL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23802766</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50332</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Březhrad</are:castObce>
+      <are:ulice>Březhradská</are:ulice>
+      <are:cisloPop>148</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>BASARAB</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-18T17:20:19"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-18</are:Datum_vypisu>
+   <are:Cas_vypisu>17:20:19</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26337363</are:ICO>
+   <are:ObchodniFirma>&quot;Společenství vlastníků jednotek domů Majakovského 23 a 25, 360 05 Karlovy Vary&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>20688971</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>36005</are:psc>
+    <are:okres>Karlovy Vary</are:okres>
+    <are:obec>Karlovy Vary</are:obec>
+    <are:castObce>Rybáře</are:castObce>
+    <are:ulice>Majakovského</are:ulice>
+    <are:cisloPop>698</are:cisloPop>
+    <are:cisloOr>23</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-10-24</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+    <are:Ucel>
+     <are:Text>
+správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-10-24">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-10-24" dvy="2016-06-15">
+    <are:Text>
+Způsob jednání:
+Za společenství podepisuje vždy předseda a pověřený člen výboru
+a to tak, že k napsanému nebo tištěnému názvu společenství
+připojuje svůj podpis předseda a jeden člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-06-15">
+    <are:Text>
+Za výbor jedná navenek samostatně předseda výboru. Jde-li o písemné právní jednání, musí být  podepsáno předsedou výboru a dalším členem výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2012-01-10" dvy="2013-07-05">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloPop>697</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Dana</are:jmeno>
+     <are:prijmeni>Ryvolová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-01-10" dvy="2014-07-30">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloPop>697</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Miroslava</are:jmeno>
+     <are:prijmeni>Čiháková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-01-10" dvy="2016-06-15">
+    <are:clenstvi>
+     <are:zanikClenstvi>2013-04-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2013-04-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloPop>697</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Kornatovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-07-05" dvy="2016-06-15">
+    <are:clenstvi>
+     <are:zanikClenstvi>2013-04-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloPop>697</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANA</are:jmeno>
+     <are:prijmeni>STĚHULOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-30" dvy="2016-06-15">
+    <are:clenstvi>
+     <are:zanikClenstvi>2013-04-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25668773</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36263</are:psc>
+      <are:obec>Dalovice</are:obec>
+      <are:castObce>Všeborovice</are:castObce>
+      <are:ulice>Stará cesta</are:ulice>
+      <are:cisloPop>119</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MIROSLAVA</are:jmeno>
+     <are:prijmeni>ČIHÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-06-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-04-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2016-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloPop>697</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>KORNATOVSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-06-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-04-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloPop>697</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZUZANA</are:jmeno>
+     <are:prijmeni>KINDLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-06-15" dvy="2018-12-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-04-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-11-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloPop>698</are:cisloPop>
+      <are:cisloOr>23</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>ESZENYI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2001-10-24" dvy="2012-01-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2001-10-24" dvy="2007-08-18">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>697/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Toman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2007-08-18">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2001-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>697/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Valentin</are:jmeno>
+     <are:prijmeni>Horský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2007-08-18">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2001-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>698/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libor</are:jmeno>
+     <are:prijmeni>Davídek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2007-08-18">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2001-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>698/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Zahradník</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2012-01-10">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>698/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Kučera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-08-18" dvy="2012-01-10">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>697/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Růžička</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-08-18" dvy="2012-01-10">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>698/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Rada</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-08-18" dvy="2012-01-10">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>697/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslava</are:jmeno>
+     <are:prijmeni>Čiháková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-08-18" dvy="2012-01-10">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36005</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Rybáře</are:castObce>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>697/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Střela</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-18</are:Datum_vypisu>
+   <are:Cas_vypisu>17:20:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26337363</are:ICO>
+   <are:ObchodniFirma>&quot;Společenství vlastníků jednotek domů Majakovského 23 a 25, 360 05 Karlovy Vary&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>20688971</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>36005</are:psc>
+    <are:obec>Karlovy Vary</are:obec>
+    <are:ulice>Majakovského</are:ulice>
+    <are:cisloTxt>698/23</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-10-24</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-10-24" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-10-24" dvy="2001-12-31">
+    <are:Text>
+Způsob jednání:
+Za společenství podepisuje vždy předseda a pověřený člen výboru
+a to tak, že k napsanému nebo tištěnému názvu společenství
+připojuje svůj podpis předseda a jeden člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-10-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>698/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Kučera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>697/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Toman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2001-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688962</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>697/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Valentin</are:jmeno>
+     <are:prijmeni>Horský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2001-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>698/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libor</are:jmeno>
+     <are:prijmeni>Davídek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2001-06-11</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20688971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Majakovského</are:ulice>
+      <are:cisloTxt>698/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Zahradník</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

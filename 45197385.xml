@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-25T15:23:56"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-25</are:Datum_vypisu>
+   <are:Cas_vypisu>15:23:56</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45197385</are:ICO>
+   <are:ObchodniFirma>OLSIX s.r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:psc>77200</are:psc>
+    <are:obec>Železniční 4</are:obec>
+    <are:ulice>Olomouc</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-03-06</are:DatumZapisu>
+   <are:DatumVymazu>2018-10-17</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost se vymazává z obchodního rejstříku včetně všech zapsaných skutečností.
+ 
+Právní důvod výmazu: Společnost se vymazává z obchodního rejstříku po skončení likvidace na návrh společnosti doručený soudu dne 5.10.2018.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+- Automatizované zpracování dat
+- poskytování software programů na základě smlouvy s autory nebo
+vyhotovování programů na zakázku
+     </are:Text>
+     <are:Text>
+Datum uzavření společenské slouvy: 14. ledna 1992
+     </are:Text>
+     <are:Text>
+Jednání za společnost: společnost zastupuje likvidátor
+společnosti, v plném rozsahu samostatně.
+Likvidátor: ing. Zora Dostálová, bytem Olomouc,
+Dlouhá 62.
+     </are:Text>
+     <are:Text>
+Kmenové jmění: 100.000,- Kčs
+     </are:Text>
+     <are:Text>
+Výše vkladů jednotlivých společníků:
+ing. Zora Doslálová               20.000,- Kčs
+ing. Luděk Dvořáček               20.000,- Kčs
+Marek Mackovík                    20.000,- Kčs
+RNDr. Jiří Vaněček                40.000,- Kčs
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Jiny_organ dza="1992-03-06" dvy="2018-10-17">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-03-06" dvy="2018-10-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23263423</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>62</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zora</are:jmeno>
+     <are:prijmeni>Dostálová</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-06" dvy="2018-10-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332191</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Lužická</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luděk</are:jmeno>
+     <are:prijmeni>Dvořáček</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-06" dvy="2018-10-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16254708</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77334</are:psc>
+      <are:obec>Skrbeň</are:obec>
+      <are:ulice>Nádražní</are:ulice>
+      <are:cisloTxt>22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Mackovík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-06" dvy="2018-10-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23301619</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Hraniční</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Vaněček</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

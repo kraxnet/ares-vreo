@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-05-28T13:10:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-05-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-05-28</are:Datum_vypisu>
+   <are:Cas_vypisu>13:10:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28440366</are:ICO>
+   <are:ObchodniFirma>STYLUS COMPANY s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21750467</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:obec>Praha 2</are:obec>
+    <are:castObce>Vinohrady</are:castObce>
+    <are:ulice>Na Kozačce</are:ulice>
+    <are:cisloTxt>1103/5</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2008-08-04</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-08-04">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2008-08-04">
+    <are:Text>
+Jednatel je oprávněn jednat za společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2008-08-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-08-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvov</are:obec>
+      <are:ulice>Ševčenko</are:ulice>
+      <are:cisloTxt>17/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andriy</are:jmeno>
+     <are:prijmeni>Vyndyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-05-24">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-05-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21704945</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloPop>700</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>MAREŠOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-08-04">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Tyapče</are:obec>
+      <are:castObce>Ivano-Frankovská obl., Dolynskyy okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Bogdan</are:jmeno>
+     <are:prijmeni>Ugrynovskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Pidberež</are:obec>
+      <are:castObce>Ivano-Frankivská obl., Dolynskyy okres</are:castObce>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Bunchak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Stebnyk</are:obec>
+      <are:castObce>Lvovská oblast</are:castObce>
+      <are:ulice>Naberežna</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Irena</are:jmeno>
+     <are:prijmeni>Nanivska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Koržova</are:obec>
+      <are:castObce>Ternopolská obl., Monastyryskyy</are:castObce>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Lehin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kalyny</are:obec>
+      <are:castObce>Zakarpatská oblast</are:castObce>
+      <are:ulice>Tjačevský okr.</are:ulice>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Herych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kalyny</are:obec>
+      <are:castObce>Zakarpatská oblast</are:castObce>
+      <are:ulice>Tjačevský okr.</are:ulice>
+     </are:adresa>
+     <are:jmeno>Yustyna</are:jmeno>
+     <are:prijmeni>Martsiychuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Mižgirskyy okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Markovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Vulcanesti</are:obec>
+     </are:adresa>
+     <are:jmeno>Dumitru</are:jmeno>
+     <are:prijmeni>Bulala</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachivský okres</are:castObce>
+      <are:ulice>Roztoky</are:ulice>
+      <are:cisloTxt>37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Pavlyuchok</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Vulcanesti</are:obec>
+     </are:adresa>
+     <are:jmeno>Viorel</are:jmeno>
+     <are:prijmeni>Bulala</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zolotarevo</are:obec>
+      <are:castObce>Zakarpatská oblast, Chutský okres</are:castObce>
+      <are:ulice>Vakarova</are:ulice>
+      <are:cisloTxt>35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Dovhanych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Mižgirský okres</are:castObce>
+      <are:ulice>Lazeščina</are:ulice>
+      <are:cisloTxt>1120</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yevheniya</are:jmeno>
+     <are:prijmeni>Morozyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankovská oblast</are:obec>
+     </are:adresa>
+     <are:jmeno>Ilona</are:jmeno>
+     <are:prijmeni>Gorlenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Dolina</are:obec>
+      <are:castObce>Ivano-Frankovská oblast, Dolynský okr.</are:castObce>
+      <are:ulice>Mickevyca</are:ulice>
+      <are:cisloTxt>17/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleg</are:jmeno>
+     <are:prijmeni>Fendyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Šutromynci</are:obec>
+      <are:castObce>Ternopilská oblast</are:castObce>
+     </are:adresa>
+     <are:jmeno>Pavlo</are:jmeno>
+     <are:prijmeni>Havryshko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kolomiya</are:obec>
+      <are:castObce>Ivano-Frankovská obl.</are:castObce>
+      <are:ulice>Krivonosa</are:ulice>
+      <are:cisloTxt>55/42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Sokolyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>642</are:stat>
+      <are:obec>Judetu tirgu mureš</are:obec>
+      <are:castObce>komuna Ganesti</are:castObce>
+      <are:ulice>Seuca</are:ulice>
+      <are:cisloTxt>334</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andrei</are:jmeno>
+     <are:prijmeni>Vaspal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Drahovo</are:obec>
+      <are:castObce>Zakarpatská oblast</are:castObce>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Khuda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zabroč</are:obec>
+      <are:castObce>Zakarpatská oblast</are:castObce>
+      <are:ulice>Hrun</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Lehach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Drahovo</are:obec>
+      <are:castObce>Zakarpatská oblast</are:castObce>
+      <are:ulice>Vakarova</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marta</are:jmeno>
+     <are:prijmeni>Rishko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Drahovo</are:obec>
+      <are:castObce>Zakarpatská oblast</are:castObce>
+      <are:ulice>Kičereli</are:ulice>
+      <are:cisloTxt>167a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhailo</are:jmeno>
+     <are:prijmeni>Pistsov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:ulice>Lisitshevo</are:ulice>
+      <are:cisloTxt>145</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Prodan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Čokylten</are:obec>
+      <are:ulice>Orheivský okres</are:ulice>
+     </are:adresa>
+     <are:jmeno>Ion</are:jmeno>
+     <are:prijmeni>Rosca</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

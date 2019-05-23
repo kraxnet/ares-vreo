@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-09-25T16:42:04"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-09-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-09-25</are:Datum_vypisu>
+   <are:Cas_vypisu>16:42:04</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>24825328</are:ICO>
+   <are:ObchodniFirma>ABC - zařízení školního stravování a.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22591095</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>10800</are:psc>
+    <are:obec>Praha 10</are:obec>
+    <are:castObce>Malešice</are:castObce>
+    <are:ulice>Limuzská</are:ulice>
+    <are:cisloPop>530</are:cisloPop>
+    <are:cisloOr>37</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2011-03-22</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Hostinská činnost
+     </are:Text>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+Prodej kvasného lihu, konzumního lihu a lihovin
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2011-03-22">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2011-03-22">
+    <are:Text>
+Jménem společnosti jedná samostatně předseda představenstva, nebo společně dva členové představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2011-03-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-03-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2011-03-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24991309</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19017</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Uherská</are:ulice>
+      <are:cisloPop>618</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Igor</are:jmeno>
+     <are:prijmeni>Šimonovič</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-03-22" dvy="2015-03-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-03-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22591095</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10800</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Malešice</are:castObce>
+      <are:ulice>Limuzská</are:ulice>
+      <are:cisloPop>530</are:cisloPop>
+      <are:cisloOr>37</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Popelářová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-03-22" dvy="2016-07-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-03-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21846570</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14800</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Hrudičkova</are:ulice>
+      <are:cisloPop>2097</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Zubalík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-03-04" dvy="2015-05-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-03-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22591095</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malešice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Limuzská</are:ulice>
+      <are:cisloPop>530</are:cisloPop>
+      <are:cisloOr>37</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>HOLASOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-03-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22686142</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10600</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Záběhlice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Tulipánová</are:ulice>
+      <are:cisloPop>2802</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>HOLASOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-07-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-03-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21846570</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Hrudičkova</are:ulice>
+      <are:cisloPop>2097</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>ZUBALÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-07-20">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-07-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21851051</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Machuldova</are:ulice>
+      <are:cisloPop>571</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>KOLÁŘÍK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2011-03-22">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2014-02-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-01-29</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14559609</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25063</are:psc>
+      <are:obec>Mratín</are:obec>
+      <are:castObce>Mratín</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>171</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DANIELA</are:jmeno>
+     <are:prijmeni>DĚKANOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-02-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-01-29</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2014-01-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24991309</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19017</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinoř</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Uherská</are:ulice>
+      <are:cisloPop>618</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LEA</are:jmeno>
+     <are:prijmeni>ŠIMONOVIČOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-02-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-01-29</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25763351</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27305</are:psc>
+      <are:obec>Svinařov</are:obec>
+      <are:castObce>Svinařov</are:castObce>
+      <are:ulice>Hlavní</are:ulice>
+      <are:cisloPop>241</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUDĚK</are:jmeno>
+     <are:prijmeni>VOIGT</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:47:26"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:47:26</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00075710</are:ICO>
+   <are:ObchodniFirma>Muzeum jižního Plzeňska v Blovicích, příspěvková organizace</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>20746741</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>33601</are:psc>
+    <are:obec>Blovice</are:obec>
+    <are:castObce>Hradiště</are:castObce>
+    <are:cisloPop>1</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumVzniku>1973-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2012-03-07</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:DoplnkovaCinnost>
+     <are:Text>
+výroba, obcho a služby neuvedené v přílohách 1 až 3 živnostenského zákona (velkoobchod a maloobchod, realitní činnost, správa a údržba nemovitostí)
+     </are:Text>
+    </are:DoplnkovaCinnost>
+    <are:PredmetCinnosti>
+     <are:Text>
+plní funkci muzea, získává, shromažďuje, trvale uchovává, eviduje, odborně zpracovává a zpřístupňuje veřejnosti sbírky (tj. soubory sbírkových předmětů) muzejní povahy, včetně doplňkových služeb odborné i široké veřejnosti
+     </are:Text>
+     <are:Text>
+spravování historického fondu a odborné knihovny
+     </are:Text>
+     <are:Text>
+provádění archeologických výzkumů
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2012-03-07">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2012-03-07">
+    <are:Text>
+Způsob jednání:
+Ředitel jedná ve všech věcech jménem organizace samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2012-03-07" dvy="2012-10-17">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+     <are:vznikFunkce>2003-04-01</are:vznikFunkce>
+     <are:zanikFunkce>2012-08-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>33601</are:psc>
+      <are:obec>Blovice</are:obec>
+      <are:castObce>Hradiště</are:castObce>
+      <are:ulice>Poplužní</are:ulice>
+      <are:cisloPop>54</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Pančíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-10-17">
+    <are:funkce>
+     <are:nazev>ředitelka</are:nazev>
+     <are:vznikFunkce>2012-09-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20769890</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33701</are:psc>
+      <are:obec>Rokycany</are:obec>
+      <are:castObce>Plzeňské Předměstí</are:castObce>
+      <are:ulice>Polní</are:ulice>
+      <are:cisloPop>953</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Radka</are:jmeno>
+     <are:prijmeni>Křížková Červená</are:prijmeni>
+     <are:titulPred>PhDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2012-03-07">
+   <are:Nazev>Zřizovatel</are:Nazev>
+   <are:Clen dza="2012-03-07">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>24546607</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Jižní Předměstí</are:castObce>
+      <are:ulice>Škroupova</are:ulice>
+      <are:cisloPop>1760</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:ICO>70890366</are:ICO>
+     <are:ObchodniFirma>Plzeňský kraj</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T03:05:21"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>03:05:21</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26334267</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu Písečná 37, 39, 41 v Chebu</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>20903871</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>35002</are:psc>
+    <are:okres>Cheb</are:okres>
+    <are:obec>Cheb</are:obec>
+    <are:castObce>Cheb</are:castObce>
+    <are:ulice>Písečná</are:ulice>
+    <are:cisloPop>1200</are:cisloPop>
+    <are:cisloOr>37</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-09-11</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-09-11">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-09-11" dvy="2015-05-13">
+    <are:Text>
+Způsob jednání:
+Jménem společenství jedná navenek předseda nebo pověřený člen
+výboru. Při písemné formě děje se podepisování společenství tak,
+že k uvedenému jménu společenství a jeho sídla připojí svůj
+podpis předseda nebo místopředseda a další člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-05-13">
+    <are:Text>
+Společenství vlastníků zastupují vždy dva členové výboru společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-09-11" dvy="2003-07-15">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-04-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20903871</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>1200/37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Soukupová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-09-11" dvy="2003-07-15">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-04-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>1297/39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kučaba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-09-11" dvy="2003-07-15">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2001-04-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>1298/41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iva</are:jmeno>
+     <are:prijmeni>Vaníková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-07-15" dvy="2007-08-14">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Švagr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-07-15" dvy="2007-08-14">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20903871</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>1200/37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Soukupová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-07-15" dvy="2007-08-14">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Lysý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-08-14" dvy="2010-03-04">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kučaba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-08-14" dvy="2010-03-04">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iva</are:jmeno>
+     <are:prijmeni>Vaníková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-08-14" dvy="2010-03-04">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Lysý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-04" dvy="2011-09-02">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kučaba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-04" dvy="2011-09-02">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iva</are:jmeno>
+     <are:prijmeni>Vaníková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-04" dvy="2011-09-02">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Lysý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-02" dvy="2013-05-03">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloOr>39</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kučaba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-02" dvy="2013-05-03">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloOr>41</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Iva</are:jmeno>
+     <are:prijmeni>Vaníková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-02" dvy="2013-05-03">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloOr>41</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Lysý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-05-03" dvy="2015-05-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-02-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2015-02-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:castObce>Cheb</are:castObce>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloPop>1297</are:cisloPop>
+      <are:cisloOr>39</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>KUČABA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-05-03" dvy="2015-05-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-02-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2015-02-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:castObce>Cheb</are:castObce>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloPop>1298</are:cisloPop>
+      <are:cisloOr>41</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IVA</are:jmeno>
+     <are:prijmeni>VANÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-05-03" dvy="2015-05-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-02-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:castObce>Cheb</are:castObce>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloPop>1298</are:cisloPop>
+      <are:cisloOr>41</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>LYSÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-04-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20903871</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:castObce>Cheb</are:castObce>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloPop>1200</are:cisloPop>
+      <are:cisloOr>37</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>PRACHAŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-04-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20903871</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:castObce>Cheb</are:castObce>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloPop>1200</are:cisloPop>
+      <are:cisloOr>37</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MILAN</are:jmeno>
+     <are:prijmeni>SNÍŽEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-04-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:castObce>Cheb</are:castObce>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloPop>1298</are:cisloPop>
+      <are:cisloOr>41</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ALENA</are:jmeno>
+     <are:prijmeni>HÁJKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>03:05:21</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26334267</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu Písečná 37, 39, 41 v Chebu</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>20903871</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>35002</are:psc>
+    <are:obec>Cheb</are:obec>
+    <are:ulice>Písečná</are:ulice>
+    <are:cisloTxt>1200/37</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-09-11</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa, provoz a opravy společných částí domu a zabezpečování
+dalších činností spojených s provozem domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-09-11" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-09-11" dvy="2001-12-31">
+    <are:Text>
+Způsob jednání:
+Jménem společenství jedná navenek předseda nebo pověřený člen
+výboru. Při písemné formě děje se podepisování společenství tak,
+že k uvedenému jménu společenství a jeho sídla připojí svůj
+podpis předseda nebo místopředseda a další člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-09-11" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-04-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20903871</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>1200/37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Soukupová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-09-11" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-04-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>1297/39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kučaba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-09-11" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2001-04-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20905050</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Písečná</are:ulice>
+      <are:cisloTxt>1298/41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iva</are:jmeno>
+     <are:prijmeni>Vaníková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

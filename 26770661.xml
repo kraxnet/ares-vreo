@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T05:58:02"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>05:58:02</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26770661</are:ICO>
+   <are:ObchodniFirma>K.V. Stav v.o.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>11472855</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>28531</are:psc>
+    <are:obec>Nové Dvory u Kutné Hory</are:obec>
+    <are:ulice>Havlíčkova</are:ulice>
+    <are:cisloTxt>289</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-03-26</are:DatumZapisu>
+   <are:DatumVymazu>2015-07-02</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost K.V. Stav v.o.s. v likvidaci, Havlíčkova 289, 285 31 Nové Dvory u Kutné Hory, identifikační číslo 267 70 661 se ke dni právní moci tohoto rozhodnutí vymazává z obchodního rejstříku. Právním důvodem výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-03-26" dvy="2015-07-02">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="2003-03-26" dvy="2015-07-02">
+    <are:Text>
+Za společnost jedná statutární orgán, a to samostatně ve všech
+věcech. Podepisování za společnost se děje tak, že k napsané či
+vytištěné obchodní firmě společnosti připojí statutární orgán
+svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-03-26" dvy="2006-01-04">
+    <are:funkce>
+     <are:vznikFunkce>2003-03-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28531</are:psc>
+      <are:obec>v ČR: Nové Dvory u Kutné Hory</are:obec>
+      <are:ulice>Havlíčkova</are:ulice>
+      <are:cisloTxt>289</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Kocherha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-04" dvy="2015-07-02">
+    <are:funkce>
+     <are:nazev>společník</are:nazev>
+     <are:vznikFunkce>2003-03-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tačiv</are:castObce>
+      <are:ulice>Neresnycja</are:ulice>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Kocherha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-01-10" dvy="2015-07-02">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2013-01-10" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21715084</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Staré Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Kaprova</are:ulice>
+      <are:cisloPop>42</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kubálek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-03-26" dvy="2015-07-02">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Neresnycja, ul. Pidhora 106</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Boychuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr Ťačiv, obec Neresnycja, ul. Ivana Franka 149</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Koshilka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ivano Frankovská oblast, okr. Kolomyja, obec Sloboda, ul. I. Franka 34</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Fartachuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Krasna, ul. Peršotravneva 01</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Herneshiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr Ťačiv, obec Hruševo, ul. Myru 18</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Mykulyanych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská oblast, okr. Ťačiv, obec Hruševo, ul. Myru 16</are:text>
+     </are:adresa>
+     <are:jmeno>Larysa</are:jmeno>
+     <are:prijmeni>Khortytska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Dubove, ul. Travneva 61</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Motrynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Čumalevo, ul. Peremohy 68</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Chorey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Chust, obec Zabrid, ul. Ševčenka 11</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Ivanyna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Mižhirský, obec Nehrovec, ul. L.Ukrajinky 34</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Yarema</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Chust, bec Vilšany, ul. Kocubynskoho 9</are:text>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Mykulin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Hluboký Potik, ul. Malý Bouč</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Mihalko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Kryčevo, ul. Haharina 15</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Stoyka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Čumalevo, ul. Peremohy 69</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Chorey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Uglja, ul. Lenina 96</are:text>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Volos</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Chust, obec Vilšany, ul. Kocubynskoho 26</are:text>
+     </are:adresa>
+     <are:jmeno>Stepan</are:jmeno>
+     <are:prijmeni>Mykulin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Hruševo, ul. Korsakova 4</are:text>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Katrynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Sumska obl., okr. Romenský, obec Herasymivka čp. 63</are:text>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Volkov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Sumska obl., okr. Romenský, obec Herasymivka čp. 65</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Zdoryk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Čumalevo, ul. Lenina 36</are:text>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Dordyay</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Chust, obec Drahovo, ul. Molodižna 41</are:text>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Rishko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Čumalevo, ul. Peremohy 88</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Popovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Čumalevo, ul. Peremohy 6</are:text>
+     </are:adresa>
+     <are:jmeno>Anton</are:jmeno>
+     <are:prijmeni>Orsah</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Čumalevo, ul. Majakovskoho 2</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Ledney</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Čumalevo, ul. Peremohy 69</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Chorey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Neresnycja, ul. 1. Maja 15</are:text>
+     </are:adresa>
+     <are:jmeno>Vasylyna</are:jmeno>
+     <are:prijmeni>Mahey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-26" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:text>Rostovskaja obl., m. Konstantinovsk, ul. 25 Oktjabrja 58</are:text>
+     </are:adresa>
+     <are:jmeno>Sergey</are:jmeno>
+     <are:prijmeni>Verevkin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-04" dvy="2015-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Zakarpatská obl., okr. Ťačiv, obec Neresnycja</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Kocherha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

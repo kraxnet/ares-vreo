@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T19:30:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>19:30:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>41186231</are:ICO>
+   <are:ObchodniFirma>Pressel Systems International, spol. s r.o., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22266402</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>16200</are:psc>
+    <are:obec>Praha 6</are:obec>
+    <are:ulice>Střešovická</are:ulice>
+    <are:cisloTxt>68</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-07-26</are:DatumZapisu>
+   <are:DatumVymazu>2016-01-08</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Skončení likvidace
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-07-26" dvy="2016-01-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-07-26" dvy="1995-07-26">
+    <are:Text>
+Společnost navenek zastupuje společník Johann Pressel nebo jedna-
+tel.K napsanému nebo vytištěnému názvu společnosti připojí svůj
+podpis společník nebo jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-07-26" dvy="1996-09-17">
+    <are:Text>
+Jednání jménem společnosti:
+Za společnost jedná samostatně jednatel. Podepisování za
+společnost se děje tak, že k vytištěnému nebo napsanému
+obchodnímu jménu společnosti připojí svůj podpis jednatel
+společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1996-09-17" dvy="2011-03-07">
+    <are:Text>
+Každý z jednatelů jedná za společnost samostatně.
+Podepisování za společnost se děje tak, že k vytištěnému nebo
+napsanému obchodnímu jménu společnosti připojí svůj podpis
+kterýkoli jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2011-03-07" dvy="2016-01-08">
+    <are:Text>
+Jménem společnosti jednají vždy alespoň dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-07-26" dvy="1995-07-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Rakousko</are:obec>
+      <are:ulice>Bad Vöslau,A-2540</are:ulice>
+     </are:adresa>
+     <are:jmeno>Johann</are:jmeno>
+     <are:prijmeni>Pressel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-07-26" dvy="1995-12-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22266402</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Střešovická</are:ulice>
+      <are:cisloTxt>68</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Dipl.ing.karel Hašek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-12-11" dvy="1996-09-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22266402</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Střešovická</are:ulice>
+      <are:cisloTxt>68</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Dipl.ing.Karel Hašek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-09-17" dvy="2005-12-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2005-06-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22266402</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Střešovická</are:ulice>
+      <are:cisloTxt>68</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Hašek</are:prijmeni>
+     <are:titulPred>Dipl. ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-09-17" dvy="2005-12-27">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2005-06-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19195621</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Bartošova</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Johann</are:jmeno>
+     <are:prijmeni>Pressel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-12-27" dvy="2011-03-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-06-15</are:vznikFunkce>
+     <are:zanikFunkce>2010-12-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>56</are:stat>
+      <are:text>Louvain la Neuve, rue du Chevalet 40, 1348</are:text>
+     </are:adresa>
+     <are:jmeno>Patrick</are:jmeno>
+     <are:prijmeni>Seghin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-12-27" dvy="2016-01-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-06-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:text>Tribuswinkl, Siedlgasse 9a, 2512</are:text>
+     </are:adresa>
+     <are:jmeno>Raimund</are:jmeno>
+     <are:prijmeni>Schmidt</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-03-07" dvy="2012-07-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-12-29</are:vznikFunkce>
+     <are:zanikFunkce>2012-06-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>276</are:stat>
+      <are:text>Seefeld, Hasenau 2, 82229</are:text>
+     </are:adresa>
+     <are:jmeno>Bernhard</are:jmeno>
+     <are:prijmeni>Bach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-03-07" dvy="2013-01-28">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-12-29</are:vznikFunkce>
+     <are:zanikFunkce>2012-07-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>528</are:stat>
+      <are:text>Bussum, Constantijn Hyugenslaan 20, 1401 AN</are:text>
+     </are:adresa>
+     <are:jmeno>Gerardus Maria</are:jmeno>
+     <are:prijmeni>Henri Peters</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-28" dvy="2016-01-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-07-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>528</are:stat>
+      <are:psc>1071KJ</are:psc>
+      <are:obec>Amsterdam</are:obec>
+      <are:ulice>Jacob Obrechtstraat</are:ulice>
+      <are:cisloTxt>67E</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>GORDON</are:jmeno>
+     <are:prijmeni>GLOVER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-01-29" dvy="2016-01-08">
+   <are:Nazev>Likvidátoři</are:Nazev>
+   <are:Clen dza="2015-01-29" dvy="2016-01-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:psc>2512</are:psc>
+      <are:obec>Tribuswinkl</are:obec>
+      <are:ulice>Siedlgasse 9a</are:ulice>
+     </are:adresa>
+     <are:jmeno>Raimund</are:jmeno>
+     <are:prijmeni>Schmidt</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-07-26" dvy="2016-01-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2009-05-13" dvy="2016-01-08">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:text>Industriestrasse 8, 2540 Bad Vöslau</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>Pressel Versand International GmbH</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

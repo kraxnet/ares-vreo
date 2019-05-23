@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:40:37"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:40:37</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>16190921</are:ICO>
+   <are:ObchodniFirma>Prognosis, spol. s r. o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22288619</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>16000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Vokovice</are:castObce>
+    <are:mop>Praha 6</are:mop>
+    <are:ulice>Africká</are:ulice>
+    <are:cisloPop>432</are:cisloPop>
+    <are:cisloOr>17</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-03-28</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-03-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-03-28" dvy="1994-04-11">
+    <are:Text>
+Zastuupování a podepisování:
+Společnost zastupuje ředitel společnosti Benjamin J.
+Sillivan, nar. 12. 3. 1968, bytem 3316 Irving Ave. South,
+Minneapolis, MN 55408, USA,  který je oprávněn za společnost
+jednat a podepisovat se za ni.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1994-04-11">
+    <are:Text>
+Způsob jednání jménem společnosti: Společnost zastupuje a za
+společnost podepisuje samostatně jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-03-28" dvy="1994-04-11">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>55408</are:psc>
+      <are:obec>Minneapolis,MN</are:obec>
+      <are:ulice>3316 Irving Ave, South</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Benjamin J. Sillivan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-11">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22361391</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Náhorní</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Benjamin J. Sullivan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-03-28">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22390511</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Novákových</are:ulice>
+      <are:cisloPop>1817</are:cisloPop>
+      <are:cisloOr>30a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADAN</are:jmeno>
+     <are:prijmeni>ŠÍR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>55408</are:psc>
+      <are:obec>Minneapolis</are:obec>
+      <are:ulice>Irving Ave. South 3316</are:ulice>
+     </are:adresa>
+     <are:jmeno>BENJAMIN J.</are:jmeno>
+     <are:prijmeni>SILLIVAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>94605</are:psc>
+      <are:obec>Oakland</are:obec>
+      <are:ulice>3632 64th Ave.</are:ulice>
+     </are:adresa>
+     <are:jmeno>CHRISTOPHER W.</are:jmeno>
+     <are:prijmeni>SCHEER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>90808</are:psc>
+      <are:obec>Pepperwood</are:obec>
+      <are:ulice>4627 Long Beach</are:ulice>
+     </are:adresa>
+     <are:jmeno>MATTHEW L.</are:jmeno>
+     <are:prijmeni>WELCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>92118</are:psc>
+      <are:obec>Coronado</are:obec>
+      <are:ulice>548 I Ave.</are:ulice>
+     </are:adresa>
+     <are:jmeno>JENNIFER M.</are:jmeno>
+     <are:prijmeni>OGAR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>6264</are:psc>
+      <are:obec>Capistrano Beach CA</are:obec>
+      <are:ulice>26873 Vista Del Mar</are:ulice>
+     </are:adresa>
+     <are:jmeno>LAURA</are:jmeno>
+     <are:prijmeni>PITTER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

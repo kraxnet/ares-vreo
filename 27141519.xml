@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T09:21:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>09:21:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>27141519</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu čp.513  v Praze 7 ulici u Sparty č. or.12</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22295178</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>17000</are:psc>
+    <are:obec>Praha 7</are:obec>
+    <are:castObce>Bubeneč</are:castObce>
+    <are:ulice>U Sparty</are:ulice>
+    <are:cisloTxt>513/12</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2004-05-05</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-05-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2004-05-05">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-05-05" dvy="2005-03-16">
+    <are:clenstvi>
+     <are:zanikClenstvi>2004-12-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2003-12-03</are:vznikFunkce>
+     <are:zanikFunkce>2004-12-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloTxt>513/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Neděla</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-05" dvy="2005-03-16">
+    <are:clenstvi>
+     <are:zanikClenstvi>2004-12-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2003-12-03</are:vznikFunkce>
+     <are:zanikFunkce>2004-12-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloTxt>513/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Seidl</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-05" dvy="2005-03-16">
+    <are:clenstvi>
+     <are:zanikClenstvi>2004-12-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloTxt>513/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milada</are:jmeno>
+     <are:prijmeni>Horáková</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-03-16" dvy="2010-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-12-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-10-22</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2004-12-20</are:vznikFunkce>
+     <are:zanikFunkce>2009-10-22</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloTxt>513/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Seidl</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-03-16" dvy="2010-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-12-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-06-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2004-12-20</are:vznikFunkce>
+     <are:zanikFunkce>2009-06-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25958755</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14800</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Beskydská</are:ulice>
+      <are:cisloTxt>8/1415</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milada</are:jmeno>
+     <are:prijmeni>Horáková</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-03-16" dvy="2010-03-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-12-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-06-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloTxt>513/12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Irena</are:jmeno>
+     <are:prijmeni>Matějíčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-19" dvy="2012-01-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-10-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2009-10-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloTxt>12/513</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Havelková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-19" dvy="2012-01-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-06-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2009-06-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloTxt>12/513</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Neděla</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-19" dvy="2012-01-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-06-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloTxt>12/513</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Houžvička</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-01-13">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2011-09-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloPop>513</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Seidl</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-01-13">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2011-09-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloTxt>12/513</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Neděla</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-01-13" dvy="2014-10-08">
+    <are:clenstvi>
+     <are:zanikClenstvi>2014-06-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22747923</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15400</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Slivenec</are:castObce>
+      <are:ulice>Meskářova</are:ulice>
+      <are:cisloPop>672</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Racková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-10-08" dvy="2016-09-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-06-09</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 7</are:mop>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloPop>513</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Houžvička</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-07" dvy="2017-01-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-06-09</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-09-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:zanikFunkce>2016-09-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22309004</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Holešovice</are:castObce>
+      <are:mop>Praha 7</are:mop>
+      <are:ulice>Schnirchova</are:ulice>
+      <are:cisloPop>1257</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>HOUŽVIČKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-09-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen Výboru</are:nazev>
+     <are:vznikFunkce>2016-12-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295178</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 7</are:mop>
+      <are:ulice>U Sparty</are:ulice>
+      <are:cisloPop>513</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUKÁŠ</are:jmeno>
+     <are:prijmeni>FIŠÁREK</are:prijmeni>
+     <are:titulZa>MgA.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

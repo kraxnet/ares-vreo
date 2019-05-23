@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T22:23:32"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:23:33</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25874381</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek &quot;Domu Opavská 14, Hlučín&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4614569</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>74801</are:psc>
+    <are:obec>Hlučín</are:obec>
+    <are:castObce>Hlučín</are:castObce>
+    <are:ulice>Opavská</are:ulice>
+    <are:cisloPop>774</are:cisloPop>
+    <are:cisloOr>14</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2001-01-05</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-01-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-01-05" dvy="2013-10-18">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná
+forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-01-07">
+    <are:Text>
+Výbor zastupuje společenství ve všech záležitostech. Navenek zastupuje společenství předseda výboru a v jeho nepřítomnosti jiný člen výboru. Písemná právní jednání za společenství podepisuje předseda výboru společně s dalším členem výboru, v době nepřítom
+nosti předsedy výboru podepisují za společenství dva členové výboru. Kdo za společenství podepisuje, připojí k názvu společenství svůj podpis a údaj o své funkci.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2011-09-27" dvy="2013-10-18">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Bedrunka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-27" dvy="2013-10-18">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Libor</are:jmeno>
+     <are:prijmeni>Janda</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-27" dvy="2013-10-18">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Dagmar</are:jmeno>
+     <are:prijmeni>Nevřelová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-27" dvy="2013-10-18">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Šárka</are:jmeno>
+     <are:prijmeni>Beránková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-27" dvy="2013-10-18">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Kukelka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-10-18" dvy="2013-10-23">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4623657</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Hlučín</are:castObce>
+      <are:ulice>Jilemnického</are:ulice>
+      <are:cisloPop>1692</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>STANISLAV</are:jmeno>
+     <are:prijmeni>HRADEČNÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-10-18" dvy="2016-01-07">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Hlučín</are:castObce>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloPop>774</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>BEDRUNKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-10-18" dvy="2016-01-07">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Hlučín</are:castObce>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloPop>774</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>KUKELKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-10-18" dvy="2016-01-07">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Hlučín</are:castObce>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloPop>774</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DAGMAR</are:jmeno>
+     <are:prijmeni>NEVŘELOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-10-18" dvy="2016-01-07">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3337090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>72528</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Hošťálkovice</are:castObce>
+      <are:ulice>Skrytá</are:ulice>
+      <are:cisloPop>46</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ŠÁRKA</are:jmeno>
+     <are:prijmeni>BERÁNKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-10-23" dvy="2016-01-07">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Hlučín</are:castObce>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloPop>774</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>STANISLAV</are:jmeno>
+     <are:prijmeni>HRADEČNÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-10-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Hlučín</are:castObce>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloPop>774</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>HRADEČNÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Hlučín</are:castObce>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloPop>774</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>BEDRUNKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Hlučín</are:castObce>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloPop>774</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>KUKELKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>74801</are:psc>
+      <are:obec>Hlučín</are:obec>
+      <are:castObce>Hlučín</are:castObce>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloPop>774</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DAGMAR</are:jmeno>
+     <are:prijmeni>NEVŘELOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-10-28</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3337090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>72528</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Hošťálkovice</are:castObce>
+      <are:ulice>Skrytá</are:ulice>
+      <are:cisloPop>46</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ŠÁRKA</are:jmeno>
+     <are:prijmeni>BERÁNKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2001-01-05" dvy="2011-09-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2001-01-05" dvy="2011-09-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Šárka</are:jmeno>
+     <are:prijmeni>Peikertová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-05" dvy="2011-09-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dagmar</are:jmeno>
+     <are:prijmeni>Nevřelová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-05" dvy="2011-09-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libor</are:jmeno>
+     <are:prijmeni>Janda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-05" dvy="2011-09-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Šulák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-05" dvy="2011-09-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Bedrunka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:23:33</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25874381</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek &quot;Domu Opavská 14, Hlučín&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4614569</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Hlučín</are:obec>
+    <are:ulice>Opavská</are:ulice>
+    <are:cisloTxt>774/14</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-01-05</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+1. Předmětem činnosti společenství je správa, provoz a opravy
+společných částí domu, vymezených způsobem stanoveným v zákoně,
+(dále jen &quot;správa domu&quot;) a zabezpečování dalších činností
+spojených s provozem domu.
+     </are:Text>
+     <are:Text>
+2. Správou domu se rozumí
+a) zajišťování provozu domu a pozemku včetně technických
+zařízení a společných částí technických sítí, a to tak, aby
+společné části domu byly provozuschopné a sloužily k jejich
+řádnému užívání a k řádnému užívání bytů a nebytových prostorů v
+domě,
+b) zajišťování oprav a rekonstrukcí společných částí domu včetně
+havarijní údržby,
+c) zajišťování protipožárního zabezpečení domu a jeho revize a
+opravy,
+d) zajišťování revizí a oprav rozvodů plynu, rozvodů elektrické
+energie, svislých a vodorovných rozvodů vody a odvodů odpadních
+vod, společné televizní a rozhlasové antény a ostatních systémů
+k příjmu a rozvodu televizního a rozhlasového signálu,
+elektrických sdělovacích zařízení v domě a hromosvodů,
+e) zajišťování prohlídek a čištění komínů,
+f) plnění dalších povinností, pokud vyplývají nebo vyplynou
+vlastníkům jednotek ze zvláštních právních předpisů v
+souvislosti s jejich spoluvlastnictvím ke společným částem domu,
+g) zajišťování administrativní a operativně technické činnosti
+spojené se správou domu a vedení příslušné technické a provozní
+dokumentace k domu,
+h) vybírání příspěvků od vlastníků jednotek na náklady spojené
+se správou společných částí domu a pozemku, popřípadě dalších
+příspěvků, pokud jsou z rozhodnutí vlastníků jednotek vybírány,
+i) zajišťování vedení evidence plateb vlastníků jednotek na
+náklady spojené se správou společných částí domu a pozemku,
+popřípadě o dalších prostředcích, které jsou z rozhodnutí
+vlastníků jednotek vybírány,
+j) vedení evidence nákladů vzniklých se zajišťováním správy
+domu,
+k) vedení přehledu všech ostatních nákladů vztahujících se k
+domu a pozemku,
+l) zřízení účtu u banky a hospodaření s peněžními prostředky
+vlastníků jednotek, svěřených společenství na úhradu nákladů
+spojených se správou a provozem společných částí domu, s
+povinností oprávněných osob s nimi disponovat s péčí řádného
+správce cizího majetku a podle pokynů schválených vlastníky
+jednotek,
+m) vedení účetnictví domu podle zákona č.563/1991 Sb., o
+účetnictví, ve znění pozdějších předpisů, s odděleným účtováním
+na jednotlivé jednotky (byty a nebytové prostory) a sledování
+nákladů a výnosů v příslušném účetním období.
+     </are:Text>
+     <are:Text>
+3. Na základě pověření všemi vlastníky jednotek zajišťuje
+společenství pojištění domu.
+     </are:Text>
+     <are:Text>
+4. Na základě pověření vlastníky jednotek zajišťuje společenství
+a) plnění poskytovaná s užíváním bytů a nebytových prostorů a
+společných částí domu (dále jen &quot;služby&quot;), s výjimkou těch,
+která si zajišťují vlastníci jednotek od dodavatele přímo (např.
+dodávka elektrické energie nebo plynu do jednotlivých bytů a
+nebytových prostorů),
+b) dodávky elektrické pro společné části domu,
+c) dodávky vody a odvádění odpadních vod pro jednotlivé
+jednotky,
+d) další povinnosti, které vyplynou pro vlastníky jednotek,
+případně pro společenství ze zvláštních právních předpisů.
+     </are:Text>
+     <are:Text>
+5. Předmětem činnosti společenství může být dále v případech,
+kdy společenství zajišťuje služby
+a) vybírání záloh na úhradu za služby od vlastníků jednotek,
+b) vedení potřebné evidence plateb vlastníků jednotek na zálohy
+na úhradu za služby,
+c) zřízení účtu u banky a hospodaření s peněžními prostředky
+svěřenými vlastníky jednotek formou záloh na úhradu za služby,
+d) vyúčtování zálohových plateb na úhradu za služby pro
+jednotlivé vlastníky jednotek,
+e) provozování technických zařízení v domě, která slouží i jiným
+subjektům, s povinností osob, kterým je svěřena jejich obsluha,
+disponovat s nimi s péčí řádného správce majetku a podle pokynů
+schválených shromážděním vlastníků jednotek.
+     </are:Text>
+     <are:Text>
+6. Společenství je oprávněno sjednat smlouvu o zástavním právu k
+jednotce, včetně příslušného spoluvlastnického podílu na
+společných částech domu, k zajištění pohledávek vyplývajících z
+úvěru poskytnutého na náklady spojené se správou domu, a to se
+souhlasem vlastníka jednotky.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-01-05" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-01-05" dvy="2001-12-31">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná
+forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-01-05" dvy="2001-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Šárka</are:jmeno>
+     <are:prijmeni>Peikertová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-05" dvy="2001-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dagmar</are:jmeno>
+     <are:prijmeni>Nevřelová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-05" dvy="2001-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libor</are:jmeno>
+     <are:prijmeni>Janda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-05" dvy="2001-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Šulák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-01-05" dvy="2001-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4614569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>Opavská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Bedrunka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-02-07T12:26:57"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-02-07</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-07</are:Datum_vypisu>
+   <are:Cas_vypisu>12:26:57</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28415370</are:ICO>
+   <are:ObchodniFirma>GRATZ s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22379541</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>18000</are:psc>
+    <are:obec>Praha 8</are:obec>
+    <are:castObce>Libeň</are:castObce>
+    <are:ulice>Zenklova</are:ulice>
+    <are:cisloTxt>610/54</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2008-06-13</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+Pronájem nemovitostí, bytů a nebytových prostor bez poskytování jiných než základních služeb zajišťujících řádný provoz nemovitostí bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-06-13">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2008-06-13">
+    <are:Text>
+Jednatel jedná za společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2008-06-13" dvy="2011-12-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-06-13</are:vznikFunkce>
+     <are:zanikFunkce>2011-11-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25695894</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Kyje</are:castObce>
+      <are:ulice>Lipnická</are:ulice>
+      <are:cisloTxt>1448</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Penc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-01" dvy="2015-08-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-21</are:vznikFunkce>
+     <are:zanikFunkce>2015-08-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22659307</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>28.pluku</are:ulice>
+      <are:cisloPop>443</are:cisloPop>
+      <are:cisloOr>27</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Kostevych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-06-13">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kopošnevo</are:obec>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Yarema</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Drahovo</are:obec>
+     </are:adresa>
+     <are:jmeno>Mykhailo</are:jmeno>
+     <are:prijmeni>Konar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Drahovo</are:obec>
+      <are:castObce>Chusky raj</are:castObce>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Konar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Mokiivka</are:obec>
+      <are:castObce>Doněcká oblast</are:castObce>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Pelyshenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kostelivka</are:obec>
+      <are:castObce>Rachovsky</are:castObce>
+     </are:adresa>
+     <are:jmeno>Oleksiy</are:jmeno>
+     <are:prijmeni>Smetanyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kustanovycya</are:obec>
+      <are:castObce>Zakarpatská oblast</are:castObce>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Matey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Orhei</are:obec>
+     </are:adresa>
+     <are:jmeno>Octavian</are:jmeno>
+     <are:prijmeni>Babin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Cherson</are:obec>
+      <are:ulice>Vinnera</are:ulice>
+      <are:cisloTxt>91a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetiana</are:jmeno>
+     <are:prijmeni>Mingazova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Bystrycya</are:obec>
+      <are:castObce>Ivano-Frankovská oblast</are:castObce>
+     </are:adresa>
+     <are:jmeno>Orysya</are:jmeno>
+     <are:prijmeni>Ostapyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Bedryčiv</are:obec>
+      <are:ulice>Krásná Hora</are:ulice>
+      <are:cisloTxt>296/15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Sergiy</are:jmeno>
+     <are:prijmeni>Gryshchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Stefan - Voda</are:obec>
+     </are:adresa>
+     <are:jmeno>Eugeniv</are:jmeno>
+     <are:prijmeni>Balteanco</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Užhorod</are:obec>
+      <are:ulice>Sobranecká</are:ulice>
+      <are:cisloTxt>118</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Shykula</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Užhorod</are:obec>
+      <are:ulice>Lavriščeva</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Myroslava</are:jmeno>
+     <are:prijmeni>Kadar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Tiraspol</are:obec>
+      <are:ulice>Severnaya</are:ulice>
+      <are:cisloTxt>54/19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Igor</are:jmeno>
+     <are:prijmeni>Mazur</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Romny</are:obec>
+      <are:ulice>Kalinyshevskoho</are:ulice>
+      <are:cisloTxt>44/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Ratvay</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:obec>Biškek</are:obec>
+      <are:ulice>Dušanbenská</are:ulice>
+      <are:cisloTxt>385</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ainura</are:jmeno>
+     <are:prijmeni>Amankulova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rachiv</are:obec>
+      <are:ulice>Pidmirna</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksiy</are:jmeno>
+     <are:prijmeni>Nyaykalo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rachiv</are:obec>
+      <are:ulice>Petrova</are:ulice>
+      <are:cisloTxt>41a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Ilkovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivanofrankivsk</are:obec>
+      <are:ulice>Aviacijna</are:ulice>
+      <are:cisloTxt>45/40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vyacheslav</are:jmeno>
+     <are:prijmeni>Yaroshov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22388109</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Na Truhlářce</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Serhiy</are:jmeno>
+     <are:prijmeni>Handera</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22770691</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>V Lužích</are:ulice>
+      <are:cisloTxt>1/10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Shbistyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Steblivka</are:obec>
+      <are:castObce>Chusky okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Oros</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Orhei</are:obec>
+      <are:castObce>Susleni</are:castObce>
+     </are:adresa>
+     <are:jmeno>Sergiv</are:jmeno>
+     <are:prijmeni>Bogus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Balti</are:obec>
+     </are:adresa>
+     <are:jmeno>Tatiana</are:jmeno>
+     <are:prijmeni>Zaiat</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Berezivka</are:obec>
+      <are:ulice>Haharina</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iuliia</are:jmeno>
+     <are:prijmeni>Solovei</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25695894</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kyje</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Lipnická</are:ulice>
+      <are:cisloPop>1448</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>PENC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

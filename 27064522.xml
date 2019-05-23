@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T08:33:33"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>08:33:33</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27064522</are:ICO>
+   <are:ObchodniFirma>QLED s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>25601717</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14900</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Šeberov</are:castObce>
+    <are:ulice>K Labeškám</are:ulice>
+    <are:cisloPop>821</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-06-02</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+    <are:PredmetCinnosti>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-06-02">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-06-02" dvy="2009-07-09">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2009-07-09" dvy="2015-12-18">
+    <are:Text>
+Jednatelé společnosti jsou oprávněni jednat za společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-12-18">
+    <are:Text>
+Společnost zastupují jednatelé ve všech věcech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-06-02" dvy="2006-05-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-06-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21884854</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Chemická</are:ulice>
+      <are:cisloTxt>953</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Uladzimir</are:jmeno>
+     <are:prijmeni>Lebedzeu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-05-24" dvy="2013-08-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-06-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21951098</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pikrtova</are:ulice>
+      <are:cisloTxt>1315/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Uladzimir</are:jmeno>
+     <are:prijmeni>Lebedzeu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-07-09" dvy="2015-12-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-02-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1436422</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27201</are:psc>
+      <are:obec>Kladno</are:obec>
+      <are:castObce>Kročehlavy</are:castObce>
+      <are:ulice>Dánská</are:ulice>
+      <are:cisloTxt>2263</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ihar</are:jmeno>
+     <are:prijmeni>Lebedzeu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-31" dvy="2015-03-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-06-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28098749</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10200</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Štěrboholy</are:castObce>
+      <are:ulice>Dragounská</are:ulice>
+      <are:cisloPop>462</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ULADZIMIR</are:jmeno>
+     <are:prijmeni>LEBEDZEU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-03-05" dvy="2017-07-28">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-06-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22638113</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Štěrboholy</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Ústřední</are:ulice>
+      <are:cisloPop>135</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ULADZIMIR</are:jmeno>
+     <are:prijmeni>LEBEDZEU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-12-18" dvy="2016-01-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-02-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Vitěvsk</are:obec>
+      <are:ulice>7-ja Bebelja 3/12</are:ulice>
+     </are:adresa>
+     <are:jmeno>IHAR</are:jmeno>
+     <are:prijmeni>LEBEDZEU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-02-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Vitěbsk</are:obec>
+      <are:ulice>7-ja Bebelja 3/12</are:ulice>
+     </are:adresa>
+     <are:jmeno>IHAR</are:jmeno>
+     <are:prijmeni>LEBEDZEU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-28">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-06-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28098749</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Štěrboholy</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Dragounská</are:ulice>
+      <are:cisloPop>462</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>LEBEDZEV</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-06-02">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2009-07-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:text>Vitěbsk, 7-ja Bebelja 3/12</are:text>
+     </are:adresa>
+     <are:jmeno>Tatsiana</are:jmeno>
+     <are:prijmeni>Lebedzeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Vitěbsk</are:obec>
+      <are:ulice>7-ja Bebelja 3/12</are:ulice>
+     </are:adresa>
+     <are:jmeno>IHAR</are:jmeno>
+     <are:prijmeni>LEBEDZEU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-07-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26772019</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Budilova</are:ulice>
+      <are:cisloPop>2384</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JULIA</are:jmeno>
+     <are:prijmeni>BAKULOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

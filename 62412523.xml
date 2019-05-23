@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-09T15:14:41"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-09</are:Datum_vypisu>
+   <are:Cas_vypisu>15:14:41</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>62412523</are:ICO>
+   <are:ObchodniFirma>EUROMONDO s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21904766</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14100</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Michelská</are:ulice>
+    <are:cisloTxt>50</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-01-02</are:DatumZapisu>
+   <are:DatumVymazu>2006-09-30</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej s výjimkou
+zboží,které je uvedeno v příl.2-3 zák.č.455/91 Sb. a tímto
+zákonem vyloučeného
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-01-02" dvy="2006-09-30">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-01-02" dvy="2006-09-30">
+    <are:Text>
+Společnost má jednoho nebo více jednatelů.Je-li jmenován jeden
+jednatel zastupuje samostatně.Je-li jmenováno více jednatelů
+zastupují společně dva jednatelé nebo jeden jednatel s prokuris-
+tou.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-01-02" dvy="1995-11-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22675396</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Fialková</are:ulice>
+      <are:cisloTxt>1267</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dita</are:jmeno>
+     <are:prijmeni>Bendazzoliová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-11-06" dvy="1999-07-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22686398</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Narcisová</are:ulice>
+      <are:cisloTxt>2850/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oldřich</are:jmeno>
+     <are:prijmeni>Dubský</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2005-11-01" dvy="2006-09-30">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2005-11-01" dvy="2006-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloTxt>200</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Pytlík</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-01-02" dvy="2006-09-30">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-01-02" dvy="2006-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>37122  Vertona  ,Itálie</are:obec>
+      <are:ulice>Via Tezone 2</are:ulice>
+     </are:adresa>
+     <are:jmeno>Alex</are:jmeno>
+     <are:prijmeni>Caspani</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-11-06" dvy="2006-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>37047 San Bonifacio, Itálie</are:obec>
+      <are:ulice>Via Lobbia 6/A</are:ulice>
+     </are:adresa>
+     <are:jmeno>Raimondo</are:jmeno>
+     <are:prijmeni>Pegoraro</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-11-06" dvy="2006-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>380</are:stat>
+      <are:text>37047 San Bonifacio,Via Pramosino 19</are:text>
+     </are:adresa>
+     <are:jmeno>Alberto</are:jmeno>
+     <are:prijmeni>Novarin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

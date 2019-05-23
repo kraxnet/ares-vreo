@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-18T09:20:06"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-18</are:Datum_vypisu>
+   <are:Cas_vypisu>09:20:06</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>63674181</are:ICO>
+   <are:ObchodniFirma>RODA spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22696938</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>15800</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Stodůlky</are:castObce>
+    <are:mop>Praha 5</are:mop>
+    <are:ulice>Ovčí hájek</are:ulice>
+    <are:cisloPop>2154</are:cisloPop>
+    <are:cisloOr>4</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-04-27</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+technicko-organizační činnost v oblasti požární ochrany
+     </are:Text>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+Zámečnictví, nástrojářství
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-04-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-04-27">
+    <are:Text>
+Za společnost jedná jednatel nebo zmocněnec na základě písemné
+plné moci.
+Podepisování za společnost se děje tak, že k napsanému či vytiš-
+těnému názvu společnosti připojí svůj podpis jednatel nebo zmoc-
+něnec v případech, kdy má zmocnění.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-04-27" dvy="2013-01-21">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2012-12-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22696938</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Ovčí hájek</are:ulice>
+      <are:cisloTxt>2154/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Margot</are:jmeno>
+     <are:prijmeni>Janská</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-12-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28128176</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Jinonice</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Laténská</are:ulice>
+      <are:cisloPop>849</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAKUB</are:jmeno>
+     <are:prijmeni>ŠVEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-04-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2014-10-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>31319</are:psc>
+      <are:obec>Sehnde</are:obec>
+      <are:ulice>Im Strachgarten 9</are:ulice>
+     </are:adresa>
+     <are:jmeno>BERND</are:jmeno>
+     <are:prijmeni>KAEMMERER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-10-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22696938</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Ovčí hájek</are:ulice>
+      <are:cisloPop>2154</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARGOT</are:jmeno>
+     <are:prijmeni>JANSKÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28128176</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Jinonice</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Laténská</are:ulice>
+      <are:cisloPop>849</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAKUB</are:jmeno>
+     <are:prijmeni>ŠVEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

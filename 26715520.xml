@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-05-09T10:21:03"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-05-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-05-09</are:Datum_vypisu>
+   <are:Cas_vypisu>10:21:03</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26715520</are:ICO>
+   <are:ObchodniFirma>Mečík družstvo v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22438793</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19300</are:psc>
+    <are:okres>Praha 9</are:okres>
+    <are:obec>Praha 9</are:obec>
+    <are:ulice>Slatiňanská</are:ulice>
+    <are:cisloTxt>16č.p.933</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-08-07</are:DatumZapisu>
+   <are:DatumVymazu>2018-05-02</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost Mečík družstvo v likvidaci, IČ: 26715520, se sídlem Praha 9, Slatiňanská 16, č.p. 933, PSČ 193 00, se ke dni nabytí právní moci usnesení o výmazu, vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl Dr, vložka 5608. Právní d
+ůvod výmazu: Společnost se vymazává po provedené likvidaci, když likvidátor byl jmenován soudem ze seznamu insolvenčních správců a vydal prohlášení s náležitostmi dle § 82 zákona č. 301/2013 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+pronájem bytových a nebytových prostor včetně základních služeb
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-08-07" dvy="2018-05-02">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2002-08-07" dvy="2018-05-02">
+    <are:Text>
+za společnost jedná předseda samostatně.Podepisování za
+společnost se děje tak,že k firmě družstva připojí svůj podpis
+předseda.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-08-07" dvy="2008-05-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2002-08-07</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-08-07</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2002-08-07</are:vznikFunkce>
+     <are:zanikFunkce>2005-08-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22438793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19300</are:psc>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Horní Počernice</are:castObce>
+      <are:ulice>Slatiňanská</are:ulice>
+      <are:cisloTxt>16č.p.933</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Třešňáková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-10-11" dvy="2018-05-02">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-10-11" dvy="2018-05-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21705828</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Václavské náměstí</are:ulice>
+      <are:cisloPop>780</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>ČÍŽKOVSKÝ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

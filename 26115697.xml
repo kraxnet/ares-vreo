@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T00:53:23"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>00:53:23</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26115697</are:ICO>
+   <are:ObchodniFirma>NISTRU-99 s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Pšenčikova</are:ulice>
+    <are:cisloTxt>626/20</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-09-22</are:DatumZapisu>
+   <are:DatumVymazu>2008-08-09</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+stavební práce nevyžadující odbornou kvalifikaci
+     </are:Text>
+     <are:Text>
+úklidové práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-09-22" dvy="2008-08-09">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-09-22" dvy="2008-08-09">
+    <are:Text>
+Společnost zastupuje jednatel. Za společnost se podepisuje tak,
+že k názvu společnosti připojí podpis svého jména a příjmení.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-09-22" dvy="2005-02-26">
+    <are:clenstvi>
+     <are:zanikClenstvi>2004-12-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22658301</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 10</are:okres>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Moskevská</are:ulice>
+      <are:cisloTxt>363/33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hnezdilov</are:jmeno>
+     <are:prijmeni>Oleksiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-08-13" dvy="2008-08-09">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-08-13" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Révova</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimíra</are:jmeno>
+     <are:prijmeni>Jechová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-09-22" dvy="2008-08-09">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22658301</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 10</are:okres>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Moskevská</are:ulice>
+      <are:cisloTxt>363/33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hnezdilov</are:jmeno>
+     <are:prijmeni>Oleksiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lenina 103, Herasymiv, Tlumackyj okr., Ivano-Frankivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Shevaga</are:jmeno>
+     <are:prijmeni>Volodymyr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:text>Kajatenska 42, Hroznyj</are:text>
+     </are:adresa>
+     <are:jmeno>Aslambekova</are:jmeno>
+     <are:prijmeni>Zalina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Miron Kostin 22/54, Kyšynev</are:text>
+     </are:adresa>
+     <are:jmeno>Balan</are:jmeno>
+     <are:prijmeni>Gheorghe</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>o.Krasnyj Lug, Luganska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Akhmatova</are:jmeno>
+     <are:prijmeni>Lidiya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Poltavskaja 89, Cherson</are:text>
+     </are:adresa>
+     <are:jmeno>Polyakova</are:jmeno>
+     <are:prijmeni>Olha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Hruševskoho 4, Chodoriv, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Kuzhda</are:jmeno>
+     <are:prijmeni>Volodymyr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Sahajdačnoho 21, Chodoriv, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Hrebin</are:jmeno>
+     <are:prijmeni>Vasyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>o. Babin, Černivecka obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Nazariy</are:jmeno>
+     <are:prijmeni>Nadiya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Petrarimor 44, Kyšynev</are:text>
+     </are:adresa>
+     <are:jmeno>Luniaka</are:jmeno>
+     <are:prijmeni>Liudmila</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Puškina 2a/33, Kyšynev</are:text>
+     </are:adresa>
+     <are:jmeno>Koskevici</are:jmeno>
+     <are:prijmeni>Elena</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Albišoara 72/1-26, Kyšynev</are:text>
+     </are:adresa>
+     <are:jmeno>Tocaru</are:jmeno>
+     <are:prijmeni>Ludmila</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Dacia 173/1/19, Kyšynev</are:text>
+     </are:adresa>
+     <are:jmeno>Cazantev</are:jmeno>
+     <are:prijmeni>Serghei</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Puškina 17/28, Žytomir</are:text>
+     </are:adresa>
+     <are:jmeno>Summa</are:jmeno>
+     <are:prijmeni>Gennadiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lazurnaja 32a/42, Nikolajev</are:text>
+     </are:adresa>
+     <are:jmeno>Vasylynyuk</are:jmeno>
+     <are:prijmeni>Grygoriy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ljutoho 142/3, Krivoj Rog, Dnipropetrovska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Nahornyy</are:jmeno>
+     <are:prijmeni>Anatoliy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ljutoho 142/11, Krivoj Rog,Dnipropetrovska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Zabiyaka</are:jmeno>
+     <are:prijmeni>Oleksandr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Šaškeviča 10/2, Drohobyč, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Hryshchuk</are:jmeno>
+     <are:prijmeni>Andriy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>112</are:stat>
+      <are:text>Bohomolova 19/53, Solihorsk</are:text>
+     </are:adresa>
+     <are:jmeno>Staravoitav</are:jmeno>
+     <are:prijmeni>Siarhei</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Charkovskaja 41/6, Dněprodzeržinsk, Dnipropetrovska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Kucher</are:jmeno>
+     <are:prijmeni>Serhiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Metalurhov 30/34, Dněprodzeržinsk, Dnipropetrovska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Yurshevych</are:jmeno>
+     <are:prijmeni>Oleksandr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Bulvar Trajan 17/1-97, Kyšynev</are:text>
+     </are:adresa>
+     <are:jmeno>Larina</are:jmeno>
+     <are:prijmeni>Tatiana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Florilor 12/4/20, Kyšynev</are:text>
+     </are:adresa>
+     <are:jmeno>Iepuri</are:jmeno>
+     <are:prijmeni>Ghenadie</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>o.Kolodijivka, Tycmenyckyj okr., Ivano-Frankivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Kostenko</are:jmeno>
+     <are:prijmeni>Volodymyr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Nezaležnosti 36/130, Ivano-Frankivsk</are:text>
+     </are:adresa>
+     <are:jmeno>Kuziv</are:jmeno>
+     <are:prijmeni>Igor</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Ivasjuka 32/10, Ivano-Frankivsk</are:text>
+     </are:adresa>
+     <are:jmeno>Kichura</are:jmeno>
+     <are:prijmeni>Oleksandr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>o.Čunadijevo, Zakarpatska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Chorney</are:jmeno>
+     <are:prijmeni>Ivan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lebedeva Kumača 14/1, Doneck</are:text>
+     </are:adresa>
+     <are:jmeno>Gubaryev</are:jmeno>
+     <are:prijmeni>Oleksandr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Vatutina 8, Teresva, Zakarpatska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Pryymak</are:jmeno>
+     <are:prijmeni>Vasyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Internacionalnaja 14/24, Fastov, Kyjevska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Movchanyuk</are:jmeno>
+     <are:prijmeni>Sergiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Lebedeva Kumača 18/4, Doneck</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyukov</are:jmeno>
+     <are:prijmeni>Maksym</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>o.Ostapkivci, Ivano-Frankivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Lakhva</are:jmeno>
+     <are:prijmeni>Mykhaylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Sknylovskyj pereulok 9, Lviv</are:text>
+     </are:adresa>
+     <are:jmeno>Humen</are:jmeno>
+     <are:prijmeni>Yuriy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Pereulok Prodarodnyj 1/2, Honmak, Zaporožska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Kostyuchko</are:jmeno>
+     <are:prijmeni>Volodymyr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>o. Moločansk, Tokmakskyj okr., Zaporožska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Bespalov</are:jmeno>
+     <are:prijmeni>Mykola</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>o. Staryj Skalat, Pidvoločskyj okr., Ternopilska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Smolinskyy</are:jmeno>
+     <are:prijmeni>Anatoliy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>o. Staryj Skalat, Pidvoločskyj okr., Ternopilska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Smolinskyy</are:jmeno>
+     <are:prijmeni>Pavlo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Sičovych Strilciv 11/50, Stebnyk, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Lyakh</are:jmeno>
+     <are:prijmeni>Ihor</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Sičovych Strilciv 11/50, Stebnyk, Lvivska obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Lyakh</are:jmeno>
+     <are:prijmeni>Nataliya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-22" dvy="2008-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Nezaležnosti 4/25, Luck</are:text>
+     </are:adresa>
+     <are:jmeno>Hubernikov</are:jmeno>
+     <are:prijmeni>Oleksandr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

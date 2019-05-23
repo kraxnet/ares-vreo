@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:29:26"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:29:26</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00532576</are:ICO>
+   <are:ObchodniFirma>&quot;Racio-Esprit&quot; družstvo vzdělávání</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>19157495</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Brno</are:obec>
+    <are:ulice>Údolní</are:ulice>
+    <are:cisloTxt>63</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-06-14</are:DatumZapisu>
+   <are:DatumVymazu>1993-05-06</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+kurzy obsluh zemních a stavebních strojů dle vyhl. 77/65 Sb.
+opakovací školení a přezkušování strojníků a řidičů, kurzy jeřáb-
+níků a vazačů dle ČSN 270143, školení elektro dle vyhlášky 50/75
+     </are:Text>
+     <are:Text>
+soukromé, jazykové intenzivní kurzy, školení obsluh počítačů
+     </are:Text>
+     <are:Text>
+tvorba aplikačních programů a služby pro provoz počítačů a mikro-
+procesorů
+     </are:Text>
+     <are:Text>
+technická pomoc při projektování a zpracování a zpracování
+technických studií
+     </are:Text>
+     <are:Text>
+výroba, prodej výrobků ze dřeva, drobná zámečnická výroba
+     </are:Text>
+     <are:Text>
+stavební výroba, strojní, zemní práce a přeprava materiálu
+     </are:Text>
+     <are:Text>
+realitní činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-06-14" dvy="1993-05-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1990-06-14" dvy="1993-05-06">
+    <are:Text>
+Podepisování:
+Za družstvo podepisují vždy dva členové z nichž jeden musí být
+předseda (místopředseda) a druhý některý z členů družstva, po-
+věřený členskou schůzí.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-06-14" dvy="1993-05-06">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19157495</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Údolní</are:ulice>
+      <are:cisloTxt>63</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlasta</are:jmeno>
+     <are:prijmeni>Vincentová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-06-14" dvy="1993-05-06">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno 12</are:obec>
+      <are:ulice>Šafaříkova 17</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jaromír</are:jmeno>
+     <are:prijmeni>Autrata</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

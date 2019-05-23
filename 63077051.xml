@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-01T13:22:07"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-31</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-01</are:Datum_vypisu>
+   <are:Cas_vypisu>13:22:07</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>63077051</are:ICO>
+   <are:ObchodniFirma>Geis Parcel CZ s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>27345599</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>33701</are:psc>
+    <are:okres>Rokycany</are:okres>
+    <are:obec>Ejpovice</are:obec>
+    <are:castObce>Ejpovice</are:castObce>
+    <are:ulice>Zemská</are:ulice>
+    <are:cisloPop>211</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-03-30</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-03-30">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-03-30" dvy="1997-08-25">
+    <are:Text>
+Způsob jednání a podepisování za společnost:
+Jednatelé zastupují společnost ve všech věcech samostatně.
+Podepisování za společnost se provádí tak, že k napsanému nebo
+vytištěnému obchodnímu jménu společnosti připojí jednatel svůj
+podpis s uvedením jména a funkce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1997-08-25" dvy="2007-04-25">
+    <are:Text>
+Způsob jednání jménem společnosti :
+Jménem společnosti jedná jednatel. Podepisování se děje tak, že
+k vytištěnému nebo napsanému obchodnímu jménu společnosti
+připojí svůj podpis jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2007-04-25" dvy="2015-03-20">
+    <are:Text>
+Způsob jednání:
+Jménem společnosti jednají vždy dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-03-20">
+    <are:Text>
+Společnost zastupují vždy dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-03-30" dvy="1997-08-25">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24553638</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Čechova</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Gallivoda</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-03-30" dvy="1997-08-25">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Dýšiná-Nová Huť</are:obec>
+      <are:ulice>Jasmínová 96</are:ulice>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Silovský</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-08-25" dvy="2002-10-21">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2002-09-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22709681</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Pod ateliéry</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Peter</are:jmeno>
+     <are:prijmeni>Leitner</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-21" dvy="2014-07-15">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2002-09-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24469041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31218</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Kolmá</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Daniel</are:jmeno>
+     <are:prijmeni>Knaisl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-04-25" dvy="2014-07-15">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-02-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Zbuzany</are:obec>
+      <are:ulice>U Menhiru III.</are:ulice>
+      <are:cisloTxt>211</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luboš</are:jmeno>
+     <are:prijmeni>Scheinost</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-04-25" dvy="2014-07-15">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-02-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22427155</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19800</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Hloubětín</are:castObce>
+      <are:ulice>Slévačská</are:ulice>
+      <are:cisloTxt>905/32</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Martinovič</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-15">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2002-09-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24469041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31200</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Doubravka</are:castObce>
+      <are:ulice>Kolmá</are:ulice>
+      <are:cisloPop>1169</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANIEL</are:jmeno>
+     <are:prijmeni>KNAISL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-15">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2007-02-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22427155</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hloubětín</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Slévačská</are:ulice>
+      <are:cisloPop>905</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>MARTINOVIČ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-15" dvy="2018-12-30">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2007-02-07</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>41470133</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25225</are:psc>
+      <are:obec>Zbuzany</are:obec>
+      <are:castObce>Zbuzany</are:castObce>
+      <are:ulice>V Alejíčkách</are:ulice>
+      <are:cisloPop>320</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUBOŠ</are:jmeno>
+     <are:prijmeni>SCHEINOST</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-03-30">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2004-09-08">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>442</are:stat>
+      <are:obec>L-1110 Luxemburg/Findel</are:obec>
+     </are:adresa>
+     <are:ObchodniFirma>GEIS CARGO INTERNATIONAL LUXEMBURG G.m.b.h.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T00:27:27"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>00:27:27</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>SR</are:Rejstrik>
+   <are:ICO>04356021</are:ICO>
+   <are:ObchodniFirma>ZO FVZ - Depo 702</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22398562</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>18100</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Troja</are:castObce>
+    <are:mop>Praha 8</are:mop>
+    <are:ulice>Mazurská</are:ulice>
+    <are:cisloPop>525</are:cisloPop>
+    <are:cisloOr>19</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2015-07-30</are:DatumZapisu>
+   <are:DatumVymazu>2016-05-19</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se pobočný spolek ZO FVZ - Depo 702, sídlem Mazurská 525/19, Troja, 181 00 Praha 8, IČ : 435602  ze Spolkového rejstříku včetně všech zapsaných skutečností.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+odborová organizace
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2015-07-30" dvy="2016-05-19">
+   <are:Nazev>závodní výbor</are:Nazev>
+   <are:ZpusobJednani dza="2015-07-30" dvy="2016-05-19">
+    <are:Text>
+Za ZO podepisuje buď předseda ZV samostatně, nebo místopředseda společně
+s dalším členem ZV.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2015-07-30" dvy="2016-05-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-07-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda závodního výboru</are:nazev>
+     <are:vznikFunkce>2015-07-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22398562</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18100</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Troja</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Mazurská</are:ulice>
+      <are:cisloPop>525</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>MIKULEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2015-07-30" dvy="2016-05-19">
+   <are:Nazev>Hlavní spolek</are:Nazev>
+   <are:Clen dza="2015-07-30" dvy="2016-05-19">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21780323</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:ulice>Křížkovského</are:ulice>
+      <are:cisloPop>1288</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:ICO>22765174</are:ICO>
+     <are:ObchodniFirma>Federace výkonných zaměstnanců České republiky</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

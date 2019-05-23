@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:58:47"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:58:47</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00130931</are:ICO>
+   <are:ObchodniFirma>Zemědělské družstvo v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>56114</are:psc>
+    <are:obec>České Libchavy</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2011-01-28</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Zemědělská výroba
+     </are:Text>
+     <are:Text>
+Zemní práce
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+opravy motorových vozidel
+     </are:Text>
+     <are:Text>
+elektroinstalatérství
+     </are:Text>
+     <are:Text>
+hostinská činnost (bez ubytovacích zařízení)
+     </are:Text>
+     <are:Text>
+výroba a opravy zemědělských strojů
+     </are:Text>
+     <are:Text>
+silniční motorová doprava
+     </are:Text>
+     <are:Text>
+provozování čerpacích stanic s palivy a mazivy
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-01-01" dvy="2011-01-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-01-01" dvy="1992-12-31">
+    <are:Text>
+Zastupování:
+Jménem družstva jedná ve všech věcech předseda. V době jeho
+nepřítomnosti ho zastupuje místopředseda.
+Podepisování:
+Za družstvo podepisuje předseda, v jeho nepřítomnosti místo-
+předseda.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1992-12-31" dvy="2011-01-28">
+    <are:Text>
+Zastupování a podepisování:
+Za družstvo jedná předseda nebo místopředseda, případně
+další pověřený člen představenstva. Právní akty, u nichž
+je předepsána písemná forma, vyžadují podpis alespoň
+dvou členů představenstva. Tam, kde není předepsána pí-
+semná forma, postačuje podpis předsedy, místopředsedy
+nebo jiného člena představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-01-01" dvy="1992-12-31">
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17941113</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>čp. 199</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Kalousek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="1992-12-31">
+    <are:funkce>
+     <are:nazev>Členka představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sopotice 83</are:obec>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Prachařová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="1992-12-31">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sopotice 277</are:obec>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Syrový</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="1997-09-16">
+    <are:funkce>
+     <are:nazev>Členka představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5647975</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sopotnice</are:obec>
+      <are:cisloTxt>83</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Prachařová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="1997-09-16">
+    <are:funkce>
+     <are:nazev>Členka představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17940591</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>120</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dagmar</are:jmeno>
+     <are:prijmeni>Sommernitzová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="1999-06-04">
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17940958</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>156</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Tomáš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="1999-06-04">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17939437</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaromír</are:jmeno>
+     <are:prijmeni>Kalousek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="1999-06-04">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5630517</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Horní Libchavy</are:obec>
+      <are:cisloTxt>170</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Horníček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="1999-06-04">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17939569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Papáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="2004-07-20">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17939968</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>57</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Knapovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="2004-07-20">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17939445</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Papáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-31" dvy="2004-07-20">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5649846</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sopotnice</are:obec>
+      <are:cisloTxt>277</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Syrový</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-16" dvy="2004-07-20">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5649153</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sopotnice</are:obec>
+      <are:cisloTxt>207</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Janeček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-16" dvy="2004-07-20">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jarmila</are:jmeno>
+     <are:prijmeni>Svatošová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-04" dvy="2004-07-20">
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5630517</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Horní Libchavy</are:obec>
+      <are:cisloTxt>170</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Horníček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-04" dvy="2004-07-20">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17939569</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Papáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-04" dvy="2004-07-20">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5650097</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56115</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Sopotnice</are:obec>
+      <are:cisloTxt>302</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Ledr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-06-04" dvy="2004-07-20">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5648874</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56115</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Sopotnice</are:obec>
+      <are:cisloTxt>177</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Svoboda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-20" dvy="2011-01-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2004-04-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5630517</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Horní Libchavy</are:obec>
+      <are:cisloTxt>170</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Horníček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-20" dvy="2011-01-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2004-04-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:text>České Libchavy 17, okres Ústí nad Orlicí</are:text>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Papáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-20" dvy="2011-01-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17939968</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>57</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Knapovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-20" dvy="2011-01-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17939445</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Papáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-20" dvy="2011-01-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17940168</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Libchavy</are:obec>
+      <are:cisloTxt>77</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kalousek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-20" dvy="2011-01-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5649153</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sopotnice</are:obec>
+      <are:cisloTxt>207</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Janeček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-20" dvy="2011-01-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5647860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sopotnice</are:obec>
+      <are:cisloTxt>72</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Martinec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-20" dvy="2011-01-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Sopotnice 302, okres Ústí nad Orlicí, PSČ 561 15</are:text>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Ledr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-20" dvy="2011-01-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-04-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25586793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sopotnice</are:obec>
+      <are:cisloTxt>354</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Martinec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-05-23" dvy="2011-01-28">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2009-05-23" dvy="2011-01-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25484079</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Roudnička</are:castObce>
+      <are:ulice>Viničná</are:ulice>
+      <are:cisloTxt>222/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vítězslav</are:jmeno>
+     <are:prijmeni>Hálek</are:prijmeni>
+     <are:titulPred>Dr. Ing.</are:titulPred>
+     <are:titulZa>MBA</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-10T12:02:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-10</are:Datum_vypisu>
+   <are:Cas_vypisu>12:02:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26498529</are:ICO>
+   <are:ObchodniFirma>BULGAR CZ s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:psc>19212</are:psc>
+    <are:okres>Praha 9</are:okres>
+    <are:obec>Praha 9</are:obec>
+    <are:ulice>Bernartická</are:ulice>
+    <are:cisloTxt>187</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-12-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor a poskytování
+základních služeb spojených s pronájmem dle § 4 ŽZ
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-12-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-12-12">
+    <are:Text>
+Společnost zastupuje ve všech věcech jednatel. Podepisování se
+provádí tak, že k napsanému či vytištěnému obchodnímu názvu
+společnosti připojí svůj podpis jednatel s uvedením jména a
+funkce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-12-12" dvy="2015-10-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2001-12-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>V Lužích</are:ulice>
+      <are:cisloTxt>1E/10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Kozychar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2001-12-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1385194</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27203</are:psc>
+      <are:obec>Kladno</are:obec>
+      <are:castObce>Dubí</are:castObce>
+      <are:ulice>gen. Eliáše</are:ulice>
+      <are:cisloPop>598</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>KOZYCHAR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-05-26">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-05-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21704937</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloPop>699</are:cisloPop>
+      <are:cisloOr>30</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROBERT</are:jmeno>
+     <are:prijmeni>HYNEK</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-12-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Bocicoiu Mare, Kišenevská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Nicolae</are:jmeno>
+     <are:prijmeni>Marfici</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Gluboky Potok, Tiačevskij okr. zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Markush</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Solotvino, Tiačevskij okr., Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Nehre</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Dibrova, zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Dehtyarov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Seredne Vodianoe, Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Huzo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ivano-Frankivsk, Ivano-Frankivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Liliya</are:jmeno>
+     <are:prijmeni>Petrunetska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Brovary, klevská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Mayya</are:jmeno>
+     <are:prijmeni>Sonsyadlo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:text>Minsk, Minská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Liudmila</are:jmeno>
+     <are:prijmeni>Neviarouskaya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lypa, Ivano-Frankivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Chudyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Chlypli, okr. Mostyska, Lvivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Myron</are:jmeno>
+     <are:prijmeni>Melnychok</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>398</are:stat>
+      <are:text>Kyrguzstan, Biškek</are:text>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Trats</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Liviv, Livivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Nazar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Liviv, Livivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Kovalyshyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chišinau</are:text>
+     </are:adresa>
+     <are:jmeno>Ion</are:jmeno>
+     <are:prijmeni>Marcu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Rachiv, Rostoky, Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Tsohla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Čerkask, Čerkaská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Kubenov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Sambir, Ivano-Frankovská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Khrushch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Rachiv, Bickiv, zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Mytrovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Tjačev, Teresva, Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Pop</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Bendery</are:text>
+     </are:adresa>
+     <are:jmeno>Marla</are:jmeno>
+     <are:prijmeni>Saratinean</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Sambir, Livivská obl.</are:text>
+     </are:adresa>
+     <are:jmeno>Lyubov</are:jmeno>
+     <are:prijmeni>Bats</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1385194</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27203</are:psc>
+      <are:obec>Kladno</are:obec>
+      <are:castObce>Dubí</are:castObce>
+      <are:ulice>gen. Eliáše</are:ulice>
+      <are:cisloPop>598</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>KOZYCHAR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20743700</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Karlovy Vary</are:castObce>
+      <are:ulice>Krymská</are:ulice>
+      <are:cisloPop>1598</are:cisloPop>
+      <are:cisloOr>47</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>YEVHENIY</are:jmeno>
+     <are:prijmeni>ONYSHCHENKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14555981</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25087</are:psc>
+      <are:obec>Mochov</are:obec>
+      <are:castObce>Mochov</are:castObce>
+      <are:ulice>Čelakovická</are:ulice>
+      <are:cisloPop>98</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VASYL</are:jmeno>
+     <are:prijmeni>POP</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská obl.</are:obec>
+      <are:ulice>Seredne Vodianoe</are:ulice>
+     </are:adresa>
+     <are:jmeno>IVAN</are:jmeno>
+     <are:prijmeni>MIHALI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21952728</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nusle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Na Jezerce</are:ulice>
+      <are:cisloPop>1475</are:cisloPop>
+      <are:cisloOr>26</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>OLEH</are:jmeno>
+     <are:prijmeni>OLEKSYUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-10-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22427155</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hloubětín</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Slévačská</are:ulice>
+      <are:cisloPop>905</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TETYANA</are:jmeno>
+     <are:prijmeni>MYTROVYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-01-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24532771</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Jižní Předměstí</are:castObce>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloPop>338</are:cisloPop>
+      <are:cisloOr>86</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LESYA</are:jmeno>
+     <are:prijmeni>KUSHNIR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21329575</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25066</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Zdiby</are:obec>
+      <are:castObce>Brnky</are:castObce>
+      <are:ulice>Pod mezí</are:ulice>
+      <are:cisloPop>90</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>OLENA</are:jmeno>
+     <are:prijmeni>HRYHOR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21984140</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Záběhlice</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Roztylské náměstí</are:ulice>
+      <are:cisloPop>538</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LIUBOMYR</are:jmeno>
+     <are:prijmeni>DUB</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

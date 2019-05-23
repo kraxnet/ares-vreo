@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T20:54:59"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>20:54:59</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45023620</are:ICO>
+   <are:ObchodniFirma>MTZ-SERVIS s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>11797827</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>37371</are:psc>
+    <are:okres>České Budějovice</are:okres>
+    <are:obec>Rudolfov</are:obec>
+    <are:castObce>Rudolfov</are:castObce>
+    <are:ulice>Dlouhá</are:ulice>
+    <are:cisloPop>683</are:cisloPop>
+    <are:cisloOr>19</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-03-25</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-03-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-06-01" dvy="2015-01-15">
+    <are:Text>
+Společnost zastupuje jednatel nebo prokurista, nebo společnice
+paní Ing. Blanka Nožičková na základě plné moci vystavené
+jednatelem.
+Podepisování za společnost se děje tak, že k vytištěnému,
+otištěnému nebo napsanému názvu společnosti, jménu a funkci
+podepisujícího, připojí svůj podpis jednatel nebo prokurista,
+nebo zmocněná společnice.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-01-15" dvy="2016-01-08">
+    <are:Text>
+Jednatel zastupuje společnost samostatně. Podepisování za společnost se děje tak, že k vytištěné nebo vypsané obchodní firmě společnosti připojí jednatel svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-01-08">
+    <are:Text>
+Každý z jednatelů zastupuje společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-03-25" dvy="2013-09-16">
+    <are:funkce>
+     <are:nazev>jednatel a zakl. člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23379651</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>Jižní</are:ulice>
+      <are:cisloTxt>11/2418</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Nožička</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23379651</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37010</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 3</are:castObce>
+      <are:ulice>Jižní</are:ulice>
+      <are:cisloPop>2418</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>NOŽIČKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-12-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>42331293</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37367</are:psc>
+      <are:obec>Borek</are:obec>
+      <are:castObce>Borek</are:castObce>
+      <are:ulice>Pod Lesem</are:ulice>
+      <are:cisloPop>365</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>NOŽIČKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-06-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-09-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23379651</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37010</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 3</are:castObce>
+      <are:ulice>Jižní</are:ulice>
+      <are:cisloPop>2418</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BLANKA</are:jmeno>
+     <are:prijmeni>NOŽIČKOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-02">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>11797827</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37371</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>Rudolfov</are:obec>
+      <are:castObce>Rudolfov</are:castObce>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloPop>683</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:ICO>04650051</are:ICO>
+     <are:ObchodniFirma>MTZ-SERVIS HOLDING s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

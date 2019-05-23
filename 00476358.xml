@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:18:27"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:18:27</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>SR</are:Rejstrik>
+   <are:ICO>00476358</are:ICO>
+   <are:ObchodniFirma>Kruh svobodných Dálava</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>27285651</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>37008</are:psc>
+    <are:okres>České Budějovice</are:okres>
+    <are:obec>Staré Hodějovice</are:obec>
+    <are:castObce>Staré Hodějovice</are:castObce>
+    <are:ulice>Hodějovická</are:ulice>
+    <are:cisloPop>298</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2016-06-07</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Kruh svobodných Dálava se sídlem Hodějovická 298, 370 08 Staré Hodějovice, IČ 00476358, jakožto zanikající spolek zanikl sloučením s nástupnickým spolkem &quot;HNUTÍ SVOBODNÝCH ODDÍLŮ o.s.&quot; se sídlem Mánesova 92/28, České Budějovice 7, 370 01 České Budějovice,
+ IČ 006666025, přičemž na tento nástupnický spolek přechází podle smlouvy o fúzi spolků sloučením ze dne 12.4.2016 veškeré jmění zanikajícího spolku.
+    </are:Text>
+    <are:Text>
+Ze spolkového rejstříku se vymazává spolek Kruh svobodných Dálava se sídlem Hodějovická 298, 370 08 Staré Hodějovice, IČ 00476358 včetně všech ostatních zapsaných skutečností.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Jiny_organ dza="2014-01-01" dvy="2016-06-07">
+   <are:Nazev>Zakladatel</are:Nazev>
+   <are:Clen dza="2014-01-01" dvy="2016-06-07">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>23415207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37001</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 7</are:castObce>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloPop>92</are:cisloPop>
+      <are:cisloOr>28</are:cisloOr>
+     </are:adresa>
+     <are:ICO>00666025</are:ICO>
+     <are:ObchodniFirma>&quot;HNUTÍ SVOBODNÝCH ODDÍLŮ o.s.&quot;</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

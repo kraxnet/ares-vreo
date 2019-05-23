@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T12:08:47"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>12:08:47</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28374991</are:ICO>
+   <are:ObchodniFirma>Viktoriya Popovych</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22122508</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>15500</are:psc>
+    <are:obec>Praha 5</are:obec>
+    <are:castObce>Stodůlky</are:castObce>
+    <are:ulice>Amforová</are:ulice>
+    <are:cisloTxt>1906</are:cisloTxt>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:stat>804</are:stat>
+    <are:text>Buštyno, Myra 89</are:text>
+   </are:Bydliste>
+   <are:Pobyt>
+    <are:ruianKod>21998051</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14100</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Záběhlice</are:castObce>
+    <are:ulice>Žilinská</are:ulice>
+    <are:cisloTxt>č.e. 216</are:cisloTxt>
+   </are:Pobyt>
+   <are:DatumZapisu>2008-03-31</are:DatumZapisu>
+   <are:DatumVymazu>2016-03-30</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z obchodního rejstříku podnikatel Viktoriya Popovych, s místem podnikání Praha 5 - Stodůlky, Amforová 1906, PSČ 155 00, identifikační číslo 283 74 991, zapsaný v oddílu A, vložce 60885, u obchodního rejstříku Městského soudu v Praze, a to z dů
+vodu zániku podmínek pro podnikání v České republice.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-03-31" dvy="2016-03-30">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="2008-03-31" dvy="2016-03-30">
+    <are:fosoba>
+     <are:jmeno>Viktoriya</are:jmeno>
+     <are:prijmeni>Popovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

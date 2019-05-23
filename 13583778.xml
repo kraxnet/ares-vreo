@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T05:41:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>05:41:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>13583778</are:ICO>
+   <are:ObchodniFirma>ČOV Nový Bydžov a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>26675943</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>50401</are:psc>
+    <are:obec>Nový Bydžov</are:obec>
+    <are:ulice>Na Lávce</are:ulice>
+    <are:cisloTxt>955</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-01-02</are:DatumZapisu>
+   <are:DatumVymazu>2007-11-14</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Provozování vodovodů a kanalizací
+     </are:Text>
+     <are:Text>
+Velkoobchod
+     </are:Text>
+     <are:Text>
+Specializovaný maloobchod
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-01-02" dvy="2007-11-14">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="1991-01-02" dvy="1999-02-05">
+    <are:Text>
+Zastupování a podepisování:
+Akciovou společnost zastupují navenek všichni členové
+představenstva nebo další orgán společnosti, či osoby na
+základě pověření vydaného představenstvem společnosti.
+Za společnost podepisuje předseda představenstva, popř.
+místopředseda, v době nepřítomnosti a jeden člen
+představenstva tak, že k napsanému nebo vytištěnému názvu
+společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1999-02-05" dvy="2007-11-14">
+    <are:Text>
+Zastupování a podepisování:
+Akciovou společnost zastupuje navenek předseda představenstva
+nebo dva členové představenstva.
+K vytištěnému či jinak označenému názvu a sídlu společnosti
+připojí svůj podpis předseda představenstva nebo dva členové
+představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-01-02" dvy="1991-03-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Fučíkova</are:ulice>
+      <are:cisloTxt>911</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milada</are:jmeno>
+     <are:prijmeni>Vejrová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-01-02" dvy="1991-03-21">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Fučíkova</are:ulice>
+      <are:cisloTxt>889</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Vaněk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-01-02" dvy="1994-07-20">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jaroměř</are:obec>
+      <are:ulice>Svatopluka Čecha</are:ulice>
+      <are:cisloTxt>290</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Matyáš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-21" dvy="1993-07-14">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7285728</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jaroměř</are:obec>
+      <are:ulice>Na Zavadilce</are:ulice>
+      <are:cisloTxt>784</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Bělík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-21" dvy="1993-07-14">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Fučíkova</are:ulice>
+      <are:cisloTxt>911</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milada</are:jmeno>
+     <are:prijmeni>Vejrová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-07-14" dvy="1994-05-12">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7291388</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jaroměř</are:obec>
+      <are:ulice>5. května</are:ulice>
+      <are:cisloTxt>335</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Rind</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-07-14" dvy="1994-07-20">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Fučíkova</are:ulice>
+      <are:cisloTxt>911</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milada</are:jmeno>
+     <are:prijmeni>Vejrová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-05-12" dvy="1996-05-14">
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23813512</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Pod zámečkem</are:ulice>
+      <are:cisloTxt>1057</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaromír</are:jmeno>
+     <are:prijmeni>Lochman</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-07-20" dvy="1996-12-30">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jaroměř</are:obec>
+      <are:ulice>J.Šímy</are:ulice>
+      <are:cisloTxt>774</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Binarová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-07-20" dvy="1996-12-30">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jaroměř</are:obec>
+      <are:ulice>Svatopluka Čecha</are:ulice>
+      <are:cisloTxt>290</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Matyáš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-05-14" dvy="1996-12-30">
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7287615</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Náchod</are:okres>
+      <are:obec>Jaroměř</are:obec>
+      <are:ulice>Slovenská</are:ulice>
+      <are:cisloTxt>93</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Musil</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-12-30" dvy="1999-02-05">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20339674</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50401</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Na Staré Cidlině</are:ulice>
+      <are:cisloTxt>744</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Horák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-12-30" dvy="1999-02-05">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7285892</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Náchod</are:okres>
+      <are:obec>Jaroměř</are:obec>
+      <are:ulice>Nábřeží 17.listopadu</are:ulice>
+      <are:cisloTxt>805</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Baránek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-12-30" dvy="1999-02-05">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Tovární</are:ulice>
+     </are:adresa>
+     <are:jmeno>Radek</are:jmeno>
+     <are:prijmeni>Žampa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-26" dvy="1999-02-05">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15844005</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třebechovice pod Orebem</are:obec>
+      <are:ulice>Na Stavě</are:ulice>
+      <are:cisloTxt>1234</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Ritter</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-05" dvy="2003-12-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-10-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50000</are:psc>
+      <are:obec>Hradec Kálové</are:obec>
+      <are:ulice>Horova</are:ulice>
+      <are:cisloTxt>1082</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Masař</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-05" dvy="2003-12-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-10-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50401</are:psc>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloTxt>971</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Horák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-05" dvy="2003-12-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21032360</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50352</are:psc>
+      <are:obec>Sloupno</are:obec>
+      <are:cisloTxt>156</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Růžička</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-05" dvy="2003-12-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7291388</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>55102</are:psc>
+      <are:obec>Jaroměř</are:obec>
+      <are:ulice>5. května</are:ulice>
+      <are:cisloTxt>335</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Rind</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-05" dvy="2003-12-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17520266</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50734</are:psc>
+      <are:obec>Sekeřice</are:obec>
+      <are:cisloTxt>40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Tesař</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-09" dvy="2004-02-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-10-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-11-07</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21032360</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50352</are:psc>
+      <are:obec>Sloupno</are:obec>
+      <are:cisloTxt>156</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Růžička</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-09" dvy="2005-05-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-10-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-01-12</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7291388</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>55102</are:psc>
+      <are:obec>Jaroměř</are:obec>
+      <are:ulice>5. května</are:ulice>
+      <are:cisloTxt>335</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Rind</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-09" dvy="2005-05-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-10-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-01-12</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17520266</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50734</are:psc>
+      <are:obec>Sekeřice</are:obec>
+      <are:cisloTxt>40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Tesař</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-09" dvy="2006-04-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:vznikFunkce>2003-10-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50000</are:psc>
+      <are:obec>Hradec Kálové</are:obec>
+      <are:ulice>Horova</are:ulice>
+      <are:cisloTxt>1082</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Masař</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-09" dvy="2006-04-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2003-10-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50401</are:psc>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloTxt>971</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Horák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-02-11" dvy="2005-05-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-11-07</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-01-12</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23812044</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50009</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Čajkovského</are:ulice>
+      <are:cisloTxt>910</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petra</are:jmeno>
+     <are:prijmeni>Jonášová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-05-24" dvy="2006-04-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-01-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50401</are:psc>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloTxt>971</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Horáková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-05-24" dvy="2007-11-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-01-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Nepasice 9, 503 46 Třebechovice pod Orebem</are:text>
+     </are:adresa>
+     <are:jmeno>Martina</are:jmeno>
+     <are:prijmeni>Masařová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-05-24" dvy="2007-11-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-01-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23881101</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50009</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Za Lípou</are:ulice>
+      <are:cisloTxt>552</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Sylvie</are:jmeno>
+     <are:prijmeni>Boumová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-04-28" dvy="2007-11-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:vznikFunkce>2003-10-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4026209</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76601</are:psc>
+      <are:obec>Valašské Klobouky</are:obec>
+      <are:ulice>Cyrilometodějská</are:ulice>
+      <are:cisloTxt>887</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Masař</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-04-28" dvy="2007-11-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2003-10-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20336861</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50401</are:psc>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>389</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Horák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-04-28" dvy="2007-11-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-01-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20336861</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50401</are:psc>
+      <are:obec>Nový Bydžov</are:obec>
+      <are:ulice>Sukova</are:ulice>
+      <are:cisloTxt>389</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Horáková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-07-14" dvy="2007-11-14">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2005-05-24" dvy="2007-11-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-01-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23812532</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50009</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Na občinách</are:ulice>
+      <are:cisloTxt>959</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jitka</are:jmeno>
+     <are:prijmeni>Wernerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-04-28" dvy="2007-11-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-11-07</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22620664</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Strašnice</are:castObce>
+      <are:ulice>Krupská</are:ulice>
+      <are:cisloTxt>1769/30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Kubricht</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-07-28" dvy="2007-11-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Členka dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23881101</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50009</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Za Lípou</are:ulice>
+      <are:cisloTxt>552</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Matějková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

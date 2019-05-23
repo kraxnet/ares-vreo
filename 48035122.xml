@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-30T12:34:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-30</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-30</are:Datum_vypisu>
+   <are:Cas_vypisu>12:34:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48035122</are:ICO>
+   <are:ObchodniFirma>FORMETAL, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>27671097</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25064</are:psc>
+    <are:obec>Měšice</are:obec>
+    <are:ulice>Zahradní</are:ulice>
+    <are:cisloTxt>467</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-11-26</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+Výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-11-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-11-26" dvy="1999-08-26">
+    <are:Text>
+Způsob jednání jménem společnosti: Jménem společnosti jednají
+jednatelé a podepisují se za ni tak, že k vytištěnému nebo
+napsanému obchodnímu jménu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1999-08-26">
+    <are:Text>
+Způsob jednání jménem společnosti: Každý z jednatelů je oprávněn
+jednat jménem společnosti samostatně. Podepisování za společnost
+se děje tak, že k obchodnímu jménu společnosti připojí
+kterýkoliv z jednatelů svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-11-26" dvy="1998-03-20">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22322469</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18100</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Sopotská</are:ulice>
+      <are:cisloTxt>619</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Babíček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-11-26" dvy="1998-03-20">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22168605</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Nad alejí</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Kříž</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-03-20" dvy="1999-08-26">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21805253</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Zelinářská</are:ulice>
+      <are:cisloTxt>839</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Kohák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-26" dvy="2001-12-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22451994</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Ruprechtická</are:ulice>
+      <are:cisloTxt>2277</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Kuruc</are:prijmeni>
+     <are:titulPred>Ing</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-26" dvy="2013-07-10">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22516093</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Žandovská</are:ulice>
+      <are:cisloTxt>306</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Buralt</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-08" dvy="2005-08-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22497820</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Tvrdého</are:ulice>
+      <are:cisloTxt>641</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Kuruc</are:prijmeni>
+     <are:titulPred>Ing</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-08-05" dvy="2018-12-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26473771</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25069</are:psc>
+      <are:obec>Vodochody</are:obec>
+      <are:castObce>Hoštice</are:castObce>
+      <are:ulice>Na Homolkách</are:ulice>
+      <are:cisloTxt>86</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Kuruc</are:prijmeni>
+     <are:titulPred>Ing</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-07-10">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>41483146</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Střížkov</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Teplická</are:ulice>
+      <are:cisloPop>604</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>BURALT</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-08-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27044173</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25065</are:psc>
+      <are:obec>Bašť</are:obec>
+      <are:castObce>Bašť</are:castObce>
+      <are:ulice>Brandýská</are:ulice>
+      <are:cisloPop>718</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>ČEJKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-12-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>73006289</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Ocelářská</are:ulice>
+      <are:cisloPop>2457</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>KURUC</are:prijmeni>
+     <are:titulPred>Ing</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-11-26">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-07-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>41483146</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Střížkov</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Teplická</are:ulice>
+      <are:cisloPop>604</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KATEŘINA</are:jmeno>
+     <are:prijmeni>BURALTOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-12-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>73006289</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Ocelářská</are:ulice>
+      <are:cisloPop>2457</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>KURUC</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

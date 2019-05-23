@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T19:25:43"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>19:25:43</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>40942228</are:ICO>
+   <are:ObchodniFirma>SUZAM, v.o.s.- v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4251261</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Zlín</are:obec>
+    <are:ulice>Nad vývozem</are:ulice>
+    <are:cisloTxt>4855</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-07-10</are:DatumZapisu>
+   <are:DatumVymazu>2000-09-12</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+obchodní činnost v oblasti potravinářského a průmyslového
+zboží
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v uvedených oblastech
+     </are:Text>
+     <are:Text>
+zahraniční obchodní a zprostředkovatelská činnost
+s výjimkou věcí dle nař. vlády ČSFR č. 256/1990 Sb.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-07-10" dvy="2000-09-12">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1991-07-10" dvy="2000-05-25">
+    <are:Text>
+Podepisování:
+K názvu společnosti připojí svůj podpis kterýkoliv společník.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2000-05-25" dvy="2000-09-12">
+    <are:Text>
+Podepisování:
+K názvu společnosti připojí svůj podpis kterýkoliv společník.
+Způsob jednání za společnost v likvidaci:
+Jménem společnosti v likvidaci jedná a podepisuje likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-07-10" dvy="2000-09-12">
+    <are:funkce>
+     <are:nazev>společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4251261</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Nad vývozem</are:ulice>
+      <are:cisloTxt>4855</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Záhorovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-07-10" dvy="2000-09-12">
+    <are:funkce>
+     <are:nazev>společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4248589</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Slunečná</are:ulice>
+      <are:cisloTxt>4556</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloš</are:jmeno>
+     <are:prijmeni>Sůva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2000-05-25" dvy="2000-09-12">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2000-05-25" dvy="2000-09-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76302</are:psc>
+      <are:obec>Zlín 4</are:obec>
+      <are:castObce>Malenovice</are:castObce>
+      <are:ulice>Slatiny</are:ulice>
+      <are:cisloTxt>999</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Procházka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-07-10" dvy="2000-09-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-07-10" dvy="2000-09-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4251261</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Nad vývozem</are:ulice>
+      <are:cisloTxt>4855</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Záhorovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-07-10" dvy="2000-09-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4248589</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Slunečná</are:ulice>
+      <are:cisloTxt>4556</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloš</are:jmeno>
+     <are:prijmeni>Sůva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

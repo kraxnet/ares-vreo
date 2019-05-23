@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-28T12:25:26"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:25:26</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25056824</are:ICO>
+   <are:ObchodniFirma>Bytové družstvo Proutěná 400-408</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22721193</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14900</are:psc>
+    <are:obec>Praha 4 -Újezd</are:obec>
+    <are:ulice>Proutěná</are:ulice>
+    <are:cisloTxt>405/11</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1996-06-10</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+pronájem a správa bytových a nebytových prostor a zajišťování služeb souvisejících s řádným hospodařením a provozem domů, bytů, nebytových prostor a pozemků
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1996-06-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1996-06-10" dvy="2019-01-12">
+    <are:Text>
+Zastupování družstva : za družstvo jedná navenek předseda nebo
+místopředseda. Je-li pro právní úkon předepsána písemná forma,
+je třeba podpisu dvou členů členů představenstva, t.j. předsedy
+a místopředsedy předst., předsedy a jednoho člena předst.,
+místopředsedy a jednoho člena představenstva
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-01-12">
+    <are:Text>
+za představenstvo jednají navenek společně vždy alespoň dva členové představenstva
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1996-06-10" dvy="1998-03-17">
+    <are:funkce>
+     <are:nazev>Předsedkyně předst.</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>406/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Rossová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-06-10" dvy="1998-03-17">
+    <are:funkce>
+     <are:nazev>Místopředseda předst.</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>406/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Bílek</are:prijmeni>
+     <are:titulPred>PaedDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-06-10" dvy="1998-03-17">
+    <are:funkce>
+     <are:nazev>Člen předst.</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721223</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>408/17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Sláma</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-06-10" dvy="1998-03-17">
+    <are:funkce>
+     <are:nazev>Člen předst.</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21840814</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Křejpského</are:ulice>
+      <are:cisloTxt>1528</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Hošek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-06-10" dvy="2005-02-15">
+    <are:funkce>
+     <are:nazev>Člen předst.</are:nazev>
+     <are:vznikFunkce>1996-06-10</are:vznikFunkce>
+     <are:zanikFunkce>2004-09-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>406/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Lauber</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-03-17" dvy="2000-04-27">
+    <are:funkce>
+     <are:nazev>Předseda představenstva:</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>406/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Bílek</are:prijmeni>
+     <are:titulPred>PaedDR.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-03-17" dvy="2000-04-27">
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721223</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>408/17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Sláma</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-03-17" dvy="2000-04-27">
+    <are:funkce>
+     <are:nazev>Člen předst.</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721193</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>405/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Hošek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-03-17" dvy="2002-03-02">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+     <are:zanikFunkce>2001-06-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721151</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>401/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milada</are:jmeno>
+     <are:prijmeni>Štucbartová</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-04-27" dvy="2002-03-02">
+    <are:funkce>
+     <are:nazev>Předseda představenstva:</are:nazev>
+     <are:zanikFunkce>2001-06-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721223</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>408/17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Sláma</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-04-27" dvy="2002-03-02">
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+     <are:zanikFunkce>2001-06-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>40/5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Růžička</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-04-27" dvy="2002-03-02">
+    <are:funkce>
+     <are:nazev>Člen předst.</are:nazev>
+     <are:zanikFunkce>2001-06-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>406/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Bílek</are:prijmeni>
+     <are:titulPred>PaedDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-03-02" dvy="2002-07-31">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+     <are:vznikFunkce>2001-06-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>404/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Daniela</are:jmeno>
+     <are:prijmeni>Černá</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-03-02" dvy="2002-07-31">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+     <are:vznikFunkce>2001-06-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721223</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>408/17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Sláma</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-03-02" dvy="2005-02-15">
+    <are:clenstvi>
+     <are:zanikClenstvi>2004-09-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:vznikFunkce>2001-06-25</are:vznikFunkce>
+     <are:zanikFunkce>2004-09-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21872872</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Točitá</are:ulice>
+      <are:cisloTxt>35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luboš</are:jmeno>
+     <are:prijmeni>Bakla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-03-02" dvy="2005-02-15">
+    <are:clenstvi>
+     <are:zanikClenstvi>2004-09-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2001-06-25</are:vznikFunkce>
+     <are:zanikFunkce>2004-09-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721193</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>405/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Doubrava</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-15" dvy="2007-12-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-09-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2007-09-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2004-09-30</are:vznikFunkce>
+     <are:zanikFunkce>2007-09-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721177</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Újezd</are:castObce>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>403/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luboš</are:jmeno>
+     <are:prijmeni>Bakla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-15" dvy="2007-12-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-09-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2007-09-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2004-09-30</are:vznikFunkce>
+     <are:zanikFunkce>2007-09-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Újezd</are:castObce>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>404/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Silvie</are:jmeno>
+     <are:prijmeni>Bezděková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-15" dvy="2007-12-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-09-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2007-09-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Újezd</are:castObce>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>406/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Lauber</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-12-05" dvy="2010-12-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-09-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-10-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2007-09-19</are:vznikFunkce>
+     <are:zanikFunkce>2010-10-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721177</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Újezd</are:castObce>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>403/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luboš</are:jmeno>
+     <are:prijmeni>Bakla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-12-05" dvy="2010-12-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-09-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-10-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2007-09-19</are:vznikFunkce>
+     <are:zanikFunkce>2010-10-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Újezd</are:castObce>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>404/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Silvie</are:jmeno>
+     <are:prijmeni>Bezděková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-12-05" dvy="2010-12-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-09-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-10-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2010-10-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Újezd</are:castObce>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>406/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Lauber</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-27" dvy="2019-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-10-13</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-10-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-10-13</are:vznikFunkce>
+     <are:zanikFunkce>2013-10-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721177</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Újezd</are:castObce>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>403/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luboš</are:jmeno>
+     <are:prijmeni>Bakla</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-27" dvy="2019-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-10-13</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-10-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-10-13</are:vznikFunkce>
+     <are:zanikFunkce>2013-10-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Újezd</are:castObce>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloTxt>404/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Silvie</are:jmeno>
+     <are:prijmeni>Bezděková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-27" dvy="2019-01-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-10-13</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-10-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2010-10-13</are:vznikFunkce>
+     <are:zanikFunkce>2013-10-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721151</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Újezd</are:castObce>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloPop>401</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Štěpán</are:jmeno>
+     <are:prijmeni>Materne</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-12" dvy="2019-01-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-06-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2017-06-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721177</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Újezd u Průhonic</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloPop>403</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUBOŠ</are:jmeno>
+     <are:prijmeni>BAKLA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-12" dvy="2019-01-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-06-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2017-06-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Újezd u Průhonic</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloPop>404</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>SILVIE</are:jmeno>
+     <are:prijmeni>BEZDĚKOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-12" dvy="2019-01-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-06-22</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721151</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Újezd u Průhonic</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloPop>401</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ŠTĚPÁN</are:jmeno>
+     <are:prijmeni>MATERNE</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-29</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-10-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721177</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Újezd u Průhonic</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloPop>403</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUBOŠ</are:jmeno>
+     <are:prijmeni>BAKLA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-29</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-10-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Újezd u Průhonic</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloPop>404</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>SILVIE</are:jmeno>
+     <are:prijmeni>BEZDĚKOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-29</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721151</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Újezd u Průhonic</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloPop>401</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ŠTĚPÁN</are:jmeno>
+     <are:prijmeni>MATERNE</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2019-01-12">
+   <are:Nazev>Kontrolní komise</are:Nazev>
+   <are:Clen dza="2019-01-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-29</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda kontrolní komise</are:nazev>
+     <are:vznikFunkce>2014-10-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Újezd u Průhonic</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloPop>406</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>BÍLEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-29</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721169</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Újezd u Průhonic</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloPop>402</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>STANĚK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-29</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22721207</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Újezd u Průhonic</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Proutěná</are:ulice>
+      <are:cisloPop>406</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍRA</are:jmeno>
+     <are:prijmeni>FIALOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

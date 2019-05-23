@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-04-25T14:57:19"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-04-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-04-25</are:Datum_vypisu>
+   <are:Cas_vypisu>14:57:19</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26163276</are:ICO>
+   <are:ObchodniFirma>EVANGARD s.r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>15568067</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>29306</are:psc>
+    <are:okres>Mladá Boleslav</are:okres>
+    <are:obec>Kosmonosy</are:obec>
+    <are:castObce>Kosmonosy</are:castObce>
+    <are:ulice>Františka Opolského</are:ulice>
+    <are:cisloPop>57</are:cisloPop>
+    <are:cisloOr>18</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-03-13</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+úklidové práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-03-13">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-03-13">
+    <are:Text>
+Za společnost jedná a podepisuje se statutární orgán samostatně
+v plném rozsahu. Za společnost se podepisuje tak, že k
+nadepsanému či vytištěnému jménu společnosti připojí svůj podpis
+jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-03-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Minsk</are:obec>
+      <are:ulice>Mjadelskiy</are:ulice>
+     </are:adresa>
+     <are:jmeno>Tatsiana</are:jmeno>
+     <are:prijmeni>Malinovskaya</are:prijmeni>
+     <are:titulZa>nar. 7.6.1977</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-03-01">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-03-01" dvy="2018-04-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21709891</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Petrská</are:ulice>
+      <are:cisloTxt>24</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Bartůšková</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-23">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21705828</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Václavské náměstí</are:ulice>
+      <are:cisloPop>780</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:ICO>66210089</are:ICO>
+     <are:ObchodniFirma>Čížkovský Pavel, JUDr., advokát</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-03-13">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Krivyj Rih</are:obec>
+      <are:ulice>Gornikova</are:ulice>
+      <are:cisloTxt>872</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Serhiy</are:jmeno>
+     <are:prijmeni>Borovshchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopil</are:obec>
+      <are:ulice>Macharadze</are:ulice>
+      <are:cisloTxt>116</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Plotnikova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Krivyj Rih</are:obec>
+      <are:ulice>Anholenka</are:ulice>
+      <are:cisloTxt>11/16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Baran</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Mukachevo</are:obec>
+      <are:ulice>V.Lučky</are:ulice>
+      <are:cisloTxt>147</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleh</are:jmeno>
+     <are:prijmeni>Firtsak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Minsk</are:obec>
+      <are:ulice>Mjadelskiy</are:ulice>
+     </are:adresa>
+     <are:jmeno>Tatsiana</are:jmeno>
+     <are:prijmeni>Malinovskaya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sumy</are:obec>
+      <are:ulice>Gagarina</are:ulice>
+      <are:cisloTxt>29</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Kozintseva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Minsk</are:obec>
+      <are:ulice>Sadovaja</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Aksana</are:jmeno>
+     <are:prijmeni>Ivanova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Tjačev</are:obec>
+      <are:ulice>Nevskaja</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Markovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Chust</are:obec>
+      <are:ulice>Gvardejca</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Rolan</are:jmeno>
+     <are:prijmeni>Dzhumurat</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Serednje Vodjane</are:obec>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>105</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Marina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Minsk</are:obec>
+      <are:ulice>Lybimova</are:ulice>
+      <are:cisloTxt>42/36</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ilona</are:jmeno>
+     <are:prijmeni>Sidarok</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Minsk</are:obec>
+      <are:ulice>Bakinskaya</are:ulice>
+      <are:cisloTxt>16/127</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volga</are:jmeno>
+     <are:prijmeni>Adashkevich</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Minsk</are:obec>
+      <are:ulice>Mačužiči</are:ulice>
+     </are:adresa>
+     <are:jmeno>Maryna</are:jmeno>
+     <are:prijmeni>Smaracheuskaya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lviv</are:obec>
+      <are:ulice>Puškina</are:ulice>
+      <are:cisloTxt>30/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Hentosh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Černovci</are:obec>
+      <are:ulice>Gajdara</are:ulice>
+      <are:cisloTxt>1/50</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Rakhmanova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Nikolaev</are:obec>
+      <are:ulice>Kosmonavtov</are:ulice>
+      <are:cisloTxt>98/40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Bilous</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Mukačevo</are:obec>
+      <are:ulice>Krasnoarmejskaja</are:ulice>
+      <are:cisloTxt>5/139</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalya</are:jmeno>
+     <are:prijmeni>Kulesha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Nikolaev</are:obec>
+      <are:ulice>Vasilevskogo</are:ulice>
+      <are:cisloTxt>57/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Liliya</are:jmeno>
+     <are:prijmeni>Shabanova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Vinogradovo</are:obec>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>97</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eduard</are:jmeno>
+     <are:prijmeni>Shpenyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Doneck</are:obec>
+      <are:ulice>CCCR</are:ulice>
+      <are:cisloTxt>78/109</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalya</are:jmeno>
+     <are:prijmeni>Kazmina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Doneck</are:obec>
+      <are:ulice>Ermišina</are:ulice>
+      <are:cisloTxt>21/31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Sadovska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Židačov</are:obec>
+      <are:ulice>Gruševskogo</are:ulice>
+      <are:cisloTxt>72/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Franko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Židačov</are:obec>
+      <are:ulice>Zadovskaja</are:ulice>
+      <are:cisloTxt>1/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Dyvak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lviv</are:obec>
+      <are:ulice>Velikogo</are:ulice>
+      <are:cisloTxt>34/104</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Shkuropat</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sinivir</are:obec>
+      <are:ulice>Gagarina</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Khrystyna</are:jmeno>
+     <are:prijmeni>Rushchak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Doneck</are:obec>
+      <are:ulice>Ždanovka Kvartal</are:ulice>
+      <are:cisloTxt>28/33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Inna</are:jmeno>
+     <are:prijmeni>Vasyleva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Kahtemir</are:obec>
+      <are:ulice>Bajmaklija</are:ulice>
+     </are:adresa>
+     <are:jmeno>Rodica</are:jmeno>
+     <are:prijmeni>Bulat</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Červonohrad</are:obec>
+      <are:ulice>Ševčenko</are:ulice>
+      <are:cisloTxt>11/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivanna</are:jmeno>
+     <are:prijmeni>Batok</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Židačov</are:obec>
+      <are:ulice>Kobzareva</are:ulice>
+      <are:cisloTxt>8/28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viktoriya</are:jmeno>
+     <are:prijmeni>Shcherbiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Doneck</are:obec>
+      <are:ulice>Kommunističeskaja</are:ulice>
+      <are:cisloTxt>18/26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viktoriya</are:jmeno>
+     <are:prijmeni>Teterevenkova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankovsk</are:obec>
+      <are:ulice>Gruševskogo</are:ulice>
+      <are:cisloTxt>112</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalya</are:jmeno>
+     <are:prijmeni>Stefanyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lviv</are:obec>
+      <are:ulice>Striskaja</are:ulice>
+      <are:cisloTxt>101/243</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalya</are:jmeno>
+     <are:prijmeni>Suprunova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Dnipropetrovsk</are:obec>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>31/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nonna</are:jmeno>
+     <are:prijmeni>Dombrovska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Minsk</are:obec>
+      <are:ulice>Rokossovskogo</are:ulice>
+     </are:adresa>
+     <are:jmeno>Aleh</are:jmeno>
+     <are:prijmeni>Tsvirko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

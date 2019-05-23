@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:45:01"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:45:01</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00580228</are:ICO>
+   <are:ObchodniFirma>Sběrné suroviny, státní podnik Hradec Králové &quot; v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Hradec Králové</are:obec>
+    <are:ulice>Markovice</are:ulice>
+    <are:cisloTxt>879</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2000-11-07</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+silniční motorová doprava
+     </are:Text>
+     <are:Text>
+podnikání v oblasti nakládání s odpady
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-01-01" dvy="2000-11-07">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-01-01" dvy="1994-08-02">
+    <are:Text>
+Zastupování a podepisování:
+Státní podnik zastupuje navenek ředitel podniku nebo jeho
+zástupce. K vytištěnému názvu státního podniku připojí svůj
+vlastnoruční podpis ředitel podniku nebo jeho zástupce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1994-08-02" dvy="2000-11-07">
+    <are:Text>
+Způsob zastupování a podepisování:
+Státní podnik v likvidaci zastupuje a za něj podepisuje
+likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-01-01" dvy="1991-05-17">
+    <are:funkce>
+     <are:nazev>Zástupce</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hradec Králové6</are:obec>
+      <are:ulice>Pod zámečkem 209</are:ulice>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Rejl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-01-01" dvy="1994-08-02">
+    <are:funkce>
+     <are:nazev>Pověřen řízením stát. podniku</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15862305</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chlumec nad Cidlinou</are:obec>
+      <are:ulice>Vrchlického</are:ulice>
+      <are:cisloTxt>600</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Pernt</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-05-17" dvy="1993-09-16">
+    <are:funkce>
+     <are:nazev>zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23881798</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Dubová</are:ulice>
+      <are:cisloTxt>621</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Sýkora</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-08-02" dvy="2000-11-07">
+    <are:funkce>
+     <are:nazev>likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22251006</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Žufanova</are:ulice>
+      <are:cisloTxt>1112</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Koutník</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

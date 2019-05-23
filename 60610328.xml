@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-01-18T13:00:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-01-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-01-18</are:Datum_vypisu>
+   <are:Cas_vypisu>13:00:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>60610328</are:ICO>
+   <are:ObchodniFirma>Mateřská škola Rozvadov, okres Tachov, příspěvková organizace</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>20809476</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>34806</are:psc>
+    <are:okres>Tachov</are:okres>
+    <are:obec>Rozvadov</are:obec>
+    <are:castObce>Rozvadov</are:castObce>
+    <are:cisloPop>159</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-04-23</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:DoplnkovaCinnost>
+     <are:Text>
+hostinská činnost (prováděná v rozsahu volné nevyužité kapacity organizace tak, aby neohrozila plnění úkolů zajišťovaných v rámci hlavní činnosti)
+     </are:Text>
+    </are:DoplnkovaCinnost>
+    <are:PredmetCinnosti>
+     <are:Text>
+Škola sdružuje:
+mateřskou školu, která zabezpečuje předškolní vzdělávání v souladu s § 33 až 35 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), o kapacitě 25 žáků,
+školní jídelnu, která zabezpečuje školní stravování dětí a žáků v době pobytu ve škole a zajišťuje stravování zaměstnanců mateřské školy. Dále poskytuje stravovací služby i pro další osoby, a to za úplatu (doplňková činnost) v souladu s § 119 zákona č. 56
+1/2004 Sb., o kapacitě 62 žáků.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-04-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-04-23">
+    <are:Text>
+Způsob jednání:
+Statutární orgán, ředitelka školy, řídí školu a jedná jménem
+organizace samostatně.  Podepisuje se za organizaci tak,  že
+k jejímu napsanému nebo vytištěnému názvu připojí svůj vlast-
+noruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-04-23" dvy="2018-01-12">
+    <are:funkce>
+     <are:nazev>Ředitelka</are:nazev>
+     <are:vznikFunkce>2003-01-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15660826</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34806</are:psc>
+      <are:obec>Přimda</are:obec>
+      <are:ulice>Pod Hradem</are:ulice>
+      <are:cisloTxt>167</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Filová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-01-12">
+    <are:funkce>
+     <are:nazev>Ředitelka</are:nazev>
+     <are:vznikFunkce>2003-01-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15660826</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34806</are:psc>
+      <are:okres>Tachov</are:okres>
+      <are:obec>Přimda</are:obec>
+      <are:castObce>Přimda</are:castObce>
+      <are:ulice>Pod Hradem</are:ulice>
+      <are:cisloPop>167</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>FILOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

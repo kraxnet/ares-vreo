@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T06:00:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>06:00:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26776588</are:ICO>
+   <are:ObchodniFirma>KLARINA LAND s.r.o.v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22281177</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 6</are:obec>
+    <are:ulice>Pod novým lesem</are:ulice>
+    <are:cisloTxt>149</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-04-16</are:DatumZapisu>
+   <are:DatumVymazu>2017-03-16</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost KLARINA LAND s.r.o. v likvidaci, se sídlem Praha 6, Pod novým lesem 149, IČO 267 76 588 se vymazává z obchodního rejstříku Městského soudu v Praze a to po ukončení řádné likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor bez poskytování
+jiných než základních služeb spojených s pronájmem
+     </are:Text>
+     <are:Text>
+správa a údržba nemovitostí
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-04-16" dvy="2017-03-16">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-04-16" dvy="2017-03-16">
+    <are:Text>
+Jednatel bude za společnost jednat samostatně a podepisovat za
+společnost se bude tak, že k napsané nebo vytištěné firmě
+společnosti připojí svůj podpis. Jedná bez jakéhokoli omezení a
+samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-04-16" dvy="2004-12-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-04-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>v ČR: Praha 4</are:obec>
+      <are:ulice>Žilinská</are:ulice>
+      <are:cisloTxt>216</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Koshulap</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-12-11" dvy="2017-03-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-04-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22551280</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Ke Kablu</are:ulice>
+      <are:cisloTxt>289</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Koshulap</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-10-29" dvy="2017-03-16">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2013-10-29" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Na jezerce</are:ulice>
+      <are:cisloPop>1338</are:cisloPop>
+      <are:cisloOr>43</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Beneš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-04-16" dvy="2017-03-16">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Perevoloka, Bučacký okres, Ternopilská oblast,</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Bachynskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Perevoloka, Bučacký okres, Ternopilská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Ihor</are:jmeno>
+     <are:prijmeni>Kladochnyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zaryvynci, Bučacký okres, Ternopilská oblast,</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Kladnochnyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ševčenka 49, M. Bereznyj, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Kozak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Buchovyčy, Mostycký okres, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Savchak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ševčenka, Bludnyky, Haličcký okres, Ivano-Frankovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Rogozhynskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:text>50 let Oktjabrja 29/24, Žodino, Minská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Aliaksandr</are:jmeno>
+     <are:prijmeni>Zaluzhny</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Kommunističeskaja 98/15, Bendery</are:text>
+     </are:adresa>
+     <are:jmeno>Vitali</are:jmeno>
+     <are:prijmeni>Grabovan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Znacevo, Mukačevský okres, Zakarpatská oblast,</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Lukach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zelena 1, Sorokoduby, Krasyliský okres, Chmelnická oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Oleksiy</are:jmeno>
+     <are:prijmeni>Polovy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Melnič, Židačivský okres, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Ivasenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Černyaka 12/55, Rivne</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Solovey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ševčenka 8, Piškivci, Ternopilská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Kostyshyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Orchej, Jora de Jos</are:text>
+     </are:adresa>
+     <are:jmeno>Lilia</are:jmeno>
+     <are:prijmeni>Cicala</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Orchej, Tabara 35</are:text>
+     </are:adresa>
+     <are:jmeno>Serghei</are:jmeno>
+     <are:prijmeni>Botnari</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Orchej, Jora de Mijloc</are:text>
+     </are:adresa>
+     <are:jmeno>Ion</are:jmeno>
+     <are:prijmeni>Eni</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lozky, Volodymyrecký okres, Rivnenská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Babych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>St. Bandery 15/49, Rivne</are:text>
+     </are:adresa>
+     <are:jmeno>Valentyna</are:jmeno>
+     <are:prijmeni>Nazarkova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Kotoryno, Žydačevský okres, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Drohobytskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Orchej, Jora de Jos</are:text>
+     </are:adresa>
+     <are:jmeno>Alexei</are:jmeno>
+     <are:prijmeni>Scorici</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Orchej, Crianga 22</are:text>
+     </are:adresa>
+     <are:jmeno>Veaceslav</are:jmeno>
+     <are:prijmeni>Morozan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Orchej, Pohorniceni</are:text>
+     </are:adresa>
+     <are:jmeno>Maria</are:jmeno>
+     <are:prijmeni>Gasper</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Orchej, Pelivan 28</are:text>
+     </are:adresa>
+     <are:jmeno>Igor</are:jmeno>
+     <are:prijmeni>Babalunga</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Orchej, Tabara</are:text>
+     </are:adresa>
+     <are:jmeno>Maria</are:jmeno>
+     <are:prijmeni>Scorici</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Orchej, Cihoreni 30</are:text>
+     </are:adresa>
+     <are:jmeno>Mihail</are:jmeno>
+     <are:prijmeni>Jereghea</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Orchej, Jora de Sus</are:text>
+     </are:adresa>
+     <are:jmeno>Carolina</are:jmeno>
+     <are:prijmeni>Mitrofan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Franka 13, Otynisa, Ivano-Frankovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Kozun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Vynnečenka 27/2, Novyj Rozdil, Lvovská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Kurpyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Verbyckogo 12/15, Lvov</are:text>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Zhylych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-16" dvy="2017-03-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ševčenak 338/48, Lvov</are:text>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Koshulap</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

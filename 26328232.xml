@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T03:01:29"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>03:01:29</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26328232</are:ICO>
+   <are:ObchodniFirma>BOHEMIA FORGES LOGISTIK s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>33023</are:psc>
+    <are:obec>Nýřany</are:obec>
+    <are:ulice>Úherce</are:ulice>
+    <are:cisloTxt>78</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-05-28</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+skladování zboží a manipulace s nákladem
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-05-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-05-28" dvy="2014-03-01">
+    <are:Text>
+Způsob jednání:
+Jménem společnosti jedná vůči třetím osobám, před soudy a před
+jinými orgány jednatel. Je-li jednatelů více, je oprávněn
+jednat jménem společnosti každý z nich samostatně. Jednatel,
+který činí jménem společnosti písemné úkony, je podepisuje
+tak, že k obchodní firmě společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-03-01">
+    <are:Text>
+Společnost zastupuje jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-05-28" dvy="2015-11-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2001-05-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33022</are:psc>
+      <are:obec>Zbůch čp.</are:obec>
+      <are:cisloTxt>312</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gustav</are:jmeno>
+     <are:prijmeni>Nezhyba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2001-05-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26858339</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33022</are:psc>
+      <are:okres>Plzeň-sever</are:okres>
+      <are:obec>Zbůch</are:obec>
+      <are:castObce>Zbůch</are:castObce>
+      <are:cisloPop>312</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>GUSTAV</are:jmeno>
+     <are:prijmeni>NEZHYBA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-05-28">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2014-03-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>82008</are:psc>
+      <are:obec>Unterhaching</are:obec>
+      <are:ulice>Münchner Str. 62A</are:ulice>
+     </are:adresa>
+     <are:jmeno>Günter Anton</are:jmeno>
+     <are:prijmeni>Grünberger</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

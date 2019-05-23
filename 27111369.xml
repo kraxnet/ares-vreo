@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T09:03:43"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>09:03:43</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27111369</are:ICO>
+   <are:ObchodniFirma>KOPYTASTAV s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21998051</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14100</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Žilinská</are:ulice>
+    <are:cisloTxt>216</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-12-17</are:DatumZapisu>
+   <are:DatumVymazu>2016-12-20</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Z obchodního rejstříku se vymazává společnost KOPYTASTAV s.r.o. v likvidaci, identifikační číslo: 27111369, spisová značka: C 97067,  včetně všech zapsaných skutečností.
+Výmaz po skončení likvidace ke dni provedení zápisu.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+povrchové úpravy a svařování kovů
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-12-17" dvy="2016-12-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-12-17" dvy="2016-12-20">
+    <are:Text>
+Společnost navenek zastupuje jednatel. Podepisování za společnost se děje tak, že kanpsanému nebo vytištěnému názvu společnosti připojí svůj podpis jednatel s uvedením své funkce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-12-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Cerhovice-Třenice</are:obec>
+      <are:ulice>Dlozdovská</are:ulice>
+      <are:cisloTxt>36</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petica</are:jmeno>
+     <are:prijmeni>Valeriu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-02-06" dvy="2016-12-20">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-02-06" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2568357</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29474</are:psc>
+      <are:obec>Skorkov</are:obec>
+      <are:castObce>Otradovice</are:castObce>
+      <are:cisloPop>37</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RADOMÍR</are:jmeno>
+     <are:prijmeni>VÁLEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-12-17" dvy="2016-12-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Cerhovice-Třenice</are:obec>
+      <are:ulice>Dlozdovská</are:ulice>
+      <are:cisloTxt>36</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petica</are:jmeno>
+     <are:prijmeni>Valeriu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>¨Chisinau, m. Telenesti Cazanesti</are:text>
+     </are:adresa>
+     <are:jmeno>Valerii</are:jmeno>
+     <are:prijmeni>Sofronii</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Iulia</are:jmeno>
+     <are:prijmeni>Caraus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Dubasari</are:text>
+     </are:adresa>
+     <are:jmeno>Petru</are:jmeno>
+     <are:prijmeni>Tanasiev</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Diana</are:jmeno>
+     <are:prijmeni>Gutu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Savin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Veaceslav</are:jmeno>
+     <are:prijmeni>Gondiu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Telenesti</are:text>
+     </are:adresa>
+     <are:jmeno>Mihail</are:jmeno>
+     <are:prijmeni>Vataman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Valeriu</are:jmeno>
+     <are:prijmeni>Cealnic</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Tiraspol</are:text>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Baraniuc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Elizaveta</are:jmeno>
+     <are:prijmeni>Stefirta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Aneni</are:text>
+     </are:adresa>
+     <are:jmeno>Vasile</are:jmeno>
+     <are:prijmeni>Vlas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Aneni</are:text>
+     </are:adresa>
+     <are:jmeno>Boris</are:jmeno>
+     <are:prijmeni>Friptu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Drochia</are:text>
+     </are:adresa>
+     <are:jmeno>Dmitrii</are:jmeno>
+     <are:prijmeni>Misac</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Liuda</are:jmeno>
+     <are:prijmeni>Vedrascu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinaum, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Eugenia</are:jmeno>
+     <are:prijmeni>Petcu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinaum, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Ion</are:jmeno>
+     <are:prijmeni>Burdianov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Victor</are:jmeno>
+     <are:prijmeni>Rau</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Victor</are:jmeno>
+     <are:prijmeni>Muntianu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Igor</are:jmeno>
+     <are:prijmeni>Burian</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:text>Chisinau, m. Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Mihail</are:jmeno>
+     <are:prijmeni>Porteanchin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Tiacevskij okres, m. Solotvino, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Dan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Rachivskij okres, m. Rachiv, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Zhyhora</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Hlanivka, Lvov, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Kostenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Stryj, Lvov, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Honcharuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Drogových, Lvov, Lvivská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Zaliznyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Solotvino, Tiacevskyy okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Ilyana</are:jmeno>
+     <are:prijmeni>Oprish</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Velikobereznia, Velekobereznianskij okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Klymskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Glubokij Potok, Tiacevskyy okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Huzov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-17" dvy="2016-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>m. Seredne Vodianoe, Tiacevskyy okres, Zakarpatská oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Mihali</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

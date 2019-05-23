@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T07:53:34"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>07:53:34</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26959615</are:ICO>
+   <are:ObchodniFirma>J.R.J. Autoservis, s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>999999999</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>69501</are:psc>
+    <are:obec>Hodonín</are:obec>
+    <are:ulice>Bratislavská</are:ulice>
+    <are:cisloTxt>4</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2005-03-01</are:DatumZapisu>
+   <are:DatumVymazu>2013-09-10</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Opravy silničních vozidel
+     </are:Text>
+     <are:Text>
+Klempířství a oprava karoserií
+     </are:Text>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2005-03-01" dvy="2013-09-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2005-03-01" dvy="2013-09-10">
+    <are:Text>
+Způsob jednání jménem společnosti:
+Jménem společnosti jedná a podepisuje jednatel samostatně.Podepisuje se tak, že k napsanému jménu firmy připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2005-03-01" dvy="2009-02-11">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2005-03-01</are:vznikFunkce>
+     <are:zanikFunkce>2009-01-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23205768</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69501</are:psc>
+      <are:obec>Hodonín</are:obec>
+      <are:ulice>Lipová Alej</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaromír</are:jmeno>
+     <are:prijmeni>Trávník</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-02-11" dvy="2010-08-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-01-30</are:vznikFunkce>
+     <are:zanikFunkce>2009-09-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24530212</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>30100</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Sady pětatřicátníků</are:ulice>
+      <are:cisloTxt>20/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Vuško</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-05-08" dvy="2013-09-10">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2013-05-08" dvy="2013-09-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19217561</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62500</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Spodní</are:ulice>
+      <are:cisloOr>22</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Nožička</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2005-03-01" dvy="2013-09-10">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2009-06-13" dvy="2013-09-10">
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

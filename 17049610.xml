@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-14T16:18:56"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-14</are:Datum_vypisu>
+   <are:Cas_vypisu>16:18:56</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>17049610</are:ICO>
+   <are:ObchodniFirma>ROYCE INTERNATIONAL EXPORT-IMPORT, spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Nusle</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Pod vilami</are:ulice>
+    <are:cisloPop>32</are:cisloPop>
+    <are:cisloOr>28</are:cisloOr>
+    <are:cisloTxt>32</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-05-20</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+činnost organizačních a ekonomických poradců
+     </are:Text>
+     <are:Text>
+realitní kancelář
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-05-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-05-20">
+    <are:Text>
+Společnost navenek zastupují jednatelé společně
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-05-20" dvy="1993-04-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Úvod</are:ulice>
+      <are:cisloTxt>47</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Igor</are:jmeno>
+     <are:prijmeni>Papoušek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-05-20" dvy="2016-04-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2016-02-22</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22598774</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Rezlerova</are:ulice>
+      <are:cisloTxt>308</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloš</are:jmeno>
+     <are:prijmeni>Horáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-05-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-01-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19170033</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Úvoz</are:ulice>
+      <are:cisloTxt>47</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Igor</are:jmeno>
+     <are:prijmeni>Papoušek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-01-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ebenau</are:obec>
+      <are:ulice>Hinterwinkl 54</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Venhoda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-07-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25183435</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25262</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Horoměřice</are:obec>
+      <are:castObce>Horoměřice</are:castObce>
+      <are:ulice>J. Š. Baara</are:ulice>
+      <are:cisloPop>732</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOŠ</are:jmeno>
+     <are:prijmeni>HORÁČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

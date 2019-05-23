@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T22:01:31"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:01:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25842170</are:ICO>
+   <are:ObchodniFirma>TAČIVO s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23246707</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>77900</are:psc>
+    <are:okres>Olomouc</are:okres>
+    <are:obec>Olomouc</are:obec>
+    <are:castObce>Holice</are:castObce>
+    <are:ulice>Šlechtitelů</are:ulice>
+    <are:cisloPop>630</are:cisloPop>
+    <are:cisloOr>8</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-08-09</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+úklidové práce
+     </are:Text>
+     <are:Text>
+lesní práce
+     </are:Text>
+     <are:Text>
+svářečské práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-08-09">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-08-09">
+    <are:Text>
+Jednání za společnost: Jednatelé jednají za společnost
+samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-08-09" dvy="2015-10-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16136349</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Hněvotín</are:obec>
+      <are:cisloTxt>69</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslava</are:jmeno>
+     <are:prijmeni>Mačáková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16136128</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78347</are:psc>
+      <are:obec>Hněvotín</are:obec>
+      <are:castObce>Hněvotín</are:castObce>
+      <are:cisloPop>47</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOSLAVA</are:jmeno>
+     <are:prijmeni>MAČÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-08-09">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Javorov</are:obec>
+      <are:ulice>ul. Ševčenka</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zhurba</are:jmeno>
+     <are:prijmeni>Halyna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hvizdec</are:obec>
+      <are:ulice>ul. Ševčenka</are:ulice>
+     </are:adresa>
+     <are:jmeno>Dronyuk</are:jmeno>
+     <are:prijmeni>Ivan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rohynja</are:obec>
+     </are:adresa>
+     <are:jmeno>Rokitskyy</are:jmeno>
+     <are:prijmeni>Mykhaylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kolomyja</are:obec>
+      <are:ulice>ul. Mocarta</are:ulice>
+      <are:cisloTxt>85/57</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kotsaba</are:jmeno>
+     <are:prijmeni>Mykhaylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Svaljava Pavlo</are:obec>
+      <are:cisloTxt>49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stetsovych</are:jmeno>
+     <are:prijmeni>Vasyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Lubon</are:obec>
+      <are:ulice>ul. Poškina</are:ulice>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Talalayeva</are:jmeno>
+     <are:prijmeni>Halina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopol</are:obec>
+      <are:ulice>Ustečko</are:ulice>
+     </are:adresa>
+     <are:jmeno>Formahey</are:jmeno>
+     <are:prijmeni>Halyna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Selonogujiviče</are:obec>
+      <are:ulice>Školní</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Podlyashetska</are:jmeno>
+     <are:prijmeni>Lesya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvov</are:obec>
+      <are:ulice>ul. Šaraněviča</are:ulice>
+      <are:cisloTxt>4/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Shevtsova</are:jmeno>
+     <are:prijmeni>Nadiya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Truskavec Sahajdačného 38</are:obec>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Beniv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Tačiv</are:obec>
+      <are:ulice>ul. Vajdy</are:ulice>
+      <are:cisloTxt>12/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Behey</are:jmeno>
+     <are:prijmeni>Halyna</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rohyňa</are:obec>
+      <are:ulice>ul. Ukrajinska</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Knygnytskyy</are:jmeno>
+     <are:prijmeni>Ivan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Aleksandrija</are:obec>
+      <are:ulice>ul. Lenina</are:ulice>
+      <are:cisloTxt>136/114</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Krystal</are:jmeno>
+     <are:prijmeni>Valeriy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Kruleščina</are:obec>
+      <are:ulice>17. října 20</are:ulice>
+     </are:adresa>
+     <are:jmeno>Yukhnevich</are:jmeno>
+     <are:prijmeni>Yury</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Molodečno</are:obec>
+      <are:ulice>Drozdoviča</are:ulice>
+      <are:cisloTxt>1-94</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zhuk</are:jmeno>
+     <are:prijmeni>Siarhei</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Hincesti Fundul Galb</are:obec>
+     </are:adresa>
+     <are:jmeno>Durbala</are:jmeno>
+     <are:prijmeni>Teodor</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16136128</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78347</are:psc>
+      <are:obec>Hněvotín</are:obec>
+      <are:castObce>Hněvotín</are:castObce>
+      <are:cisloPop>47</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOSLAVA</are:jmeno>
+     <are:prijmeni>MAČÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

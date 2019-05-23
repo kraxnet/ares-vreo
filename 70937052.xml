@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-04-05T11:22:25"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-04-05</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-04-05</are:Datum_vypisu>
+   <are:Cas_vypisu>11:22:25</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>70937052</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek Jiráskova 4209-4210-4211, Chomutov</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23522739</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>43003</are:psc>
+    <are:okres>Chomutov</are:okres>
+    <are:obec>Chomutov</are:obec>
+    <are:castObce>Chomutov</are:castObce>
+    <are:ulice>Jiráskova</are:ulice>
+    <are:cisloPop>4210</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumVzniku>2001-08-13</are:DatumVzniku>
+   <are:DatumZapisu>2002-01-05</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+zajišťování správy domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-01-05" dvy="2004-04-07">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2002-01-05" dvy="2002-07-03">
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+     <are:vznikFunkce>2001-09-19</are:vznikFunkce>
+     <are:zanikFunkce>2001-12-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4210</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vilém</are:jmeno>
+     <are:prijmeni>Hubka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-05" dvy="2002-07-03">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+     <are:vznikFunkce>2001-09-19</are:vznikFunkce>
+     <are:zanikFunkce>2001-12-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlasta</are:jmeno>
+     <are:prijmeni>Měšťanová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-05" dvy="2002-07-03">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+     <are:vznikFunkce>2001-09-19</are:vznikFunkce>
+     <are:zanikFunkce>2001-12-11</are:zanikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>23526629</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43028</are:psc>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Zborovská</are:ulice>
+      <are:cisloTxt>4602</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00261891</are:ICO>
+     <are:ObchodniFirma>Město Chomutov</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-05" dvy="2004-04-07">
+    <are:clenstvi>
+     <are:zanikClenstvi>2003-09-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+     <are:vznikFunkce>2001-09-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4210</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivana</are:jmeno>
+     <are:prijmeni>Pertlíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-07-03" dvy="2004-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-12-04</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-12-02</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+     <are:zanikFunkce>2003-12-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Křítek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-07-03" dvy="2004-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-12-04</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-12-02</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+     <are:zanikFunkce>2003-12-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jindřich</are:jmeno>
+     <are:prijmeni>Jelínek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-07-03" dvy="2004-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-12-04</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-12-02</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Tomík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-07-03" dvy="2004-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-12-04</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-12-02</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Crhová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2004-04-07">
+   <are:Nazev>Statutární orgán - výbor společenství</are:Nazev>
+   <are:ZpusobJednani dza="2002-01-05" dvy="2015-05-27">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru.
+Bude-li pro právní úkon zapotřebí písemná forma, je nezbytný
+podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-05-27">
+    <are:Text>
+Výbor zastupuje společenství a navenek za společenství jedná svým předsedou. V době nepřítomnosti předsedy i místopředsedy zastupuje předsedu člen výboru. Písemné právní jednání, které činí výbor za společenství, podepisuje předseda nebo v jeho zastoupení
+ místopředseda, spolu s dalším členem výboru. Podepisuje-li předseda spolu s místopředsedou, považuje se podpis místopředsedy za podpis dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-04-07" dvy="2009-05-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-12-02</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-11-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+     <are:vznikFunkce>2003-12-02</are:vznikFunkce>
+     <are:zanikFunkce>2008-11-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Roth</are:prijmeni>
+     <are:titulPred>PaedDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-04-07" dvy="2009-05-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-12-02</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-11-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+     <are:vznikFunkce>2003-12-02</are:vznikFunkce>
+     <are:zanikFunkce>2008-11-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alexander</are:jmeno>
+     <are:prijmeni>Roža</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-04-07" dvy="2009-05-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-12-02</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-11-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libuše</are:jmeno>
+     <are:prijmeni>Chrpová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-23" dvy="2015-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-11-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2008-11-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alexander</are:jmeno>
+     <are:prijmeni>Roža</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-23" dvy="2015-05-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-11-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-11-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2008-11-25</are:vznikFunkce>
+     <are:zanikFunkce>2013-11-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522747</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4211</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Roth</are:prijmeni>
+     <are:titulPred>PaedDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-05-23" dvy="2015-05-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-11-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-11-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libuše</are:jmeno>
+     <are:prijmeni>Chrpová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-25" dvy="2015-05-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-11-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-11-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2008-11-25</are:vznikFunkce>
+     <are:zanikFunkce>2013-11-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43003</are:psc>
+      <are:okres>Chomutov</are:okres>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloPop>4209</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ALEXANDER</are:jmeno>
+     <are:prijmeni>ROŽA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-27" dvy="2017-11-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-02-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43003</are:psc>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloPop>4209</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>POTŮČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-27" dvy="2018-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-02-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-02-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43003</are:psc>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloPop>4209</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>HOZÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-27" dvy="2018-03-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-02-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-08-17</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43003</are:psc>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloPop>4210</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MONIKA</are:jmeno>
+     <are:prijmeni>KURSTEINOVÁ MAUROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-10" dvy="2018-03-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-02-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-09-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27465675</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43101</are:psc>
+      <are:okres>Chomutov</are:okres>
+      <are:obec>Spořice</are:obec>
+      <are:castObce>Spořice</are:castObce>
+      <are:ulice>Topolová</are:ulice>
+      <are:cisloPop>562</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>POTŮČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-02-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-02-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12036714</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36301</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Ostrov</are:obec>
+      <are:castObce>Ostrov</are:castObce>
+      <are:ulice>Brigádnická</are:ulice>
+      <are:cisloPop>712</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>HOZÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-03-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-10-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522747</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43003</are:psc>
+      <are:okres>Chomutov</are:okres>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloPop>4211</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DANA</are:jmeno>
+     <are:prijmeni>KURICOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-03-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-10-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43003</are:psc>
+      <are:okres>Chomutov</are:okres>
+      <are:obec>Chomutov</are:obec>
+      <are:castObce>Chomutov</are:castObce>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloPop>4210</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LIBOR</are:jmeno>
+     <are:prijmeni>POJMAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-04-05</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-04-05</are:Datum_vypisu>
+   <are:Cas_vypisu>11:22:25</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>70937052</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek Jiráskova 4209-4210-4211, Chomutov</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23522739</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>43003</are:psc>
+    <are:obec>Chomutov</are:obec>
+    <are:ulice>Jiráskova</are:ulice>
+    <are:cisloTxt>4210</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-01-05</are:DatumZapisu>
+   <are:DatumVymazu>2002-01-05</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-01-05" dvy="2002-01-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-01-05" dvy="2002-01-05">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru.
+Bude-li pro právní úkon zapotřebí písemná forma, je nezbytný
+podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-01-05" dvy="2002-01-05">
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+     <are:vznikFunkce>2001-09-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4210</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vilém</are:jmeno>
+     <are:prijmeni>Hubka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-05" dvy="2002-01-05">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+     <are:vznikFunkce>2001-09-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4210</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivana</are:jmeno>
+     <are:prijmeni>Pertlíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-05" dvy="2002-01-05">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+     <are:vznikFunkce>2001-09-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23522721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Jiráskova</are:ulice>
+      <are:cisloTxt>4209</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlasta</are:jmeno>
+     <are:prijmeni>Měšťanová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-05" dvy="2002-01-05">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+     <are:vznikFunkce>2001-09-19</are:vznikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>23526629</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43028</are:psc>
+      <are:obec>Chomutov</are:obec>
+      <are:ulice>Zborovská</are:ulice>
+      <are:cisloTxt>4602</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00261891</are:ICO>
+     <are:ObchodniFirma>Město Chomutov</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

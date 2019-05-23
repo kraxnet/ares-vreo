@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:34:11"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:34:11</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00545163</are:ICO>
+   <are:ObchodniFirma>ZLÍNGAST spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Zlín</are:obec>
+    <are:ulice>Lazy</are:ulice>
+    <are:cisloTxt>4362</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-04-28</are:DatumZapisu>
+   <are:DatumVymazu>2002-07-27</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+ubytovací služby
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-04-28" dvy="2002-07-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-04-28" dvy="2002-07-27">
+    <are:Text>
+Způsob zastupování: jednatelé jsou oprávnění jednat jménem
+společnosti samostatně a podepisovat se za ni tak, že k názvu
+společnosti připojí jeden z nich svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-04-28" dvy="1995-05-15">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4077172</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Napajedla</are:obec>
+      <are:ulice>Komenského</are:ulice>
+      <are:cisloTxt>834</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Kubiš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-04-28" dvy="2002-07-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Lazy</are:ulice>
+      <are:cisloTxt>4362</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Barcuch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-07-31" dvy="1998-07-14">
+    <are:funkce>
+     <are:nazev>likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4251539</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76001</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Valachův Žleb</are:ulice>
+      <are:cisloTxt>4892</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jitka</are:jmeno>
+     <are:prijmeni>Hrbáčková</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1998-07-14" dvy="2002-07-27">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="1998-07-14" dvy="2002-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76315</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Slušovice</are:obec>
+      <are:ulice>Březová</are:ulice>
+      <are:cisloTxt>131</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslava</are:jmeno>
+     <are:prijmeni>Jurčíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-05-15" dvy="2002-07-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-05-15" dvy="2002-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Lazy</are:ulice>
+      <are:cisloTxt>4362</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Barcuch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-15" dvy="2002-07-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4248988</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Okružní</are:ulice>
+      <are:cisloTxt>4601</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Felix</are:jmeno>
+     <are:prijmeni>Fráňa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:34:11</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00545163</are:ICO>
+   <are:ObchodniFirma>ZLÍNGAST a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Zlín</are:obec>
+    <are:ulice>Lazy</are:ulice>
+    <are:cisloTxt>4362</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-08-13</are:DatumZapisu>
+   <are:DatumVymazu>1992-04-28</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Zajišťovat služby ve veřejném stravování, přechodné ubytování
+a služby s tím související.
+Prodej výrobků vlastní kuchyně, cukrářských výrobků, polotovarů,
+polokonzerv a konzerv v  ČSFR.
+Vyrábět zemědělské produkty pro vlastní výrobní a prodejní
+potřebu.
+Zajišťovat poradenskou službu v oblasti veřejného stravování.
+Zajišťovat výrobu a prodej suvenýrů.
+V rámci vlastní autodopravy poskytovat přepravní služby jiným
+organizacím a občanům.
+     </are:Text>
+     <are:Text>
+Provádět prodej výpočetní techniky a programů s činnosti
+veřejného stravování.
+Zajišťovat odbornou praxi učňovského dorostu.
+Zajišťovat služby cestovního ruchu.
+Tvorba, výroba, distribuce a prodej filmových děl všech žánrů,
+metráží i formátů v ČSFR.
+Tvorba, výroba, distribuce a prodej audivizuálních programů
+s možností využití technologie magnetického záznamu eventuelně
+i dalších technologií.
+     </are:Text>
+     <are:Text>
+Výroba filmů a audiovizuálních programů na základě objednávky.
+Výroba filmů a audiovizuálních programů formou kooprodukce
+partnery na smluvním základě.
+Výroba, distribuce, prodej a  honorovaný pronájem filmů a
+audiovizuálních programů na videokazetách.
+Provozování účelových zařízení, vztahujících se z předmětu
+podnikání, uvedených v č.3 všemi formami, včetně služeb
+poskytovaných návštěvníkům a zákazníkům.
+Propagační a reklamní činnost vztahující se k předmětu podnikání,
+uvedeného v čl. 3.
+     </are:Text>
+     <are:Text>
+servisní, produkční a tvůrčí služby zákazníkům, vztahujících se k
+předmětu podnikání uvedeného v čl. 3
+     </are:Text>
+     <are:Text>
+Využívat tvůrčího i technického zázemí, znalostí a technologie
+/leasing/ s dalšími subjekty, které bude výhodné a prospěšné k
+naplnění předmětu podnikání.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-08-13" dvy="1992-04-28">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:Clen dza="1990-08-13" dvy="1992-04-28">
+    <are:funkce>
+     <are:nazev>předseda  představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76000</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Lazy</are:ulice>
+      <are:cisloTxt>4362</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Barcuch Ladislav, ml.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-08-13" dvy="1992-04-28">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4238273</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76000</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Prostřední</are:ulice>
+      <are:cisloTxt>3376</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Koutek Radomír Ing.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-08-13" dvy="1992-04-28">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4248988</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76000</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Okružní</are:ulice>
+      <are:cisloTxt>4601</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Fraňa</are:jmeno>
+     <are:prijmeni>Felix</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

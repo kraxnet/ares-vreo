@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:52:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:52:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00109002</are:ICO>
+   <are:ObchodniFirma>Zemědělské družstvo Srbeč</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>8612561</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>27065</are:psc>
+    <are:obec>Srbeč</are:obec>
+    <are:cisloTxt>čp. 19</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-03-26</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Zemědělská výroba
+     </are:Text>
+     <are:Text>
+Opravy ostatních dopravních prostředků a pracovních strojů
+     </are:Text>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-03-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-03-26" dvy="1993-09-07">
+    <are:Text>
+Statutátním orgánem družstva jsou předseda a místopředseda,
+kteří jsou oprávněni za družstvo jednat a podepisovat.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-09-07" dvy="2016-05-07">
+    <are:Text>
+Podepisování a zastupování:
+Za družstvo jedná předseda představenstva, v jeho nepřítom-
+nosti místopředseda. K písemné formě právního úkonu postačí
+podpis předsedy, v jeho nepřítomnosti místopředsedy, vždy
+včetně podpisu jednoho člena představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-05-07">
+    <are:Text>
+Družstvo zastupuje předseda představenstva, v jeho nepřítomnosti místopředseda.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-03-26" dvy="1992-06-03">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>27064</are:psc>
+      <are:obec>-</are:obec>
+      <are:ulice>Mšec 132</are:ulice>
+     </are:adresa>
+     <are:jmeno>Dobroslava</are:jmeno>
+     <are:prijmeni>Krupičková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-26" dvy="1993-09-07">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>27065</are:psc>
+      <are:obec>-</are:obec>
+      <are:ulice>Srbeč 12</are:ulice>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Charvát</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-03" dvy="1993-09-07">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>27061</are:psc>
+      <are:obec>Lány, okr. Rakovník</are:obec>
+      <are:ulice>U statku 194</are:ulice>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Raška</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-07" dvy="1999-11-24">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Srbeč</are:obec>
+      <are:cisloTxt>č. 12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Charvát</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-07" dvy="1999-11-24">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Mšecké Žehrovice č. 70, p.Mšec</are:obec>
+     </are:adresa>
+     <are:jmeno>Červenka</are:jmeno>
+     <are:prijmeni>Josef</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-07" dvy="1999-11-24">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Milý č. 93, p.Srbeč</are:obec>
+     </are:adresa>
+     <are:jmeno>Šmídová</are:jmeno>
+     <are:prijmeni>Jana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-07" dvy="1999-11-24">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8613265</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Srbeč</are:obec>
+      <are:cisloTxt>94</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Šindelář</are:jmeno>
+     <are:prijmeni>Zdeněk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-07" dvy="2008-12-17">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>1998-04-02</are:vznikFunkce>
+     <are:zanikFunkce>2008-06-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>27064</are:psc>
+      <are:obec>Mšenec</are:obec>
+      <are:ulice>Mšecké Žehrovice 47</are:ulice>
+     </are:adresa>
+     <are:jmeno>Křenek</are:jmeno>
+     <are:prijmeni>Antonín</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-07" dvy="2008-12-17">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>1998-04-02</are:vznikFunkce>
+     <are:zanikFunkce>2008-06-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Srbeč</are:obec>
+      <are:cisloTxt>č. 12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Charvátová</are:jmeno>
+     <are:prijmeni>Eliška</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-07" dvy="2008-12-17">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>1992-11-27</are:vznikFunkce>
+     <are:zanikFunkce>2008-06-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Srbeč</are:obec>
+      <are:cisloTxt>č. 17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Brabec</are:jmeno>
+     <are:prijmeni>Jan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-07" dvy="2008-12-17">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>1992-11-27</are:vznikFunkce>
+     <are:zanikFunkce>2008-06-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8576343</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Mšec</are:obec>
+      <are:cisloTxt>č. 132</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Krupičková</are:jmeno>
+     <are:prijmeni>Dobroslava</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-07" dvy="2008-12-17">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>1992-11-27</are:vznikFunkce>
+     <are:zanikFunkce>2008-06-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9281169</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Žatec</are:obec>
+      <are:ulice>Volyňských Čechů</are:ulice>
+      <are:cisloTxt>2731</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kříž</are:jmeno>
+     <are:prijmeni>Josef</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-11-24" dvy="2008-12-17">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>1998-04-02</are:vznikFunkce>
+     <are:zanikFunkce>2008-06-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8613249</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Rakovník</are:okres>
+      <are:obec>Srbeč</are:obec>
+      <are:cisloTxt>92</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Hotový</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-11-24" dvy="2008-12-17">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>1998-04-02</are:vznikFunkce>
+     <are:zanikFunkce>2008-06-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8612692</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Rakovník</are:okres>
+      <are:obec>Srbeč</are:obec>
+      <are:cisloTxt>32</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Laxa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-12-17" dvy="2014-01-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-10-31</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-10-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2008-11-07</are:vznikFunkce>
+     <are:zanikFunkce>2013-10-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8613265</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27065</are:psc>
+      <are:obec>Srbeč</are:obec>
+      <are:cisloTxt>94</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Šindelář</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-12-17" dvy="2014-01-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-10-31</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-10-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2008-11-07</are:vznikFunkce>
+     <are:zanikFunkce>2013-10-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8576343</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27064</are:psc>
+      <are:obec>Mšec</are:obec>
+      <are:cisloTxt>132</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dobroslava</are:jmeno>
+     <are:prijmeni>Krupičková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-12-17" dvy="2014-01-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-10-31</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-10-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8613737</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27065</are:psc>
+      <are:obec>Srbeč</are:obec>
+      <are:cisloTxt>145</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Sova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-12-17" dvy="2014-01-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-10-31</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-10-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8573727</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27054</are:psc>
+      <are:obec>Milý</are:obec>
+      <are:cisloTxt>105</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Holý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-12-17" dvy="2014-01-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-10-31</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-10-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8573603</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27054</are:psc>
+      <are:obec>Milý</are:obec>
+      <are:cisloTxt>93</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Šmída</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-03-31" dvy="2011-03-31">
+    <are:clenstvi>
+     <are:vznikClenstvi>1993-03-19</are:vznikClenstvi>
+     <are:zanikClenstvi>1998-04-02</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>1993-03-19</are:vznikFunkce>
+     <are:zanikFunkce>1998-04-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>27064</are:psc>
+      <are:obec>Mšenec</are:obec>
+      <are:castObce>Mšecké Žehrovice</are:castObce>
+      <are:cisloPop>47</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Křenek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-12-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2013-12-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8613265</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27065</are:psc>
+      <are:obec>Srbeč</are:obec>
+      <are:castObce>Srbeč</are:castObce>
+      <are:cisloPop>94</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>ŠINDELÁŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-12-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2013-12-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8576343</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27064</are:psc>
+      <are:obec>Mšec</are:obec>
+      <are:castObce>Mšec</are:castObce>
+      <are:cisloPop>132</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DOBROSLAVA</are:jmeno>
+     <are:prijmeni>KRUPIČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-12-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8573603</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27054</are:psc>
+      <are:obec>Milý</are:obec>
+      <are:castObce>Milý</are:castObce>
+      <are:cisloPop>93</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>ŠMÍDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

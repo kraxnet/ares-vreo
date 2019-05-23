@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T23:25:14"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>23:25:14</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25969323</are:ICO>
+   <are:ObchodniFirma>RIK s.r.o., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23883651</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>50002</are:psc>
+    <are:okres>Hradec Králové</are:okres>
+    <are:obec>Hradec Králové</are:obec>
+    <are:castObce>Pražské Předměstí</are:castObce>
+    <are:ulice>Kydlinovská</are:ulice>
+    <are:cisloPop>42</are:cisloPop>
+    <are:cisloOr>68</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-05-20</are:DatumZapisu>
+   <are:DatumVymazu>2017-03-18</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost RIK s.r.o., v likvidaci, se sídlem Kydlinovská 42/68, Pražské Předměstí, 500 02 Hradec Králové, identifikační číslo 259 69 323, se vymazává po právní moci z Obchodního rejstříku, včetně všech zapsaných skutečností. Důvodem výmazu je ukončená li
+kvidace ve zrušené společnosti v souladu s ust. § 82 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-05-20" dvy="2017-03-18">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-05-20" dvy="2015-10-20">
+    <are:Text>
+Způsob jednání:
+Jednatel jedná jménem společnosti samostatně a podepisuje se
+tak, že k firmě společnosti připojí svůj podpis podle
+podpisového vzoru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-10-20" dvy="2017-03-18">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně a podepisuje se tak, že k firmě společnosti připojí svůj podpis podle podpisového vzoru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2002-05-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>53701</are:psc>
+      <are:obec>Chrudim 1</are:obec>
+      <are:ulice>Čáslavská</are:ulice>
+      <are:cisloTxt>266</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Hoshko Dmytro</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2011-03-18" dvy="2017-03-18">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2011-03-18" dvy="2015-10-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23894067</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Gočárova třída</are:ulice>
+      <are:cisloPop>1105</are:cisloPop>
+      <are:cisloOr>36</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>David</are:jmeno>
+     <are:prijmeni>Jánošík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1201859</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28904</are:psc>
+      <are:obec>Vlkov pod Oškobrhem</are:obec>
+      <are:castObce>Vlkov pod Oškobrhem</are:castObce>
+      <are:cisloPop>21</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DAVID</are:jmeno>
+     <are:prijmeni>JÁNOŠÍK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2002-05-20" dvy="2017-03-18">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselica, ul. Borkanyura 232, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Antoniy Mariya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Luck, ul. Kovalskoji 5, okr. Luck, obl. Volynska</are:text>
+     </are:adresa>
+     <are:prijmeni>Bulyuk Viktor</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Chotkevica 22/46, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Buryy Yuriy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Vel Berenuj, ul. Kostryno 122, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Dohunchak Mykhaylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Neresnica, ul. Pidhora 12, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Dzhuhan Pavlo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Kobylytsi 19/88, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Fedkovych Ruslan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselica, ul. Sportyvna 4, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Holubka Mykhaylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novojavorivsk, ul. 50-Rokiv UPA 5/333, okr. Lviv, obl Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Hoshko Dmytro</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zubra, ul. Sahajdacnoho 12, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>IIchyshyn Bohdan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zubra, ul. Ukrajinky 28, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>IIchyshyn Ihor</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Sokilnyky, ul. S.Strilciv 286, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>IIchyshyn Nataliya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zubra, ul. Ukrajinky 28, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>IIchyshyn Roman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Vasylcenka 10/3, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Kindel Andriy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Peremyslyansky, ul. Lany, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Kostiv Andriy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Zavodska 4/12, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Kovalyk Vasyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Myxlasiv, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Kovalyk Zoryana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Sokilnyky, ul. Lvivska 77, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Krokhmalna Oksana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Cornovola 43/50, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Krokhmalnyy Petro</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Sokilnyky, ul. Lvivska 76, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Krokhmalnyy Roman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Sokilnyky, ul. Sadova 31, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Krychylska Nataliya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Stepan, ul. S.Palija 8, okr. Rivno, obl. Rivnenska</are:text>
+     </are:adresa>
+     <are:prijmeni>Krychylsky Mykola</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Vel Berenuj, ul. Uzok 7, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Kurtey Vasyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Vel Berenuj, ul. Uzok 3, okr. Vel Berenuj, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Madyar Vasyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Drahana 26/29, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Maryshchuk Oksana</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Tarasiyka, ul. Ševčenka 19, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Matsola Ivan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Vyhovskoho 79/17, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Molinskyy Viktor</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Vel Berenuj, ul. Uzok 63, okr. Vel Berenuj, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Momukhid Yuriy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Kiverci, ul. Vyzvolyteliv 2/2, okr. Volynska, obl. Ternopolska</are:text>
+     </are:adresa>
+     <are:prijmeni>Morkochan Serhiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Chotkevica 22/46, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Mykytyuk Myroslav</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Chotkevica 22/46, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Mykytyuk Roman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselica, ul. Vaydy 91, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Pavlyuk Ivan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Bilovarci, ul. Sadova 8, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Pop Roman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Tyachev, ul. Peremoha, okr. Tyacevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Prodanets Ivan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Vel Berenuj, ul. Tyjhlas 81, okr. Vel Berenuj, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Reypashi Vasyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Nyzniy, ul. Bystryy 658, okr. Chustskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Rosokha Mykhaylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Nyzniy, ul. Bystryy 347, okr. Chustskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Rosokha Vasyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Rudky, ul. Bandery 13/2, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Ruslabudov Volodymyr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselica, ul. Borkanyuka 200, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Shehda Mykhaylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Cervonohrad, ul. Bandery 1/11, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Skochynets Ihor</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Novoselica, ul. Matrosova 5, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Tyasko Mariya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ternovo, ul. Vakarova 9, okr. Tyachevskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Volontir Fedir</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Nyzniy, ul. Bystryy 349, okr. Chustskiy, obl. Zakarpatska</are:text>
+     </are:adresa>
+     <are:prijmeni>Vovchok Vasyl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Sokilnyky, ul. Lvivska 47, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Voytsykhovskyy Yevhen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Krakivska 24/12, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Yakovlyev Oleksandr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-05-20" dvy="2017-03-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Lviv, ul. Hasenka 20a/42, okr. Lviv, obl. Lvivska</are:text>
+     </are:adresa>
+     <are:prijmeni>Yaroshenko Oleh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

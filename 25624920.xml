@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T20:08:27"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>20:08:27</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25624920</are:ICO>
+   <are:ObchodniFirma>SAULE.KZ s.r.o.v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>26701</are:psc>
+    <are:obec>Králův Dvůr u Berouna</are:obec>
+    <are:ulice>Fučíkova</are:ulice>
+    <are:cisloTxt>149</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1997-11-19</are:DatumZapisu>
+   <are:DatumVymazu>2011-07-18</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+hostinská činnost
+     </are:Text>
+     <are:Text>
+realitní činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1997-11-19" dvy="2011-07-18">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1997-11-19" dvy="2011-07-18">
+    <are:Text>
+Za společnost jedná jednatel samostatně. Podepisuje se tak, že k
+obchodnímu jménu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1997-11-19" dvy="2011-07-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>okr. Beroun</are:obec>
+      <are:ulice>Stašov</are:ulice>
+      <are:cisloTxt>143</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Saule</are:jmeno>
+     <are:prijmeni>Anuarova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2010-05-04" dvy="2011-07-18">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2010-05-04" dvy="2011-07-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21705003</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloPop>709</are:cisloPop>
+      <are:cisloOr>33</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Gabriel</are:jmeno>
+     <are:prijmeni>Žilinský</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1997-11-19" dvy="2011-07-18">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1997-11-19" dvy="2011-07-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>okr. Beroun</are:obec>
+      <are:ulice>Stašov</are:ulice>
+      <are:cisloTxt>143</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Saule</are:jmeno>
+     <are:prijmeni>Anuarova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-11-19" dvy="2011-07-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>398</are:stat>
+      <are:text>bytem Panfilova dům 158, byt 55, Almaty</are:text>
+     </are:adresa>
+     <are:jmeno>Margulan</are:jmeno>
+     <are:prijmeni>Kapezov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-11-19" dvy="2011-07-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>398</are:stat>
+      <are:text>bytem Gogolia dům 91, byt 43, Almaty</are:text>
+     </are:adresa>
+     <are:prijmeni>Alfa Kurbankhojayeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-11-19" dvy="2011-07-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>398</are:stat>
+      <are:text>bytem Džambula dům 55/57, byt 35, Almaty</are:text>
+     </are:adresa>
+     <are:jmeno>Larissa</are:jmeno>
+     <are:prijmeni>Akhmetova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

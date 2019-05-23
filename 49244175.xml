@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T01:27:31"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>01:27:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>49244175</are:ICO>
+   <are:ObchodniFirma>OMRON, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21865957</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Pacovská</are:ulice>
+    <are:cisloTxt>872/25</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-05-20</are:DatumZapisu>
+   <are:DatumVymazu>2010-10-06</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zajišťování správy a údržby domu, pronájem bytových a nebytových
+prostor, vyjma poskytování jiných než základních služeb,
+spojených s pronájmem
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-05-20" dvy="2010-10-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-05-20" dvy="2010-10-06">
+    <are:Text>
+Jednatelé jednají jménem společnosti navenek a podepisují tak,
+že k obchodnímu jménu společnosti připojí svoje podpisy uvedené
+na podpisovém vzoru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-05-20" dvy="1998-07-02">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ruth</are:jmeno>
+     <are:prijmeni>Matějková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-05-20" dvy="2006-01-30">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2005-11-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Voda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-07-02" dvy="2006-01-30">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2005-11-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Bedrník</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-30" dvy="2007-12-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-01-05</are:vznikFunkce>
+     <are:zanikFunkce>2007-06-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Blín</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-03" dvy="2010-10-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-11-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Singerová</are:prijmeni>
+     <are:titulPred>PhDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2010-01-19" dvy="2010-10-06">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2010-01-19" dvy="2010-02-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22376135</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:ulice>Zenklova</are:ulice>
+      <are:cisloTxt>137/41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludvík</are:jmeno>
+     <are:prijmeni>Krčl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-02-11" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22376135</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:ulice>Zenklova</are:ulice>
+      <are:cisloTxt>137/41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludvík</are:jmeno>
+     <are:prijmeni>Krčál</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-05-20" dvy="2010-10-06">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1993-05-20" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Růžena</are:jmeno>
+     <are:prijmeni>Tesařová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-05-20" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Singerová</are:prijmeni>
+     <are:titulPred>PhDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-10-30" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Kočišová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Klára</are:jmeno>
+     <are:prijmeni>Benešová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Beneš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ruth</are:jmeno>
+     <are:prijmeni>Matějková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Bedrník</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>875/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jitka</are:jmeno>
+     <are:prijmeni>Bedrníková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Boubín</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Boubínová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Voda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeňka</are:jmeno>
+     <are:prijmeni>Vodová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Blín</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-23" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Blínová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-07-07" dvy="2010-10-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21865957</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pacovská</are:ulice>
+      <are:cisloTxt>872/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Matějka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

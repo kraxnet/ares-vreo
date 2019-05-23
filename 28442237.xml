@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T12:39:16"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>12:39:16</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28442237</are:ICO>
+   <are:ObchodniFirma>REALIT Praha, družstvo</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21799181</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Pod svahem</are:ulice>
+    <are:cisloTxt>243/25</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-01-02</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Realitní činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-01-02">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1990-01-02" dvy="1992-04-23">
+    <are:Text>
+Za družstvo jedná předseda nebo pověřený člen družstva a pod-
+pisuje předseda spolu s dalším pověřeným členem družstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1992-04-23" dvy="2008-02-21">
+    <are:Text>
+Prokuristé jsou za družstvo oprávněni podepisovat samostatně
+bez omezení a zastupovat ho.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2008-02-21">
+    <are:Text>
+Jménem družstva jedná samostatně předseda. Podepisování za družstvo se děje tak, že k obchodnímu jménu připojí svůj vlastnoruční podpis předseda nebo jím pověřený člen.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-01-02" dvy="1992-04-23">
+    <are:funkce>
+     <are:nazev>člen družsta</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5547628</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Písek</are:obec>
+      <are:ulice>Na stínadlech</are:ulice>
+      <are:cisloTxt>315</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Beneš</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-01-02" dvy="2008-08-27">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>1990-01-02</are:vznikFunkce>
+     <are:zanikFunkce>1993-04-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21799181</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pod svahem</are:ulice>
+      <are:cisloTxt>243/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Mandík</are:prijmeni>
+     <are:titulPred>JUDr.ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-01-13" dvy="2015-11-12">
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2008-07-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21799181</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Braník</are:castObce>
+      <are:ulice>Pod Svahem</are:ulice>
+      <are:cisloPop>243</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Mandík</are:prijmeni>
+     <are:titulPred>JUDr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2017-02-22">
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2008-07-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21799181</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Braník</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Pod svahem</are:ulice>
+      <are:cisloPop>243</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>MANDÍK</are:prijmeni>
+     <are:titulPred>JUDr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-22">
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2008-07-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24991139</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vršovice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Na vrších</are:ulice>
+      <are:cisloPop>1490</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>MANDÍK</are:prijmeni>
+     <are:titulPred>JUDr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

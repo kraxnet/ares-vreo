@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T03:21:56"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>03:21:56</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>05732034</are:ICO>
+   <are:ObchodniFirma>BROLEXPET Trade, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>11110716</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>75101</are:psc>
+    <are:okres>Přerov</are:okres>
+    <are:obec>Lobodice</are:obec>
+    <are:castObce>Lobodice</are:castObce>
+    <are:cisloPop>221</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2017-01-23</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2017-01-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2017-01-23">
+    <are:Text>
+Každý jednatel zastupuje společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2017-01-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-01-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23302739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Nová Ulice</are:castObce>
+      <are:ulice>Boženy Němcové</are:ulice>
+      <are:cisloPop>146</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BRONISLAV</are:jmeno>
+     <are:prijmeni>OTÁHAL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-01-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:psc>83062</are:psc>
+      <are:obec>Doněck</are:obec>
+      <are:ulice>Kujbyševa 3/34</are:ulice>
+     </are:adresa>
+     <are:jmeno>OLEKSANDR</are:jmeno>
+     <are:prijmeni>PETROCHENKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2017-01-23">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2017-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23302739</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Nová Ulice</are:castObce>
+      <are:ulice>Boženy Němcové</are:ulice>
+      <are:cisloPop>146</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BRONISLAV</are:jmeno>
+     <are:prijmeni>OTÁHAL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:psc>83062</are:psc>
+      <are:obec>Doněck</are:obec>
+      <are:ulice>Kujbyševa 3/34</are:ulice>
+     </are:adresa>
+     <are:jmeno>OLEKSANDR</are:jmeno>
+     <are:prijmeni>PETROCHENKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

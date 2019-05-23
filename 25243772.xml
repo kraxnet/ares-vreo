@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T16:32:40"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>16:32:40</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25243772</are:ICO>
+   <are:ObchodniFirma>MAVEX PIG, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>20896905</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>35002</are:psc>
+    <are:obec>Cheb</are:obec>
+    <are:ulice>Májová</are:ulice>
+    <are:cisloTxt>606/35</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-03-28</are:DatumZapisu>
+   <are:DatumVymazu>2014-04-10</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zemědělská výroba včetně prodeje nezpracovaných zemědělských výrobků za účelem jejich zpracování nebo dalšího prodeje
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-03-28" dvy="2014-04-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-03-28" dvy="2008-02-13">
+    <are:Text>
+Způsob jednání:
+Společnost ve všech věcech zastupují jednatelé samostatně.
+Podepisování se provádí tak, že k napsanému nebo vytištěnému
+obchodnímu jménu společnosti připojí svůj podpis dva jednatelé
+s uvedením jména a funkce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2008-02-13" dvy="2014-04-10">
+    <are:Text>
+Způsob jednání:
+Jménem společnosti jednají ohledně úkonů, jejichž předmětem je částka nepřesahující 250.000,-- Kč, vždy dva jednatelé společně.
+Ohledně úkonů, jejichž předmětem je částka přesahující 250.000,-- Kč, jedná jménem společnosti vždy jednatel Ing. Jan Trpák společně s některým z dalších jednatelů.
+Ohledně ostatních úkonů jednají jménem společnosti vždy dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-03-28" dvy="2004-03-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20911921</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Cheb</are:okres>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Tylova</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Trpák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-28" dvy="2004-03-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20846452</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Cheb</are:okres>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Beer</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-03-28" dvy="2014-04-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2000-03-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20846380</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Cheb</are:okres>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloTxt>37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Přemysl</are:jmeno>
+     <are:prijmeni>Novák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-03-16" dvy="2013-09-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2000-03-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26602075</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloTxt>301/63</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Trpák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-03-16" dvy="2014-04-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2000-03-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26555247</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloTxt>299/59</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Beer</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-01-29" dvy="2014-04-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26696479</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloTxt>300/61</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Skalický</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-01-29" dvy="2014-04-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-01-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12975982</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35101</are:psc>
+      <are:obec>Františkovy Lázně</are:obec>
+      <are:castObce>Slatina</are:castObce>
+      <are:ulice>Lesní</are:ulice>
+      <are:cisloTxt>87/22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Stolarik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-04" dvy="2014-04-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2000-03-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26602075</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:castObce>Háje</are:castObce>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloPop>301</are:cisloPop>
+      <are:cisloOr>63</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>TRPÁK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-09-02" dvy="2014-04-10">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2013-09-02" dvy="2014-04-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26602075</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:castObce>Háje</are:castObce>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloPop>301</are:cisloPop>
+      <are:cisloOr>63</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>TRPÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-03-28" dvy="2014-04-10">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2004-03-16" dvy="2014-04-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26555247</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloTxt>299/59</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Beer</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-03-16" dvy="2014-04-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20846380</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Cheb</are:okres>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloTxt>37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Přemysl</are:jmeno>
+     <are:prijmeni>Novák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-03-16" dvy="2014-04-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26696479</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloTxt>300/61</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Skalický</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-03-16" dvy="2014-04-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12975982</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Františkovy Lázně</are:obec>
+      <are:ulice>Lesní</are:ulice>
+      <are:cisloTxt>22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Stolarik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-04" dvy="2014-04-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26602075</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35002</are:psc>
+      <are:obec>Cheb</are:obec>
+      <are:castObce>Háje</are:castObce>
+      <are:ulice>Šumavská</are:ulice>
+      <are:cisloPop>301</are:cisloPop>
+      <are:cisloOr>63</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>TRPÁK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

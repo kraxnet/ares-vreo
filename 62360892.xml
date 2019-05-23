@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T04:56:34"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>04:56:34</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>62360892</are:ICO>
+   <are:ObchodniFirma>Schlimbach s.r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:psc>78374</are:psc>
+    <are:obec>Charváty</are:obec>
+    <are:ulice>Drahlov</are:ulice>
+    <are:cisloTxt>166</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-03-06</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+vedení účetnictví
+     </are:Text>
+     <are:Text>
+mlynářství
+     </are:Text>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-03-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-03-06" dvy="1999-12-08">
+    <are:Text>
+Způsob jednání za společnost:
+Každý z jednatelů jedná za společnost samostatně. Pouze v uvede-
+ných věcech jednají oba jednatelé společně:
+a) prodej a nákup nemovitostí za cenu nad 300.000,- Kč
+b) poskytování či převzetí půjček a úvěrů nad 300.000,- Kč
+c) prodej a nákup věcí movitých nad 300.000,- Kč
+d) sjednání obchodů v hodnotě vyšší než 300.000,- Kč
+e) uzavírávní smluv s předmětem vyšším než 300.000,- Kč.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1999-12-08">
+    <are:Text>
+Jednání za společnost: Za společnost jedná jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-03-06" dvy="1999-12-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23318244</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Fischerova</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Schlimbachová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-03-06" dvy="2011-12-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23318244</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Fischerova</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Schlimbach</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-13" dvy="2012-05-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23318244</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Nové Sady</are:castObce>
+      <are:ulice>Fischerova</are:ulice>
+      <are:cisloPop>707</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Schlimbach</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-05-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1995-03-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23318244</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Nové Sady</are:castObce>
+      <are:ulice>Fischerova</are:ulice>
+      <are:cisloPop>707</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Schlimbach</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-10-09">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2009-10-09" dvy="2012-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23306416</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Nová Ulice</are:castObce>
+      <are:ulice>Wellnerova</are:ulice>
+      <are:cisloTxt>558/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Schlimbach</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-05-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23318244</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Nové Sady</are:castObce>
+      <are:ulice>Fischerova</are:ulice>
+      <are:cisloPop>707</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Schlimbach</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-03-06">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2017-07-06">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>78374</are:psc>
+      <are:obec>Charváty</are:obec>
+      <are:ulice>Drahlov</are:ulice>
+      <are:cisloTxt>166</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>62360892</are:ICO>
+     <are:ObchodniFirma>Schlimbach s.r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

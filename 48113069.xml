@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-12T11:41:14"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-12</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-12</are:Datum_vypisu>
+   <are:Cas_vypisu>11:41:14</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48113069</are:ICO>
+   <are:ObchodniFirma>FLIRT s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22394931</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>18000</are:psc>
+    <are:okres>Praha 8</are:okres>
+    <are:obec>Praha 8</are:obec>
+    <are:ulice>Střížkovská</are:ulice>
+    <are:cisloTxt>8/9</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-01-08</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+-koupě zboží za účelem jeho dalšího prodeje a prodej s výjimkou
+činností uvedených v přílohách zákona č. 455/91 Sb.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-01-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-01-08" dvy="1998-10-20">
+    <are:Text>
+Způsob jednání jménem společnosti: Společnost zastupují a za
+společnost se podepisují oba jednatelé, každý samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1998-10-20">
+    <are:Text>
+Společnost zastupuje a za společnost podepisuje jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-01-08" dvy="1998-10-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Bohuslavova</are:ulice>
+      <are:cisloTxt>36</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Aleš</are:jmeno>
+     <are:prijmeni>Žatecký</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-01-08" dvy="1998-10-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22621725</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Sečská</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Dvorský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22543007</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Na břehu</are:ulice>
+      <are:cisloTxt>297/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kateřina</are:jmeno>
+     <are:prijmeni>Vojířová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-01-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1998-10-20">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Na Hřebenech</are:ulice>
+      <are:cisloTxt>II/1062</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>25143956</are:ICO>
+     <are:ObchodniFirma>JOKA Agentura, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

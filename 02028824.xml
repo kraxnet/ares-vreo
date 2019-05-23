@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T20:30:12"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>20:30:12</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>02028824</are:ICO>
+   <are:ObchodniFirma>TACHGEO s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>25769731</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Letňany</are:castObce>
+    <are:mop>Praha 9</are:mop>
+    <are:ulice>Chotěšovská</are:ulice>
+    <are:cisloPop>680</are:cisloPop>
+    <are:cisloOr>1</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2013-08-27</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+oceňování majetku pro věci nemovité
+     </are:Text>
+     <are:Text>
+výkon zeměměřických činností
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2013-08-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2013-08-27" dvy="2014-04-16">
+    <are:Text>
+Jménem společnosti jedná každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-04-16">
+    <are:Text>
+Každý jednatel zastupuje společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2013-08-27" dvy="2017-08-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-08-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26527707</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34813</are:psc>
+      <are:obec>Chodová Planá</are:obec>
+      <are:castObce>Michalovy Hory</are:castObce>
+      <are:cisloPop>165</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>ANSL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-27" dvy="2017-08-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-08-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15656063</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34815</are:psc>
+      <are:obec>Planá</are:obec>
+      <are:castObce>Planá</are:castObce>
+      <are:ulice>Bezejmenná</are:ulice>
+      <are:cisloPop>547</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>BELDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-08-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-08-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>76056147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34701</are:psc>
+      <are:okres>Tachov</are:okres>
+      <are:obec>Tachov</are:obec>
+      <are:castObce>Vítkov</are:castObce>
+      <are:cisloPop>124</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>ANSL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-08-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-08-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20869355</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35301</are:psc>
+      <are:okres>Cheb</are:okres>
+      <are:obec>Mariánské Lázně</are:obec>
+      <are:castObce>Úšovice</are:castObce>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloPop>417</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>BELDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2013-08-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2017-08-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>76056147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34701</are:psc>
+      <are:okres>Tachov</are:okres>
+      <are:obec>Tachov</are:obec>
+      <are:castObce>Vítkov</are:castObce>
+      <are:cisloPop>124</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>ANSL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-08-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20869355</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35301</are:psc>
+      <are:okres>Cheb</are:okres>
+      <are:obec>Mariánské Lázně</are:obec>
+      <are:castObce>Úšovice</are:castObce>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloPop>417</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>BELDA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

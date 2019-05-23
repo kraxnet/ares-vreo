@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T04:19:01"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>04:19:01</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26484595</are:ICO>
+   <are:ObchodniFirma>SUNZET s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21943095</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Nusle</are:castObce>
+    <are:ulice>Vladimírova</are:ulice>
+    <are:cisloTxt>5/289</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-10-17</are:DatumZapisu>
+   <are:DatumVymazu>2012-08-22</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-10-17" dvy="2012-08-22">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-10-17" dvy="2012-08-22">
+    <are:Text>
+Způsob jednání za společnost: Statutárním orgánem společnosti je
+jeden nebo více jednatelů. Je-li jednatelů více, je oprávněn
+jednat jménem společnosti každý z nich samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2001-10-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22244158</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Plzeňská</are:ulice>
+      <are:cisloTxt>78/326</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Kharchenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2010-05-10" dvy="2012-08-22">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2010-05-10" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21732850</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:ulice>Hálkova</are:ulice>
+      <are:cisloPop>1612</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Horák</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-10-17" dvy="2012-08-22">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska</are:obec>
+      <are:castObce>Zadačivskyy, Zuravno</are:castObce>
+      <are:ulice>ul. Ivasyuka</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vitaliy</are:jmeno>
+     <are:prijmeni>Lytvynyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Rivnenska obl.</are:obec>
+      <are:castObce>Zdolbvnivskyy, Ilpin</are:castObce>
+      <are:ulice>ul. Hoholya</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Dedukh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Rivnenska obl.</are:obec>
+      <are:castObce>Zdolbvnivskyy, Ilpin</are:castObce>
+      <are:ulice>ul. Hoholya</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ihor</are:jmeno>
+     <are:prijmeni>Yakubchyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankovska</are:obec>
+      <are:castObce>Kolomyya</are:castObce>
+      <are:ulice>Lysenka</are:ulice>
+      <are:cisloTxt>6/19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Sergiy</are:jmeno>
+     <are:prijmeni>Yasyukevych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Nincesti</are:obec>
+      <are:ulice>Sarata Galbeva</are:ulice>
+     </are:adresa>
+     <are:jmeno>Grigore</are:jmeno>
+     <are:prijmeni>Tabur</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankovska</are:obec>
+      <are:castObce>Tysmenetskyy</are:castObce>
+      <are:ulice>Bratkivci</are:ulice>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Danylets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Singerei</are:obec>
+      <are:ulice>Galea Petti</are:ulice>
+      <are:cisloTxt>12/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Igor</are:jmeno>
+     <are:prijmeni>Galeas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Floresti</are:obec>
+      <are:ulice>Bahrynešty</are:ulice>
+     </are:adresa>
+     <are:jmeno>Lilian</are:jmeno>
+     <are:prijmeni>Plugaru</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Floresti</are:obec>
+      <are:ulice>Bulvar Viktoriya</are:ulice>
+      <are:cisloTxt>44/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alexandru</are:jmeno>
+     <are:prijmeni>Gulceac</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:ulice>ul. Rozy Lyuksemburh</are:ulice>
+      <are:cisloTxt>45/41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Serghei</are:jmeno>
+     <are:prijmeni>Topalov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Hincesti</are:obec>
+      <are:ulice>Sarata-Galbena</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vasile</are:jmeno>
+     <are:prijmeni>Rambu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankovska</are:obec>
+      <are:castObce>Kolomyya</are:castObce>
+      <are:ulice>ul. Dovbuša</are:ulice>
+      <are:cisloTxt>117/69</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anatoliy</are:jmeno>
+     <are:prijmeni>Maksymyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Hincesti</are:obec>
+     </are:adresa>
+     <are:jmeno>Gheorghe</are:jmeno>
+     <are:prijmeni>Botnariuc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Luhanska</are:obec>
+      <are:castObce>Pelevalsk</are:castObce>
+      <are:ulice>ul. Haharina</are:ulice>
+      <are:cisloTxt>9/14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Lytvynenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Odeska</are:obec>
+      <are:castObce>Kyliya</are:castObce>
+      <are:ulice>ul. Izmailska</are:ulice>
+      <are:cisloTxt>65/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleg</are:jmeno>
+     <are:prijmeni>Gomanov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Chisinau</are:obec>
+      <are:ulice>ul. Kanulskaye</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vitali</are:jmeno>
+     <are:prijmeni>Gavriliuc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Hincesti</are:obec>
+      <are:ulice>Sarata-Galbena</are:ulice>
+     </are:adresa>
+     <are:jmeno>Dumitru</are:jmeno>
+     <are:prijmeni>Ostapcius</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Camenca</are:obec>
+      <are:ulice>Podoimita</are:ulice>
+     </are:adresa>
+     <are:jmeno>Andrei</are:jmeno>
+     <are:prijmeni>Stelea</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Camenca</are:obec>
+      <are:ulice>Podoima</are:ulice>
+     </are:adresa>
+     <are:jmeno>Nicolae</are:jmeno>
+     <are:prijmeni>Calutchi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Poltavska</are:obec>
+      <are:castObce>Chorol</are:castObce>
+      <are:ulice>Sevchenka</are:ulice>
+      <are:cisloTxt>38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Gorbatyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:ulice>ul. Hlavana</are:ulice>
+      <are:cisloTxt>35/21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Veaceslav</are:jmeno>
+     <are:prijmeni>Groza</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Glodeni</are:obec>
+      <are:castObce>Belcy</are:castObce>
+      <are:ulice>ul. A.Russo</are:ulice>
+      <are:cisloTxt>12/26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mura</are:jmeno>
+     <are:prijmeni>Mihail</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:ulice>ul. Ostrovschii</are:ulice>
+      <are:cisloTxt>46/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Liviu</are:jmeno>
+     <are:prijmeni>Zagornean</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Camenca</are:obec>
+      <are:ulice>Senatovca</are:ulice>
+     </are:adresa>
+     <are:jmeno>Elena</are:jmeno>
+     <are:prijmeni>Spinache</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Ocnita</are:obec>
+      <are:castObce>Frunze</are:castObce>
+      <are:ulice>ul. Cotovschii</are:ulice>
+      <are:cisloTxt>16/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalia</are:jmeno>
+     <are:prijmeni>Uleatovscaia</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Ocnita</are:obec>
+      <are:castObce>Frunze</are:castObce>
+      <are:ulice>ul. Cotovschii</are:ulice>
+      <are:cisloTxt>11/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Irina</are:jmeno>
+     <are:prijmeni>Voitenco</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:castObce>Salticova</are:castObce>
+      <are:ulice>ul. Sedrina</are:ulice>
+      <are:cisloTxt>46/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Serghei</are:jmeno>
+     <are:prijmeni>Policarpov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:ulice>ul. Bulgara</are:ulice>
+      <are:cisloTxt>55/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nadejda</are:jmeno>
+     <are:prijmeni>Palataicova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Telenesti</are:obec>
+      <are:ulice>ul. 2 Decembrie</are:ulice>
+      <are:cisloTxt>12/33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Sergiu</are:jmeno>
+     <are:prijmeni>Purice</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Telenesti</are:obec>
+      <are:castObce>Brinzenii</are:castObce>
+      <are:ulice>Noi</are:ulice>
+     </are:adresa>
+     <are:jmeno>Alexandr</are:jmeno>
+     <are:prijmeni>Sirbu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Telenesti</are:obec>
+      <are:ulice>ul. Cojbus</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alexandru</are:jmeno>
+     <are:prijmeni>Lazo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Telensti</are:obec>
+      <are:ulice>ul. 2 Decembrie</are:ulice>
+      <are:cisloTxt>12/28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasile</are:jmeno>
+     <are:prijmeni>Lefter</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Straseni</are:obec>
+      <are:ulice>Truseni</are:ulice>
+     </are:adresa>
+     <are:jmeno>Ana</are:jmeno>
+     <are:prijmeni>Madan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Ocnita</are:obec>
+      <are:ulice>ul. Alexandru Celbun</are:ulice>
+      <are:cisloTxt>10/18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tatiana</are:jmeno>
+     <are:prijmeni>Iavorschi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Riscani</are:obec>
+      <are:ulice>Grinauti</are:ulice>
+     </are:adresa>
+     <are:jmeno>Valeriu</are:jmeno>
+     <are:prijmeni>Frecautan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Ocnita</are:obec>
+      <are:castObce>Frunze</are:castObce>
+      <are:ulice>nam. Cotovschii</are:ulice>
+      <are:cisloTxt>11/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oxana</are:jmeno>
+     <are:prijmeni>Gurali</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:ulice>Str. Pirogov</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tatiana</are:jmeno>
+     <are:prijmeni>Crotova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Singerei</are:obec>
+      <are:ulice>Bilicenii Vechi</are:ulice>
+     </are:adresa>
+     <are:jmeno>Veaceslav</are:jmeno>
+     <are:prijmeni>Bordeianu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Hlodyanskyy</are:obec>
+      <are:ulice>Chuchulya</are:ulice>
+     </are:adresa>
+     <are:jmeno>Nadejda</are:jmeno>
+     <are:prijmeni>Pinzari</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:ulice>ul. Mazinovschi</are:ulice>
+      <are:cisloTxt>3/20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Maxim</are:jmeno>
+     <are:prijmeni>Tatarinov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:ulice>ul. Stepan Cel Mare</are:ulice>
+      <are:cisloTxt>112</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Ciumacova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:ulice>Čechova</are:ulice>
+      <are:cisloTxt>80/69</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iurie</are:jmeno>
+     <are:prijmeni>Scobelev</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:ulice>ul. Mitropolitul Dosofteji</are:ulice>
+      <are:cisloTxt>53/16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Reghina</are:jmeno>
+     <are:prijmeni>Misina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Belcy</are:obec>
+      <are:ulice>ul. Bilinskoho</are:ulice>
+      <are:cisloTxt>6/16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svetlana</are:jmeno>
+     <are:prijmeni>Statnic</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Soroca</are:obec>
+      <are:ulice>ul. Hribova</are:ulice>
+      <are:cisloTxt>24</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vera</are:jmeno>
+     <are:prijmeni>Bratanova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Soroca</are:obec>
+      <are:ulice>ul. Pobedy</are:ulice>
+      <are:cisloTxt>66</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ana</are:jmeno>
+     <are:prijmeni>Samarin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Hincesti</are:obec>
+      <are:ulice>Sarata-Galbene</are:ulice>
+     </are:adresa>
+     <are:jmeno>Stefan</are:jmeno>
+     <are:prijmeni>Taras</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Hincesti</are:obec>
+      <are:ulice>Caracui</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vasile</are:jmeno>
+     <are:prijmeni>Tronciu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-10-17" dvy="2012-08-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22244158</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Plzeňská</are:ulice>
+      <are:cisloTxt>78/326</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Kharchenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

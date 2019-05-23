@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-07-15T12:24:54"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-07-15</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-07-15</are:Datum_vypisu>
+   <are:Cas_vypisu>12:24:54</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>47538988</are:ICO>
+   <are:ObchodniFirma>ECO TOYS s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23006251</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>26101</are:psc>
+    <are:okres>Příbram</are:okres>
+    <are:obec>Příbram</are:obec>
+    <are:castObce>Příbram V-Zdaboř</are:castObce>
+    <are:ulice>Táborská</are:ulice>
+    <are:cisloPop>205</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-03-17</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba hraček všeho druhu v rámci živnosti volné
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej v rámci
+živnosti volné
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-03-17">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-03-17">
+    <are:Text>
+Jménem obchodní společnosti je oprávněn jednat a podepisovat
+jednatel v plném rozsahu tak, že k obchodnímu jménu společnosti
+připojí svůj podpis jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-03-17" dvy="2001-06-22">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>1997-11-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Příbram VII</are:obec>
+      <are:ulice>Mariánská ul.</are:ulice>
+      <are:cisloTxt>171</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Maňhal</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2006-08-04">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2006-08-04" dvy="2016-10-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22369180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Rajmonova</are:ulice>
+      <are:cisloTxt>1194/5</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Jaroslava Abrahámová, daňová poradkyně</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22369180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kobylisy</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Rajmonova</are:ulice>
+      <are:cisloPop>1194</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAVA</are:jmeno>
+     <are:prijmeni>ABRAHÁMOVÁ</are:prijmeni>
+     <are:titulZa>daňová poradkyně</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-03-17">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1993-03-17">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>W-8431 Segenthal</are:obec>
+      <are:ulice>Auf der Lűss 21</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>HU Holding GmbH</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T04:04:12"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>04:04:12</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26457580</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu Pod lipami 340, Praha 3</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21770221</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>13000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Žižkov</are:castObce>
+    <are:mop>Praha 3</are:mop>
+    <are:ulice>Pod lipami</are:ulice>
+    <are:cisloPop>340</are:cisloPop>
+    <are:cisloOr>52a</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2001-05-31</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa, provoz a opravy společných částí domu č.p. 340 v Praze
+3, ul. Pod lipami
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-05-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-05-31" dvy="2003-12-22">
+    <are:Text>
+Za společenství jedná pověřený vlastník tak, že k vytištěnému
+nebo vypsanému názvu připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2003-12-22">
+    <are:Text>
+Za výbor jedná navenek jeho předseda nebo pověřený člen výboru. Jde-li o písemný právní úkon, musí být podepsán alespoň dvěma členy výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-05-31" dvy="2003-12-22">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+     <are:zanikFunkce>2003-08-07</are:zanikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21775338</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Seifertova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>17048869</are:ICO>
+     <are:ObchodniFirma>Pražská správa nemovitostí, spol.s  r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-22" dvy="2006-01-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-09-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2003-09-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Pod Lipami</are:ulice>
+      <are:cisloTxt>340/52A</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Vizing</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-22" dvy="2013-09-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-09-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Pod Lipami</are:ulice>
+      <are:cisloTxt>340/52A</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Andělová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-22" dvy="2016-12-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-09-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2003-09-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Pod Lipami</are:ulice>
+      <are:cisloTxt>340/52A</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Zahurančík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-01-10" dvy="2013-09-11">
+    <are:clenstvi>
+     <are:zanikClenstvi>2013-06-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2005-12-28</are:vznikFunkce>
+     <are:zanikFunkce>2013-06-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Pod Lipami</are:ulice>
+      <are:cisloTxt>340/52A</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zuzana</are:jmeno>
+     <are:prijmeni>Motyčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-11" dvy="2016-09-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-09-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2013-06-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Pod lipami</are:ulice>
+      <are:cisloPop>340</are:cisloPop>
+      <are:cisloOr>52a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HELENA</are:jmeno>
+     <are:prijmeni>ANDĚLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-11" dvy="2016-09-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-06-18</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-09-22</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:zanikFunkce>2016-09-22</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Pod lipami</are:ulice>
+      <are:cisloPop>340</are:cisloPop>
+      <are:cisloOr>52a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RENÁTA</are:jmeno>
+     <are:prijmeni>KOSMÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-07" dvy="2016-09-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-09-08</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-09-22</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2013-06-27</are:vznikFunkce>
+     <are:zanikFunkce>2016-09-22</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28122321</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25087</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Mochov</are:obec>
+      <are:castObce>Mochov</are:castObce>
+      <are:ulice>U Výmoly</are:ulice>
+      <are:cisloPop>366</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>HELENA</are:jmeno>
+     <are:prijmeni>ANDĚLOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2016-07-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Pod lipami</are:ulice>
+      <are:cisloPop>340</are:cisloPop>
+      <are:cisloOr>52a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RENÁTA</are:jmeno>
+     <are:prijmeni>KOSMÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-22" dvy="2017-11-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-06-07</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Pod lipami</are:ulice>
+      <are:cisloPop>340</are:cisloPop>
+      <are:cisloOr>52a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>VACHOVCOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-09-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2003-09-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Pod lipami</are:ulice>
+      <are:cisloPop>340</are:cisloPop>
+      <are:cisloOr>52a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>ZAHURANČÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-06-07</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21770221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Pod lipami</are:ulice>
+      <are:cisloPop>340</are:cisloPop>
+      <are:cisloOr>52a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>ALINGER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>04:04:12</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26457580</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek domu Pod lipami 340, Praha 3</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21770221</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>13000</are:psc>
+    <are:okres>Praha 3</are:okres>
+    <are:obec>Praha 3</are:obec>
+    <are:ulice>Pod lipami</are:ulice>
+    <are:cisloTxt>340</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-05-31</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa, provoz a opravy společných částí domu č.p. 340 v Praze
+3, ul. Pod lipami
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-05-31" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-05-31" dvy="2001-12-31">
+    <are:Text>
+Za společenství jedná pověřený vlastník tak, že k vytištěnému
+nebo vypsanému názvu připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-05-31" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>pověřený vlastník</are:nazev>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21775338</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Seifertova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>17048869</are:ICO>
+     <are:ObchodniFirma>Pražská správa nemovitostí, spol.s  r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

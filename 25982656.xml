@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T23:33:20"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>23:33:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25982656</are:ICO>
+   <are:ObchodniFirma>BIRDIE RESTAURANT s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>7693893</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>53002</are:psc>
+    <are:obec>Pardubice</are:obec>
+    <are:ulice>Hlaváčova</are:ulice>
+    <are:cisloTxt>392</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-02-14</are:DatumZapisu>
+   <are:DatumVymazu>2005-05-03</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Hostinská činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-02-14" dvy="2005-05-03">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-02-14" dvy="2005-05-03">
+    <are:Text>
+Způsob jednání jménem právnické osoby:
+Každý z jednatelů jménem společnosti samostatně jedná.
+Jednatelská oprávnění se omezují tak, že ke všem jednáním jménem
+společnosti a k realizaci obchodů společnosti s finančním
+objemem nad 100.000,- Kč (slovy stotisíc korun českých) je třeba
+souhlasu obou jednatelů. Souhlas bude realizován buď tak, že
+jeden z jednatelů svůj souhlas předem písemně potvrdí nebo tento
+příslušný dokument podepíší oba jednatelé.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-02-14" dvy="2005-05-03">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2003-02-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7709838</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>Teplého</are:ulice>
+      <are:cisloTxt>čp. 2116</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Daniel</are:jmeno>
+     <are:prijmeni>Sajfert</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-14" dvy="2005-05-03">
+    <are:funkce>
+     <are:vznikFunkce>2003-02-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7709285</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>Sladkovského</are:ulice>
+      <are:cisloTxt>čp. 2058</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Bartoška</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-02-14" dvy="2005-05-03">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2003-02-14" dvy="2005-05-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7709838</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>Teplého</are:ulice>
+      <are:cisloTxt>čp. 2116</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Daniel</are:jmeno>
+     <are:prijmeni>Sajfert</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-02-14" dvy="2005-05-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7709285</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53002</are:psc>
+      <are:obec>Pardubice</are:obec>
+      <are:castObce>Zelené Předměstí</are:castObce>
+      <are:ulice>Sladkovského</are:ulice>
+      <are:cisloTxt>čp. 2058</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Bartoška</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

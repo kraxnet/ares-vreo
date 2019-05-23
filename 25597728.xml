@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T19:53:52"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>19:53:52</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25597728</are:ICO>
+   <are:ObchodniFirma>AGENTURA AIDA společnost s ručením omezeným, v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>19591462</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>61600</are:psc>
+    <are:obec>Brno</are:obec>
+    <are:castObce>Žabovřesky</are:castObce>
+    <are:ulice>Chládkova</are:ulice>
+    <are:cisloPop>1517</are:cisloPop>
+    <are:cisloOr>15</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-04-28</are:DatumZapisu>
+   <are:DatumVymazu>2015-08-06</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+ukončení likvidace pro nedostatek majetku společnosti
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-04-28" dvy="2015-08-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-04-28" dvy="2015-08-06">
+    <are:Text>
+Způsob zastupování: za společnost jedná a podepisuje jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-04-28" dvy="2001-06-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19591462</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Chládkova</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ing.arch. Václav M. Havlík, r.č. 491106/181</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-04-28" dvy="2015-08-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19578792</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Mezníkova</are:ulice>
+      <are:cisloTxt>38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Patrik</are:jmeno>
+     <are:prijmeni>Nentvich</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-22" dvy="2014-08-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2013-04-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19575246</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Horova</are:ulice>
+      <are:cisloTxt>54</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Fryč</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2014-08-26" dvy="2015-08-06">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2014-08-26" dvy="2015-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19602413</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Žabovřesky</are:castObce>
+      <are:ulice>Záhřebská</are:ulice>
+      <are:cisloPop>2498</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>FRYČ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-04-28" dvy="2015-08-06">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2001-06-22" dvy="2015-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19591462</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Chládkova</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ing.arch. Václav M. Havlík, r.č. 491106/181</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-22" dvy="2015-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19258127</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Arbesova</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Maxmilián</are:jmeno>
+     <are:prijmeni>Wittmann</are:prijmeni>
+     <are:titulPred>Ing.arch.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-22" dvy="2015-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19578792</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Mezníkova</are:ulice>
+      <are:cisloTxt>38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Patrik</are:jmeno>
+     <are:prijmeni>Nentvich</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-22" dvy="2015-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15233642</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>67801</are:psc>
+      <are:obec>Blansko</are:obec>
+      <are:ulice>nám.Míru</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Petr J. Drahovzal, r.č. 720212/3797</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-08-28" dvy="2015-08-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19602413</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Žabovřesky</are:castObce>
+      <are:ulice>Záhřebská</are:ulice>
+      <are:cisloPop>2498</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>FRYČ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

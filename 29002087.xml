@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-02-07T12:34:53"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-02-07</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-07</are:Datum_vypisu>
+   <are:Cas_vypisu>12:34:54</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>29002087</are:ICO>
+   <are:ObchodniFirma>KARAKUHES s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>27318206</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14900</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Michle</are:castObce>
+    <are:ulice>Tigridova</are:ulice>
+    <are:cisloTxt>1501/6</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2009-12-03</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2009-12-03">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2009-12-03">
+    <are:Text>
+Každý jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2009-12-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22543198</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Vysočany</are:castObce>
+      <are:ulice>U Vinných sklepů</are:ulice>
+      <are:cisloTxt>317/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viktor</are:jmeno>
+     <are:prijmeni>Babinetskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ruske-pole, Tyačivskyy obec, Zakarpatská oblast, Lazivska 123</are:text>
+     </are:adresa>
+     <are:jmeno>Galyna</are:jmeno>
+     <are:prijmeni>Agii</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22388281</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:ulice>Kandertova</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Yurychko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21728194</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Karlovo nám.</are:ulice>
+      <are:cisloTxt>292/15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Matsola</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21214212</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29301</are:psc>
+      <are:obec>Mladá Boleslav</are:obec>
+      <are:ulice>Bezděčín</are:ulice>
+      <are:cisloTxt>34</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Maria</are:jmeno>
+     <are:prijmeni>Rata</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:funkce>
+     <are:vznikFunkce>2009-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zolotarevo, Čeretovy, Chustsky obec, Zakarpatska oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Anton</are:jmeno>
+     <are:prijmeni>Roman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22591460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Malešice</are:castObce>
+      <are:ulice>Černokostelecká</are:ulice>
+      <are:cisloTxt>562/147</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Rodica</are:jmeno>
+     <are:prijmeni>Crudu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22591460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Malešice</are:castObce>
+      <are:ulice>Černokostelecká</are:ulice>
+      <are:cisloTxt>562/147</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vitalie</are:jmeno>
+     <are:prijmeni>Crudu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Glodeni</are:obec>
+     </are:adresa>
+     <are:jmeno>Veaceslav</are:jmeno>
+     <are:prijmeni>Rata</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-12-03</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21787093</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Viklefova</are:ulice>
+      <are:cisloTxt>1825/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Matsko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-04-15">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-04-15" dvy="2019-02-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21728194</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Karlovo náměstí</are:ulice>
+      <are:cisloPop>292</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>OLENA</are:jmeno>
+     <are:prijmeni>MATSOLA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-06">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>19582536</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Žabovřesky</are:castObce>
+      <are:ulice>Marie Steyskalové</are:ulice>
+      <are:cisloPop>767</are:cisloPop>
+      <are:cisloOr>62</are:cisloOr>
+     </are:adresa>
+     <are:ICO>72480645</are:ICO>
+     <are:ObchodniFirma>JUDr. Jaroslav Brož, MJur., advokátní kancelář</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2009-12-03">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2009-12-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22543198</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Vysočany</are:castObce>
+      <are:ulice>U Vinných sklepů</are:ulice>
+      <are:cisloTxt>317/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viktor</are:jmeno>
+     <are:prijmeni>Babinetskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Ruske-pole, Tyačivskyy obec, Zakarpatská oblast, Lazivska 123</are:text>
+     </are:adresa>
+     <are:jmeno>Galyna</are:jmeno>
+     <are:prijmeni>Agii</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22388281</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18000</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:castObce>Libeň</are:castObce>
+      <are:ulice>Kandertova</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Yurychko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21728194</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Karlovo nám.</are:ulice>
+      <are:cisloTxt>292/15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Matsola</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21214212</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29301</are:psc>
+      <are:obec>Mladá Boleslav</are:obec>
+      <are:ulice>Bezděčín</are:ulice>
+      <are:cisloTxt>34</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Maria</are:jmeno>
+     <are:prijmeni>Rata</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:text>Zolotarevo, Čeretovy, Chustsky obec, Zakarpatska oblast</are:text>
+     </are:adresa>
+     <are:jmeno>Anton</are:jmeno>
+     <are:prijmeni>Roman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22591460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Malešice</are:castObce>
+      <are:ulice>Černokostelecká</are:ulice>
+      <are:cisloTxt>562/147</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Rodica</are:jmeno>
+     <are:prijmeni>Crudu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22591460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Malešice</are:castObce>
+      <are:ulice>Černokostelecká</are:ulice>
+      <are:cisloTxt>562/147</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vitalie</are:jmeno>
+     <are:prijmeni>Crudu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>498</are:stat>
+      <are:obec>Glodeni</are:obec>
+     </are:adresa>
+     <are:jmeno>Veaceslav</are:jmeno>
+     <are:prijmeni>Rata</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21787093</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Viklefova</are:ulice>
+      <are:cisloTxt>1825/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Matsko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

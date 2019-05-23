@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-30T12:49:31"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-30</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-30</are:Datum_vypisu>
+   <are:Cas_vypisu>12:49:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>64575900</are:ICO>
+   <are:ObchodniFirma>SWISSHOUSE spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22712577</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>15800</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Stodůlky</are:castObce>
+    <are:mop>Praha 5</are:mop>
+    <are:ulice>Běhounkova</are:ulice>
+    <are:cisloPop>2344</are:cisloPop>
+    <are:cisloOr>27</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-11-20</are:DatumZapisu>
+   <are:DatumVymazu>2018-12-11</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se ke dni právní moci tohoto rozhodnutí z obchodního rejstříku, včetně všech zapsaných skutečností společnost SWISSHOUSE spol. s r.o., se sídlem Běhounkova 2344/27, Stodůlky, 158 00 Praha 5, IČ: 645 75 900
+Právním důvodem je zrušení konkursu na majetek úpadce, jelikož majetek podstaty nepostačuje k úhradě nákladů konkursu, a to Usnesením Městského soudu v Praze ze dne 13.6.2003 č.j. 90 K 12/2000-76, které nabylo právní moci dne 15.7.2003.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-11-20" dvy="2018-12-11">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-11-20" dvy="2018-12-11">
+    <are:Text>
+Jednatelé jsou oprávněni jednat jménem společnosti samostatně.
+Podepisování za společnost se děje tak, že jednatel k
+vytištěnému nebo jinak vyznačenému obchodnímu jménu společnosti
+připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-11-20" dvy="2018-12-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Zimova</are:ulice>
+      <are:cisloTxt>621/16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Željko</are:jmeno>
+     <are:prijmeni>Milanovič</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-11-20" dvy="2018-12-11">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-11-20" dvy="2018-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Běhounkova</are:ulice>
+      <are:cisloTxt>2355</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ljubomir</are:jmeno>
+     <are:prijmeni>Guzina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-11-20" dvy="2018-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Běhounkova</are:ulice>
+      <are:cisloTxt>2355</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nesha</are:jmeno>
+     <are:prijmeni>Druškic</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

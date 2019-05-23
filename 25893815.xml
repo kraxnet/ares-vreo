@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-02-28T14:58:19"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-02-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-02-28</are:Datum_vypisu>
+   <are:Cas_vypisu>14:58:19</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25893815</are:ICO>
+   <are:ObchodniFirma>Ladislav Poláček, organizační složka</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>14125455</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>73998</are:psc>
+    <are:okres>Frýdek-Místek</are:okres>
+    <are:obec>Hrčava</are:obec>
+    <are:castObce>Hrčava</are:castObce>
+    <are:cisloPop>6</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-12-05</are:DatumZapisu>
+   <are:DatumVymazu>2018-02-24</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Právní důvod výmazu:
+Odštěpný závod Ladislav Poláček, organizační složka, IČ 25893815, se vymazává z obchodního rejstříku, neboť zřizovatel  zahraniční osoba Ladislav Poláček, dat. nar. 21.6.1959, není zapsán v Obchodním rejstříku Slovenské republiky a dne 11.12.2017 došlo k
+zániku posledního živnostenského oprávnění k podnikatelské činnosti na území ČR.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-12-05" dvy="2018-02-24">
+   <are:Nazev>Vedoucí odštěpného závodu</are:Nazev>
+   <are:Clen dza="2001-12-05" dvy="2004-02-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>73998</are:psc>
+      <are:obec>Mosty u Jablunkova</are:obec>
+      <are:castObce>Hrčava</are:castObce>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Chadim</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-02-05" dvy="2017-12-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>73998</are:psc>
+      <are:obec>Mosty u Jablunkova</are:obec>
+      <are:castObce>Hrčava</are:castObce>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Poláček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-12-13" dvy="2018-02-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14125455</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73998</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Hrčava</are:obec>
+      <are:castObce>Hrčava</are:castObce>
+      <are:cisloPop>6</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>POLÁČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2001-12-05" dvy="2018-02-24">
+   <are:Nazev>Zřizovatel - zahraniční osoba</are:Nazev>
+   <are:Clen dza="2017-12-13" dvy="2018-02-24">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>02351</are:psc>
+      <are:obec>Raková</are:obec>
+      <are:cisloTxt>994</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>Ladislav Poláček, , dat. nar. 21.6.1959</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

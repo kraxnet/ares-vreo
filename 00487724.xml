@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:21:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:21:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00487724</are:ICO>
+   <are:ObchodniFirma>Samostatná drobná provozovna služeb</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Újezd u Brna</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-05-23</are:DatumZapisu>
+   <are:DatumVymazu>1990-09-26</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1.autoopravna
+2.technické služby
+3.plynoinstalace
+4.kamenictví
+5.stolařské práce
+6.zámečnické práce
+7.PSÚ-vodoinstalace, stavební práce
+8.parketářské a podlahářské práce
+9.nákladní doprava pro cizí dle povolení odboru dopravy ONV
+  Brno-venkov s vymezením doby platnosti od 4.prosince 1989
+     </are:Text>
+     <are:Text>
+do 31.prosince 1991
+10.prodej plynu
+11.kadeřnictví a holičství
+12.fotoslužba
+13.pohřební služba
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-05-23" dvy="1990-09-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="1990-05-23" dvy="1990-09-26">
+    <are:funkce>
+     <are:nazev>Vedoucí</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Moravany</are:obec>
+      <are:cisloTxt>208</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alois</are:jmeno>
+     <are:prijmeni>Křížek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-23" dvy="1990-09-26">
+    <are:funkce>
+     <are:nazev>Zástupce vedoucího</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>380792</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Milešovice</are:obec>
+      <are:cisloTxt>131</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Krčmářová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

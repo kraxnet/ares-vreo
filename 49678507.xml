@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-28T12:34:32"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:34:32</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>49678507</are:ICO>
+   <are:ObchodniFirma>Byty - Čelakovského sady, spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21743860</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Vinohrady</are:castObce>
+    <are:mop>Praha 2</are:mop>
+    <are:ulice>Čelakovského sady</are:ulice>
+    <are:cisloPop>434</are:cisloPop>
+    <are:cisloOr>8</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-06-30</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+nájem bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-06-30">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-07-18" dvy="2015-12-11">
+    <are:Text>
+Způsob jednání za společnost :
+Společnost zastupuje a za ni podepisuje jednatel, a to tak,
+že k napsanému nebo vytištěnému obchodnímu jménu společnosti
+připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-12-11">
+    <are:Text>
+Každý jednatel jedná za společnost samostatně. Podepisování za společnost se děje tak, že k vytištěné nebo vypsané obchodní firmě společnosti připojí jednatel svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-06-30" dvy="1995-07-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimil</are:jmeno>
+     <are:prijmeni>Kahoun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-06-30" dvy="1995-07-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gofroj</are:jmeno>
+     <are:prijmeni>Ivan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-07-18" dvy="2013-08-07">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloTxt>8/434</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Inna</are:jmeno>
+     <are:prijmeni>Kosová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-07-18" dvy="2014-06-05">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloTxt>8/434</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jarmila</are:jmeno>
+     <are:prijmeni>Gofrojová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-07">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloPop>434</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>INNA</are:jmeno>
+     <are:prijmeni>KOSOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-06-05">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloPop>434</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JARMILA</are:jmeno>
+     <are:prijmeni>GOFROJOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-06-30">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-08-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloPop>434</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>INNA</are:jmeno>
+     <are:prijmeni>KOSOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-08-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25210564</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25166</are:psc>
+      <are:obec>Hrusice</are:obec>
+      <are:castObce>Hrusice</are:castObce>
+      <are:cisloPop>177</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>IVANA</are:jmeno>
+     <are:prijmeni>KOVÁŘÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-07-13">
+   </are:Clen>
+   <are:Clen dza="2015-10-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloPop>434</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLASTIMIL</are:jmeno>
+     <are:prijmeni>KAHOUN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloPop>434</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JARMILA</are:jmeno>
+     <are:prijmeni>GOFROJOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloPop>434</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>NADĚŽDA</are:jmeno>
+     <are:prijmeni>HAMDANOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21743860</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Čelakovského sady</are:ulice>
+      <are:cisloPop>434</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>VÁVRA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22091491</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Smíchov</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Na Hřebenkách</are:ulice>
+      <are:cisloPop>1571</are:cisloPop>
+      <are:cisloOr>36</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>HOMOLKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21766797</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>V Horní Stromce</are:ulice>
+      <are:cisloPop>2403</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>KASAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21840041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Zdiměřická</are:ulice>
+      <are:cisloPop>1451</are:cisloPop>
+      <are:cisloOr>24</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>PODLESNÝ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6549535</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25229</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Dobřichovice</are:obec>
+      <are:castObce>Dobřichovice</are:castObce>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloPop>379</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DANIELA</are:jmeno>
+     <are:prijmeni>DUŠÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-04-04">
+   </are:Clen>
+   <are:Clen dza="2019-01-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22085874</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Smíchov</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Janáčkovo nábřeží</are:ulice>
+      <are:cisloPop>1075</are:cisloPop>
+      <are:cisloOr>27</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ONDŘEJ</are:jmeno>
+     <are:prijmeni>HAVLÍN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21757496</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Rejskova</are:ulice>
+      <are:cisloPop>2369</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>SAULICH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

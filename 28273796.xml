@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-06T14:16:22"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:16:22</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>ROPS</are:Rejstrik>
+   <are:ICO>28273796</are:ICO>
+   <are:ObchodniFirma>HYJÉ - koně Zlínského kraje, o.p.s., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4087801</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>76601</are:psc>
+    <are:obec>Křekov</are:obec>
+    <are:castObce>Křekov</are:castObce>
+    <are:cisloPop>20</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2008-03-12</are:DatumZapisu>
+   <are:DatumVymazu>2014-02-01</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koordinace činností v sektoru koní na území Zlínského kraje v zájmu rozvoje sektoru koní
+     </are:Text>
+     <are:Text>
+zajišťování informačního servisu všem členům o možných zdrojích financování rozvojových projektů
+     </are:Text>
+     <are:Text>
+propagace a prezentace členských subjektů působících v sektoru koní a sportovních a kulturních akcí spojených s koňmi
+     </are:Text>
+     <are:Text>
+pomoc s přípravou a koordinace rozvojových projektů na podporu sektoru koní na území Zlínského kraje
+     </are:Text>
+     <are:Text>
+příprava a administrace partnerských projektů s širokým dopadem do oblasti sektoru koní včetně činností zaměřených k získání dotací, grantů a jiných zdrojů financování těchto projektů
+     </are:Text>
+     <are:Text>
+dohled nad rozvojem služeb v sektoru koní, certifikace služeb
+     </are:Text>
+     <are:Text>
+rozvoj sítě hipotras
+     </are:Text>
+     <are:Text>
+rozvíjení vzdělávání členů Společnosti
+     </are:Text>
+     <are:Text>
+aktualizace databáze subjektů působících v sektoru koní
+     </are:Text>
+     <are:Text>
+poskytování obecně prospěšných služeb v oblasti výchovy a vzdělávání mládeže
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2011-04-21" dvy="2013-03-14">
+   <are:Nazev>Statutární orgán - ředitel</are:Nazev>
+   <are:Clen dza="2011-04-21" dvy="2013-03-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10301771</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76701</are:psc>
+      <are:obec>Kroměříž</are:obec>
+      <are:ulice>Postoupky</are:ulice>
+      <are:cisloPop>190</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Fatěnová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-04-15" dvy="2014-02-01">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2013-04-15" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4087801</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76601</are:psc>
+      <are:obec>Křekov</are:obec>
+      <are:castObce>Křekov</are:castObce>
+      <are:cisloPop>20</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>ŠOMANOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-03-12" dvy="2014-02-01">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16993802</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73014</are:psc>
+      <are:obec>Orlová</are:obec>
+      <are:castObce>Lutyně</are:castObce>
+      <are:ulice>F.S.Tůmy</are:ulice>
+      <are:cisloTxt>1213</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Urbánek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-03-30" dvy="2014-02-01">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2010-11-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4699980</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68722</are:psc>
+      <are:obec>Ostrožská Nová Ves</are:obec>
+      <are:ulice>Hřbitovní</are:ulice>
+      <are:cisloPop>537</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Kavka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-05-30" dvy="2014-02-01">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-04-09</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2008-04-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4087801</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76601</are:psc>
+      <are:obec>Křekov</are:obec>
+      <are:castObce>Křekov</are:castObce>
+      <are:cisloPop>20</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>ŠOMANOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2008-03-12" dvy="2014-02-01">
+   <are:Nazev>Správní rada</are:Nazev>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4082338</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76361</are:psc>
+      <are:obec>Napajedla</are:obec>
+      <are:ulice>Zámecká</are:ulice>
+      <are:cisloTxt>1387</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Černocký</are:prijmeni>
+     <are:titulPred>MVDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3993787</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76326</are:psc>
+      <are:obec>Pozlovice</are:obec>
+      <are:cisloTxt>374</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Koubek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-10-30" dvy="2014-02-01">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-04-09</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda správní rady</are:nazev>
+     <are:vznikFunkce>2008-04-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4821912</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68707</are:psc>
+      <are:obec>Tupesy</are:obec>
+      <are:cisloTxt>189</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Balaštík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-10-30" dvy="2014-02-01">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-10-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2008-10-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10211551</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76701</are:psc>
+      <are:obec>Bařice-Velké Těšany</are:obec>
+      <are:castObce>Velké Těšany</are:castObce>
+      <are:cisloTxt>42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Galatík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-13" dvy="2014-02-01">
+    <are:funkce>
+     <are:nazev>člen správní rady</are:nazev>
+     <are:vznikFunkce>2011-03-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25381687</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76861</are:psc>
+      <are:obec>Loukov</are:obec>
+      <are:castObce>Libosváry</are:castObce>
+      <are:cisloPop>82</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Rydval</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-13" dvy="2014-02-01">
+    <are:funkce>
+     <are:nazev>člen správní rady</are:nazev>
+     <are:vznikFunkce>2011-03-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25167570</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68604</are:psc>
+      <are:obec>Kunovice</are:obec>
+      <are:ulice>Na záhonech</are:ulice>
+      <are:cisloPop>571</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Stašek</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2008-03-12" dvy="2014-02-01">
+   <are:Nazev>Zakladatel</are:Nazev>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21614091</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75603</are:psc>
+      <are:obec>Halenkov</are:obec>
+      <are:cisloTxt>530</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Václavík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68706</are:psc>
+      <are:obec>Salaš</are:obec>
+      <are:cisloTxt>44</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Boris</are:jmeno>
+     <are:prijmeni>Grigorov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25381687</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76861</are:psc>
+      <are:obec>Loukov</are:obec>
+      <are:castObce>Libosváry</are:castObce>
+      <are:cisloTxt>82</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Rydval</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68605</are:psc>
+      <are:obec>Uherské Hradiště</are:obec>
+      <are:castObce>Mařatice</are:castObce>
+      <are:ulice>Fr. Kretce</are:ulice>
+      <are:cisloTxt>1100</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivana</are:jmeno>
+     <are:prijmeni>Urbánková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4844475</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68708</are:psc>
+      <are:obec>Buchlovice</are:obec>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloTxt>456</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Nevřiva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75606</are:psc>
+      <are:obec>Velké Karlovice</are:obec>
+      <are:ulice>Dostihová stáj</are:ulice>
+      <are:cisloTxt>959</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Holčák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10299149</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76871</are:psc>
+      <are:obec>Podhradní Lhota</are:obec>
+      <are:cisloTxt>172</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Novosad</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10211551</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76701</are:psc>
+      <are:obec>Bařice-Velké Těšany</are:obec>
+      <are:castObce>Velké Těšany</are:castObce>
+      <are:cisloTxt>42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Galatík</are:prijmeni>
+     <are:titulPred>Ing</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>10287191</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76821</are:psc>
+      <are:obec>Nová Dědina</are:obec>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00287555</are:ICO>
+     <are:ObchodniFirma>Obec Nová Dědina</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>4895151</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68712</are:psc>
+      <are:obec>Kněžpole</are:obec>
+      <are:cisloTxt>125</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00291013</are:ICO>
+     <are:ObchodniFirma>Obec Kněžpole</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>10269452</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76852</are:psc>
+      <are:obec>Ludslavice</are:obec>
+      <are:cisloTxt>31</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00287466</are:ICO>
+     <are:ObchodniFirma>Obec Ludslavice</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>17141290</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75627</are:psc>
+      <are:obec>Valašská Bystřice</are:obec>
+      <are:cisloTxt>316</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00304352</are:ICO>
+     <are:ObchodniFirma>Obec Valašská Bystřice</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>3905802</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76361</are:psc>
+      <are:obec>Pohořelice</are:obec>
+      <are:ulice>Školní</are:ulice>
+      <are:cisloTxt>35</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00568686</are:ICO>
+     <are:ObchodniFirma>Obec Pohořelice</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>4957032</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68604</are:psc>
+      <are:obec>Kunovice</are:obec>
+      <are:ulice>nám. Svobody</are:ulice>
+      <are:cisloTxt>361</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00567892</are:ICO>
+     <are:ObchodniFirma>Město Kunovice</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>3966780</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76315</are:psc>
+      <are:obec>Slušovice</are:obec>
+      <are:ulice>nám. Svobody</are:ulice>
+      <are:cisloTxt>25</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00284475</are:ICO>
+     <are:ObchodniFirma>Město Slušovice</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>3943186</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76312</are:psc>
+      <are:obec>Zádveřice-Raková</are:obec>
+      <are:castObce>Zádveřice</are:castObce>
+      <are:cisloTxt>399</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>00284718</are:ICO>
+     <are:ObchodniFirma>Obec Zádveřice-Raková</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>4800061</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68724</are:psc>
+      <are:obec>Uherský Ostroh</are:obec>
+      <are:ulice>Zámecká</are:ulice>
+      <are:cisloTxt>24</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>27016005</are:ICO>
+     <are:ObchodniFirma>Místní Akční Skupina Horňácko a Ostrožsko</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>25039920</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>75501</are:psc>
+      <are:obec>Vsetín</are:obec>
+      <are:ulice>Na Příkopě</are:ulice>
+      <are:cisloTxt>814</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>25825003</are:ICO>
+     <are:ObchodniFirma>K-Logistik, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>4075170</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76361</are:psc>
+      <are:obec>Napajedla</are:obec>
+      <are:ulice>Zámecká</are:ulice>
+      <are:cisloTxt>582</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>46347933</are:ICO>
+     <are:ObchodniFirma>Hřebčín Napajedla a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>3931340</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73662</are:psc>
+      <are:obec>Tlumačov</are:obec>
+      <are:ulice>Dolní</are:ulice>
+      <are:cisloTxt>115</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>13695673</are:ICO>
+     <are:ObchodniFirma>Zemský hřebčinec Tlumačov, státní podnik</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>2</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16017</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Praha 6</are:castObce>
+      <are:ulice>Zátopkova</are:ulice>
+      <are:cisloTxt>100/2</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>48549886</are:ICO>
+     <are:ObchodniFirma>Česká jezdecká federace, o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-12" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>3993787</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76326</are:psc>
+      <are:obec>Pozlovice</are:obec>
+      <are:cisloTxt>374</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>48528188</are:ICO>
+     <are:ObchodniFirma>AGRAMM, spol. s r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2010-09-22" dvy="2014-02-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>10362835</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76701</are:psc>
+      <are:obec>Kroměříž</are:obec>
+      <are:ulice>Chropyňská</are:ulice>
+      <are:cisloPop>1902</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:ICO>65270096</are:ICO>
+     <are:ObchodniFirma>Svaz chovatelů a příznivců moravského teplokrevníka, o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2011-05-03" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10250727</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76805</are:psc>
+      <are:obec>Koryčany</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloPop>569</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Kristýna</are:jmeno>
+     <are:prijmeni>Dolínková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-05-03" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10413570</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76901</are:psc>
+      <are:obec>Holešov</are:obec>
+      <are:ulice>Novosady</are:ulice>
+      <are:cisloPop>1496</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Martina</are:jmeno>
+     <are:prijmeni>Horáková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-22" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4699980</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68722</are:psc>
+      <are:obec>Ostrožská Nová Ves</are:obec>
+      <are:ulice>Hřbitovní</are:ulice>
+      <are:cisloTxt>537</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Kavka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-05-30" dvy="2014-02-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4087801</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76601</are:psc>
+      <are:obec>Křekov</are:obec>
+      <are:castObce>Křekov</are:castObce>
+      <are:cisloPop>20</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>ŠOMANOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T22:02:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>22:02:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>46352546</are:ICO>
+   <are:ObchodniFirma>Urbánek &amp; Svec Plast , s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1348426</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>27378</are:psc>
+    <are:okres>Kladno</are:okres>
+    <are:obec>Řisuty</are:obec>
+    <are:castObce>Řisuty</are:castObce>
+    <are:cisloPop>44</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-08-19</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba výrobků z plastu
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-08-19">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2005-02-10">
+    <are:Text>
+Za společnost jedná jednatel, a to tak, že k napsanému nebo vytištěnému názvu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-08-19" dvy="2005-02-10">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2002-10-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>okr. Kladno</are:obec>
+      <are:ulice>Tuřany 5</are:ulice>
+     </are:adresa>
+     <are:jmeno>Aleš</are:jmeno>
+     <are:prijmeni>Urbánek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-10-13">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2009-10-13" dvy="2015-10-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5963851</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27379</are:psc>
+      <are:obec>Tuřany</are:obec>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Aleš</are:jmeno>
+     <are:prijmeni>Urbánek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5997089</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27305</are:psc>
+      <are:okres>Kladno</are:okres>
+      <are:obec>Přelíc</are:obec>
+      <are:castObce>Přelíc</are:castObce>
+      <are:cisloPop>5</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ALEŠ</are:jmeno>
+     <are:prijmeni>URBÁNEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-08-19">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-08-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>8611 Baunach, SRN</are:obec>
+      <are:ulice>Am Allersgraben 11</are:ulice>
+     </are:adresa>
+     <are:jmeno>Peter</are:jmeno>
+     <are:prijmeni>Svec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5997089</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27305</are:psc>
+      <are:okres>Kladno</are:okres>
+      <are:obec>Přelíc</are:obec>
+      <are:castObce>Přelíc</are:castObce>
+      <are:cisloPop>5</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ALEŠ</are:jmeno>
+     <are:prijmeni>URBÁNEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

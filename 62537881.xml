@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T05:08:32"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>05:08:32</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>62537881</are:ICO>
+   <are:ObchodniFirma>Školní jídelna, U Tří lvů 2b, České Budějovice</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>27414345</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>37001</are:psc>
+    <are:okres>České Budějovice</are:okres>
+    <are:obec>České Budějovice</are:obec>
+    <are:castObce>České Budějovice 6</are:castObce>
+    <are:ulice>U Tří lvů</are:ulice>
+    <are:cisloPop>194</are:cisloPop>
+    <are:cisloOr>2b</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-08-29</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+hostinská činnost - poskytování stravy dalším strávníkům
+k tomu, aby byla plně využívána kapacita školní jídelny.
+Tato činnost nesmí narušovat plnění hlavního účelu organizace
+a sleduje se odděleně.
+     </are:Text>
+    </are:PredmetPodnikani>
+    <are:PredmetCinnosti>
+     <are:Text>
+Organizace zabezpečuje společné stravování dětí a žáků a
+pracovníků školských zařízení dle platných právních předpisů.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-08-29">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-08-29">
+    <are:Text>
+Statutární orgán je oprávněn samostatně činit jménem
+organizace právní úkony ve všech věcech.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-08-29" dvy="2015-04-14">
+    <are:funkce>
+     <are:nazev>vedoucí</are:nazev>
+     <are:vznikFunkce>2001-08-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37315</are:psc>
+      <are:obec>Nová Ves U Českých Budějovic</are:obec>
+      <are:cisloTxt>87</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslava</are:jmeno>
+     <are:prijmeni>Horáková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-14">
+    <are:funkce>
+     <are:nazev>Ředitel</are:nazev>
+     <are:vznikFunkce>2001-08-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20002815</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37315</are:psc>
+      <are:obec>Nová Ves</are:obec>
+      <are:castObce>Nová Ves</are:castObce>
+      <are:cisloPop>83</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILOSLAVA</are:jmeno>
+     <are:prijmeni>HORÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-18T09:36:23"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-18</are:Datum_vypisu>
+   <are:Cas_vypisu>09:36:23</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28395689</are:ICO>
+   <are:ObchodniFirma>CzechPak Manufacturing, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21736138</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:obec>Praha 2</are:obec>
+    <are:castObce>Nové Město</are:castObce>
+    <are:ulice>Trojanova</are:ulice>
+    <are:cisloTxt>1993/5</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2008-05-14</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-05-14">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2008-05-14" dvy="2009-03-31">
+    <are:Text>
+Jménem společnosti jedná jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2009-03-31" dvy="2009-08-19">
+    <are:Text>
+Jménem společnosti jedná každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2009-08-19" dvy="2014-05-30">
+    <are:Text>
+Jménem společnosti jednají vždy dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-05-30">
+    <are:Text>
+Za společnost jedná každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2008-05-14" dvy="2009-03-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-05-14</are:vznikFunkce>
+     <are:zanikFunkce>2009-03-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:text>Neuchatel,Espace de L´Europe 16,2000</are:text>
+     </are:adresa>
+     <are:jmeno>Aitor</are:jmeno>
+     <are:prijmeni>Andres</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-03-31" dvy="2009-08-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-03-06</are:vznikFunkce>
+     <are:zanikFunkce>2009-07-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>60543</are:psc>
+      <are:obec>Oswego</are:obec>
+      <are:ulice>Orchard Ave.</are:ulice>
+      <are:cisloTxt>402</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Steven</are:jmeno>
+     <are:prijmeni>Niemi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-03-31" dvy="2009-08-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-03-06</are:vznikFunkce>
+     <are:zanikFunkce>2009-07-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>60423</are:psc>
+      <are:obec>Frankfort</are:obec>
+      <are:ulice>Callista Dr.</are:ulice>
+      <are:cisloTxt>8264</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Keith</are:jmeno>
+     <are:prijmeni>Bottoms</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-03-31" dvy="2009-08-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-03-06</are:vznikFunkce>
+     <are:zanikFunkce>2009-07-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>60126</are:psc>
+      <are:obec>Elmhurst</are:obec>
+      <are:ulice>S.Washington</are:ulice>
+      <are:cisloTxt>704</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Julie</are:jmeno>
+     <are:prijmeni>Wool</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-08-19" dvy="2010-03-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-07-02</are:vznikFunkce>
+     <are:zanikFunkce>2010-03-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16817699</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41301</are:psc>
+      <are:obec>Vědomice</are:obec>
+      <are:ulice>Zahradní</are:ulice>
+      <are:cisloTxt>187</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Tyl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-08-19" dvy="2010-03-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-07-02</are:vznikFunkce>
+     <are:zanikFunkce>2010-02-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:text>Auvenier, Chemin des Rochettes 38, 2012</are:text>
+     </are:adresa>
+     <are:jmeno>Paul</are:jmeno>
+     <are:prijmeni>Graham</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-08-19" dvy="2011-07-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-07-02</are:vznikFunkce>
+     <are:zanikFunkce>2011-05-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>32</are:stat>
+      <are:text>Buenos Aires, Campana, Liniers 992, 2804</are:text>
+     </are:adresa>
+     <are:jmeno>Ricardo</are:jmeno>
+     <are:prijmeni>Schmidt</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-08-19" dvy="2013-09-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-07-02</are:vznikFunkce>
+     <are:zanikFunkce>2013-07-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>250</are:stat>
+      <are:text>Paříž, rue notre Dame des Champs 56, 75006</are:text>
+     </are:adresa>
+     <are:jmeno>Hugues</are:jmeno>
+     <are:prijmeni>Pitre</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-08-19" dvy="2014-05-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-07-02</are:vznikFunkce>
+     <are:zanikFunkce>2014-04-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17839238</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40001</are:psc>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:ulice>Stará</are:ulice>
+      <are:cisloTxt>2520/45</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Mach</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-08-19" dvy="2017-09-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-07-02</are:vznikFunkce>
+     <are:zanikFunkce>2017-06-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>56</are:stat>
+      <are:obec>Grimbergen</are:obec>
+      <are:ulice>Wilgenbaan 4, 1850</are:ulice>
+     </are:adresa>
+     <are:jmeno>Peter</are:jmeno>
+     <are:prijmeni>Verhaeghe</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-25" dvy="2012-09-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-02-24</are:vznikFunkce>
+     <are:zanikFunkce>2012-05-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:psc>3280</are:psc>
+      <are:obec>Murten</are:obec>
+      <are:ulice>Schutzenmatte</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Angelo</are:jmeno>
+     <are:prijmeni>di Benedetto</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-06-29" dvy="2014-05-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-06-18</are:vznikFunkce>
+     <are:zanikFunkce>2014-04-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17911371</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40003</are:psc>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:ulice>Tolstého</are:ulice>
+      <are:cisloPop>1251</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Hudský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-20" dvy="2016-01-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-05-30</are:vznikFunkce>
+     <are:zanikFunkce>2015-12-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:text>Naperville, Hector Lane 3652, 60564, Illinois</are:text>
+     </are:adresa>
+     <are:jmeno>Rich</are:jmeno>
+     <are:prijmeni>Mewborn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-09-06" dvy="2018-05-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-05-11</are:vznikFunkce>
+     <are:zanikFunkce>2018-04-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:obec>2525 Le Landeron</are:obec>
+      <are:ulice>Chemin de la Petite-Thielle</are:ulice>
+      <are:cisloPop>12</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Eric</are:jmeno>
+     <are:prijmeni>Buser</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-19" dvy="2017-09-19">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2015-08-20</are:vznikFunkce>
+     <are:zanikFunkce>2017-06-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>IL60013</are:psc>
+      <are:obec>Cary</are:obec>
+      <are:ulice>Sterling Circle 330</are:ulice>
+     </are:adresa>
+     <are:jmeno>JOHN EDMUND</are:jmeno>
+     <are:prijmeni>ULASZEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-05" dvy="2016-04-06">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2015-12-16</are:vznikFunkce>
+     <are:zanikFunkce>2016-04-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>NY12170</are:psc>
+      <are:obec>Stillwater</are:obec>
+      <are:ulice>Hill Road 36</are:ulice>
+     </are:adresa>
+     <are:jmeno>PAUL FRANCIS</are:jmeno>
+     <are:prijmeni>MURPHY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-05" dvy="2016-04-06">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2015-12-16</are:vznikFunkce>
+     <are:zanikFunkce>2016-04-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>IL60521</are:psc>
+      <are:obec>Hinsdale</are:obec>
+      <are:ulice>S. Garfield 305</are:ulice>
+     </are:adresa>
+     <are:jmeno>DOUGLAS WAYNE</are:jmeno>
+     <are:prijmeni>CHERRY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-09-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-06-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>IL60035</are:psc>
+      <are:obec>Highland Park</are:obec>
+      <are:ulice>1632 Grove Ave</are:ulice>
+     </are:adresa>
+     <are:jmeno>IRA WALTER</are:jmeno>
+     <are:prijmeni>SCHLUSSEL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-09-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2017-07-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:psc>2000</are:psc>
+      <are:obec>Neuchatel</are:obec>
+      <are:ulice>rue de la Cote 33</are:ulice>
+     </are:adresa>
+     <are:jmeno>OLIVIER</are:jmeno>
+     <are:prijmeni>BOURET</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-05-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2018-04-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:psc>1028</are:psc>
+      <are:obec>Préverenges</are:obec>
+      <are:ulice>3 Allée du Rionzi</are:ulice>
+     </are:adresa>
+     <are:jmeno>PIERRE</are:jmeno>
+     <are:prijmeni>BELLI RES</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-05-14">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-04-23">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>56</are:stat>
+      <are:text>Brusel, Place des Barricades 13,1000</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>MERISANT EUROPE Sprl</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2017-09-19">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:psc>2000</are:psc>
+      <are:obec>Neuchatel</are:obec>
+      <are:ulice>Av. Jean Jacques Rousseau 7</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>Merisant Company 2 Sarl</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

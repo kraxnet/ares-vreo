@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:28:55"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:28:55</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00531022</are:ICO>
+   <are:ObchodniFirma>Agrocomp spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Slušovice</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-05-08</are:DatumZapisu>
+   <are:DatumVymazu>1996-02-14</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1.výroba tržní úprava výrobků zemědělských a potravinářských
+2.výroba a odbyt stavebních prvků
+3.dřevovýroba
+4.výroba výrobků strojírenských a elektrotechnických
+5.výroba výrobků chemických
+6.obchodní činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-05-08" dvy="1996-02-14">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1990-05-08" dvy="1996-02-14">
+    <are:Text>
+Způsob zastupování : k názvu společnosti připojí svůj podpis
+ředitel nebo prokurista
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-05-08" dvy="1994-02-14">
+    <are:funkce>
+     <are:nazev>prokurista</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3970078</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:ulice>Na Výpusti</are:ulice>
+      <are:cisloTxt>368</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Gargulák</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4068696</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Spytihněv</are:obec>
+      <are:cisloTxt>417</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Veselý</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1990-05-08" dvy="1996-02-14">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4014731</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Neubuz</are:obec>
+      <are:cisloTxt>70</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Čuba</are:prijmeni>
+     <are:titulPred>Doc. Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4014472</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Neubuz</are:obec>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Břetislav</are:jmeno>
+     <are:prijmeni>Gargulák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3971066</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:ulice>Dostihová</are:ulice>
+      <are:cisloTxt>473</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Leo</are:jmeno>
+     <are:prijmeni>Pavlík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Podkopná Lhota</are:obec>
+      <are:cisloTxt>55</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Rudolf</are:jmeno>
+     <are:prijmeni>Bořuta</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4001435</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Fryšták</are:obec>
+      <are:ulice>nám. Míru</are:ulice>
+      <are:cisloTxt>18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Veselý</are:prijmeni>
+     <are:titulPred>MVDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3970078</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:ulice>Na Výpusti</are:ulice>
+      <are:cisloTxt>368</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Gargulák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4014731</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Neubuz</are:obec>
+      <are:cisloTxt>70</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Čubová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4014731</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Neubuz</are:obec>
+      <are:cisloTxt>70</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Rostislav</are:jmeno>
+     <are:prijmeni>Čuba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4068696</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Spytihněv</are:obec>
+      <are:cisloTxt>417</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Veselý</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Lazy</are:ulice>
+      <are:cisloTxt>II/99</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viera</are:jmeno>
+     <are:prijmeni>Valentová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Březová</are:obec>
+      <are:cisloTxt>131</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslava</are:jmeno>
+     <are:prijmeni>Jurčíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10243291</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Količín</are:obec>
+      <are:cisloTxt>54</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Syřena</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3971651</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:ulice>Na Stráni</are:ulice>
+      <are:cisloTxt>535</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Arnošt</are:jmeno>
+     <are:prijmeni>Traxler</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24284009</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Valašské Meziříčí</are:obec>
+      <are:ulice>Sokolská</are:ulice>
+      <are:cisloTxt>1094</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kořenek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3970086</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:ulice>Na Výpusti</are:ulice>
+      <are:cisloTxt>369</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Filoména</are:jmeno>
+     <are:prijmeni>Marcoňová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Želechovice</are:obec>
+      <are:cisloTxt>462</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaromír</are:jmeno>
+     <are:prijmeni>Kaláč</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3969967</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:cisloTxt>357</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Bastl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Javorova</are:ulice>
+      <are:cisloTxt>4519</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Janda</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3970001</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:cisloTxt>361</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Otakar</are:jmeno>
+     <are:prijmeni>Kučeřík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4229053</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Prlovská</are:ulice>
+      <are:cisloTxt>2399</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimil</are:jmeno>
+     <are:prijmeni>Karas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3956342</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Vizovice</are:obec>
+      <are:cisloTxt>837</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Slezák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Otrokovice</are:obec>
+      <are:ulice>Střed</are:ulice>
+      <are:cisloTxt>1315</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Tatar</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4014472</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Neubuz</are:obec>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Břetislav</are:jmeno>
+     <are:prijmeni>Gargulák</are:prijmeni>
+     <are:titulZa>ml.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3971341</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:ulice>Slunečná</are:ulice>
+      <are:cisloTxt>501</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kluzák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4009291</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Fryšták</are:obec>
+      <are:ulice>Vítová</are:ulice>
+      <are:cisloTxt>87</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Lukeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Trnava</are:obec>
+      <are:cisloTxt>166</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Břetislav</are:jmeno>
+     <are:prijmeni>Sovják</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3970086</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:cisloTxt>369</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alena</are:jmeno>
+     <are:prijmeni>Stavjaňová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Zlín - Podhoří</are:obec>
+      <are:ulice>K. Světlé</are:ulice>
+      <are:cisloTxt>488</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Polášek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3969924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:cisloTxt>353</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Železník</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-08" dvy="1996-02-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Uherský Brod</are:obec>
+      <are:ulice>Sídliště</are:ulice>
+      <are:cisloTxt>180</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Jirátko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T21:33:55"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>21:33:55</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45534667</are:ICO>
+   <are:ObchodniFirma>AKONTA spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>7691611</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>53002</are:psc>
+    <are:obec>Pardubice</are:obec>
+    <are:ulice>tř. Míru</are:ulice>
+    <are:cisloTxt>92</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-01-14</are:DatumZapisu>
+   <are:DatumVymazu>1995-09-30</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+- obchodní činnost v oblasti předmětů dlouhodobé spotřeby,
+výrobních prostředků a nemovitostí včetně leasingového pronájmu
+těchto předmětů
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-01-14" dvy="1995-09-30">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1994-06-24" dvy="1995-09-30">
+    <are:Text>
+Způsob jednání za společnost:
+Společnost navenek zastupují ing. Lubomír  K m e n t,
+ředitel společnosti a Ladislav  D v o ř á k, prokurista
+společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-01-14" dvy="1992-12-14">
+    <are:funkce>
+     <are:nazev>Ředitel společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Holice v Čechách</are:obec>
+      <are:ulice>Veliny 73</are:ulice>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Kment</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-01-14" dvy="1992-12-14">
+    <are:funkce>
+     <are:nazev>Prokurista společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7706120</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>V ráji</are:ulice>
+      <are:cisloTxt>1722</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Dvořák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-14" dvy="1994-06-24">
+    <are:funkce>
+     <are:nazev>Jednatel - prokurista</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7706120</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>V ráji</are:ulice>
+      <are:cisloTxt>1722</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Dvořák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-12-14" dvy="1995-09-30">
+    <are:funkce>
+     <are:nazev>Jednatel - ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Holice v Čechách</are:obec>
+      <are:ulice>Veliny 73</are:ulice>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Kment</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-06-24" dvy="1995-09-30">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1994-06-24" dvy="1995-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7642849</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Veliny</are:obec>
+      <are:cisloTxt>73</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Kment</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-06-24" dvy="1995-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7729235</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Ke koupališti</are:ulice>
+      <are:cisloTxt>čp. 74</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Markéta</are:jmeno>
+     <are:prijmeni>Myšková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-06-24" dvy="1995-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7719981</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Pod zahradami</are:ulice>
+      <are:cisloTxt>484</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Marklová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-06-24" dvy="1995-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7695616</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Mikulovická</are:ulice>
+      <are:cisloTxt>618</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Drahomíra</are:jmeno>
+     <are:prijmeni>Nežádalová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-06-24" dvy="1995-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23869356</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Resslova</are:ulice>
+      <are:cisloTxt>601</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michaela</are:jmeno>
+     <are:prijmeni>Maixnerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="1995-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7706120</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>V ráji</are:ulice>
+      <are:cisloTxt>1722</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Dvořák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="1995-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Bílé nám.</are:ulice>
+      <are:cisloTxt>141</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Irena</are:jmeno>
+     <are:prijmeni>Brychnáčová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="1995-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7780354</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Ke kamenci</are:ulice>
+      <are:cisloTxt>349</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimil</are:jmeno>
+     <are:prijmeni>Šimek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="1995-09-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7795211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Sluneční</are:ulice>
+      <are:cisloTxt>301</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Tesař</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

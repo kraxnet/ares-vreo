@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T05:40:48"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>05:40:48</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>13581741</are:ICO>
+   <are:ObchodniFirma>AKSY</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Jaroměř IV</are:obec>
+    <are:ulice>Palackého 158</are:ulice>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25751</are:psc>
+    <are:obec>Bystřice u Benešova</are:obec>
+    <are:ulice>Dr. E. Beneše 403</are:ulice>
+   </are:Bydliste>
+   <are:DatumZapisu>1991-03-21</are:DatumZapisu>
+   <are:DatumVymazu>1993-01-08</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1. Výrobní činnost
+   obor 3521 stavební truhlářství
+   obor 352 12 nábytkové truhlářství
+2. Obchodní činnost
+   obor 532 10 prodej stavebnin
+   obor 532 15 prodej nábytku
+3. Zahraničně obchodní činnost
+   V souladu s par. 4 vyhl. FMZO č. 27/91 Sb. (u dovozu a vývozu
+   věcí s výjimkou nař. vlády 256/90 Sb.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-03-21" dvy="1993-01-08">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="1991-03-21" dvy="1993-01-08">
+    <are:fosoba>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Kriegler</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

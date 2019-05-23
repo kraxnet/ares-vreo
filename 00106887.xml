@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:52:06"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:52:06</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00106887</are:ICO>
+   <are:ObchodniFirma>Zemědělské družstvo Sluštice v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>16383648</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25084</are:psc>
+    <are:okres>Praha-východ</are:okres>
+    <are:obec>Sluštice</are:obec>
+    <are:cisloPop>12</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-03-05</are:DatumZapisu>
+   <are:DatumVymazu>2013-08-03</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zemědělská výroba
+     </are:Text>
+     <are:Text>
+opravy zemědělských  strojů
+     </are:Text>
+     <are:Text>
+opravy motorových vozidel
+     </are:Text>
+     <are:Text>
+veřejná silniční nákladní doprava
+     </are:Text>
+     <are:Text>
+pronájem výrobních prostředků členům a jiným subjektům i
+formou leasingu
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-03-05" dvy="2013-08-03">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-03-05" dvy="1993-04-19">
+    <are:Text>
+Ručení:
+Každý člen ručí za případnou ztrátu družstva až do
+výše 50% základního členského podílu.
+Zastupování a podepisování:
+Družstvo zastupuje předseda družstva, je oprávněn jednat jménem
+družstva ve všch věcech.
+Podepisování za družstvo se děje tak, že k vypsanému nebo
+vytištěnému názvu družstva připojí svůj podpis předseda
+družstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-04-19" dvy="1994-12-06">
+    <are:Text>
+Zastupování:
+Družstvo zastupuje navenek předseda nebo místopředseda. Tam
+kde je pro právní úkon, který činí představenstvo
+předepsána písemná forma, je třeba podpisu alespoň dvou
+členů představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1994-12-06" dvy="2013-08-03">
+    <are:Text>
+Zastupování družstva :
+jménem družstva jedná a podepisuje likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-03-05" dvy="2013-08-03">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Dolní POčernice</are:obec>
+      <are:ulice>Dolní Počernice 505</are:ulice>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Broukal</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-05" dvy="2013-08-03">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Říčany</are:obec>
+      <are:ulice>Říčany</are:ulice>
+      <are:cisloTxt>348</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Haluška</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-19" dvy="2013-08-03">
+    <are:funkce>
+     <are:nazev>představenstvo</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sluštice</are:obec>
+      <are:ulice>Sluštice</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Corn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-19" dvy="2013-08-03">
+    <are:funkce>
+     <are:nazev>představenstvo</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Škvorek</are:obec>
+      <are:ulice>Škvorek 277</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Cháňa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-19" dvy="2013-08-03">
+    <are:funkce>
+     <are:nazev>představenstvo</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21104115</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hradešín</are:obec>
+      <are:ulice>Hradešín</are:ulice>
+      <are:cisloTxt>44</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Kliment</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-19" dvy="2013-08-03">
+    <are:funkce>
+     <are:nazev>představenstvo</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Blažovského</are:ulice>
+      <are:cisloTxt>543</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Klímová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-19" dvy="2013-08-03">
+    <are:funkce>
+     <are:nazev>představenstvo</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9237194</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Louny</are:obec>
+      <are:ulice>Přemyslovců</are:ulice>
+      <are:cisloTxt>2039</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Kotnourová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-19" dvy="2013-08-03">
+    <are:funkce>
+     <are:nazev>představenstvo</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12680206</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Říčany</are:obec>
+      <are:ulice>Voděrádky</are:ulice>
+      <are:cisloTxt>41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vratislav</are:jmeno>
+     <are:prijmeni>Kšáda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-19" dvy="2013-08-03">
+    <are:funkce>
+     <are:nazev>představenstvo</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16384164</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Sluštice</are:obec>
+      <are:ulice>Sluštice</are:ulice>
+      <are:cisloTxt>70</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Štěrba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-12-06" dvy="2013-08-03">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22594574</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10300</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Nedvězí</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Valečka</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

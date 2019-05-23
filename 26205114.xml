@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T01:45:14"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>01:45:14</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26205114</are:ICO>
+   <are:ObchodniFirma>MUSTAR - TRADING s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22202871</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 6</are:okres>
+    <are:obec>Praha 6</are:obec>
+    <are:castObce>Dejvice</are:castObce>
+    <are:ulice>Nad Šárkou</are:ulice>
+    <are:cisloTxt>61</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-10-16</are:DatumZapisu>
+   <are:DatumVymazu>2009-08-12</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+úklidové práce
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost v oblasti obchodu
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-10-16" dvy="2009-08-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-10-16" dvy="2009-08-12">
+    <are:Text>
+Jednatelé jsou oprávněni jednat samostatně za společnost v celém
+rozsahu její činnosti. Podepisování za společnost se děje tak,
+že k napsanému nebo vytištěnému názvu společnosti připojí svůj
+podpis jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:funkce>
+     <are:nazev>jenatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15923631</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Svitavy</are:okres>
+      <are:obec>Opatov</are:obec>
+      <are:cisloTxt>314</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Novotný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-08-07" dvy="2009-08-12">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-08-07" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21768340</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:ulice>Koněvova</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Janota</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-10-16" dvy="2009-08-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15923631</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Svitavy</are:okres>
+      <are:obec>Opatov</are:obec>
+      <are:cisloTxt>314</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Novotný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lviv</are:obec>
+      <are:ulice>nam. Rynok</are:ulice>
+      <are:cisloTxt>35-16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Danuta</are:jmeno>
+     <are:prijmeni>Musiyovska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>112</are:stat>
+      <are:obec>Grodno</are:obec>
+      <are:ulice>Kabjaka</are:ulice>
+      <are:cisloTxt>4-5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tarumava</are:jmeno>
+     <are:prijmeni>Ala</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lviv</are:obec>
+      <are:ulice>Macijevyča</are:ulice>
+      <are:cisloTxt>47-1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Kril</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska obl.</are:obec>
+      <are:ulice>Lypivka</are:ulice>
+      <are:cisloTxt>8-1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Pochtar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Luck</are:obec>
+      <are:ulice>tř. Molodi</are:ulice>
+      <are:cisloTxt>9-35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Zhyhlova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lviv</are:obec>
+      <are:ulice>Lytvynenka</are:ulice>
+      <are:cisloTxt>14-25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Skrypnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Jenakijevo</are:obec>
+      <are:ulice>Brajljana</are:ulice>
+      <are:cisloTxt>6-4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Melnikova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>112</are:stat>
+      <are:obec>Mozyr</are:obec>
+      <are:castObce>Gomelska obl.</are:castObce>
+      <are:ulice>Neftestroitelej</are:ulice>
+      <are:cisloTxt>13-45</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Katsiaryna</are:jmeno>
+     <are:prijmeni>Rabchanka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Horlivka</are:obec>
+      <are:castObce>Donecka obl.</are:castObce>
+      <are:ulice>Ak. Pavlova</are:ulice>
+      <are:cisloTxt>2-27</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Rud</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Jenakijevo</are:obec>
+      <are:castObce>Donecka obl.</are:castObce>
+      <are:ulice>Brajljana</are:ulice>
+      <are:cisloTxt>8-37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Viktoriya</are:jmeno>
+     <are:prijmeni>Khomutova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Chust, Zakarpatská obl.</are:text>
+     </are:adresa>
+     <are:prijmeni>Luk´yanets Tetyana   dat.nar 8.února 1968</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Sumy</are:obec>
+      <are:ulice>Bladska</are:ulice>
+      <are:cisloTxt>7-7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Petrova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Torčyn</are:obec>
+      <are:castObce>Volynska obl.</are:castObce>
+      <are:ulice>Lucka</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lilya</are:jmeno>
+     <are:prijmeni>Ostapyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Kryvyj Rih</are:obec>
+      <are:castObce>Dnipropetrovska obl.</are:castObce>
+      <are:ulice>tř. Myru</are:ulice>
+      <are:cisloTxt>24a-8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalya</are:jmeno>
+     <are:prijmeni>Samoylova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Čuhujev</are:obec>
+      <are:castObce>Charkivska obl.</are:castObce>
+      <are:ulice>tř. Zalupy</are:ulice>
+      <are:cisloTxt>22-17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Afanasyyeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Luck</are:obec>
+      <are:castObce>Volynska obl.</are:castObce>
+      <are:ulice>tř.Molodi</are:ulice>
+      <are:cisloTxt>3a-45</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Dyshko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Žydačiv</are:obec>
+      <are:ulice>Puškina</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Turkovska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Jenakijevo</are:obec>
+      <are:castObce>Donecka obl.</are:castObce>
+      <are:ulice>tř. Metalurhiv</are:ulice>
+      <are:cisloTxt>39-49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalya</are:jmeno>
+     <are:prijmeni>Mologina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Pobuzke</are:obec>
+      <are:castObce>Kirovohradska obl.</are:castObce>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>6-23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksiy</are:jmeno>
+     <are:prijmeni>Chaban</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Tjačiv</are:obec>
+      <are:castObce>Zakarpatská obl.</are:castObce>
+      <are:ulice>Kutuzova</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Tatarskykh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Groznyj</are:obec>
+      <are:ulice>Čerepina</are:ulice>
+      <are:cisloTxt>74-123</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yevhen</are:jmeno>
+     <are:prijmeni>Petrov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Jenakijevo</are:obec>
+      <are:castObce>Donecka obl.</are:castObce>
+      <are:ulice>Brajljana</are:ulice>
+      <are:cisloTxt>13-62</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalya</are:jmeno>
+     <are:prijmeni>Vitkalova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>s.Jenakijevo</are:obec>
+      <are:castObce>Donecka obl.</are:castObce>
+      <are:ulice>Leninova tř.</are:ulice>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natalya</are:jmeno>
+     <are:prijmeni>Protas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>s. Horlivka</are:obec>
+      <are:castObce>Donecka obl.</are:castObce>
+      <are:ulice>Ak.Pavlova</are:ulice>
+      <are:cisloTxt>2-27</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vira</are:jmeno>
+     <are:prijmeni>Zayika</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Cherson</are:obec>
+      <are:ulice>Stepana Razina</are:ulice>
+      <are:cisloTxt>75-388</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleh</are:jmeno>
+     <are:prijmeni>Yaroslavskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Jenakijevo</are:obec>
+      <are:castObce>Donecká obl.</are:castObce>
+      <are:ulice>Zelena Rošča</are:ulice>
+      <are:cisloTxt>5-3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Tataryntseva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Mykolajiv</are:obec>
+      <are:ulice>Teatralna</are:ulice>
+      <are:cisloTxt>5-7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Yakovenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Červonohrad</are:obec>
+      <are:ulice>A.Šeptyckoho</are:ulice>
+      <are:cisloTxt>2-19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nadiya</are:jmeno>
+     <are:prijmeni>Kushneruk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Kirovohrad</are:obec>
+      <are:ulice>50 let Oktjabrja</are:ulice>
+      <are:cisloTxt>57</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Futoranskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Dnipropetrovsk</are:obec>
+      <are:ulice>Saškina</are:ulice>
+      <are:cisloTxt>4-112</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ponomar´ov Volodymyr dat. nar. 14.července 1971</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Jenakijevo</are:obec>
+      <are:ulice>Beregovaja</are:ulice>
+      <are:cisloTxt>32-53</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anzhelika</are:jmeno>
+     <are:prijmeni>Vekerdi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Uzgorod</are:obec>
+      <are:ulice>Kijevskaja</are:ulice>
+      <are:cisloTxt>45</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Yuhas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lviv</are:obec>
+      <are:ulice>Velyčkovskoho</are:ulice>
+      <are:cisloTxt>4-36</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Uhryn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Hodovyca</are:obec>
+      <are:castObce>Lvivski okr.</are:castObce>
+     </are:adresa>
+     <are:jmeno>Stepan</are:jmeno>
+     <are:prijmeni>Tryndus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Dubravka 55 Lvivski okr.</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Tofelyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Hodovyca, Lvivski okr.</are:text>
+     </are:adresa>
+     <are:jmeno>Lyubov</are:jmeno>
+     <are:prijmeni>Tofelyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Černovcy Holovna 204d-75</are:text>
+     </are:adresa>
+     <are:jmeno>Alla</are:jmeno>
+     <are:prijmeni>Shpak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Holyn 20 Ivano-Frankivsky okr.</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Matrofaylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Bolechiv,Chmelnyckeho 40</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Latak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Vilchova 29/1, Lviv</are:text>
+     </are:adresa>
+     <are:jmeno>Leonid</are:jmeno>
+     <are:prijmeni>Dmytruk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Novosilky, Lvivsky okr.</are:text>
+     </are:adresa>
+     <are:jmeno>Bohdan</are:jmeno>
+     <are:prijmeni>Hladylo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-16" dvy="2009-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Sonačna 18, Pustomyty</are:text>
+     </are:adresa>
+     <are:jmeno>Vira</are:jmeno>
+     <are:prijmeni>Mandzyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

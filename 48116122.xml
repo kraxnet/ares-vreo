@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T00:18:06"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>00:18:06</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48116122</are:ICO>
+   <are:ObchodniFirma>VERONIC  spol.s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21807795</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Novodvorská</are:ulice>
+    <are:cisloTxt>1091/114</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-01-20</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+-ubytovací služby včetně provozování hostinských činností
+     </are:Text>
+     <are:Text>
+-provozování cestovní kanceláře
+     </are:Text>
+     <are:Text>
+-provozování odstavných ploch pro motorová vozidla,
+ včetně poskytování souvisejících služeb
+     </are:Text>
+     <are:Text>
+-prodej a koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+směnárenská činnost.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-01-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-01-20" dvy="1994-06-03">
+    <are:Text>
+Jednatel je oprávněn jednat jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1994-06-03" dvy="1995-05-04">
+    <are:Text>
+Jménem společnosti je oprávněn jednat jednatel samostatně
+nebo prokurista.
+Podepisování za společnost se děje tak, že k vytištěnému
+nebo napsanému obchodnímu jménu společnosti připojí svůj
+podpis jednatel nebo prokurista, prokurista s dodatkem pro-
+kuru označující.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-05-04">
+    <are:Text>
+Způsob jednání za společnost:
+Za společnost jedná a podepisuje jednatel. Podepisování za
+společnost se děje tak, že k natištěnému nebo napsanému
+názvu společnosti připojí svůj podpis jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-01-20" dvy="1995-05-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22020705</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Schodová</are:ulice>
+      <are:cisloTxt>4/312</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Vogl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21807795</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Novodvorská</are:ulice>
+      <are:cisloTxt>1091/114</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Brečan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-01-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-05-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slovenská republika,Bratislava</are:obec>
+      <are:ulice>Osuského 40</are:ulice>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Brečan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

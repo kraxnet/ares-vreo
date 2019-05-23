@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T06:42:01"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>06:42:01</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>64259285</are:ICO>
+   <are:ObchodniFirma>Česká vejce, spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>999999999</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>69106</are:psc>
+    <are:okres>Břeclav</are:okres>
+    <are:obec>Velké Pavlovice</are:obec>
+    <are:ulice>Tovární</are:ulice>
+    <are:cisloTxt>3</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-09-07</are:DatumZapisu>
+   <are:DatumVymazu>2006-01-13</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-09-07" dvy="2006-01-13">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-09-07" dvy="2000-05-31">
+    <are:Text>
+Způsob jednání za společnost:
+Jménem společnosti je oprávněn jednat navenek a podepisovat
+za ni jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2000-05-31" dvy="2006-01-13">
+    <are:Text>
+Způsob jednání za společnost:
+Jménem společnosti je oprávněn jednat navenek a podepisovat
+za ni jednatel samostatně.
+Dnem zápisu vstupu společnosti do likvidace jedná a podepisuje
+za společnost ve všech věcech samostatně a bez omezení
+likvidátor s tím, že ke svému podpisu připojí označení
+likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-09-07" dvy="1999-05-26">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23897791</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Zeyerova</are:ulice>
+      <are:cisloTxt>1478</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dagmar</are:jmeno>
+     <are:prijmeni>Pinková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-05-26" dvy="2006-01-13">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2908620</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Litoměřice</are:obec>
+      <are:ulice>Tolstého</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Novák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2000-05-31" dvy="2006-01-13">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2000-05-31" dvy="2006-01-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19485069</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62500</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Nový Lískovec</are:castObce>
+      <are:ulice>Koniklecová</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libor</are:jmeno>
+     <are:prijmeni>Spáčil</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-09-07" dvy="2006-01-13">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1996-11-25" dvy="2006-01-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39701</are:psc>
+      <are:obec>Písek</are:obec>
+      <are:ulice>Vrcovická ul.</are:ulice>
+     </are:adresa>
+     <are:ICO>00112836</are:ICO>
+     <are:ObchodniFirma>AGPI, a.s.,</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1996-11-25" dvy="2006-01-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33411</are:psc>
+      <are:obec>Přeštice, Střížov</are:obec>
+     </are:adresa>
+     <are:ICO>45348600</are:ICO>
+     <are:ObchodniFirma>DRUKO STŘÍŽOV, s.r.o.,</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1996-11-25" dvy="2006-01-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>41183</are:psc>
+      <are:obec>Hrobce, Libotenice čp. 153</are:obec>
+     </are:adresa>
+     <are:ICO>00121100</are:ICO>
+     <are:ObchodniFirma>Lidru, akciová společnost,</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1996-11-25" dvy="2006-01-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>18900682</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53701</are:psc>
+      <are:obec>Chrudim</are:obec>
+      <are:ulice>Dašická</are:ulice>
+      <are:cisloTxt>911</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>46506071</are:ICO>
+     <are:ObchodniFirma>VEMA, akciová společnost,</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1996-11-25" dvy="2006-01-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23897791</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Zeyerova</are:ulice>
+      <are:cisloTxt>1478</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dagmar</are:jmeno>
+     <are:prijmeni>Pinková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-12-12" dvy="2006-01-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>13528572</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69602</are:psc>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Ratíškovice</are:obec>
+      <are:cisloTxt>1271</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>46971963</are:ICO>
+     <are:ObchodniFirma>AGROPODNIK Hodonín a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1999-03-30" dvy="2006-01-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>69123</are:psc>
+      <are:obec>Pohořelice</are:obec>
+      <are:ulice>ul.Brněnská</are:ulice>
+      <are:cisloTxt>120</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>48533173</are:ICO>
+     <are:ObchodniFirma>Statek Pohořelice, spol. s r.o.,</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

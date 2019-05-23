@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-25T15:10:51"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-25</are:Datum_vypisu>
+   <are:Cas_vypisu>15:10:51</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26347792</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek v domě č.p. 632, ulice Kolmá, č.o. 26 v Karlových Varech</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>20735120</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>36001</are:psc>
+    <are:okres>Karlovy Vary</are:okres>
+    <are:obec>Karlovy Vary</are:obec>
+    <are:castObce>Karlovy Vary</are:castObce>
+    <are:ulice>Kolmá</are:ulice>
+    <are:cisloPop>632</are:cisloPop>
+    <are:cisloOr>26</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2001-05-28</are:DatumVzniku>
+   <are:DatumZapisu>2002-07-31</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-07-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-07-31" dvy="2018-10-13">
+    <are:Text>
+Způsob jednání:
+Jménem společenství jedná předseda vždy s dvěma libovolnými
+členy výboru společně.
+Za společenství podepisuje předseda vždy s dvěma libovolnými
+členy výboru společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2018-10-13">
+    <are:Text>
+Za výbor jedná navenek samostatně předseda výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-07-31" dvy="2003-09-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-11-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-11-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20735120</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Kolmá</are:ulice>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Kaše</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-07-31" dvy="2003-09-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-11-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20735120</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Kolmá</are:ulice>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Bohóová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-07-31" dvy="2005-07-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-11-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11860898</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Aš</are:obec>
+      <are:ulice>Údolní</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eliška</are:jmeno>
+     <are:prijmeni>Pekárková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-07-31" dvy="2005-07-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-11-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20741413</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Škroupova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Samec</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-07-31" dvy="2005-07-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-11-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20710801</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Fibichova</are:ulice>
+      <are:cisloTxt>765/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lada</are:jmeno>
+     <are:prijmeni>Košařová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-09-25" dvy="2005-01-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-11-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2001-11-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20735120</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Kolmá</are:ulice>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Kaše</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-09-25" dvy="2005-07-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-11-30</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20735120</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Kolmá</are:ulice>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Bohóová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-07-20" dvy="2015-10-23">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23906677</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Brandlova</are:ulice>
+      <are:cisloTxt>476/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Caldrová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-07-20" dvy="2018-10-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2007-01-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>20735120</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Kolmá</are:ulice>
+      <are:cisloTxt>632/26</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>26333996</are:ICO>
+     <are:ObchodniFirma>KATSIR s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2005-07-20" dvy="2018-10-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2007-01-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>20736606</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:ulice>Kolmá</are:ulice>
+      <are:cisloTxt>802/20</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>26358557</are:ICO>
+     <are:ObchodniFirma>ELIZA &amp; company s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2015-10-23" dvy="2016-02-26">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23906677</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50003</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Slezské Předměstí</are:castObce>
+      <are:ulice>Brandlova</are:ulice>
+      <are:cisloPop>476</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANA KATEŘINA</are:jmeno>
+     <are:prijmeni>CALDROVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-02-26" dvy="2016-03-23">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23906677</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50003</are:psc>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Slezské Předměstí</are:castObce>
+      <are:ulice>Brandlova</are:ulice>
+      <are:cisloPop>476</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>CALDROVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-23" dvy="2017-03-01">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21716897</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Staré Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Náprstkova</are:ulice>
+      <are:cisloPop>213</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>CALDROVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-03-01" dvy="2018-10-13">
+    <are:clenstvi>
+     <are:zanikClenstvi>2007-01-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2007-01-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21703001</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Vojtěšská</are:ulice>
+      <are:cisloPop>211</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>CALDROVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-07-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda  výboru</are:nazev>
+     <are:vznikFunkce>2018-07-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21703001</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Vojtěšská</are:ulice>
+      <are:cisloPop>211</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>CALDROVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-07-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12024350</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36251</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Jáchymov</are:obec>
+      <are:castObce>Jáchymov</are:castObce>
+      <are:ulice>náměstí Republiky</are:ulice>
+      <are:cisloPop>293</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>GABRIELA</are:jmeno>
+     <are:prijmeni>PŠONDROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-07-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>20735120</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>36001</are:psc>
+      <are:okres>Karlovy Vary</are:okres>
+      <are:obec>Karlovy Vary</are:obec>
+      <are:castObce>Karlovy Vary</are:castObce>
+      <are:ulice>Kolmá</are:ulice>
+      <are:cisloPop>632</are:cisloPop>
+      <are:cisloOr>26</are:cisloOr>
+     </are:adresa>
+     <are:ICO>26333996</are:ICO>
+     <are:ObchodniFirma>KATSIR s.r.o.</are:ObchodniFirma>
+     <are:Zastoupeni dza="2018-10-13">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>20733461</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>36001</are:psc>
+        <are:okres>Karlovy Vary</are:okres>
+        <are:obec>Karlovy Vary</are:obec>
+        <are:castObce>Karlovy Vary</are:castObce>
+        <are:ulice>Zámecký vrch</are:ulice>
+        <are:cisloPop>412</are:cisloPop>
+        <are:cisloOr>13</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>LADA</are:jmeno>
+       <are:prijmeni>KATZIR</are:prijmeni>
+      </are:fosoba>
+     </are:Zastoupeni>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

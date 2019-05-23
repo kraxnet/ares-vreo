@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T08:10:49"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>08:10:49</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>66579619</are:ICO>
+   <are:ObchodniFirma>Alexandr Karpuk</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24039543</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>66491</are:psc>
+    <are:obec>Ivančice</are:obec>
+    <are:ulice>Ostřihom</are:ulice>
+    <are:cisloTxt>10</are:cisloTxt>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:ruianKod>101</are:ruianKod>
+    <are:stat>804</are:stat>
+    <are:obec>Novovolynsk</are:obec>
+    <are:ulice>Novovolynská</are:ulice>
+    <are:cisloTxt>51</are:cisloTxt>
+   </are:Bydliste>
+   <are:DatumZapisu>1998-02-02</are:DatumZapisu>
+   <are:DatumVymazu>2013-03-21</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zemní práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-02-02" dvy="2013-03-21">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="1998-02-02" dvy="2013-03-21">
+    <are:fosoba>
+     <are:jmeno>Alexander</are:jmeno>
+     <are:prijmeni>Karpuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-08-13T10:37:43"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-08-13</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-08-13</are:Datum_vypisu>
+   <are:Cas_vypisu>10:37:43</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25719874</are:ICO>
+   <are:ObchodniFirma>TECHNO-EFEKT spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21960330</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14700</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Podolí</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Na dolinách</are:ulice>
+    <are:cisloPop>153</are:cisloPop>
+    <are:cisloOr>22</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-12-14</are:DatumZapisu>
+   <are:DatumVymazu>2018-08-03</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost TECHNO-EFEKT spol. s r.o. v likvidaci, se sídlem Na dolinách 153/22, Podolí, 147 00 Praha 4, IČ: 257 19 874 z obchodního rejstříku. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-12-14" dvy="2014-08-16">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1998-12-14" dvy="2014-08-16">
+    <are:Text>
+Společnost zastupuje jednatel obchodní společnosti samostatně.
+Při podepisování listin za společnost vždy jednatel společnosti
+k názvu společnosti nebo otisku razítka společnosti připojí svůj
+podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-12-14" dvy="2014-08-16">
+    <are:clenstvi>
+     <are:zanikClenstvi>2014-05-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>37344</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>Zlív</are:obec>
+      <are:ulice>P.Bezruče</are:ulice>
+      <are:cisloTxt>215</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Kudrna</are:prijmeni>
+     <are:titulZa>,nar.29.1.1945</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-01-26" dvy="2018-08-03">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-01-26" dvy="2018-08-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24229296</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73301</are:psc>
+      <are:okres>Karviná</are:okres>
+      <are:obec>Karviná</are:obec>
+      <are:castObce>Fryštát</are:castObce>
+      <are:ulice>Svatováclavská</are:ulice>
+      <are:cisloPop>97</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PATRIK</are:jmeno>
+     <are:prijmeni>GRAŇÁK</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1998-12-14" dvy="2018-08-03">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-11-16" dvy="2018-08-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:obec>Novotroisk</are:obec>
+      <are:ulice>Sovětská 68-37, Orenburg</are:ulice>
+     </are:adresa>
+     <are:jmeno>VALERI</are:jmeno>
+     <are:prijmeni>KAMALOUTDINOV</are:prijmeni>
+     <are:titulZa>,nar.5.4.1950</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-16" dvy="2018-08-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:obec>Moskva</are:obec>
+      <are:ulice>Varšavská 76-1-54</are:ulice>
+     </are:adresa>
+     <are:jmeno>ANDREY</are:jmeno>
+     <are:prijmeni>KAMALOUDTINOV</are:prijmeni>
+     <are:titulZa>,nar.18.10.1976</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-16" dvy="2018-08-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:obec>Novotroisk</are:obec>
+      <are:ulice>Ml.Leninců 9-28</are:ulice>
+     </are:adresa>
+     <are:jmeno>NATALIA</are:jmeno>
+     <are:prijmeni>CHARAPOVA</are:prijmeni>
+     <are:titulZa>,nar.7.5.1962</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-16" dvy="2018-08-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:obec>Novotroisk</are:obec>
+      <are:ulice>Sevastopolská 5-1</are:ulice>
+     </are:adresa>
+     <are:jmeno>OLEG</are:jmeno>
+     <are:prijmeni>SKOUBALOV</are:prijmeni>
+     <are:titulZa>,nar.15.1.1964</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-16" dvy="2018-08-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:obec>Novotroisk</are:obec>
+      <are:ulice>Lomonosova 48-65</are:ulice>
+     </are:adresa>
+     <are:jmeno>VALERI</are:jmeno>
+     <are:prijmeni>PAVLOV</are:prijmeni>
+     <are:titulZa>,nar.25.6.1968</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

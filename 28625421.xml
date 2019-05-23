@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-04-24T12:33:20"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-04-24</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-04-24</are:Datum_vypisu>
+   <are:Cas_vypisu>12:33:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28625421</are:ICO>
+   <are:ObchodniFirma>Komplexní bezpečnostní servis cz s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24868434</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>73601</are:psc>
+    <are:obec>Havířov</are:obec>
+    <are:castObce>Bludovice</are:castObce>
+    <are:ulice>Těšínská</are:ulice>
+    <are:cisloPop>1100</are:cisloPop>
+    <are:cisloOr>50a</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2010-05-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+ostraha majetku a osob
+     </are:Text>
+     <are:Text>
+služby soukromých detektivů
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2010-05-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2010-05-12">
+    <are:Text>
+Způsob jednání za společnost: Jménem společnosti jedná jednatel v plném rozsahu samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2010-05-12" dvy="2018-04-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>01701</are:psc>
+      <are:obec>Považská Bystrica</are:obec>
+      <are:ulice>Moyzesova</are:ulice>
+      <are:cisloPop>816</are:cisloPop>
+      <are:cisloOr>101</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Kučera</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24036536</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66491</are:psc>
+      <are:okres>Brno-venkov</are:okres>
+      <are:obec>Ivančice</are:obec>
+      <are:castObce>Ivančice</are:castObce>
+      <are:ulice>Palackého náměstí</are:ulice>
+      <are:cisloPop>196</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>KUČERA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2010-05-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2010-05-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>01701</are:psc>
+      <are:obec>Považská Bystrica</are:obec>
+      <are:castObce>Hliny</are:castObce>
+      <are:cisloPop>2566</are:cisloPop>
+      <are:cisloOr>237</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Ľubica</are:jmeno>
+     <are:prijmeni>Haviarová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

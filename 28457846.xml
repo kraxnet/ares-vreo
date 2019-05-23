@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-06T16:40:16"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>16:40:16</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28457846</are:ICO>
+   <are:ObchodniFirma>PNS Projektová s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>27791343</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19300</are:psc>
+    <are:obec>Praha 9</are:obec>
+    <are:castObce>Horní Počernice</are:castObce>
+    <are:ulice>Paceřická</are:ulice>
+    <are:cisloTxt>1/2773</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2008-09-16</are:DatumZapisu>
+   <are:DatumVymazu>2012-07-01</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-09-16" dvy="2012-07-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2008-09-16" dvy="2008-09-24">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2008-09-24" dvy="2012-07-01">
+    <are:Text>
+Jménem společnosti jednají vždy dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2008-09-16" dvy="2008-09-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-09-16</are:vznikFunkce>
+     <are:zanikFunkce>2008-09-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21693684</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Elišky Krásnohorské</are:ulice>
+      <are:cisloTxt>133/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>van der  Laan</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-24" dvy="2012-07-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-09-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16993446</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73514</are:psc>
+      <are:obec>Orlová</are:obec>
+      <are:castObce>Lutyně</are:castObce>
+      <are:ulice>Na Olmovci</are:ulice>
+      <are:cisloTxt>1173</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radomil</are:jmeno>
+     <are:prijmeni>Juda</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-24" dvy="2012-07-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-09-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25740059</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10400</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Uhříněves</are:castObce>
+      <are:ulice>Saturnova</are:ulice>
+      <are:cisloTxt>1223/28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Borovka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-03-04" dvy="2012-07-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-09-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>52563</are:psc>
+      <are:obec>Roztoky u Prahy</are:obec>
+      <are:ulice>Tiché údolí</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Breitenfelner</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-09-16" dvy="2012-07-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2010-03-29" dvy="2012-07-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>27791343</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19300</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Horní Počernice</are:castObce>
+      <are:ulice>Paceřická</are:ulice>
+      <are:cisloTxt>1/2773</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>45795533</are:ICO>
+     <are:ObchodniFirma>První novinová společnost a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

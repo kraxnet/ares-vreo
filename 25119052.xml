@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-04-09T14:58:51"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-04-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-04-09</are:Datum_vypisu>
+   <are:Cas_vypisu>14:58:51</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25119052</are:ICO>
+   <are:ObchodniFirma>QI LU, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>12737780</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25268</are:psc>
+    <are:okres>Praha-západ</are:okres>
+    <are:obec>Kněževes</are:obec>
+    <are:castObce>Kněževes</are:castObce>
+    <are:ulice>Nad Hřištěm</are:ulice>
+    <are:cisloPop>48</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1997-04-07</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem nemovitosti, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1997-04-07">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1997-04-07">
+    <are:Text>
+Jednatel jedná za společnost samostatně, a to tak, že k
+napsanému nebo vytištěnému obchodnímu jménu společnosti připojí
+svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1997-04-07" dvy="2000-10-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22222103</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Ke Džbánu</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Li Shi Fei</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-04-07" dvy="2004-08-09">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2004-02-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22222103</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Ke Džbánu</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Li Shi Juan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-19" dvy="2016-02-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Kněževes</are:obec>
+      <are:cisloTxt>48</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Li Shi Fei</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-08-09" dvy="2016-02-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-03-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>30121329</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kněževes</are:obec>
+      <are:ulice>Na Staré silnici</are:ulice>
+      <are:cisloTxt>48</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Li Shi Juan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-02-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-03-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12737780</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25268</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Kněževes</are:obec>
+      <are:castObce>Kněževes</are:castObce>
+      <are:ulice>Nad Hřištěm</are:ulice>
+      <are:cisloPop>48</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LI SHI</are:jmeno>
+     <are:prijmeni>JUAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-02-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Kněževes</are:obec>
+      <are:cisloTxt>48</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>LI SHI</are:jmeno>
+     <are:prijmeni>FEI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1997-04-07">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-02-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12737780</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25268</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Kněževes</are:obec>
+      <are:castObce>Kněževes</are:castObce>
+      <are:ulice>Nad Hřištěm</are:ulice>
+      <are:cisloPop>48</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LI SHI</are:jmeno>
+     <are:prijmeni>JUAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-02-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Kněževes</are:obec>
+      <are:cisloTxt>48</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Li Shi Fei</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-07">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12737801</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25268</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Kněževes</are:obec>
+      <are:castObce>Kněževes</are:castObce>
+      <are:ulice>Nad Hřištěm</are:ulice>
+      <are:cisloPop>135</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>SHIYONG</are:jmeno>
+     <are:prijmeni>LI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

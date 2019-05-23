@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T05:32:31"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>05:32:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26716500</are:ICO>
+   <are:ObchodniFirma>Letenská Property, s.r.o.v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21717371</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:okres>Praha 1</are:okres>
+    <are:obec>Praha 1</are:obec>
+    <are:ulice>Liliová</are:ulice>
+    <are:cisloTxt>8/248</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-07-31</are:DatumZapisu>
+   <are:DatumVymazu>2010-11-09</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor bez poskytování
+jiných než základních služeb zajišťujících řádný provoz
+nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-07-31" dvy="2010-11-09">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-07-31" dvy="2010-11-09">
+    <are:Text>
+Jednatel jedná a podepisuje jménem Společnosti samostatně.
+Jednatel činí písemné právní úkony jménem Společnosti tak, že
+připojí svůj podpis k vytištěné či napsané obchodní firmě
+Společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-07-31" dvy="2010-11-09">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2002-07-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>826</are:stat>
+      <are:text>28 Kingsley Way, Londýn N2 OEW</are:text>
+     </are:adresa>
+     <are:prijmeni>Ron Greenbaum</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-07-23" dvy="2010-11-09">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2009-07-23" dvy="2010-11-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22539891</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Vinoř</are:castObce>
+      <are:ulice>Mladoboleslavská</are:ulice>
+      <are:cisloTxt>422</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kovář</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2002-07-31" dvy="2010-11-09">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2002-07-31" dvy="2010-11-09">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>528</are:stat>
+      <are:text>Amsterodam, Kruisweg 609, 2132NA Hoofddorp</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>P.I.H. Property Investment Holdings B.V.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

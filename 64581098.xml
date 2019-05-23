@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T06:54:22"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>06:54:22</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>64581098</are:ICO>
+   <are:ObchodniFirma>LINITEM s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21939233</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14300</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Modřany</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Nikoly Vapcarova</are:ulice>
+    <are:cisloPop>3268</are:cisloPop>
+    <are:cisloOr>3</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-11-02</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Koupě zboží za účelem jeho dalšího prodeje a prodej s výjimkou
+činností uvedených v přílohách zákona č. 455/91 Sb.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-11-02">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-11-02" dvy="1997-10-14">
+    <are:Text>
+Způsob jednání za společnost:
+Jednání a podepisování za společnost se děje tak, že k
+natištěnému nebo napsanému názvu společnosti připojí jednatel
+svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1997-10-14">
+    <are:Text>
+Způsob jednání za společnost:
+Jednání a podepisování za společnost se děje tak, že k
+natištěnému nebo napsanému názvu společnosti připojí jednatel
+svůj podpis.
+Po dobu likvidace přechází působnost statutárního orgánu jednat
+jménem společnosti na likvidátora. Likvidátor jménem společnosti
+činí jen úkony směřující k likvidaci společnosti. Podepisuje se
+za společnost tak, že k napsanému názvu společnosti připojí svůj
+podpis s dodatkem likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-11-02" dvy="2016-10-24">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>N. Vapcarova</are:ulice>
+      <are:cisloTxt>3268</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Fabrika</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-24">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21939233</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Modřany</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Nikoly Vapcarova</are:ulice>
+      <are:cisloPop>3268</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>FABRIKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1997-10-14" dvy="2011-07-12">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="1997-10-14" dvy="2011-07-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 7</are:okres>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>M. Horákové</are:ulice>
+      <are:cisloTxt>851/84</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Baudyš</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-11-02">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-10-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:obec>Kazaň</are:obec>
+      <are:ulice>Iskra 36</are:ulice>
+     </are:adresa>
+     <are:jmeno>ALEXANDRE</are:jmeno>
+     <are:prijmeni>DANILTCHENKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21939233</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Modřany</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Nikoly Vapcarova</are:ulice>
+      <are:cisloPop>3268</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>FABRIKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:psc>127567</are:psc>
+      <are:obec>Moskva</are:obec>
+      <are:ulice>Kornějčuka 24</are:ulice>
+     </are:adresa>
+     <are:jmeno>VLADIMIR</are:jmeno>
+     <are:prijmeni>PABAUSKIJ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>643</are:stat>
+      <are:psc>127567</are:psc>
+      <are:obec>Moskva</are:obec>
+      <are:ulice>Kornějčuka 24</are:ulice>
+     </are:adresa>
+     <are:jmeno>EUGENIJA</are:jmeno>
+     <are:prijmeni>PABAUSKAJA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

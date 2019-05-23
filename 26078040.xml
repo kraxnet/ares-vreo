@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T00:31:59"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>00:31:59</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26078040</are:ICO>
+   <are:ObchodniFirma>CB Truck service s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>11792035</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>37391</are:psc>
+    <are:obec>Rudolfov</are:obec>
+    <are:cisloTxt>93</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2004-07-22</are:DatumZapisu>
+   <are:DatumVymazu>2013-04-06</are:DatumVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-07-22" dvy="2013-04-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2004-07-22" dvy="2013-04-06">
+    <are:Text>
+Společnost má jednoho nebo více jednatelů. Jednatel jedná za společnost jako statutární orgán samostatně. Jednatel jedná za společnost tak, že k napsané či vytištěné firmě společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-07-22" dvy="2005-02-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-07-22</are:vznikFunkce>
+     <are:zanikFunkce>2005-01-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8673896</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Krumlov</are:obec>
+      <are:ulice>Chvalšinská</are:ulice>
+      <are:cisloTxt>231</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Filip</are:jmeno>
+     <are:prijmeni>Vařil</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-16" dvy="2006-03-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-01-19</are:vznikFunkce>
+     <are:zanikFunkce>2006-03-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8675546</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Krumlov</are:obec>
+      <are:ulice>Vyšehrad</are:ulice>
+      <are:cisloTxt>164</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Pleskatschek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-03-13" dvy="2012-05-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-10-03</are:vznikFunkce>
+     <are:zanikFunkce>2012-03-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12954292</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38226</are:psc>
+      <are:obec>Horní Planá</are:obec>
+      <are:ulice>A. Stiftera</are:ulice>
+      <are:cisloTxt>264</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Nowak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2012-04-12" dvy="2013-04-06">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2012-04-12" dvy="2013-04-06">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25292480</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37001</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>Novohradská</are:ulice>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Penz</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2004-07-22" dvy="2013-04-06">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2012-10-09" dvy="2013-04-06">
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

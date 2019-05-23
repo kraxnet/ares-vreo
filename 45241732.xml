@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T21:06:12"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>21:06:12</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45241732</are:ICO>
+   <are:ObchodniFirma>AMFORTAS spol.s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22296476</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>17000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Holešovice</are:castObce>
+    <are:mop>Praha 7</are:mop>
+    <are:ulice>U průhonu</are:ulice>
+    <are:cisloPop>41</are:cisloPop>
+    <are:cisloOr>27</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-02-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-02-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-02-12" dvy="1993-06-18">
+    <are:Text>
+Způsob jednání jménem společnosti: k vytištěnému nebo napsanému
+názvu společnosti připojí svůj podpis oba jednatelé společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-06-18">
+    <are:Text>
+Způsob jednání jménem společnosti: Každý jednatel jedná
+samostatně. Podepisování za společnost se děje tak, že k
+vytištěnému nebo nadepsanému názvu společnosti připojí
+svůj podpis jeden z jednatelů.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-02-12" dvy="1994-09-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Kladenská</are:ulice>
+      <are:cisloTxt>52</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>ak.mal.Josef valenta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-02-12" dvy="2010-04-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1992-02-12</are:vznikFunkce>
+     <are:zanikFunkce>2010-04-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22296476</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>U průhonu</are:ulice>
+      <are:cisloTxt>27</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Tuzar</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-06-18" dvy="2016-09-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21741107</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Bruselská</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimil</are:jmeno>
+     <are:prijmeni>Křiklava</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-02-27" dvy="2010-04-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1995-02-27</are:vznikFunkce>
+     <are:zanikFunkce>2010-04-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21781419</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Jeseniova</are:ulice>
+      <are:cisloTxt>79</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Hurych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19970269</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37371</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>Adamov</are:obec>
+      <are:castObce>Adamov</are:castObce>
+      <are:ulice>Adamovská</are:ulice>
+      <are:cisloPop>100</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VLASTIMIL</are:jmeno>
+     <are:prijmeni>KŘIKLAVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-03-30">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-03-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21705917</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloPop>791</are:cisloPop>
+      <are:cisloOr>41</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DAVID</are:jmeno>
+     <are:prijmeni>UHLÍŘ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-02-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-09-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5326362</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>53901</are:psc>
+      <are:okres>Chrudim</are:okres>
+      <are:obec>Hamry</are:obec>
+      <are:castObce>Hamry</are:castObce>
+      <are:cisloPop>106</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>HURYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19970269</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37371</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>Adamov</are:obec>
+      <are:castObce>Adamov</are:castObce>
+      <are:ulice>Adamovská</are:ulice>
+      <are:cisloPop>100</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VLASTIMIL</are:jmeno>
+     <are:prijmeni>KŘIKLAVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22295658</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bubeneč</are:castObce>
+      <are:mop>Praha 7</are:mop>
+      <are:ulice>Milady Horákové</are:ulice>
+      <are:cisloPop>861</are:cisloPop>
+      <are:cisloOr>74</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>TUZAR</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-31T15:30:57"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-31</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-31</are:Datum_vypisu>
+   <are:Cas_vypisu>15:30:57</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27409619</are:ICO>
+   <are:ObchodniFirma>Pembroke Jinonice a.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21706506</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:obec>Praha</are:obec>
+    <are:ulice>Na Příkopě</are:ulice>
+    <are:cisloPop>848</are:cisloPop>
+    <are:cisloOr>6</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2005-12-21</are:DatumZapisu>
+   <are:DatumVymazu>2014-02-10</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor bez poskytování jiných než základních služeb spojených s pronájmem a zajišťující řádný provoz nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2005-12-21" dvy="2014-02-10">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2005-12-21" dvy="2014-02-10">
+    <are:Text>
+Jménem společnosti jedná předseda představenstva a místopředseda představenstva samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2005-12-21" dvy="2009-02-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-12-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2005-12-21</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21737118</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12800</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:castObce>Nusle</are:castObce>
+      <are:ulice>Lumírova</are:ulice>
+      <are:cisloTxt>27/102</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Barry Alexander Cullen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-12-21" dvy="2010-09-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-12-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-05-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2005-12-21</are:vznikFunkce>
+     <are:zanikFunkce>2010-05-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25643134</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Hlubočepy</are:castObce>
+      <are:ulice>Malá Michnovka</are:ulice>
+      <are:cisloTxt>1/1122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Francis</are:jmeno>
+     <are:prijmeni>Nourse</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-12-21" dvy="2010-09-24">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-12-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22773185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:ulice>Na Parukářce</are:ulice>
+      <are:cisloTxt>2771/1</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Richard Henry Stewart Ness</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-06-22" dvy="2012-09-17">
+    <are:clenstvi>
+     <are:zanikClenstvi>2012-09-07</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2007-05-17</are:vznikFunkce>
+     <are:zanikFunkce>2012-09-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>372</are:stat>
+      <are:text>Delgany, County Wicklow, Glencarrig House</are:text>
+     </are:adresa>
+     <are:jmeno>Ronan</are:jmeno>
+     <are:prijmeni>O´Caoimh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-07-16" dvy="2012-09-17">
+    <are:clenstvi>
+     <are:zanikClenstvi>2012-09-07</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2007-05-17</are:vznikFunkce>
+     <are:zanikFunkce>2012-09-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>372</are:stat>
+      <are:text>Dublin 4, Donnybrook, Nutley Avenue 25</are:text>
+     </are:adresa>
+     <are:prijmeni>John Reihill</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-02-24" dvy="2012-09-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-12-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-09-07</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2005-12-21</are:vznikFunkce>
+     <are:zanikFunkce>2012-09-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22105689</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Smíchov</are:castObce>
+      <are:ulice>Na Hřebenkách</are:ulice>
+      <are:cisloTxt>2782/96</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Barry Alexander Cullen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-09-24" dvy="2012-06-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-12-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-12-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2010-05-20</are:vznikFunkce>
+     <are:zanikFunkce>2011-12-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25643134</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Hlubočepy</are:castObce>
+      <are:ulice>Malá Michnovka</are:ulice>
+      <are:cisloTxt>1/1122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Francis</are:jmeno>
+     <are:prijmeni>Nourse</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-09-24" dvy="2012-06-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-12-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-05-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22773185</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:ulice>Na Parukářce</are:ulice>
+      <are:cisloTxt>2771/1</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Richard Henry Stewart Ness</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-14" dvy="2012-09-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-12-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-09-07</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-05-20</are:vznikFunkce>
+     <are:zanikFunkce>2012-09-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22697039</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15900</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Velká Chuchle</are:castObce>
+      <are:ulice>Na Hvězdárně</are:ulice>
+      <are:cisloPop>410</are:cisloPop>
+     </are:adresa>
+     <are:prijmeni>Richard Henry Stewart Ness</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-09-17" dvy="2012-10-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-09-07</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-09-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2012-09-07</are:vznikFunkce>
+     <are:zanikFunkce>2012-09-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22529187</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19016</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Újezd nad Lesy</are:castObce>
+      <are:ulice>Hrádková</are:ulice>
+      <are:cisloPop>1237</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Dobeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-09-17" dvy="2014-02-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-09-07</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2012-09-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21941971</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Nusle</are:castObce>
+      <are:ulice>Petra Rezka</are:ulice>
+      <are:cisloPop>75</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Oldřich</are:jmeno>
+     <are:prijmeni>Kupec</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-09-17" dvy="2014-02-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-09-07</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22044892</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Radlice</are:castObce>
+      <are:ulice>U dívčích hradů</are:ulice>
+      <are:cisloPop>306</are:cisloPop>
+      <are:cisloOr>23</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Miloš</are:jmeno>
+     <are:prijmeni>Kocián</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-10-05" dvy="2014-02-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-09-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2012-09-21</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21696373</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11800</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:castObce>Malá Strana</are:castObce>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloPop>218</are:cisloPop>
+      <are:cisloOr>30</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Palička</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-09-10" dvy="2014-02-10">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2013-09-10" dvy="2014-02-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25718495</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28506</are:psc>
+      <are:obec>Úžice</are:obec>
+      <are:castObce>Mělník</are:castObce>
+      <are:cisloPop>41</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>KADLEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2005-12-21" dvy="2014-02-10">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2012-09-17" dvy="2014-02-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-09-07</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2012-09-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26766574</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16500</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Suchdol</are:castObce>
+      <are:ulice>Suchdolské náměstí</are:ulice>
+      <are:cisloPop>445</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Rudolf</are:jmeno>
+     <are:prijmeni>Vacek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-09-17" dvy="2014-02-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-09-07</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26213729</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15200</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Hlubočepy</are:castObce>
+      <are:ulice>Kováříkova</are:ulice>
+      <are:cisloPop>1145</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Denis</are:jmeno>
+     <are:prijmeni>Michoň</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-10-05" dvy="2014-02-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-09-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22529187</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19016</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Újezd nad Lesy</are:castObce>
+      <are:ulice>Hrádková</are:ulice>
+      <are:cisloPop>1237</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Dobeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2012-09-17" dvy="2014-02-10">
+   <are:Nazev>Jediný akcionář</are:Nazev>
+   <are:Clen dza="2012-11-06" dvy="2014-02-10">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>528</are:stat>
+      <are:psc>1077XX</are:psc>
+      <are:obec>Amsterdam</are:obec>
+      <are:ulice>Strawinskylaan 1223</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>Kaufstein B.V.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

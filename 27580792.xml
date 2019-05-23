@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-02-07T12:29:49"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-02-07</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-07</are:Datum_vypisu>
+   <are:Cas_vypisu>12:29:49</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27580792</are:ICO>
+   <are:ObchodniFirma>Hill's Pet Nutrition Manufacturing, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>73003298</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>18600</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Karlín</are:castObce>
+    <are:mop>Praha 8</are:mop>
+    <are:ulice>Rohanské nábřeží</are:ulice>
+    <are:cisloPop>678</are:cisloPop>
+    <are:cisloOr>23</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2006-08-15</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2006-08-15">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2006-08-15" dvy="2008-01-16">
+    <are:Text>
+Každý z jednatelů je oprávněn jednat jménem společnosti v celém rozsahu a samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2008-01-16" dvy="2014-01-20">
+    <are:Text>
+Jménem společnosti jednají vždy dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-01-20" dvy="2019-02-01">
+    <are:Text>
+Za společnost je oprávněn jednat každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2019-02-01">
+    <are:Text>
+Za společnost jednají vždy dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-08-15" dvy="2009-12-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-08-15</are:vznikFunkce>
+     <are:zanikFunkce>2009-11-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>826</are:stat>
+      <are:text>Mursley Bucks, MK170HX, Salden House</are:text>
+     </are:adresa>
+     <are:prijmeni>Nicholas Matterson</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-01-16" dvy="2008-01-16">
+    <are:funkce>
+     <are:vznikFunkce>2008-01-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>826</are:stat>
+      <are:text>Stoke Poges, SL2 4DA Buckinghamshire Templewood Park Montpellier Hause</are:text>
+     </are:adresa>
+     <are:jmeno>Selby Blake</are:jmeno>
+     <are:prijmeni>Hawley</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-01-16" dvy="2008-01-16">
+    <are:funkce>
+     <are:vznikFunkce>2008-01-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>826</are:stat>
+      <are:text>Nest Gate Gerrarrds Cross SL9 7PD Camp Road 56</are:text>
+     </are:adresa>
+     <are:prijmeni>Joergen Middelhede Erilksen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-01-16" dvy="2009-12-11">
+    <are:funkce>
+     <are:vznikFunkce>2008-01-10</are:vznikFunkce>
+     <are:zanikFunkce>2009-11-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>826</are:stat>
+      <are:text>Stoke Poges, SL2 4DA Buckinghamshire Templewood Park Montpellier House</are:text>
+     </are:adresa>
+     <are:jmeno>Selby Blake</are:jmeno>
+     <are:prijmeni>Hawley</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-01-16" dvy="2009-12-11">
+    <are:funkce>
+     <are:vznikFunkce>2008-01-10</are:vznikFunkce>
+     <are:zanikFunkce>2009-11-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>56</are:stat>
+      <are:text>Brasschaat Frilinglei 55 ,2930</are:text>
+     </are:adresa>
+     <are:jmeno>Catharine Marie</are:jmeno>
+     <are:prijmeni>Zaleha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-01-16" dvy="2011-02-25">
+    <are:funkce>
+     <are:vznikFunkce>2008-01-10</are:vznikFunkce>
+     <are:zanikFunkce>2011-01-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:text>Lawrence Kansas North Running Ridge Road 216, 66049</are:text>
+     </are:adresa>
+     <are:jmeno>Neil P.</are:jmeno>
+     <are:prijmeni>Stout</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-01-16" dvy="2011-02-25">
+    <are:funkce>
+     <are:vznikFunkce>2008-01-10</are:vznikFunkce>
+     <are:zanikFunkce>2011-01-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>826</are:stat>
+      <are:text>Nest Gate Gerrarrds Cross SL9 7PD Camp Road 56</are:text>
+     </are:adresa>
+     <are:prijmeni>Joergen Middelhede Eriksen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-01-16" dvy="2012-08-20">
+    <are:funkce>
+     <are:vznikFunkce>2008-01-10</are:vznikFunkce>
+     <are:zanikFunkce>2012-05-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:text>Topeka Kansas  SW 38th Street 5712, 66610</are:text>
+     </are:adresa>
+     <are:jmeno>Richard John</are:jmeno>
+     <are:prijmeni>Wienckowski</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-11" dvy="2009-12-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-11-04</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26305828</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25243</are:psc>
+      <are:obec>Průhonice</are:obec>
+      <are:ulice>Javorová</are:ulice>
+      <are:cisloTxt>613</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>John Martin Gouglas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-11" dvy="2010-05-28">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-11-04</are:vznikFunkce>
+     <are:zanikFunkce>2010-05-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27282431</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25262</are:psc>
+      <are:obec>Statenice</are:obec>
+      <are:ulice>Zelená</are:ulice>
+      <are:cisloTxt>409</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ivan Alexander Sandoval Gonzalez</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-11" dvy="2011-02-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-11-04</are:vznikFunkce>
+     <are:zanikFunkce>2011-01-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25707221</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16400</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Nebušice</are:castObce>
+      <are:ulice>Tuchoměřická</are:ulice>
+      <are:cisloTxt>169</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Donald Arthur Grause</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-11" dvy="2011-02-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-11-04</are:vznikFunkce>
+     <are:zanikFunkce>2011-01-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26305828</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25243</are:psc>
+      <are:obec>Průhonice</are:obec>
+      <are:ulice>Javorová</are:ulice>
+      <are:cisloTxt>613</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>John Martin Douglas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-05-28" dvy="2012-08-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-05-18</are:vznikFunkce>
+     <are:zanikFunkce>2012-05-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>36</are:stat>
+      <are:text>Cammeray NSW 2062, 34D Pine St</are:text>
+     </are:adresa>
+     <are:prijmeni>Lisa Maree Mather</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-25" dvy="2012-08-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-01-11</are:vznikFunkce>
+     <are:zanikFunkce>2012-05-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26153530</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16400</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Nebušice</are:castObce>
+      <are:ulice>Nebušická</are:ulice>
+      <are:cisloPop>693</are:cisloPop>
+     </are:adresa>
+     <are:prijmeni>Liaqath Ali Abbasi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-25" dvy="2014-04-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-01-11</are:vznikFunkce>
+     <are:zanikFunkce>2013-12-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:text>Kansas, Lawrence, Kingsmill Road 5101, 66047</are:text>
+     </are:adresa>
+     <are:prijmeni>Ann Semra Tracy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-25" dvy="2015-05-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-01-11</are:vznikFunkce>
+     <are:zanikFunkce>2015-04-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:text>Kansas, Overland Park, Knox Street 12908, 66213</are:text>
+     </are:adresa>
+     <are:prijmeni>Kirk Francis Putman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-04-14" dvy="2014-04-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-01-11</are:vznikFunkce>
+     <are:zanikFunkce>2013-12-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6539033</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25243</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Průhonice</are:obec>
+      <are:ulice>Borová</are:ulice>
+      <are:cisloPop>551</are:cisloPop>
+     </are:adresa>
+     <are:prijmeni>Erwin Gerardus Maria Oortman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-08-20" dvy="2015-02-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-05-14</are:vznikFunkce>
+     <are:zanikFunkce>2014-10-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Ke Kulišce</are:ulice>
+      <are:cisloPop>2623</are:cisloPop>
+      <are:cisloOr>1d</are:cisloOr>
+     </are:adresa>
+     <are:prijmeni>Francisco Javier Munoz Ramirez</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-08-20" dvy="2015-05-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-05-14</are:vznikFunkce>
+     <are:zanikFunkce>2014-01-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:text>Kansas, Hutton Farms, Lawrence, Ellie Lane 3515, 66049</are:text>
+     </are:adresa>
+     <are:prijmeni>James Edward Dodge</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-04-24" dvy="2016-01-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-12-30</are:vznikFunkce>
+     <are:zanikFunkce>2016-01-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>66208</are:psc>
+      <are:obec>Mission Hills, Kansas</are:obec>
+      <are:ulice>Overhill Road 6508</are:ulice>
+     </are:adresa>
+     <are:jmeno>JOYCE</are:jmeno>
+     <are:prijmeni>MCCARTHY</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-04-24" dvy="2016-01-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2013-12-30</are:vznikFunkce>
+     <are:zanikFunkce>2016-01-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>66047</are:psc>
+      <are:obec>Lawrence, Kansas</are:obec>
+      <are:ulice>Inverness 1600</are:ulice>
+     </are:adresa>
+     <are:jmeno>PETER</are:jmeno>
+     <are:prijmeni>BRONS-POULSEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-04-24" dvy="2016-09-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-05-14</are:vznikFunkce>
+     <are:zanikFunkce>2016-07-04</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:psc>1299</are:psc>
+      <are:obec>Crans-Pres-Celigny</are:obec>
+      <are:ulice>Chemin Des Grands Champs 13</are:ulice>
+     </are:adresa>
+     <are:jmeno>GARETH BRYN</are:jmeno>
+     <are:prijmeni>THOMAS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-07" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2014-11-01</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>11249</are:psc>
+      <are:obec>New York, Brooklyn</are:obec>
+      <are:ulice>2 Northside Piers, Apartment 15 K</are:ulice>
+     </are:adresa>
+     <are:jmeno>ANTONIO</are:jmeno>
+     <are:prijmeni>CARO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-04-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>10804</are:psc>
+      <are:obec>New Rochelle, NY 10804</are:obec>
+      <are:ulice>Alfred Lane 6</are:ulice>
+     </are:adresa>
+     <are:jmeno>GEORGE KENNEDY</are:jmeno>
+     <are:prijmeni>ODEGI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-05-12" dvy="2016-01-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-04-14</are:vznikFunkce>
+     <are:zanikFunkce>2016-01-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:psc>66049</are:psc>
+      <are:obec>Lawrence, Kansas</are:obec>
+      <are:ulice>1112 Waverly Drive</are:ulice>
+     </are:adresa>
+     <are:jmeno>ANDRES</are:jmeno>
+     <are:prijmeni>ROSA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-01-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2016-01-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1588265</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26762</are:psc>
+      <are:obec>Komárov</are:obec>
+      <are:castObce>Komárov</are:castObce>
+      <are:ulice>Sokolovická</are:ulice>
+      <are:cisloPop>482</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>FALTEJSEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-01" dvy="2019-02-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2016-07-04</are:vznikFunkce>
+     <are:zanikFunkce>2018-12-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:psc>4054</are:psc>
+      <are:obec>Basel</are:obec>
+      <are:ulice>Aescherstrasse 8</are:ulice>
+     </are:adresa>
+     <are:jmeno>CHARALABOS</are:jmeno>
+     <are:prijmeni>KLADOS</are:prijmeni>
+     <are:titulPred>Dr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2019-01-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:psc>4107</are:psc>
+      <are:obec>Ettingen</are:obec>
+      <are:ulice>Blauenweg 7a</are:ulice>
+     </are:adresa>
+     <are:jmeno>BIANCA</are:jmeno>
+     <are:prijmeni>PAULI PEDRAZZINI</are:prijmeni>
+     <are:titulPred>Dr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-02-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2019-01-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>73140422</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Purkyňova</are:ulice>
+      <are:cisloPop>2120</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ARNAUD JEAN JÉROME</are:jmeno>
+     <are:prijmeni>BREL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2006-08-15">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-11-10">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>528</are:stat>
+      <are:psc>4822ZW</are:psc>
+      <are:obec>Breda</are:obec>
+      <are:ulice>Westbroek 60 - 62</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>Hill's Pet Nutrition Holding B.V.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-14T16:17:48"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-14</are:Datum_vypisu>
+   <are:Cas_vypisu>16:17:48</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48171000</are:ICO>
+   <are:ObchodniFirma>MobilKom, a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22351035</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>18600</are:psc>
+    <are:obec>Praha 8</are:obec>
+    <are:ulice>Křižíkova</are:ulice>
+    <are:cisloTxt>čp 237,č.or.36a</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-04-01</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-04-01">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="1993-04-01" dvy="2006-12-22">
+    <are:Text>
+Zastupování a podepisování:
+Za společnost jednají a podepisují členové představenstva
+samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2006-12-22" dvy="2007-07-17">
+    <are:Text>
+Jménem společnosti jedná představenstvo. Navenek za představenstvo jedná jménem společnosti vždy předseda představenstva společně s dalším členem představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2007-07-17">
+    <are:Text>
+Jménem společnosti jedná představenstvo. Navenek za představenstvo jedná jménem společnosti vždy společně předseda představenstva a místopředseda představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-04-01" dvy="1999-01-18">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7765789</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Zámecká</are:ulice>
+      <are:cisloTxt>18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Košťál</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-01" dvy="2002-10-17">
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+     <are:zanikFunkce>2001-08-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:text>NC 28150 Shelby, 503 Shiloh Court</are:text>
+     </are:adresa>
+     <are:prijmeni>Karel F. Rybníček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-01" dvy="2006-03-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-08-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-03-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:vznikFunkce>2001-08-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:text>Thomas, WV 26292, p.o.box 240</are:text>
+     </are:adresa>
+     <are:prijmeni>George J. Grubr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-18" dvy="2002-12-28">
+    <are:clenstvi>
+     <are:zanikClenstvi>2001-08-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6590241</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Všenory</are:obec>
+      <are:ulice>V Americe</are:ulice>
+      <are:cisloTxt>114</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michael</are:jmeno>
+     <are:prijmeni>Trezzi</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-10-17" dvy="2005-02-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-08-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2004-11-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21754764</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Na Švihance</are:ulice>
+      <are:cisloTxt>1550/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Šmíd</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-12-28" dvy="2006-03-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2001-08-23</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-03-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>840</are:stat>
+      <are:text>NC 28150 Shelby, 503 Shiloh Court</are:text>
+     </are:adresa>
+     <are:prijmeni>Karel F. Rybníček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-04" dvy="2006-03-23">
+    <are:clenstvi>
+     <are:zanikClenstvi>2006-03-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2004-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>26718</are:psc>
+      <are:obec>Karlštejn</are:obec>
+      <are:castObce>Mezouň</are:castObce>
+      <are:cisloTxt>106</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Jíra</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-03-23" dvy="2006-03-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21762210</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Velehradská</are:ulice>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Paranthaman</are:jmeno>
+     <are:prijmeni>Narendan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-03-23" dvy="2007-07-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22004726</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15200</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Lamačova</are:ulice>
+      <are:cisloTxt>633/4</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ing. Martin Frývaldský-Betinský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-03-23" dvy="2009-06-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-03-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-03-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2006-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2008-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6529381</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25228</are:psc>
+      <are:obec>Černošice</are:obec>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloTxt>1924</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luboš</are:jmeno>
+     <are:prijmeni>Borik</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-03-30" dvy="2009-06-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-03-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-03-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21762210</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Velehradská</are:ulice>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Paranthaman</are:jmeno>
+     <are:prijmeni>Narendran</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-07-17" dvy="2008-02-29">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-03-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-02-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2007-06-27</are:vznikFunkce>
+     <are:zanikFunkce>2008-02-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22004726</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15200</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Lamačova</are:ulice>
+      <are:cisloTxt>633/4</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ing. Martin Frývaldský-Betinský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-02-29" dvy="2011-02-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-02-21</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2008-02-21</are:vznikFunkce>
+     <are:zanikFunkce>2011-01-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9600523</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58001</are:psc>
+      <are:obec>Havlíčkův Brod</are:obec>
+      <are:castObce>Žižkov II</are:castObce>
+      <are:cisloTxt>1270</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Brož</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-06-23" dvy="2009-07-31">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-06-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2009-06-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6529381</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25228</are:psc>
+      <are:obec>Černošice</are:obec>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloTxt>1924</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luboš</are:jmeno>
+     <are:prijmeni>Borik</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-06-23" dvy="2011-02-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-06-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-01-03</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21762210</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Velehradská</are:ulice>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Paranthaman</are:jmeno>
+     <are:prijmeni>Narendran</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-07-31" dvy="2011-02-15">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-06-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-01-03</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2009-06-08</are:vznikFunkce>
+     <are:zanikFunkce>2011-01-03</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6529381</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25228</are:psc>
+      <are:obec>Černošice</are:obec>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloTxt>1924</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ľuboš</are:jmeno>
+     <are:prijmeni>Bôrik</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-15" dvy="2011-05-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-01-03</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-03-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2011-01-03</are:vznikFunkce>
+     <are:zanikFunkce>2011-03-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Bánská Bystrica</are:obec>
+      <are:ulice>Rudlovská cesta</are:ulice>
+      <are:cisloPop>108</are:cisloPop>
+      <are:cisloOr>974</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Dominika</are:jmeno>
+     <are:prijmeni>Očovanová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-15" dvy="2011-05-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-02-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-03-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2011-01-03</are:vznikFunkce>
+     <are:zanikFunkce>2011-03-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9600523</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58001</are:psc>
+      <are:obec>Havlíčkův Brod</are:obec>
+      <are:castObce>Žižkov II</are:castObce>
+      <are:cisloTxt>1270</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Brož</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-15" dvy="2012-08-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-01-03</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-12-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Brabcova</are:ulice>
+      <are:cisloPop>1159</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Budník</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-05-18" dvy="2011-05-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-03-31</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2011-03-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14959411</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46401</are:psc>
+      <are:obec>Frýdlant</are:obec>
+      <are:ulice>Palackého</are:ulice>
+      <are:cisloPop>781</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Tybus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-05-18" dvy="2012-08-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-03-31</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-03-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2011-03-31</are:vznikFunkce>
+     <are:zanikFunkce>2012-03-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14959411</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46401</are:psc>
+      <are:obec>Frýdlant</are:obec>
+      <are:ulice>Palackého</are:ulice>
+      <are:cisloPop>781</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Tybus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-05-18" dvy="2012-08-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-03-31</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-03-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2011-03-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Plzeňská</are:ulice>
+      <are:cisloPop>178</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jakub</are:jmeno>
+     <are:prijmeni>Ševčík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-04-01">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2018-01-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2011-03-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23864273</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50003</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Hradec Králové</are:castObce>
+      <are:ulice>náměstí Jana Pavla II.</are:ulice>
+      <are:cisloPop>59</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUBOŠ</are:jmeno>
+     <are:prijmeni>JINDRA</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2011-05-18">
+   <are:Nazev>Jediný akcionář</are:Nazev>
+   <are:Clen dza="2011-05-18">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>196</are:stat>
+      <are:text>Limassol, Christabel House, Agias Fylaxeos 118, 3087</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>DIVENNO HOLDINGS CO. LIMITED</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

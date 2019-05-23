@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:18:38"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:18:38</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>SR</are:Rejstrik>
+   <are:ICO>15062830</are:ICO>
+   <are:ObchodniFirma>ZO FOS CHEMIE,BARVY A LAKY,OBCH.PROVOZOVNA 87</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23887559</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>50002</are:psc>
+    <are:okres>Hradec Králové</are:okres>
+    <are:obec>Hradec Králové</are:obec>
+    <are:castObce>Pražské Předměstí</are:castObce>
+    <are:ulice>U Fotochemy</are:ulice>
+    <are:cisloPop>448</are:cisloPop>
+    <are:cisloOr>1</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2015-12-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Pobočná odborová organizace Odborového svazu ECHO byla usnesením Předsednictva OS ECHO č. 12/2 ze dne 21. 1. 2015, vyloučena z Odborového svazu ECHO pro porušení Stanov OS ECHO, čl. 9 odst. 9.2 a čl. 18 odst. 18.3., z důvodu dlouhodobého nezaplacení člens
+kých příspěvků. Tato pobočná odborová organizace delší dobu, v řádu několika let, nevyvíjejí činnost odborové organizace a má se za to, že zanikla bez právního nástupce, aniž by zanechala majetek, který by mohl být předmětem likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Jiny_organ dza="2014-01-01" dvy="2015-12-01">
+   <are:Nazev>Zakladatel</are:Nazev>
+   <are:Clen dza="2014-01-01" dvy="2015-12-01">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21786798</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:ulice>náměstí Winstona Churchilla</are:ulice>
+      <are:cisloPop>1800</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:ICO>00225444</are:ICO>
+     <are:ObchodniFirma>Odborový svaz ECHO</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

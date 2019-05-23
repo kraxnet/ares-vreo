@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T21:11:21"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>21:11:21</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25751336</are:ICO>
+   <are:ObchodniFirma>SORO s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21943095</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Vladimírova</are:ulice>
+    <are:cisloTxt>5/289</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-04-06</are:DatumZapisu>
+   <are:DatumVymazu>2016-06-29</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost SORO s.r.o. v likvidaci, identifikační číslo 257 51 336 se vymazává po právní moci tohoto rozhodnutí z veřejného rejstříku včetně všech zapsaných skutečností. Právní důvod výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+úklidové práce
+     </are:Text>
+     <are:Text>
+zemní práce
+     </are:Text>
+     <are:Text>
+montážní práce bez požadavku odborné způsobilosti
+     </are:Text>
+     <are:Text>
+stavební práce bez požadavku na odbornost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-04-06" dvy="2016-06-29">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-04-06" dvy="2016-06-29">
+    <are:Text>
+Způsob jednání za společnost : Společnost zastupuje každý z
+jednatelů samostatně. Podepisování za společnost se děje tak, že
+k obchodnímu jménu společnosti připojí kterýkoliv z jednatelů
+svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-04-06" dvy="2000-09-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Jičín</are:okres>
+      <are:obec>Vesec</are:obec>
+      <are:ulice>penzion Selský Dvůr</are:ulice>
+     </are:adresa>
+     <are:jmeno>Pavlo</are:jmeno>
+     <are:prijmeni>Sorokhman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-09-12" dvy="2016-06-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22543198</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>U vinných sklepů</are:ulice>
+      <are:cisloTxt>317/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lohosh</are:jmeno>
+     <are:prijmeni>Ivan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-07-30" dvy="2016-06-29">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2015-07-30" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21704945</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloPop>700</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>MAREŠOVÁ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-04-06" dvy="2016-06-29">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rachov</are:obec>
+      <are:ulice>Dovženka</are:ulice>
+      <are:cisloTxt>163</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavlo</are:jmeno>
+     <are:prijmeni>Sorokhman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rachovskij,</are:obec>
+      <are:ulice>Bohdan</are:ulice>
+      <are:cisloTxt>73</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Shemota</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rachov</are:obec>
+      <are:ulice>Zalizična</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Savchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Žitomirska, Korosten</are:obec>
+      <are:ulice>Kirova</are:ulice>
+      <are:cisloTxt>11/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nataliia</are:jmeno>
+     <are:prijmeni>Kravchenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Rachov</are:obec>
+      <are:ulice>ul.Burkur</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Lohosh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska ,Rachov</are:obec>
+      <are:ulice>Ul.Burkut</are:ulice>
+      <are:cisloTxt>78</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Olashyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Nikolayev</are:obec>
+      <are:ulice>Kr.Pole</are:ulice>
+      <are:cisloTxt>76</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Salamaha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska</are:obec>
+      <are:ulice>Vel.Bereznyý,Vakarova</are:ulice>
+      <are:cisloTxt>4/39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nadiya</are:jmeno>
+     <are:prijmeni>Dombay</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Vel.Bereznyy</are:obec>
+      <are:ulice>ul.Gožika</are:ulice>
+      <are:cisloTxt>97/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lidiya</are:jmeno>
+     <are:prijmeni>Salimova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Vel.Bereznyy</are:obec>
+      <are:ulice>ul.Roztoka Pastil</are:ulice>
+      <are:cisloTxt>49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Paletych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska</are:obec>
+      <are:ulice>Boryslav,V.Belykoho</are:ulice>
+      <are:cisloTxt>175/32</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nadiya</are:jmeno>
+     <are:prijmeni>Oleksyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Poltava</are:obec>
+      <are:ulice>Nikitčenko</are:ulice>
+      <are:cisloTxt>163</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zhana</are:jmeno>
+     <are:prijmeni>Lytvynenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska,Drohobyč</are:obec>
+      <are:ulice>Konovalcya</are:ulice>
+      <are:cisloTxt>5/122</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Leonid</are:jmeno>
+     <are:prijmeni>Shlapak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska</are:obec>
+      <are:ulice>Sambirsiy,ul.Kornolovyči</are:ulice>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Petskovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Rachovskyi okr.</are:obec>
+      <are:ulice>V.Bilyn</are:ulice>
+      <are:cisloTxt>24</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Doroban</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Donecka,Horlivka</are:obec>
+      <are:ulice>Hrečneva</are:ulice>
+      <are:cisloTxt>10/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Sanzharovska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Rachov</are:obec>
+      <are:ulice>Dovženka</are:ulice>
+      <are:cisloTxt>82</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Shtefura</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Chust</are:obec>
+      <are:ulice>Leonova</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Myroslava</are:jmeno>
+     <are:prijmeni>Aleksovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zytomyrska,Baranivka</are:obec>
+      <are:ulice>Kirova</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Liudmyla</are:jmeno>
+     <are:prijmeni>Kovalska</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Rachovskiy</are:obec>
+      <are:ulice>V.Bilyn</are:ulice>
+      <are:cisloTxt>27</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Halyna</are:jmeno>
+     <are:prijmeni>Shtefanyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Rovno</are:obec>
+      <are:ulice>ul.Šuchevyčal</are:ulice>
+      <are:cisloTxt>2/88</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hrynoriy</are:jmeno>
+     <are:prijmeni>Shpak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Tyačevovskiy okr.</are:obec>
+      <are:ulice>ul.Vilchivci</are:ulice>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Horzov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kirovohrad</are:obec>
+      <are:ulice>ul.Janovskoho</are:ulice>
+      <are:cisloTxt>102</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Basaraba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Kirovohrad</are:obec>
+      <are:ulice>ul.Janovskoho</are:ulice>
+      <are:cisloTxt>102</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andrei</are:jmeno>
+     <are:prijmeni>Basaraba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska</are:obec>
+      <are:ulice>Vel.Bychkiv,Tycha</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Soyma</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Rachov</are:obec>
+      <are:ulice>ul.Dovženko</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Shelelo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Mezhorje</are:obec>
+      <are:ulice>ul.Vozjednannja</are:ulice>
+      <are:cisloTxt>9/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Popovyh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska</are:obec>
+      <are:ulice>Mežhorje,ul.Vozjednannja</are:ulice>
+      <are:cisloTxt>9/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Popovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Rachov</are:obec>
+      <are:ulice>ul.Dovženka</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Slyusarchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Tyachivskiy</are:obec>
+      <are:ulice>V.Buštyno,ul.Čapajeva</are:ulice>
+      <are:cisloTxt>59</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Veklynets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Rachov</are:obec>
+      <are:ulice>ul.Doženka</are:ulice>
+      <are:cisloTxt>287</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Dyachuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Rachov</are:obec>
+      <are:ulice>Pidhirna</are:ulice>
+      <are:cisloTxt>9/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Kozurak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Homel</are:obec>
+      <are:ulice>ul.Manevyča</are:ulice>
+      <are:cisloTxt>24/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Urubleuskaya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Best</are:obec>
+      <are:ulice>ul.Puškinskaja</are:ulice>
+      <are:cisloTxt>105/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volha</are:jmeno>
+     <are:prijmeni>Liakh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ivano-Frankiuska,Čortovec</are:obec>
+      <are:ulice>ul.Dynysivka</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Taras</are:jmeno>
+     <are:prijmeni>Kolisnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska,Mykolayivskiy</are:obec>
+      <are:ulice>v.Hirske ul.Vilna</are:ulice>
+      <are:cisloTxt>73</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Babiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lviv</are:obec>
+      <are:ulice>ul.Stefanyka</are:ulice>
+      <are:cisloTxt>8/a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Fayda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Lvivska,Sambirskyý okr.</are:obec>
+      <are:ulice>V.Kornalovych</are:ulice>
+      <are:cisloTxt>38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lyubomyra</are:jmeno>
+     <are:prijmeni>Petskovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Cherson</are:obec>
+      <are:ulice>ul.Krasnoarmiyska</are:ulice>
+      <are:cisloTxt>16/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kateryna</are:jmeno>
+     <are:prijmeni>Kurnyavtseva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-04-06" dvy="2016-06-29">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatska,Rachov</are:obec>
+      <are:ulice>Dovženka</are:ulice>
+      <are:cisloTxt>163</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Myroslav</are:jmeno>
+     <are:prijmeni>Kovachuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

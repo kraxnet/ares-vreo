@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-29T15:57:30"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-29</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-29</are:Datum_vypisu>
+   <are:Cas_vypisu>15:57:30</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>49358006</are:ICO>
+   <are:ObchodniFirma>OPREKO TRADE spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21758620</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12800</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Vyšehrad</are:castObce>
+    <are:mop>Praha 2</are:mop>
+    <are:ulice>Na slupi</are:ulice>
+    <are:cisloPop>93</are:cisloPop>
+    <are:cisloOr>1</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-05-05</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej vyjma
+ zboží uvedeného v příl. 2-3 zák.č. 455/9l Sb.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-05-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-05-05" dvy="1993-09-01">
+    <are:Text>
+Každý z jednatelů jedná samostatně. Pouze v níže uvedených věcech
+jednají oba jednatelé společně:
+a) prodej a nákup nemovitostí v ceně nad 5OO.OOO,-Kč
+b) poskytování či převzetí úvěrů a půjček nad 5OO.OOO,-Kč
+c) prodej a nákup věci movitých za cenu výšší než 5OO.OOO,-Kč
+d) sjednávání obchodu v hodnotě vyšší než 5OO.OOO,-Kč
+Podepisování za společnost: podepisování za společnost se děje
+tak, že k vytištěnému nebo napsanému obchodnímu jménu společnosti
+připojí podpis kterýkoliv z jednatelů společnosti. V případech,
+kde jednají oba jednatelé společně, připojí své podpisy oba.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-09-01">
+    <are:Text>
+Podepisování za společnost: Podepisování za společnost se
+děje tak, že k vytištěnému nebo napsanému obchodnímu jménu
+společnosti připojí svůj podpis likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-05-05" dvy="1993-09-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Vratislavova</are:ulice>
+      <are:cisloTxt>l6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Šebesta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-05-05" dvy="1993-09-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Na valech</are:ulice>
+      <are:cisloTxt>l2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Hora</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-01" dvy="2016-10-04">
+    <are:funkce>
+     <are:nazev>likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:obec>Praha lO</are:obec>
+      <are:ulice>Jahodová 27O6/ll9</are:ulice>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Satoranský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-04" dvy="2018-10-26">
+    <are:funkce>
+     <are:nazev>likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22686037</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10600</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Záběhlice</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Jahodová</are:ulice>
+      <are:cisloPop>2706</are:cisloPop>
+      <are:cisloOr>119</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>SATORÁNSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-26">
+    <are:funkce>
+     <are:nazev>likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21804338</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Braník</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>U dubu</are:ulice>
+      <are:cisloPop>749</are:cisloPop>
+      <are:cisloOr>76</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>SATORÁNSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-05-05">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-10-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21758093</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vyšehrad</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Vratislavova</are:ulice>
+      <are:cisloPop>26</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>ŠEBESTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22216383</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hradčany</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Na valech</are:ulice>
+      <are:cisloPop>285</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MILAN</are:jmeno>
+     <are:prijmeni>HORA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

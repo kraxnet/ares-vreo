@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T06:12:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>06:12:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26800179</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek Heyrovského 407/29 a 408/31, Olomouc</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23332077</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>77900</are:psc>
+    <are:okres>Olomouc</are:okres>
+    <are:obec>Olomouc</are:obec>
+    <are:castObce>Povel</are:castObce>
+    <are:ulice>Heyrovského</are:ulice>
+    <are:cisloPop>407</are:cisloPop>
+    <are:cisloOr>29</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2003-04-08</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+zajišťování správy domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-04-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-04-08" dvy="2016-11-11">
+    <are:Text>
+Způsob jednání jménem společenství :
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná
+forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-11-11">
+    <are:Text>
+Výbor zastupuje společenství ve všech záležitostech. Navenek zastupuje společenství předseda výboru a v jeho nepřítomnosti místopředseda výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2013-02-20">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332085</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>408</are:cisloPop>
+      <are:cisloOr>31</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTA</are:jmeno>
+     <are:prijmeni>ŠINDELÁŘOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-02-20" dvy="2015-12-19">
+    <are:clenstvi>
+     <are:zanikClenstvi>2014-12-31</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2014-12-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>407</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KARLA</are:jmeno>
+     <are:prijmeni>VAŠICOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-02-20" dvy="2015-12-19">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2015-04-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332085</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>408</are:cisloPop>
+      <are:cisloOr>31</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>ANDĚL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-02-20" dvy="2015-12-19">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>407</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JINDŘICH</are:jmeno>
+     <are:prijmeni>VEČEŘA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-12-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-01-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-04-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332085</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>408</are:cisloPop>
+      <are:cisloOr>31</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>ANDĚL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-12-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-01-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2015-04-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>407</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JINDŘICH</are:jmeno>
+     <are:prijmeni>VEČEŘA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-12-19" dvy="2016-11-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-04-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>407</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETRA</are:jmeno>
+     <are:prijmeni>PTÁČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-04-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>407</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETRA</are:jmeno>
+     <are:prijmeni>ČLUPNÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2003-04-08" dvy="2013-02-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2003-04-08" dvy="2008-03-29">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2003-04-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc - Povel</are:obec>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloTxt>407/29</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karla</are:jmeno>
+     <are:prijmeni>Vašicová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-08" dvy="2008-03-29">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2003-04-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc - Povel</are:obec>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloTxt>408/31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Kirschbaum</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-08" dvy="2008-03-29">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-04-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc - Povel</are:obec>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloTxt>407/29</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kožený</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-08" dvy="2008-03-29">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-04-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc - Povel</are:obec>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloTxt>408/31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Vašíček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-29" dvy="2008-08-30">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc - Povel</are:obec>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloTxt>408/31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Kirschbaum</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-29" dvy="2010-04-29">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloTxt>407/29</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Holubová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-29" dvy="2012-02-13">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332085</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloTxt>408/31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Uhřík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-29" dvy="2013-02-20">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc - Povel</are:obec>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloTxt>407/29</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karla</are:jmeno>
+     <are:prijmeni>Vašicová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-30" dvy="2013-02-20">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332085</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloTxt>408/31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Anděl</are:prijmeni>
+     <are:titulPred>PharmDr.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-04-29" dvy="2012-02-13">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>407</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Lucie</are:jmeno>
+     <are:prijmeni>Nechybová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-02-13" dvy="2013-02-20">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332085</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>408</are:cisloPop>
+      <are:cisloOr>31</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Marta</are:jmeno>
+     <are:prijmeni>Šindelářová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-02-13" dvy="2013-02-20">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23332077</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Povel</are:castObce>
+      <are:ulice>Heyrovského</are:ulice>
+      <are:cisloPop>407</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Lucie</are:jmeno>
+     <are:prijmeni>Lehečková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

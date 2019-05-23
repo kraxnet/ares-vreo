@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-30T12:45:20"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-30</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-30</are:Datum_vypisu>
+   <are:Cas_vypisu>12:45:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28199049</are:ICO>
+   <are:ObchodniFirma>Scabra, a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21727660</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:obec>Praha 2</are:obec>
+    <are:ulice>Lazarská</are:ulice>
+    <are:cisloTxt>11/6</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2007-12-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Pronájem nemovitostí, bytů a nebytových prostor bez poskytování jiných než základních služeb zajišťujících řádný provoz nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-12-12">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2007-12-12" dvy="2014-12-19">
+    <are:Text>
+Jménem společnosti jedná buď předseda představenstva samostatně, nebo společně dva členové představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-12-19">
+    <are:Text>
+Společnost zastupuje a jedná za ni jediný člen představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-12-12" dvy="2010-01-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2007-12-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18105351</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56401</are:psc>
+      <are:obec>Dlouhoňovice</are:obec>
+      <are:ulice>Školská</are:ulice>
+      <are:cisloTxt>71</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Vych</are:prijmeni>
+     <are:titulPred>JUDr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-12-12" dvy="2010-01-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-12-12</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-11-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25326619</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Bobkova</are:ulice>
+      <are:cisloTxt>719</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Richard</are:jmeno>
+     <are:prijmeni>Tejkl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-12-12" dvy="2014-08-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17705371</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38301</are:psc>
+      <are:obec>Prachatice</are:obec>
+      <are:ulice>Kaštanová</are:ulice>
+      <are:cisloTxt>827</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lucie</are:jmeno>
+     <are:prijmeni>Matějíková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+     <are:titulZa>LL.M.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-01-13" dvy="2013-11-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-12-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2007-12-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25130625</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany</are:obec>
+      <are:ulice>Botičská</are:ulice>
+      <are:cisloTxt>1908/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Vych</are:prijmeni>
+     <are:titulPred>JUDr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-01-13" dvy="2014-12-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-11-14</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-10-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2014-10-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19463103</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61400</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Hlaváčova</are:ulice>
+      <are:cisloTxt>354/69</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kroul</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-14" dvy="2014-12-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-12-12</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-12-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2007-12-12</are:vznikFunkce>
+     <are:zanikFunkce>2012-12-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25130625</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Říčany</are:castObce>
+      <are:ulice>Botičská</are:ulice>
+      <are:cisloPop>1908</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>VYCH</are:prijmeni>
+     <are:titulPred>JUDr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-08-07" dvy="2014-12-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-12-12</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-10-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2014-10-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17705371</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38301</are:psc>
+      <are:obec>Prachatice</are:obec>
+      <are:castObce>Prachatice II</are:castObce>
+      <are:ulice>Kaštanová</are:ulice>
+      <are:cisloPop>827</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LUCIE</are:jmeno>
+     <are:prijmeni>MATĚJÍKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+     <are:titulZa>LL.M.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-12-19" dvy="2018-12-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-12-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2012-12-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25130625</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Říčany</are:castObce>
+      <are:ulice>Botičská</are:ulice>
+      <are:cisloPop>1908</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>VYCH</are:prijmeni>
+     <are:titulPred>JUDr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-12-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-12-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2012-12-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28301463</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Tehov</are:obec>
+      <are:castObce>Tehov</are:castObce>
+      <are:ulice>Slunečná</are:ulice>
+      <are:cisloPop>228</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>VYCH</are:prijmeni>
+     <are:titulPred>JUDr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2007-12-12">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2018-11-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-11-13</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2013-11-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>78605296</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25241</are:psc>
+      <are:okres>Praha-západ</are:okres>
+      <are:obec>Dolní Břežany</are:obec>
+      <are:castObce>Lhota</are:castObce>
+      <are:ulice>V Ouzkém</are:ulice>
+      <are:cisloPop>219</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VERONIKA</are:jmeno>
+     <are:prijmeni>BOČANOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2010-01-13">
+   <are:Nazev>Jediný akcionář</are:Nazev>
+   <are:Clen dza="2018-12-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28301463</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Tehov</are:obec>
+      <are:castObce>Tehov</are:castObce>
+      <are:ulice>Slunečná</are:ulice>
+      <are:cisloPop>228</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>VYCH</are:prijmeni>
+     <are:titulPred>JUDr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

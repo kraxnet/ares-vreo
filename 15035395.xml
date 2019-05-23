@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T06:10:24"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>06:10:24</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>15035395</are:ICO>
+   <are:ObchodniFirma>TOP - W  komanditní společnost v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>999999999</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>57101</are:psc>
+    <are:obec>Moravská Třebová</are:obec>
+    <are:ulice>Marxova</are:ulice>
+    <are:cisloTxt>1</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-09-05</are:DatumZapisu>
+   <are:DatumVymazu>2007-06-26</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+- výrobní činnosti - stavební výroba - svrchní úpravy střech
+/opravy a rekonstrukce, pokládání nových krytin apod./
+- zámečnické, klempířské apod. práce prováděné návazně
+na výkony stavební výroby
+- obor 735 - polygrafická výroba
+     </are:Text>
+     <are:Text>
+- velkoobchodní činnost (především - nákup a prodej materiálu pro
+vžrobní spotřebu, strojů a zařízení, mat. a průmyslového zboží
+spotřebního charakteru a potravin - zásobování, též pro
+maloobchodní prodej)
+     </are:Text>
+     <are:Text>
+- zprostředkování prodeje a nákupu zboží a služeb
+     </are:Text>
+     <are:Text>
+- zásilková činnost
+     </are:Text>
+     <are:Text>
+- leasingová činnost a pronájmy strojů a zařízení apod.
+     </are:Text>
+     <are:Text>
+- zahraničně obchodní činnost v oblasti nákupu a prodeje zboží v
+souladu s par. 4 vyhl. FMZO č. 27/91 Sb. dovoz a vývoz dle
+nař.vl.č. 256/90 Sb.
+     </are:Text>
+     <are:Text>
+- maloobchodní prodej
+     </are:Text>
+     <are:Text>
+- nákladní silniční doprava
+     </are:Text>
+     <are:Text>
+- restaurační činnost (provoz restaurace) a ubytování
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-09-05" dvy="2007-04-05">
+   <are:Nazev>Statutární orgán - komplementář</are:Nazev>
+   <are:Clen dza="1991-09-05" dvy="1993-04-01">
+    <are:funkce>
+     <are:nazev>Ředitel společnosti</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15984117</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Moravská Třebová</are:obec>
+      <are:ulice>Pod Hamry</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Víšek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-01" dvy="2007-04-05">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15984117</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Moravská Třebová</are:obec>
+      <are:ulice>Pod Hamry</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Víšek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-04-05" dvy="2007-06-26">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2007-04-05" dvy="2007-06-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56802</are:psc>
+      <are:obec>Svitavy</are:obec>
+      <are:ulice>nám. Míru</are:ulice>
+      <are:cisloTxt>50</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Šváb</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

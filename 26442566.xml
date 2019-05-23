@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T03:56:15"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>03:56:15</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26442566</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků Biskupcova 42, Praha 3</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21785767</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>13000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Žižkov</are:castObce>
+    <are:mop>Praha 3</are:mop>
+    <are:ulice>Biskupcova</are:ulice>
+    <are:cisloPop>1719</are:cisloPop>
+    <are:cisloOr>42</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-04-19</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-04-19">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-04-19" dvy="2016-03-09">
+    <are:Text>
+Za výbor společenství jedná navenek předseda výboru nebo
+výborem písemně pověřený člen výboru. Je-li pro právní úkon
+zapotřebí písemná forma, je nezbytný popdis předsedy výboru a
+dalšího člena výboru. Je-li statutárním orgánem pověřený
+vlastník, postačí k písemnému právnímu úkonu jeho podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-03-09">
+    <are:Text>
+Za výbor jedná navenek jeho předseda nebo místopředseda. Jde-li o právní jednání v písemné formě, které činí výbor, vyžaduje se podpis předsedy nebo místopředsedy a dalšího člena výboru. Podepisuje-li předseda spolu s místopředsedou, považuje se podpis mí
+stopředsedy za podpis dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-04-19" dvy="2003-12-24">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21942099</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Táborská</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Popovič</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-19" dvy="2003-12-24">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Schwarzovo nám.</are:ulice>
+      <are:cisloTxt>1720</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lukáš</are:jmeno>
+     <are:prijmeni>Hendrych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-19" dvy="2003-12-24">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21785767</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 3</are:okres>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloTxt>1719/42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonie</are:jmeno>
+     <are:prijmeni>Martínková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-19" dvy="2006-12-28">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21785767</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 3</are:okres>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloTxt>1719/42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Kryzánek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-19" dvy="2012-06-06">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21785767</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 3</are:okres>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloTxt>1719/42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Sadílek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-24" dvy="2006-12-28">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2003-10-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22427155</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Slévačská</are:ulice>
+      <are:cisloTxt>905/32</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Strnadlová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-24" dvy="2006-12-28">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-10-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22122818</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Píškova</are:ulice>
+      <are:cisloTxt>1941/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Tůma</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-12-24" dvy="2012-06-06">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-10-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21785767</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloTxt>1719/42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karla</are:jmeno>
+     <are:prijmeni>Skoumalová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-28" dvy="2012-06-06">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2003-10-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22122818</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Píškova</are:ulice>
+      <are:cisloTxt>1941/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Tůma</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-06" dvy="2012-06-06">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21762511</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:ulice>Kolínská</are:ulice>
+      <are:cisloPop>1741</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Zuzana</are:jmeno>
+     <are:prijmeni>Maxmiliánová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-06" dvy="2016-03-09">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-10-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22122818</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Píškova</are:ulice>
+      <are:cisloTxt>1941/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Tůma</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-06" dvy="2016-03-09">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21762511</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:ulice>Kolínská</are:ulice>
+      <are:cisloPop>1741</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Beznoska</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-06" dvy="2016-03-09">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloPop>1719</are:cisloPop>
+      <are:cisloOr>42</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Zuzana</are:jmeno>
+     <are:prijmeni>Maximiliánová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-02-04" dvy="2016-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-06-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21785767</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloPop>1719</are:cisloPop>
+      <are:cisloOr>42</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JARMILA</are:jmeno>
+     <are:prijmeni>PTÁČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-02-04" dvy="2016-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-06-26</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21793697</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Koněvova</are:ulice>
+      <are:cisloPop>2398</are:cisloPop>
+      <are:cisloOr>180</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>KRYZÁNEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-11-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-11-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21785767</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloPop>1719</are:cisloPop>
+      <are:cisloOr>42</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>BEZNOSKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-11-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2015-11-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21793697</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Koněvova</are:ulice>
+      <are:cisloPop>2398</are:cisloPop>
+      <are:cisloOr>180</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>KRYZÁNEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-11-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8595402</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>27101</are:psc>
+      <are:okres>Rakovník</are:okres>
+      <are:obec>Ruda</are:obec>
+      <are:castObce>Ruda</are:castObce>
+      <are:ulice>Rakovnická</are:ulice>
+      <are:cisloPop>100</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>VAIT</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>03:56:15</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26442566</are:ICO>
+   <are:ObchodniFirma>Společenství Biskupcova 1719, Praha 3</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>13000</are:psc>
+    <are:okres>Praha 3</are:okres>
+    <are:obec>Praha 3</are:obec>
+    <are:castObce>Žižkov</are:castObce>
+    <are:ulice>Biskupcova č. or. 42 čp. 1719</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-04-19</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa, provoz a opravy společných částí domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-04-19" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-04-19" dvy="2001-12-31">
+    <are:Text>
+Za výbor společenství jedná navenek předseda výboru nebo
+výborem písemně pověřený člen výboru. Je-li pro právní úkon
+zapotřebí písemná forma, je nezbytný popdis předsedy výboru a
+dalšího člena výboru. Je-li statutárním orgánem pověřený
+vlastník, postačí k písemnému právnímu úkonu jeho podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-04-19" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21942099</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Táborská</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Popovič</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-19" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21785767</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 3</are:okres>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloTxt>1719/42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Kryzánek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-19" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7792361</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Pardubice</are:okres>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Schwarzovo nám.</are:ulice>
+      <are:cisloTxt>1720</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lukáš</are:jmeno>
+     <are:prijmeni>Hendrych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-19" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21785767</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 3</are:okres>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloTxt>1719/42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonie</are:jmeno>
+     <are:prijmeni>Martínková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-19" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-04-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21785767</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 3</are:okres>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Biskupcova</are:ulice>
+      <are:cisloTxt>1719/42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Sadílek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

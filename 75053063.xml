@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-18T09:29:43"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-18</are:Datum_vypisu>
+   <are:Cas_vypisu>09:29:43</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>SR</are:Rejstrik>
+   <are:ICO>75053063</are:ICO>
+   <are:ObchodniFirma>Základní organizace OS UNIOS Novoměstská správa budov s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3458717</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>59231</are:psc>
+    <are:okres>Žďár nad Sázavou</are:okres>
+    <are:obec>Nové Město na Moravě</are:obec>
+    <are:castObce>Nové Město na Moravě</are:castObce>
+    <are:ulice>Vratislavovo náměstí</are:ulice>
+    <are:cisloPop>12</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2018-10-10</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Základní organizace OS UNIOS Novoměstská správa budov s.r.o. se vymazává ke dni právní moci tohoto rozhodnutí ze spolkového rejstříku včetně všech zapsaných skutečností. Právním důvodem výmazu je zánik organizační jednotky Odborového svazu UNIOS v souladu
+ s ust. § 12 odst. 1 písm. a) zák. č. 83/1990 Sb., o sdružování občanů, ve znění platném a účinném do 31.12.2013.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Jiny_organ dza="2014-01-01" dvy="2018-10-10">
+   <are:Nazev>Zakladatel</are:Nazev>
+   <are:Clen dza="2014-01-01" dvy="2018-10-10">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21786798</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:ulice>náměstí Winstona Churchilla</are:ulice>
+      <are:cisloPop>1800</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:ICO>00006068</are:ICO>
+     <are:ObchodniFirma>Odborový svaz UNIOS</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

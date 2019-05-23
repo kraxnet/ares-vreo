@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-01-04T21:23:37"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-01-04</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-01-04</are:Datum_vypisu>
+   <are:Cas_vypisu>21:23:37</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>24255912</are:ICO>
+   <are:ObchodniFirma>Around Inside Development s.r.o., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21849781</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14200</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Kamýk</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>U Kamýku</are:ulice>
+    <are:cisloPop>284</are:cisloPop>
+    <are:cisloOr>11</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2012-08-01</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Pronájem nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2012-08-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2012-08-01" dvy="2013-01-14">
+    <are:Text>
+Jménem společnosti jedná její jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2013-01-14" dvy="2015-11-12">
+    <are:Text>
+Jménem společnosti jednají a podepisují dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-11-12">
+    <are:Text>
+Každý jednatel zastupuje společnost navenek ve všech záležitostech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2012-08-01" dvy="2013-01-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-08-01</are:vznikFunkce>
+     <are:zanikFunkce>2012-11-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21849781</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:ulice>U Kamýku</are:ulice>
+      <are:cisloTxt>284/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Žižka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-14" dvy="2015-11-12">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-11-16</are:vznikFunkce>
+     <are:zanikFunkce>2014-11-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21872813</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Krč</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Za pruhy</are:ulice>
+      <are:cisloPop>1543</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOHN</are:jmeno>
+     <are:prijmeni>BRANDON</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-14" dvy="2017-03-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-11-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21696721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malá Strana</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloPop>244</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>CATHERINE</are:jmeno>
+     <are:prijmeni>NARDIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2017-03-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-03-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21762872</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Libická</are:ulice>
+      <are:cisloPop>1832</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>WESLEY MARTIN</are:jmeno>
+     <are:prijmeni>SCALES</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-03-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-11-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21696721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malá Strana</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloPop>244</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>CATHERINE MARIE LOUISE</are:jmeno>
+     <are:prijmeni>NARDIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-03-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-03-25</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21762872</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 3</are:mop>
+      <are:ulice>Libická</are:ulice>
+      <are:cisloPop>1832</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>WESLEY MARTIN</are:jmeno>
+     <are:prijmeni>SCALES</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-02-17">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-02-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21696721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Malá Strana</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Nerudova</are:ulice>
+      <are:cisloPop>244</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>CATHERINE MARIE LOUISE</are:jmeno>
+     <are:prijmeni>NARDIN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2012-08-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-01-14">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:ulice>U Kamýku</are:ulice>
+      <are:cisloPop>284</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:ICO>24236659</are:ICO>
+     <are:ObchodniFirma>Jinx Investment, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-14">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21849781</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>U Kamýku</are:ulice>
+      <are:cisloPop>284</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:ICO>24802573</are:ICO>
+     <are:ObchodniFirma>ZsaZsa Investment, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-14">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21768111</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:castObce>Žižkov</are:castObce>
+      <are:ulice>Husitská</are:ulice>
+      <are:cisloPop>107</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:ICO>24802123</are:ICO>
+     <are:ObchodniFirma>TPM INVEST s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T23:34:04"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>23:34:04</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25983890</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků pro dům č.p. 624,625 v Chocni</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>5670063</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>56501</are:psc>
+    <are:okres>Ústí nad Orlicí</are:okres>
+    <are:obec>Choceň</are:obec>
+    <are:castObce>Choceň</are:castObce>
+    <are:ulice>Ostrovní</are:ulice>
+    <are:cisloPop>625</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2003-03-10</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Správa domu
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-03-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-03-10" dvy="2017-02-25">
+    <are:Text>
+Způsob jednání jménem společenství:
+Jménem společenství jedná předseda výboru nebo výborem písemně
+pověřený člen výboru.
+Písemný právní úkon musí být podepsán předsedou a dalším členem
+výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2017-02-25">
+    <are:Text>
+Jménem společenství jedná předseda výboru nebo výborem písemně pověřený člen výboru. Písemný právní úkon musí být podepsán předsedou a dalším členem výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2011-12-30" dvy="2016-10-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-06-14</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2011-06-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670063</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloTxt>625</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natálie</are:jmeno>
+     <are:prijmeni>Janebová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-30" dvy="2016-10-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-06-14</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670063</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloTxt>625</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Bernard</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-30" dvy="2016-10-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-06-14</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670055</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloPop>624</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Soňa</are:jmeno>
+     <are:prijmeni>Novotná</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-06" dvy="2017-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-06-14</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-06-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2011-06-14</are:vznikFunkce>
+     <are:zanikFunkce>2016-06-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670063</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloPop>625</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>NATÁLIE</are:jmeno>
+     <are:prijmeni>JANEBOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-06" dvy="2017-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-06-14</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-06-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670063</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloPop>625</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>BERNARD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-06" dvy="2017-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-06-14</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-06-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670055</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloPop>624</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>SOŇA</are:jmeno>
+     <are:prijmeni>NOVOTNÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-11-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2016-11-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670063</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloPop>625</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>NATÁLIE</are:jmeno>
+     <are:prijmeni>JANEBOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+     <are:titulZa>DiS.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-11-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670055</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloPop>624</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>SOŇA</are:jmeno>
+     <are:prijmeni>NOVOTNÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-11-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670063</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:castObce>Choceň</are:castObce>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloPop>625</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>BERNARD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2003-03-10" dvy="2011-12-30">
+   <are:Nazev>Statutární orgán - výbor společenství</are:Nazev>
+   <are:Clen dza="2003-03-10" dvy="2005-12-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2002-10-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-10-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2002-10-16</are:vznikFunkce>
+     <are:zanikFunkce>2005-10-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670063</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloTxt>č.p. 625</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natálie</are:jmeno>
+     <are:prijmeni>Janebová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-10" dvy="2005-12-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2002-10-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-10-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670055</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloTxt>č.p. 624</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Novotný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-10" dvy="2005-12-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2002-10-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-10-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670055</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloTxt>č.p. 624</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Rudolf</are:jmeno>
+     <are:prijmeni>Moláček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-12-27" dvy="2011-12-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-11-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-11-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2005-11-21</are:vznikFunkce>
+     <are:zanikFunkce>2010-11-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670063</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloTxt>625</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Natálie</are:jmeno>
+     <are:prijmeni>Janebová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-12-27" dvy="2011-12-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-11-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-11-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670055</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloTxt>624</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Novotný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-12-27" dvy="2011-12-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-11-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-11-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5670063</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56501</are:psc>
+      <are:obec>Choceň</are:obec>
+      <are:ulice>Ostrovní</are:ulice>
+      <are:cisloTxt>625</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Bernard</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

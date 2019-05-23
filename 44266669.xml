@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T20:32:28"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>20:32:28</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>44266669</are:ICO>
+   <are:ObchodniFirma>CHARLES spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22295542</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 7</are:okres>
+    <are:obec>Praha 7</are:obec>
+    <are:ulice>Milady Horákové</are:ulice>
+    <are:cisloTxt>94</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-04-07</are:DatumZapisu>
+   <are:DatumVymazu>2007-02-27</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej (vyjma zboží
+uvedeného v příloze 1, 2 a 3 cit. zákona),
+     </are:Text>
+     <are:Text>
+lékárna základního typu -  dle rozhodnutí o registraci
+nestátního zdravotnického zařízení MZ ČR č.j. 425/99
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-04-07" dvy="2007-02-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-04-07" dvy="1999-08-04">
+    <are:Text>
+Způsob jednání jménem společnosti: ing. Karel Vrba je oprávněn
+k jednání jménem společnosti, včetně podpisování za společnost.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1999-08-04" dvy="2000-08-24">
+    <are:Text>
+Jménem společnosti jedná jednatel společnosti, a to každý
+samostatně, včetně podepisování za společnost.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2000-08-24" dvy="2007-02-27">
+    <are:Text>
+Jednatel je oprávněn jednat jménem společnosti a podepisovat
+samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-04-07" dvy="2000-08-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22249931</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16300</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Laudova</are:ulice>
+      <are:cisloTxt>1004</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Vrba</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-04" dvy="2001-08-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22516611</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Jablonecká</are:ulice>
+      <are:cisloTxt>358/25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Machynka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2006-06-28" dvy="2007-02-27">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2006-06-28" dvy="2006-06-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22249931</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16300</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Laudova</are:ulice>
+      <are:cisloTxt>1004</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Vrba</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-28" dvy="2007-02-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Beroun 2</are:obec>
+      <are:ulice>Na Vinici</are:ulice>
+      <are:cisloTxt>13/899</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Pelikán</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-04-07" dvy="2007-02-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-08-04" dvy="2007-02-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22249931</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16300</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Laudova</are:ulice>
+      <are:cisloTxt>1004</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Vrba</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-01-06" dvy="2007-02-27">
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

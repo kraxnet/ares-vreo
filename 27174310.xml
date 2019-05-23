@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T09:39:26"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>09:39:27</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27174310</are:ICO>
+   <are:ObchodniFirma>Antonína Macka 1, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21748764</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>12000</are:psc>
+    <are:obec>Praha 2</are:obec>
+    <are:castObce>Vinohrady</are:castObce>
+    <are:ulice>Mánesova</are:ulice>
+    <are:cisloTxt>28/917</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2004-08-26</are:DatumZapisu>
+   <are:DatumVymazu>2006-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+realitní činnost
+     </are:Text>
+     <are:Text>
+správa a údržba nemovitostí
+     </are:Text>
+     <are:Text>
+činnost podnikatelských,finančních,organizačních a ekonomických poradců
+     </are:Text>
+     <are:Text>
+ubytovací služby
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-08-26" dvy="2006-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2004-08-26" dvy="2005-12-15">
+    <are:Text>
+Jednatelé jednají jménem společnosti vždy společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2005-12-15" dvy="2006-12-31">
+    <are:Text>
+Jménem společnosti jedná jednatel.
+Jednatel podepisuje za společnost tak, že připojí své jméno k vytištěné nebo jinak napsané obchodní firmě společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-08-26" dvy="2005-06-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-08-26</are:vznikFunkce>
+     <are:zanikFunkce>2005-04-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40502</are:psc>
+      <are:obec>Děčín IV</are:obec>
+      <are:ulice>V Jámě</are:ulice>
+      <are:cisloTxt>1644/18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kamila</are:jmeno>
+     <are:prijmeni>Čermáková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-08-26" dvy="2005-12-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-08-26</are:vznikFunkce>
+     <are:zanikFunkce>2005-10-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22121315</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15500</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:ulice>Fantova</are:ulice>
+      <are:cisloTxt>1787</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kunštát</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-16" dvy="2005-12-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-04-29</are:vznikFunkce>
+     <are:zanikFunkce>2005-10-12</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22687785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10600</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Zvonková</are:ulice>
+      <are:cisloTxt>3048/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Kateřina</are:jmeno>
+     <are:prijmeni>Miláčková</are:prijmeni>
+     <are:titulPred>Ing. arch.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-12-07" dvy="2006-12-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-10-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>826</are:stat>
+      <are:obec>Londýn</are:obec>
+      <are:castObce>SW 1 95 DA</are:castObce>
+      <are:ulice>Lancaster Road</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Christopher</are:jmeno>
+     <are:prijmeni>Marsden</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2004-08-26" dvy="2006-12-31">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2006-11-21" dvy="2006-12-31">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21748764</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloTxt>917/28</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>27108619</are:ICO>
+     <are:ObchodniFirma>AGGMORE CZECH 1, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2006-11-21" dvy="2006-12-31">
+    <are:posoba>
+     <are:adresa>
+      <are:text>L-2449 Luxembourg, Boulevard Royal 47, Lucemburské velkovévodství</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>AGGMORE EUROPE 1 S.A.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

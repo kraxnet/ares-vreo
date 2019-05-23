@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:11:11"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:11:11</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00312924</are:ICO>
+   <are:ObchodniFirma>KVASPO Tax &amp; Accounting Consultancy spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>10371753</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>76701</are:psc>
+    <are:obec>Kroměříž</are:obec>
+    <are:ulice>Štursova</are:ulice>
+    <are:cisloTxt>2826/9</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-12-20</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+činnost účetních poradců, vedení účetnictví, vedení daňové evidence
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-12-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1990-12-20" dvy="1993-09-23">
+    <are:Text>
+Jménem společnosti jednají společníci buď společně nebo jednotli-
+vě.
+Podepisování: Děje se tak, že pod označením firmy se uvedou jména
+obou společníků, k nimž oni připojí své podpisy.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-09-23" dvy="2006-10-25">
+    <are:Text>
+Za společnost jedná jednatel.
+Podepisování se děje tak,že k vytištěnému nebo jinak vyzna-
+čenému názvu společnosti se uvede plné jméno jednatele,ke
+kterému připojí podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2006-10-25">
+    <are:Text>
+Jménem společnosti jedná jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-12-20" dvy="1993-09-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21703337</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Masarykovo nábř.</are:ulice>
+      <are:cisloTxt>18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bedřich</are:jmeno>
+     <are:prijmeni>Gregorini</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-12-20" dvy="1993-09-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21728194</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Karlovo nám.</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jindřich</are:jmeno>
+     <are:prijmeni>Gregorini</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-09-23" dvy="2006-10-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2006-06-08</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha l</are:obec>
+      <are:ulice>Masarykovo nábř. 18</are:ulice>
+     </are:adresa>
+     <are:jmeno>Bedřich</are:jmeno>
+     <are:prijmeni>Gregorini</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-10-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-06-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Kroměříž, Štursova 2826/9, PSČ 767 01</are:text>
+     </are:adresa>
+     <are:jmeno>Oldřich</are:jmeno>
+     <are:prijmeni>Komenda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1990-12-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2006-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Kroměříž, Štursova 2826/9, PSČ 767 01</are:text>
+     </are:adresa>
+     <are:jmeno>Oldřich</are:jmeno>
+     <are:prijmeni>Komenda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

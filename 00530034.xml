@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:28:35"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:28:35</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00530034</are:ICO>
+   <are:ObchodniFirma>Dřevařské závody, státní podnik &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Rychnov nad Kněžnou</are:okres>
+    <are:obec>Borohrádek</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-11-01</are:DatumZapisu>
+   <are:DatumVymazu>2004-02-25</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Převod zemědělské a lesní půdy na Pozemkový fond ČS pokud není
+předmětem restitučního nároku.
+     </are:Text>
+     <are:Text>
+Vypořádání hospodářské činnosti státního podniku ve vztahu k
+privatizačnímu projektu.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-11-01" dvy="2004-02-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1990-11-01" dvy="1995-08-29">
+    <are:Text>
+Zastupování a podepisování:
+Státní podnik zastupuje navenek ředitel státního podniku.
+K vytištěnému názvu státního podniku připojí svůj podpis ředitel
+státního podniku.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-08-29" dvy="2002-07-30">
+    <are:Text>
+Zastupování a podepisování:
+Státní podnik zastupuje navenek pracovník pověřený řízením
+státního podniku. K vytištěnému názvu státního podniku připojí
+svůj podpis pracovník pověřený řízením státního podniku.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2002-07-30" dvy="2004-02-25">
+    <are:Text>
+Způsob jednání:
+Likvidátor jedná jménem státního podniku &quot;v likvidaci&quot;
+samostatně a podepisuje se přitom tak, že k obchodní firmě
+připojí svůj podpis s označením funkce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-11-01" dvy="1993-05-17">
+    <are:funkce>
+     <are:nazev>Ředitel pověřený do doby jmenování</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21509883</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Rychnov nad Kněžnou</are:okres>
+      <are:obec>Borohrádek</are:obec>
+      <are:cisloTxt>čp. 23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Černý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-05-17" dvy="1995-08-29">
+    <are:funkce>
+     <are:nazev>Ředitel pověřený řízením</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Rychnov nad Kněžnou</are:okres>
+      <are:obec>Borohrádek</are:obec>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Navrátil</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-08-29" dvy="1996-06-17">
+    <are:funkce>
+     <are:nazev>Pověřen řízením státního podniku</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9788824</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Rychnov nad Kněžnou</are:okres>
+      <are:obec>Potštejn</are:obec>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vojtěch</are:jmeno>
+     <are:prijmeni>Jindřišek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-06-17" dvy="1998-10-01">
+    <are:funkce>
+     <are:nazev>Pověřen řízením státního podniku</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Hořiněves, Račice nad Trotinou 1</are:text>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Králík</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-01" dvy="1999-02-23">
+    <are:funkce>
+     <are:nazev>Pověřen řízením státního podniku</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21735701</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 2</are:okres>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Záhořanského</are:ulice>
+      <are:cisloTxt>1944/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alena</are:jmeno>
+     <are:prijmeni>Prokešová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-23" dvy="2002-07-30">
+    <are:funkce>
+     <are:nazev>Pověřena řízením státního podniku</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21859566</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Postranní</are:ulice>
+      <are:cisloTxt>178/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Danuta</are:jmeno>
+     <are:prijmeni>Trnková</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2002-07-30" dvy="2004-02-25">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2002-07-30" dvy="2004-02-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23812753</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50008</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Hlavní</are:ulice>
+      <are:cisloTxt>981</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Šlenc</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1990-11-01" dvy="2004-02-25">
+   <are:Nazev>Zakladatel</are:Nazev>
+   <are:Clen dza="1990-11-01" dvy="2004-02-25">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21708711</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 1</are:okres>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Na poříčí</are:ulice>
+      <are:cisloTxt>24</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>Ministerstvo průmyslu České republiky</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

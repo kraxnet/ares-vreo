@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T07:11:27"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>07:11:27</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>64833879</are:ICO>
+   <are:ObchodniFirma>CZECHMADE, s.r.o.,</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24500879</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>32600</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:castObce>Východní Předměstí</are:castObce>
+    <are:ulice>Radyňská</are:ulice>
+    <are:cisloPop>525</are:cisloPop>
+    <are:cisloOr>16</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1996-03-14</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+zprostředkování obchodu a služeb
+     </are:Text>
+     <are:Text>
+činnost realitní kanceláře
+     </are:Text>
+     <are:Text>
+výroba internetových stránek a databázových systémů
+     </are:Text>
+     <are:Text>
+služby v oboru elektronického přenosu dat
+     </are:Text>
+     <are:Text>
+poskytování software
+     </are:Text>
+     <are:Text>
+dokončovací stavební práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1996-03-14">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1996-03-14">
+    <are:Text>
+Způsob jednání:
+a) zastupování - společnost zastupuje ve všech věcech jednatel
+   samostatně
+b) podepisování - podepisování za společnost se provádí tak,
+   že k napsanému nebo vytištěnému obchodnímu jménu společnosti
+   připojí svůj podpis jednatel s uvedením svého jména a funkce
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1996-03-14" dvy="2001-02-12">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24486906</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Bzenecká</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Fay</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-02-12">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>08001</are:psc>
+      <are:obec>Prešov</are:obec>
+      <are:ulice>Jána Béreše</are:ulice>
+      <are:cisloTxt>27</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Gnap</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1996-03-14">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1996-03-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:text>Prešov, Jána Béreše 27</are:text>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Gnap</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

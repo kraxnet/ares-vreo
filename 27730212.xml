@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-09-14T14:12:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-09-14</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-09-14</are:Datum_vypisu>
+   <are:Cas_vypisu>14:12:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>27730212</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků Velká Bíteš 474</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3430090</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>59501</are:psc>
+    <are:okres>Žďár nad Sázavou</are:okres>
+    <are:obec>Velká Bíteš</are:obec>
+    <are:castObce>Velká Bíteš</are:castObce>
+    <are:ulice>U Stadionu</are:ulice>
+    <are:cisloPop>474</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumVzniku>1999-09-28</are:DatumVzniku>
+   <are:DatumZapisu>2007-05-24</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-05-24">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2007-05-24">
+    <are:Text>
+Jménem společenství jedná předseda výboru nebo výborem písemně pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-05-24" dvy="2008-08-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2007-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2008-08-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloTxt>474</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Častulík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-05-24" dvy="2008-08-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2007-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2008-08-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloTxt>474</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milada</are:jmeno>
+     <are:prijmeni>Matoušková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-05-24" dvy="2012-05-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2007-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2012-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloTxt>474</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Hrabec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-05-24" dvy="2012-05-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2007-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2012-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloTxt>474</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Milian</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-05-24" dvy="2012-05-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2007-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2012-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloTxt>474</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Svoboda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-20" dvy="2012-05-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2008-08-07</are:vznikFunkce>
+     <are:zanikFunkce>2012-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloTxt>474</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milada</are:jmeno>
+     <are:prijmeni>Matoušková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-08-20" dvy="2012-05-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2008-08-07</are:vznikFunkce>
+     <are:zanikFunkce>2012-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloTxt>474</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Častulík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-05-22" dvy="2012-12-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-12-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-11-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2012-03-29</are:vznikFunkce>
+     <are:zanikFunkce>2012-11-23</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>474</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jitka</are:jmeno>
+     <are:prijmeni>Pospíchalová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-05-22" dvy="2012-12-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2012-03-29</are:vznikFunkce>
+     <are:zanikFunkce>2012-11-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>474</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Poslušný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-05-22" dvy="2017-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2012-03-29</are:vznikFunkce>
+     <are:zanikFunkce>2016-12-08</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>474</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Milada</are:jmeno>
+     <are:prijmeni>Matoušková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-05-22" dvy="2017-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2012-03-29</are:vznikFunkce>
+     <are:zanikFunkce>2016-12-08</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3431029</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>574</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Milian</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-05-22" dvy="2017-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2012-03-29</are:vznikFunkce>
+     <are:zanikFunkce>2016-12-08</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>474</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Hrabec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-12-28" dvy="2017-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-03-15</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2012-11-26</are:vznikFunkce>
+     <are:zanikFunkce>2016-12-08</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:castObce>Velká Bíteš</are:castObce>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>474</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Poslušný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2016-12-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:okres>Žďár nad Sázavou</are:okres>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:castObce>Velká Bíteš</are:castObce>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>474</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MILADA</are:jmeno>
+     <are:prijmeni>MATOUŠKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:okres>Žďár nad Sázavou</are:okres>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:castObce>Velká Bíteš</are:castObce>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>474</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>HRABEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:okres>Žďár nad Sázavou</are:okres>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:castObce>Velká Bíteš</are:castObce>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>474</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>POSLUŠNÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:okres>Žďár nad Sázavou</are:okres>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:castObce>Velká Bíteš</are:castObce>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>474</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>SVOBODA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-05">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-12-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3430090</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59501</are:psc>
+      <are:okres>Žďár nad Sázavou</are:okres>
+      <are:obec>Velká Bíteš</are:obec>
+      <are:castObce>Velká Bíteš</are:castObce>
+      <are:ulice>U Stadionu</are:ulice>
+      <are:cisloPop>474</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ALEŠ</are:jmeno>
+     <are:prijmeni>BRYCHTA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

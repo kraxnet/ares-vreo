@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T09:00:43"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>09:00:43</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>68403674</are:ICO>
+   <are:ObchodniFirma>Scientech LLC, organizační složka</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21874123</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Krč</are:castObce>
+    <are:ulice>Pod Višňovkou</are:ulice>
+    <are:cisloTxt>1662/21</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-07-14</are:DatumZapisu>
+   <are:DatumVymazu>2008-04-23</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1/ koupě zboží za účelem jeho dalšího prodeje a prodej / vyjma
+zboží v příloze 2 a 3 cit. zákona/
+     </are:Text>
+     <are:Text>
+2/ organizační poradenství a konzultace v oblasti energetiky
+     </are:Text>
+     <are:Text>
+3/ organizační poradenství a konzultace v oblasti průmyslu
+     </are:Text>
+     <are:Text>
+4/ organizační poradenství a konzultace v oblasti životního
+prostředí.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-07-14" dvy="2008-04-23">
+   <are:Nazev>Vedoucí odštěpného závodu</are:Nazev>
+   <are:Clen dza="1993-07-14" dvy="1997-12-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21807825</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Novodvorská</are:ulice>
+      <are:cisloTxt>1094</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Martínek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-12-15" dvy="2005-03-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22038914</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Janáčkovo nábřeží</are:ulice>
+      <are:cisloTxt>51</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Česlav</are:jmeno>
+     <are:prijmeni>Karpeta</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-03-09" dvy="2008-04-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22006885</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15200</are:psc>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Tréglova</are:ulice>
+      <are:cisloTxt>808/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Česlav</are:jmeno>
+     <are:prijmeni>Karpeta</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-07-14" dvy="2008-04-23">
+   <are:Nazev>Zřizovatel</are:Nazev>
+   <are:Clen dza="1997-12-15" dvy="2008-04-23">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>840</are:stat>
+      <are:obec>Energy Drive - Idaho Falls</are:obec>
+      <are:ulice>ID 83401 Idaho</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>SCIENTECH Inc.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

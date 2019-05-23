@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-10T11:56:04"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-10</are:Datum_vypisu>
+   <are:Cas_vypisu>11:56:04</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>60707411</are:ICO>
+   <are:ObchodniFirma>INTERGRAF s.r.o. - v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>11009187</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>66902</are:psc>
+    <are:okres>Znojmo</are:okres>
+    <are:obec>Znojmo</are:obec>
+    <are:castObce>Znojmo</are:castObce>
+    <are:ulice>Dvořákova</are:ulice>
+    <are:cisloPop>2924</are:cisloPop>
+    <are:cisloOr>21</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1994-05-23</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zprostředkovatelská činnost
+     </are:Text>
+     <are:Text>
+pronájem hracích automatů a kulečníků
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1994-05-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1994-05-23">
+    <are:Text>
+Způsob zastupování: za společnost jedná a podepisuje jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1994-05-23" dvy="2001-12-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Haugsdorf, Rakousko</are:obec>
+      <are:ulice>Hauptstrasse 53</are:ulice>
+     </are:adresa>
+     <are:jmeno>Karl</are:jmeno>
+     <are:prijmeni>Graf</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-19" dvy="2012-06-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2012-06-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>40</are:stat>
+      <are:obec>Haugsdorf</are:obec>
+      <are:ulice>Hauptstrasse 53</are:ulice>
+     </are:adresa>
+     <are:jmeno>Karl</are:jmeno>
+     <are:prijmeni>Graf</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-10-02">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-10-02">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>10786988</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>67201</are:psc>
+      <are:okres>Znojmo</are:okres>
+      <are:obec>Kadov</are:obec>
+      <are:castObce>Kadov</are:castObce>
+      <are:cisloPop>71</are:cisloPop>
+     </are:adresa>
+     <are:ICO>12751952</are:ICO>
+     <are:ObchodniFirma>Ing. Miroslav Hercík</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-05-23">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1996-05-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>40</are:stat>
+      <are:text>Wienerstrasse 82, 2020 Hollabrunn</are:text>
+     </are:adresa>
+     <are:jmeno>Herbert</are:jmeno>
+     <are:prijmeni>Rammel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>40</are:stat>
+      <are:obec>Haugsdorf</are:obec>
+      <are:ulice>Hauptstrasse 53</are:ulice>
+     </are:adresa>
+     <are:jmeno>Karl</are:jmeno>
+     <are:prijmeni>Graf</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

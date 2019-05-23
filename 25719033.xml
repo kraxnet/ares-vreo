@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T20:54:27"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>20:54:28</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25719033</are:ICO>
+   <are:ObchodniFirma>Company OAC, s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21773564</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>13000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Žižkov</are:castObce>
+    <are:mop>Praha 3</are:mop>
+    <are:ulice>Husinecká</are:ulice>
+    <are:cisloPop>661</are:cisloPop>
+    <are:cisloOr>29</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-12-14</are:DatumZapisu>
+   <are:DatumVymazu>2017-08-04</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost Company OAC, s.r.o. v likvidaci se sídlem Husinecká 661/29, Žižkov, 130 00 Praha 3, , identifikační číslo 257 19 033 se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložk
+a 64048. Právním důvodem výmazu je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-12-14" dvy="2017-08-04">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1998-12-14" dvy="2017-08-04">
+    <are:Text>
+Každý jednatel zastupuje společnost navenek samostatně a
+podepisuje za společnost dokumenty. Podepisování se provádí tak,
+že k otisku razítka společnosti připojí jednatel vlastnoruční
+podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-12-14" dvy="2016-11-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21869791</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>V Štíhlách</are:ulice>
+      <are:cisloTxt>1252</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Konstantin</are:jmeno>
+     <are:prijmeni>Troianov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-16" dvy="2017-08-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>V Štíhlách</are:ulice>
+      <are:cisloTxt>1252</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>KONSTANTIN</are:jmeno>
+     <are:prijmeni>TROIANOV</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-03-02" dvy="2017-08-04">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-03-02" dvy="2017-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21734585</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Tyršova</are:ulice>
+      <are:cisloPop>1835</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETRA</are:jmeno>
+     <are:prijmeni>HÝSKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr. Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1998-12-14" dvy="2017-08-04">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-11-16" dvy="2017-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Minsk</are:obec>
+      <are:ulice>Lynkova 7-314</are:ulice>
+     </are:adresa>
+     <are:jmeno>KONSTANTIN</are:jmeno>
+     <are:prijmeni>TROIANOV</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-16" dvy="2017-08-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>112</are:stat>
+      <are:obec>Minsk</are:obec>
+      <are:ulice>Mogiljovskaja 32-168</are:ulice>
+     </are:adresa>
+     <are:jmeno>NONNA</are:jmeno>
+     <are:prijmeni>SOUVOROVA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

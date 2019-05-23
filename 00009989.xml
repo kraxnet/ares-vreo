@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:31:07"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:31:07</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00009989</are:ICO>
+   <are:ObchodniFirma>Agrostroj Jičín, státní podnik</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Jičín</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-04-01</are:DatumZapisu>
+   <are:DatumVymazu>1990-12-28</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1. Vývoj, výroba a odbyt:
+- nářadí, měřidel a nástrojů
+- forem, modelů a šablon
+- podsestav nákladních automobilů
+- pístových motorů
+- traktorů
+- dílů skupin zemědělských strojů
+- zemědělských strojů a zařízení
+- odlitků ze šedé litiny
+- odlitků z temperované litiny
+     </are:Text>
+     <are:Text>
+- výkovků zápustkových
+     </are:Text>
+     <are:Text>
+2. Plnění funkce zřizovatele středního odborného učiliště.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-04-01" dvy="1990-12-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1990-04-01" dvy="1990-07-18">
+    <are:Text>
+Zastupování a podepisování:
+Státní podnik zastupuje navenek ředitel podniku nebo jeho
+zástupce. Za státní podnik se pdoepisuje tak, že k názvu nebo
+razítku státního podniku připojí svůj vlastnoruční podpis
+ředitel státního podniku nebo jeho zástupce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1990-07-18" dvy="1990-12-28">
+    <are:Text>
+Zastupování a podepisování:
+Státní podnik zastupuje navenek ředitel podniku nebo jeho
+zástupci v určeném pořadí. Za státní podnik se podepisuje
+tak, že k názvu nebo razítku státního podniku připojí svůj
+vlastnoruční podpis ředitel podniku nebo jeho zástupci
+v určeném pořadí.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-04-01" dvy="1990-07-19">
+    <are:funkce>
+     <are:nazev>Pověřený ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17439779</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Přátelství</are:ulice>
+      <are:cisloTxt>521</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Hnízdo</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-07-18" dvy="1990-12-28">
+    <are:funkce>
+     <are:nazev>1.zást.-ekonomický náměstek</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17433991</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Prachovská</are:ulice>
+      <are:cisloTxt>317</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Šesták</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-07-18" dvy="1990-12-28">
+    <are:funkce>
+     <are:nazev>2.zást.-technický náměstek</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Pod Koželihy</are:ulice>
+      <are:cisloTxt>911</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Charvát</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-07-18" dvy="1990-12-28">
+    <are:funkce>
+     <are:nazev>3.zást.-obchodní náměstek</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1705121</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Podhorní Újezd</are:obec>
+      <are:cisloTxt>125</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Řehák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-07-18" dvy="1990-12-28">
+    <are:funkce>
+     <are:nazev>4.zást.-výrobní náměstek</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17531187</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Pod lipami</are:ulice>
+      <are:cisloTxt>893</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Linhart</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-07-19" dvy="1990-12-28">
+    <are:funkce>
+     <are:nazev>Ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17439779</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Přátelství</are:ulice>
+      <are:cisloTxt>521</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Hnízdo</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:31:08</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00009989</are:ICO>
+   <are:ObchodniFirma>AGS Jičín a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>17523834</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>50648</are:psc>
+    <are:obec>Jičín</are:obec>
+    <are:ulice>Jungmannova</are:ulice>
+    <are:cisloTxt>11</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2002-02-04</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba a opravy zemědělských strojů
+     </are:Text>
+     <are:Text>
+výroba dřevěných a kovových modelů
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+(kromě činností uvedených v příl. č. 1 až 3 zák.č.455/91 Sb.
+které by svou povahou mohly splňovat charakter této
+kategorie obchodní živnosti)
+     </are:Text>
+     <are:Text>
+stavba strojů s mechanickým pohonem
+     </are:Text>
+     <are:Text>
+zámečnictví
+     </are:Text>
+     <are:Text>
+práce s pracovními stroji zemními a stavebními
+     </are:Text>
+     <are:Text>
+projektování elektrických zařízení
+     </are:Text>
+     <are:Text>
+výroba, instalace a opravy elektrických strojů a přístrojů
+     </are:Text>
+     <are:Text>
+výuka svařování
+     </are:Text>
+     <are:Text>
+automatizované zpracování dat
+     </are:Text>
+     <are:Text>
+rozvod elektřiny
+     </are:Text>
+     <are:Text>
+výroba tepla
+     </are:Text>
+     <are:Text>
+rozvod tepla
+     </are:Text>
+     <are:Text>
+nástrojářství
+     </are:Text>
+     <are:Text>
+kovoobráběčství
+     </are:Text>
+     <are:Text>
+slévárenství
+     </are:Text>
+     <are:Text>
+hostinská činnost
+     </are:Text>
+     <are:Text>
+výroba, montáž, generální opravy, rekonstrukce, revize a revizní
+zkoušky provozní způsobilosti vyhrazených zdvihacích zařízení
+     </are:Text>
+     <are:Text>
+silniční motorová doprava nákladní
+     </are:Text>
+     <are:Text>
+projektová činnost ve výstavbě
+     </are:Text>
+     <are:Text>
+provádění staveb včetně jejich změn, udržovacích prací na nich
+a jejich odstraňování
+     </are:Text>
+     <are:Text>
+topenářství
+     </are:Text>
+     <are:Text>
+pronájem zemědělské techniky
+     </are:Text>
+     <are:Text>
+provádění prací se zemědělskou technikou
+     </are:Text>
+     <are:Text>
+montáž, opravy, revize a zkoušky vyhrazených plynových zařízení
+     </are:Text>
+     <are:Text>
+skladovací služby
+     </are:Text>
+     <are:Text>
+opravy silničních vozidel
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-01-01" dvy="2002-02-04">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="1994-01-14" dvy="1994-01-21">
+    <are:Text>
+Zastupování a podepisování:
+Společnost navenek zastupuje představenstvo. Podepisování
+představenstva se děje tak, že k vytištěnému nebo napsanému
+názvu společnoti připojí svůj podpis dva členové předsta-
+venstva. Po zvolení předsedy a místopředsedy k vytištěnému
+nebo napsanému návzu společosti připojí svůj podpis předseda
+představenstva, popř. místopedseda v době nepřítomnoti
+předsedy, a jeden člen představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1994-01-21" dvy="1995-05-30">
+    <are:Text>
+Zastupování a podepisování:
+Společnost zastupuje vůči třetím osobám před soudy a před
+jinými orgány v celém rozsahu představenstvo, a to buď
+společně všichni členové představenstva nebo společně
+předseda nebo místopředseda a jeden člen představenstva,
+anebo samostatně jeden člen představenstva nebo jiná osoba,
+která k tomu byla představenstvem písemně pověřena.
+Za společnost podepisují buď společně všichni členové
+představenstva nebo společně předseda nebo místopředseda
+a jeden člen představenstva, anebo samostatně jeden člen
+představenstva či jiná osoba, která k tomu byla předsta-
+venstvem písemně pověřena. Všichni tak činí způsobem, že
+k vypsanému názvu společnosti či otisku razítka společnosti
+připojí svůj podpis. K podepisování jedinou osobou je třeba
+písemného pověření představenstvem.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-05-30" dvy="1997-11-07">
+    <are:Text>
+Zastupování a podepisování:
+Jménem společnosti jsou oprávněni jednat:
+a) předseda představenstva, místopředseda představenstva,
+generální ředitel, nebo kterýkoliv prokurista společnosti
+na základě udělené prokury, a to každý samostatně
+v záležitostech společnosti nepřesahujících ve finančním
+vyjádření 3 % základního jmění,
+b) vždy společně alespoň dva členové představenstva, a to
+ve všech záležitostech přesahujících ve finančním vyjádření
+3 % základního jmění.
+Za společnost podepisuje kterákoliv z osob pověřená jednat
+jménem společnosti a to tak, že k obchodnímu jménu společ
+nosti napsanému, otištěnému nebo natištěnému připojí svůj
+podpis s uvedením funkce , v příp. prokuristů s dodatkem
+&quot;prokurista&quot;.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1997-11-07" dvy="1998-09-01">
+    <are:Text>
+Jménem společnosti jsou oprávněni jednat
+a) předseda představenstva, místopředseda představenstva
+   a členové představenstva, a to každý samostatně v
+   závislostech společnosti nepřesahujících ve finančním
+   vyjádření 5 % základního jmění
+b) vždy společně alespoň dva členové představenstva, a to
+   ve všech záležitostech přesahujících ve finančním vyjádření
+   5 % základního jmění - jeden z nich musí být vždy předseda
+   nebo místopředseda představenstva.
+Za společnost podepisuje kterákoliv z osob pověřená jednat
+jménem společnosti, a to tak, že k obchodnímu jménu společnosti
+napsanému, otištěnému nebo vytištěnému připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1998-09-01" dvy="2002-02-04">
+    <are:Text>
+Jménem společnosti jsou oprávněni jednat
+a) předseda představenstva, místopředseda představenstva
+   a členové představenstva, a to každý samostatně
+   v záležitostech společnosti nepřesahujících ve
+   finančním vyjádření 5 % základního jmění
+b) vždy společně alespoň dva členové představenstva, a to
+   ve všech záležitostech přesahujících ve finančním vyjádření
+   5 % základního jmění - jeden z nich musí být vždy předseda
+   nebo místopředseda představenstva.
+Za společnost podepisuje kterákoliv z osob pověřená jednat
+jménem společnosti, a to tak, že k obchodnímu jménu společnosti
+napsanému, otištěnému nebo vytištěnému připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-01-01" dvy="1991-03-28">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22283200</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Šumberova</are:ulice>
+      <are:cisloTxt>340</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ing.Jaroslav Kalina, Csc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-01-01" dvy="1991-03-28">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17439779</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Přátelství</are:ulice>
+      <are:cisloTxt>521</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Hnízdo</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-01-01" dvy="1992-03-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21869511</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Vikova</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Doc.Ing.Evžen Pick, Csc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-01-01" dvy="1992-03-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Zelený pruh 10č.</are:ulice>
+      <are:cisloTxt>677</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloš</are:jmeno>
+     <are:prijmeni>Havelka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-01-01" dvy="1992-03-24">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17433991</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Prachovská</are:ulice>
+      <are:cisloTxt>317</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Šesták</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-01-01" dvy="1995-05-30">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4 - Nusle</are:obec>
+      <are:ulice>Čiklova 19</are:ulice>
+     </are:adresa>
+     <are:jmeno>Vladislav</are:jmeno>
+     <are:prijmeni>Vagenknecht</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-01-01" dvy="1995-05-30">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Robousy 153, okr.Jičín</are:obec>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Kvapil</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-28" dvy="1992-03-24">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17439779</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Přátelství</are:ulice>
+      <are:cisloTxt>521</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Hnízdo</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-28" dvy="1993-01-07">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22283200</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Šumberova</are:ulice>
+      <are:cisloTxt>340</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Ing.Jaroslav Kalina,Csc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-24" dvy="1994-01-14">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17434629</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>J.Š. Kubína</are:ulice>
+      <are:cisloTxt>384</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Felcman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-24" dvy="1995-03-07">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Janáčkova</are:ulice>
+      <are:cisloTxt>991</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Charvát</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-24" dvy="1995-03-10">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>dJičín</are:obec>
+      <are:ulice>Pod lipami 893</are:ulice>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Linhart</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-24" dvy="1995-05-30">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19507364</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Kunštátská</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bruno</are:jmeno>
+     <are:prijmeni>Vystrčil</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-01-07" dvy="1995-05-30">
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19507364</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Kunštátská</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bruno</are:jmeno>
+     <are:prijmeni>Vystrčil</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-06-01" dvy="1995-05-30">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Leoše Janáčka</are:ulice>
+      <are:cisloTxt>910</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Šoltys</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-01-14" dvy="1995-05-30">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17433053</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Na Tobolce</are:ulice>
+      <are:cisloTxt>212</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Flora</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-03-07" dvy="1995-05-30">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Leoše Janáčka</are:ulice>
+      <are:cisloTxt>911</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Charvát</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-03-10" dvy="2000-02-28">
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17531187</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Pod lipami</are:ulice>
+      <are:cisloTxt>893</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Linhart</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="1996-06-17">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4 - Braník</are:obec>
+      <are:ulice>Nad Šálkovnou 1532/17</are:ulice>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Kořínek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="1996-06-17">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17528917</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Jaselská</are:ulice>
+      <are:cisloTxt>643</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslav</are:jmeno>
+     <are:prijmeni>Šebík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="1996-06-17">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5 - Košíře</are:obec>
+      <are:ulice>Holečkova 165/125</are:ulice>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Friedl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="1996-06-17">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Leoše Janáčka</are:ulice>
+      <are:cisloTxt>910</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Šoltys</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="1999-03-30">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17434475</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Prachovská</are:ulice>
+      <are:cisloTxt>369</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Svoboda</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-30" dvy="2002-02-04">
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 10 - Záběhlice</are:obec>
+      <are:ulice>Jabloňová 2882</are:ulice>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Klapák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-06-17" dvy="1997-03-24">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1399098</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Kladno</are:okres>
+      <are:obec>Kladno</are:obec>
+      <are:ulice>Bořivojova</are:ulice>
+      <are:cisloTxt>1710</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladislav</are:jmeno>
+     <are:prijmeni>Procházka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-06-17" dvy="2002-02-04">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21585113</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Semily</are:okres>
+      <are:obec>Turnov</are:obec>
+      <are:ulice>Přemyslova</are:ulice>
+      <are:cisloTxt>649</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaromír</are:jmeno>
+     <are:prijmeni>Dědeček</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-03-24" dvy="2002-02-04">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12199541</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46604</are:psc>
+      <are:obec>Jablonec nad Nisou</are:obec>
+      <are:ulice>Ivana Olbrachta</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Bugalová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-03-30" dvy="2002-02-04">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Stará osada 437/45, 466 05  Jablonec nad Nisou, Rýnovice</are:text>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Fischer</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-02-28" dvy="2002-02-04">
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25424556</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Jičín</are:okres>
+      <are:obec>Samšina</are:obec>
+      <are:ulice>Plhov</are:ulice>
+      <are:cisloTxt>55</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Linhart</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-01-14" dvy="2002-02-04">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="1995-05-30" dvy="2002-02-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>15087654</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Mírová pod Kozákovem</are:obec>
+      <are:ulice>Sekerkovy Loučky</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Vendl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-08-30" dvy="2002-02-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Liberec 6</are:obec>
+      <are:ulice>Dobiášova</are:ulice>
+      <are:cisloTxt>857</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Melichárek</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-10-18" dvy="2002-02-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17437628</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Jičín</are:okres>
+      <are:obec>Jičín</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>302</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Křížová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

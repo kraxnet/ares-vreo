@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T09:04:20"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>09:04:20</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28082575</are:ICO>
+   <are:ObchodniFirma>S.A.R.T. production, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>74020579</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>39301</are:psc>
+    <are:okres>Pelhřimov</are:okres>
+    <are:obec>Pelhřimov</are:obec>
+    <are:castObce>Pelhřimov</are:castObce>
+    <are:ulice>U Nádraží</are:ulice>
+    <are:cisloPop>1967</are:cisloPop>
+    <are:dorucovaciCislo>39312</are:dorucovaciCislo>
+   </are:Sidlo>
+   <are:DatumZapisu>2008-05-07</are:DatumZapisu>
+   <are:DatumVymazu>2016-08-31</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Právní důvod výmazu: Společnost zanikla sloučením s nástupnickou společností AGROSTROJ Pelhřimov, a.s., se sídlem U Nádraží 1967, 393 01 Pelhřimov, IČ: 00009971 dnem 31.8.2016.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+opravy ostatních dopravních prostředků a pracovních strojů
+     </are:Text>
+     <are:Text>
+zámečnictví, nástrojářství
+     </are:Text>
+     <are:Text>
+obráběčství
+     </are:Text>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2008-05-07" dvy="2016-08-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2008-05-07" dvy="2014-05-06">
+    <are:Text>
+Jednatel nebo jednatelé jednají jménem společnosti každý samostatně a to tak, že k napsané nebo natištěné obchodní firmě připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-05-06" dvy="2016-08-31">
+    <are:Text>
+Za společnost jedná jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2008-05-07" dvy="2013-11-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-05-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25099183</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63900</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Horní</are:ulice>
+      <are:cisloTxt>798/5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Stoklásek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-13" dvy="2016-08-31">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-05-07</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25099183</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63900</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Štýřice</are:castObce>
+      <are:ulice>Horní</are:ulice>
+      <are:cisloPop>798</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUBOMÍR</are:jmeno>
+     <are:prijmeni>STOKLÁSEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2008-05-07" dvy="2016-08-31">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-01-21" dvy="2016-08-31">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>74020579</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39301</are:psc>
+      <are:okres>Pelhřimov</are:okres>
+      <are:obec>Pelhřimov</are:obec>
+      <are:castObce>Pelhřimov</are:castObce>
+      <are:ulice>U Nádraží</are:ulice>
+      <are:cisloPop>1967</are:cisloPop>
+     </are:adresa>
+     <are:ICO>00009971</are:ICO>
+     <are:ObchodniFirma>AGROSTROJ Pelhřimov, a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

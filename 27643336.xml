@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-07T10:03:00"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-07</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-07</are:Datum_vypisu>
+   <are:Cas_vypisu>10:03:00</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27643336</are:ICO>
+   <are:ObchodniFirma>BRIGÁDA 972 s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>26251027</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25301</are:psc>
+    <are:okres>Praha-západ</are:okres>
+    <are:obec>Hostivice</are:obec>
+    <are:ulice>Jasanová</are:ulice>
+    <are:cisloTxt>1918</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2007-01-15</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+poskytování služeb pro hospodaření v lesích a pro myslivost
+     </are:Text>
+     <are:Text>
+přípravné práce pro stavby
+     </are:Text>
+     <are:Text>
+zprostředkování obchodu a služeb
+     </are:Text>
+     <are:Text>
+velkoobchod
+     </are:Text>
+     <are:Text>
+správa a údržba nemovitostí
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-01-15">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2007-01-15">
+    <are:Text>
+Jednatel je oprávněn jednat jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-01-15" dvy="2019-01-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-01-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5870691</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78963</are:psc>
+      <are:obec>Ruda nad Moravou</are:obec>
+      <are:castObce>Hrabenov</are:castObce>
+      <are:cisloTxt>22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Kryvlyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-01-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17971705</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56133</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Horní Heřmanice</are:obec>
+      <are:castObce>Horní Heřmanice</are:castObce>
+      <are:cisloPop>135</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JURIJ</are:jmeno>
+     <are:prijmeni>KRYVLJAK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2007-01-15">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Nehrovec</are:obec>
+      <are:cisloTxt>258</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Konar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Nové Selo</are:obec>
+      <are:ulice>ul. Karačynska</are:ulice>
+      <are:cisloTxt>65</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Rosokha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Synevyr</are:obec>
+      <are:cisloTxt>1501</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Syatynya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Koločava</are:obec>
+      <are:ulice>ul. Hirska</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Shetelya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Nehrovec</are:obec>
+      <are:cisloTxt>61</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Popovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Komsomolsk</are:obec>
+      <are:ulice>ul. O. Koševého</are:ulice>
+      <are:cisloTxt>17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Shetelya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Nehrovec</are:obec>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Popovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Černa</are:obec>
+      <are:ulice>ul. Ševčenka</are:ulice>
+      <are:cisloTxt>53</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Shetelya</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Koločava</are:obec>
+      <are:ulice>ul. Peremohy</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Syuhay</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Vynohradiv</are:obec>
+      <are:ulice>ul. Korjatovyča 13, byt 48</are:ulice>
+     </are:adresa>
+     <are:jmeno>Svitlana</are:jmeno>
+     <are:prijmeni>Tovt</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Koločava</are:obec>
+      <are:ulice>ul. Poljanská</are:ulice>
+      <are:cisloTxt>45</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Hryhorenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Synevyr</are:obec>
+      <are:cisloTxt>881</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Sharha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Nehrovec</are:obec>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Kovach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-01-15">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast, Nehrovec</are:obec>
+      <are:cisloTxt>427</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Isak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17971705</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>56133</are:psc>
+      <are:okres>Ústí nad Orlicí</are:okres>
+      <are:obec>Horní Heřmanice</are:obec>
+      <are:castObce>Horní Heřmanice</are:castObce>
+      <are:cisloPop>135</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JURIJ</are:jmeno>
+     <are:prijmeni>KRYVLJAK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

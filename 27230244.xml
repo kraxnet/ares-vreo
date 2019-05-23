@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-15T22:14:44"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-15</are:Datum_vypisu>
+   <are:Cas_vypisu>22:14:44</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>27230244</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků domu č.p. 319, Praha 4 - Šeberov</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>25971972</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14900</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Šeberov</are:castObce>
+    <are:ulice>Pod Vsí</are:ulice>
+    <are:cisloTxt>319</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2005-04-20</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2005-04-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2005-04-20">
+    <are:Text>
+Jménem společenství jedná předseda výboru nebo výborem písemně pověřený člen výboru. Společenství se podepisuje tak, že k jeho názvu připojí svůj podpis předseda výboru a jeden člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2005-04-20" dvy="2007-05-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-02-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-11-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2005-03-08</are:vznikFunkce>
+     <are:zanikFunkce>2006-11-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25971972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pod Vsí</are:ulice>
+      <are:cisloTxt>319</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Farkaš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-04-20" dvy="2007-05-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-02-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-11-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2005-03-08</are:vznikFunkce>
+     <are:zanikFunkce>2006-11-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25971972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pod Vsí</are:ulice>
+      <are:cisloTxt>319</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Sklenář</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-04-20" dvy="2007-05-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-02-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-11-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25971972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pod Vsí</are:ulice>
+      <are:cisloTxt>319</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Monika</are:jmeno>
+     <are:prijmeni>Lénertová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-05-16" dvy="2009-02-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-11-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-11-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2006-11-27</are:vznikFunkce>
+     <are:zanikFunkce>2008-11-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25971972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Šeberov</are:castObce>
+      <are:ulice>Pod Vsí</are:ulice>
+      <are:cisloTxt>319</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kodovský</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-05-16" dvy="2009-02-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-11-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-11-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25971972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Šeberov</are:castObce>
+      <are:ulice>Pod Vsí</are:ulice>
+      <are:cisloTxt>319</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Hach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-05-16" dvy="2009-02-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-11-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-11-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21885818</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14800</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Kunratice</are:castObce>
+      <are:ulice>Děbolínská</are:ulice>
+      <are:cisloTxt>1049/40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Kočí</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-02-10" dvy="2013-12-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-11-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2008-12-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25971972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Šeberov</are:castObce>
+      <are:ulice>Pod vsí</are:ulice>
+      <are:cisloTxt>319</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Říha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-02-10" dvy="2013-12-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-11-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25971972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Šeberov</are:castObce>
+      <are:ulice>Pod vsí</are:ulice>
+      <are:cisloTxt>319</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Farkaš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-02-10" dvy="2013-12-21">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-11-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2008-12-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11510510</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28506</are:psc>
+      <are:obec>Sázava</are:obec>
+      <are:castObce>Černé Budy</are:castObce>
+      <are:ulice>Ke kopaninám</are:ulice>
+      <are:cisloTxt>164</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Hrabaň</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-17">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11510510</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28506</are:psc>
+      <are:obec>Sázava</are:obec>
+      <are:castObce>Černé Budy</are:castObce>
+      <are:ulice>Ke Kopaninám</are:ulice>
+      <are:cisloPop>164</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>HRABAŇ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-17">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25971972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Šeberov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Pod vsí</are:ulice>
+      <are:cisloPop>319</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>MATYÁŠ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-17" dvy="2014-01-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25971972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Šeberov</are:castObce>
+      <are:ulice>Pod vsí</are:ulice>
+      <are:cisloPop>319</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>SKLENÁŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-12-21" dvy="2014-01-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-11-20</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2008-12-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11510510</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28506</are:psc>
+      <are:obec>Sázava</are:obec>
+      <are:castObce>Černé Budy</are:castObce>
+      <are:ulice>Ke Kopaninám</are:ulice>
+      <are:cisloPop>164</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>HRABAŇ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-22">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25971972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Šeberov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Pod vsí</are:ulice>
+      <are:cisloPop>319</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>SKLENÁŘ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

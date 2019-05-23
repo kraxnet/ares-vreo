@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T09:29:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>09:29:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>69259844</are:ICO>
+   <are:ObchodniFirma>Vasyl Vovchuk</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:text>Plzeň, Liliová 1693/6, PSČ 326 00</are:text>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:stat>804</are:stat>
+    <are:text>Molodkiv</are:text>
+   </are:Bydliste>
+   <are:Pobyt>
+    <are:ruianKod>24513695</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>30155</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:ulice>Liliová</are:ulice>
+    <are:cisloTxt>6</are:cisloTxt>
+   </are:Pobyt>
+   <are:DatumZapisu>1999-07-22</are:DatumZapisu>
+   <are:DatumVymazu>2016-06-13</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se podnikatel Vasyl Vovchuk, s místem podnikání Plzeň, Liliová 1693/6, PSČ 326 00, identifikační číslo 692 59 844, z obchodního rejstříku včetně všech zapsaných skutečností. Výmaz se provádí z důvodu zániku posledního živnostenského oprávnění.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+úklidové práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-07-22" dvy="2016-06-13">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="1999-07-22" dvy="2016-06-13">
+    <are:fosoba>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Vovchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

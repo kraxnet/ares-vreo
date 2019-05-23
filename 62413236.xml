@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T05:00:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>05:00:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>62413236</are:ICO>
+   <are:ObchodniFirma>Čadcká v.o.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>999999999</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 8</are:okres>
+    <are:obec>Praha 8</are:obec>
+    <are:ulice>Pernerova</are:ulice>
+    <are:cisloTxt>11</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-05-17</are:DatumZapisu>
+   <are:DatumVymazu>2001-05-14</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-05-17" dvy="2001-05-14">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1995-05-17" dvy="2001-05-14">
+    <are:Text>
+Za společnost jednají alespoň dva pověření společníci společně.
+Podepisování se děje tak, že k napsanému nebo vytištěnému
+obchodnímu jménu společnosti připojí svůj podpis alespoň dva
+pověření společníci společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:funkce>
+     <are:nazev>pověřený společník:</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02201</are:psc>
+      <are:obec>Čadca</are:obec>
+      <are:ulice>Jana Kollára</are:ulice>
+      <are:cisloTxt>2454/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Kula</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:funkce>
+     <are:nazev>pověřený společník:</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02356</are:psc>
+      <are:obec>Makov</are:obec>
+      <are:ulice>Trojačka</are:ulice>
+      <are:cisloTxt>48</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ján</are:jmeno>
+     <are:prijmeni>Pavela</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:funkce>
+     <are:nazev>pověřený společník:</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02356</are:psc>
+      <are:obec>Makov</are:obec>
+      <are:ulice>Makov</are:ulice>
+      <are:cisloTxt>182</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ján</are:jmeno>
+     <are:prijmeni>Slávik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1999-08-16" dvy="2001-05-14">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="1999-08-16" dvy="2001-05-14">
+    <are:Text>
+Za společnost jedná a podepisuje se samostatně likvidátor.
+Podepisování za společnost se děje tak, že k vytištěnému nebo
+napsanému obchodnímu jménu společnosti připojí svůj podpis
+likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-08-16" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21845921</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Majerského</are:ulice>
+      <are:cisloTxt>2031</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Čech</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-05-17" dvy="2001-05-14">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Turzovka</are:obec>
+      <are:ulice>Stred</are:ulice>
+      <are:cisloTxt>465</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Bogáň</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02274</are:psc>
+      <are:obec>Čadca</are:obec>
+      <are:ulice>SNP</are:ulice>
+      <are:cisloTxt>130</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Fuček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02352</are:psc>
+      <are:obec>Olešná</are:obec>
+      <are:ulice>Olešná</are:ulice>
+      <are:cisloTxt>443</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Holaza</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02356</are:psc>
+      <are:obec>Makov</are:obec>
+      <are:ulice>Trojačka</are:ulice>
+      <are:cisloTxt>123</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Kaduch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02356</are:psc>
+      <are:obec>Makov</are:obec>
+      <are:ulice>Trojačka</are:ulice>
+      <are:cisloTxt>58</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Štefan</are:jmeno>
+     <are:prijmeni>Kaduch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Turzovka</are:obec>
+      <are:ulice>Stred</are:ulice>
+      <are:cisloTxt>425</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaromír</are:jmeno>
+     <are:prijmeni>Konrád</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02355</are:psc>
+      <are:obec>Vysoká nad Kysucou</are:obec>
+      <are:ulice>Vysoká nad Kysucou</are:ulice>
+      <are:cisloTxt>800</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jozef</are:jmeno>
+     <are:prijmeni>Kula</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02201</are:psc>
+      <are:obec>Čadca</are:obec>
+      <are:ulice>Jana Kollára</are:ulice>
+      <are:cisloTxt>2454/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Kula</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Turzovka</are:obec>
+      <are:ulice>Dlohovanská</are:ulice>
+      <are:cisloTxt>459</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Štefan</are:jmeno>
+     <are:prijmeni>Marec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02201</are:psc>
+      <are:obec>Čadca</are:obec>
+      <are:ulice>Chalúpkova</are:ulice>
+      <are:cisloTxt>158</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dušan</are:jmeno>
+     <are:prijmeni>Olšovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02356</are:psc>
+      <are:obec>Makov</are:obec>
+      <are:ulice>Trojačka</are:ulice>
+      <are:cisloTxt>48</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ján</are:jmeno>
+     <are:prijmeni>Pavela</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Turzovka</are:obec>
+      <are:ulice>Vyšný koniec</are:ulice>
+      <are:cisloTxt>416</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ján</are:jmeno>
+     <are:prijmeni>Pytlák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Nesluša</are:obec>
+      <are:ulice>Nesluša</are:ulice>
+      <are:cisloTxt>650</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Papaj</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Turzovka</are:obec>
+      <are:ulice>Vyšný koniec</are:ulice>
+      <are:cisloTxt>54</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Rejda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Turzovka</are:obec>
+      <are:ulice>Predmer</are:ulice>
+      <are:cisloTxt>272</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karol</are:jmeno>
+     <are:prijmeni>Řezníček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02353</are:psc>
+      <are:obec>p.Staškov</are:obec>
+      <are:ulice>Podvysocká</are:ulice>
+      <are:cisloTxt>303</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Řezníček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Turzovka</are:obec>
+      <are:ulice>Ústredie</are:ulice>
+      <are:cisloTxt>416</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ján</are:jmeno>
+     <are:prijmeni>Staník</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02356</are:psc>
+      <are:obec>Makov</are:obec>
+      <are:ulice>Makov</are:ulice>
+      <are:cisloTxt>182</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ján</are:jmeno>
+     <are:prijmeni>Slávik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Turzovka</are:obec>
+      <are:ulice>Stred</are:ulice>
+      <are:cisloTxt>324</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Špita</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Dlhá nad Kysucou</are:obec>
+      <are:ulice>Dlhá nad Kysucou</are:ulice>
+      <are:cisloTxt>282</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ján</are:jmeno>
+     <are:prijmeni>Štefanka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02354</are:psc>
+      <are:obec>Turzovka</are:obec>
+      <are:ulice>Vyšný koniec</are:ulice>
+      <are:cisloTxt>390</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Peter</are:jmeno>
+     <are:prijmeni>Učnik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-17" dvy="2001-05-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:psc>02356</are:psc>
+      <are:obec>Makov</are:obec>
+      <are:ulice>Trojačka</are:ulice>
+      <are:cisloTxt>77</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladislav</are:jmeno>
+     <are:prijmeni>Tomek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

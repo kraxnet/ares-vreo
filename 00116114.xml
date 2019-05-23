@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:54:39"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:54:40</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00116114</are:ICO>
+   <are:ObchodniFirma>Zemědělské družstvo Poohří v Chotíkově, 357 51  Kynšperk n. O.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Sokolov</are:okres>
+    <are:obec>Chotíkov</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1951-03-17</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+a) výroba a prodej zemědělských výrobků
+     </are:Text>
+     <are:Text>
+b) prodej potravinářských výrobků
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1951-03-17">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1951-03-17" dvy="1953-12-28">
+    <are:Text>
+Představenstvo se skládá z předsedy, místopředsedy a dalších
+3 - 8 členů.
+Zastupovati oprávněni předseda nebo místopředseda s jedním
+dalším členem představenstva.
+Podpisování družstva: pod název družstva připojí své podpisy
+předseda nebo místopředseda s jedním dalším členem
+představenstva.
+Až do zvolení představenstva družstva vykonává působnost
+přípravný výbor, který zastupuje a znamená stejným způsobem jako
+představenstvo.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1953-12-28" dvy="1991-06-26">
+    <are:Text>
+Představenstvo se skládá z pěti až devíti členů.
+Zastupovati a podepisovati za družstvo jest oprávněn předseda
+spolu s jedním členm představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1991-06-26">
+    <are:Text>
+Zastupování a podepisování:
+Zastupovat a podepisovat za družstvo je oprávněn předseda, v době
+jeho nepřítomnosti místopředseda.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1951-03-17" dvy="1953-12-28">
+    <are:funkce>
+     <are:nazev>předseda přípravného výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>609111</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov 13</are:obec>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Hruška</are:prijmeni>
+     <are:titulZa>rolník</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-03-17" dvy="1953-12-28">
+    <are:funkce>
+     <are:nazev>místopředseda přípravného výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov 11</are:obec>
+     </are:adresa>
+     <are:jmeno>Veleslav</are:jmeno>
+     <are:prijmeni>Lesák</are:prijmeni>
+     <are:titulZa>rolník</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-03-17" dvy="1953-12-28">
+    <are:funkce>
+     <are:nazev>člen přípravného výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov 10</are:obec>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kortan</are:prijmeni>
+     <are:titulZa>rolník</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-03-17" dvy="1953-12-28">
+    <are:funkce>
+     <are:nazev>člen přípravného výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov 9</are:obec>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Jelínek</are:prijmeni>
+     <are:titulZa>rolník</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-03-17" dvy="1953-12-28">
+    <are:funkce>
+     <are:nazev>člen přípravného výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>606189</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov 4</are:obec>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Novák</are:prijmeni>
+     <are:titulZa>rolník</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-03-17" dvy="1953-12-28">
+    <are:funkce>
+     <are:nazev>člen přípravného výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov 5</are:obec>
+     </are:adresa>
+     <are:jmeno>Břetislav</are:jmeno>
+     <are:prijmeni>Koudelka</are:prijmeni>
+     <are:titulZa>rolník</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-03-17" dvy="1953-12-28">
+    <are:funkce>
+     <are:nazev>člen přípravného výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov 11</are:obec>
+     </are:adresa>
+     <are:jmeno>Amálie</are:jmeno>
+     <are:prijmeni>Lesáková</are:prijmeni>
+     <are:titulZa>rolník</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1951-03-17" dvy="1953-12-28">
+    <are:funkce>
+     <are:nazev>člen přípravného výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov 12</are:obec>
+     </are:adresa>
+     <are:jmeno>Emilie</are:jmeno>
+     <are:prijmeni>Kazilovská</are:prijmeni>
+     <are:titulZa>rolník</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1953-12-28" dvy="1957-11-15">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>606154</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov č. 1</are:obec>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Fara</are:prijmeni>
+     <are:titulZa>zemědělec</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1953-12-28" dvy="1957-11-15">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov č. 9</are:obec>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Jenšovský</are:prijmeni>
+     <are:titulZa>zemědělec</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1953-12-28" dvy="1957-11-15">
+    <are:funkce>
+     <are:nazev>zástupce předsedy</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov č. 11</are:obec>
+     </are:adresa>
+     <are:jmeno>Veleslav</are:jmeno>
+     <are:prijmeni>Lesák</are:prijmeni>
+     <are:titulZa>zemědělec</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1953-12-28" dvy="1971-12-14">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov č. 2</are:obec>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Jelínek</are:prijmeni>
+     <are:titulZa>zemědělec</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1953-12-28" dvy="1971-12-14">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>606154</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov č. 1</are:obec>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Fara</are:prijmeni>
+     <are:titulZa>zemědělec</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1957-11-15" dvy="1971-12-14">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov č. 9</are:obec>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Jenšovský</are:prijmeni>
+     <are:titulZa>zemědělec</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1957-11-15" dvy="1971-12-14">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov č. 11</are:obec>
+     </are:adresa>
+     <are:jmeno>Veleslav</are:jmeno>
+     <are:prijmeni>Lesák</are:prijmeni>
+     <are:titulZa>zemědělec</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1957-11-15" dvy="1971-12-14">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>606243</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov čp. 10</are:obec>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kortan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1957-11-15" dvy="1971-12-14">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kynšperk n. O.</are:obec>
+      <are:cisloTxt>722</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Špinar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1971-12-14" dvy="1972-11-20">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>606286</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>čp. 15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Jelínek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1971-12-14" dvy="1972-11-20">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Břetislav</are:jmeno>
+     <are:prijmeni>Koudelka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1971-12-14" dvy="1972-11-20">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Kortan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1971-12-14" dvy="1976-03-17">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Liboc</are:obec>
+      <are:cisloTxt>čp. 38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Fara</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1971-12-14" dvy="1976-03-17">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrov nad Ohří</are:obec>
+      <are:ulice>Hejdukova</are:ulice>
+      <are:cisloTxt>701</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimír</are:jmeno>
+     <are:prijmeni>Kazilovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1972-11-20" dvy="1976-03-17">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>606189</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>čp. 4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Huber</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1972-11-20" dvy="1976-03-17">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>606341</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>čp. 21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloslava</are:jmeno>
+     <are:prijmeni>Jelínková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1972-11-20" dvy="1976-03-17">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-sever</are:okres>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Kortan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1976-03-17" dvy="1980-06-16">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>č. 21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Jelínek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1976-03-17" dvy="1980-06-16">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>č. 15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Jelínek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1976-03-17" dvy="1980-06-16">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Liboc</are:obec>
+      <are:cisloTxt>č. 38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Farová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1976-03-17" dvy="1980-06-16">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Liboc</are:obec>
+      <are:cisloTxt>č. 31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milada</are:jmeno>
+     <are:prijmeni>Huberová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1976-03-17" dvy="1980-06-16">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kynšperk n. Ohří</are:obec>
+      <are:cisloTxt>č. 701</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimír</are:jmeno>
+     <are:prijmeni>Kazilovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1976-03-17" dvy="1980-06-16">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>12</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Kortan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1976-03-17" dvy="1980-12-03">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>č. 5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Břetislav</are:jmeno>
+     <are:prijmeni>Koudelka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1980-06-16" dvy="1980-12-03">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Liboc</are:obec>
+      <are:cisloTxt>č. 38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Fara</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1980-06-16" dvy="1982-04-28">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>č. 9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Veronika</are:jmeno>
+     <are:prijmeni>Jenšovská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1980-06-16" dvy="1982-04-28">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kynšperk n. Ohří</are:obec>
+      <are:cisloTxt>č. 701</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimír</are:jmeno>
+     <are:prijmeni>Kazilovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1980-06-16" dvy="1985-03-18">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Liboc</are:obec>
+      <are:cisloTxt>č. 30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Disce</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1980-06-16" dvy="1987-04-30">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Sokolov</are:okres>
+      <are:obec>Kynšperk nad Ohří</are:obec>
+      <are:ulice>náměstí SNP</are:ulice>
+      <are:cisloTxt>č. 408</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Kortán</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1980-06-16" dvy="1987-04-30">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>č. 2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Řezáč</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1980-12-03" dvy="1982-04-28">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12007871</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Útvina</are:obec>
+      <are:cisloTxt>157</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Emil</are:jmeno>
+     <are:prijmeni>Gabriško</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1980-12-03" dvy="1985-03-18">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Liboc</are:obec>
+      <are:cisloTxt>č. 38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Fara</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1982-04-28">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>č. 5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Fritschová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1982-04-28" dvy="1985-03-18">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Sokolov</are:okres>
+      <are:obec>Kynšperk nad Ohří</are:obec>
+      <are:ulice>Husova</are:ulice>
+      <are:cisloTxt>č. 67</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Pech</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1982-04-28" dvy="1991-06-26">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kynšperk n. Ohří</are:obec>
+      <are:cisloTxt>č. 701</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimír</are:jmeno>
+     <are:prijmeni>Kazilovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1985-03-18">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>606286</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>čp. 15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Jelínek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1985-03-18" dvy="1987-04-30">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>606189</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>čp. 4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Huber</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1985-03-18" dvy="1987-04-30">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kynšperk n. Ohří</are:obec>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloTxt>252</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiřina</are:jmeno>
+     <are:prijmeni>Souchová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1987-04-30" dvy="1989-08-01">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kynšperk n. O.</are:obec>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloTxt>252</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiřina</are:jmeno>
+     <are:prijmeni>Šindelářová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1987-04-30" dvy="1990-06-15">
+    <are:funkce>
+     <are:nazev>zástupce předsedy</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>606162</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>čp. 2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Řezáč</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1987-04-30" dvy="1990-06-15">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kynšperk n. O.</are:obec>
+      <are:ulice>Jana Jiskry</are:ulice>
+      <are:cisloTxt>404</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Edita</are:jmeno>
+     <are:prijmeni>Turková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1987-04-30" dvy="1991-06-26">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kynšperk n. O.</are:obec>
+      <are:ulice>náměstí SNP</are:ulice>
+      <are:cisloTxt>424</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Božena</are:jmeno>
+     <are:prijmeni>Špinarová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1989-08-01" dvy="1990-06-15">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Jelínek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-06-15">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Chvojan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-06-15" dvy="1991-06-26">
+    <are:funkce>
+     <are:nazev>zástupce předsedy</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov</are:obec>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Jelínek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-06-15" dvy="1991-06-26">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Liboc</are:obec>
+      <are:cisloTxt>35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Novák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-06-26">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35701</are:psc>
+      <are:obec>Liboc 35</are:obec>
+      <are:ulice>Kynšperk n. o.</are:ulice>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Novák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-06-26">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kynšperk n. O.</are:obec>
+      <are:ulice>Jana Jiskry</are:ulice>
+      <are:cisloTxt>404</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Edita</are:jmeno>
+     <are:prijmeni>Turková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-06-26">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotíkov 15</are:obec>
+      <are:ulice>357 51 Kynšperk n. O.</are:ulice>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Novák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-06-26">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Kynšperk n. O.</are:obec>
+      <are:ulice>Hejdukova</are:ulice>
+      <are:cisloTxt>701</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimír</are:jmeno>
+     <are:prijmeni>Kazilovský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

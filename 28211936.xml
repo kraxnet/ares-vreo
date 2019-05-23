@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T10:33:06"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>10:33:06</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28211936</are:ICO>
+   <are:ObchodniFirma>Hung Nguyen Van</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21916781</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14300</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Modřany</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Staromodřanská</are:ulice>
+    <are:cisloPop>227</are:cisloPop>
+    <are:cisloOr>7</are:cisloOr>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:stat>704</are:stat>
+    <are:obec>Nghe An</are:obec>
+    <are:castObce>Nam Dan</are:castObce>
+    <are:ulice>Nam Kim</are:ulice>
+   </are:Bydliste>
+   <are:DatumZapisu>2007-12-17</are:DatumZapisu>
+   <are:DatumVymazu>2016-11-09</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z obchodního rejstříku podnikatel Hung Nguyen Van, identifikační číslo: 282 11 936 včetně všech zapsaných skutečností.
+Právním důvodem výmazu je ukončení činnosti podnikatele v režimu živnostenského zákona.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-12-17" dvy="2016-11-09">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="2007-12-17" dvy="2016-11-09">
+    <are:fosoba>
+     <are:prijmeni>Hung Nguyen Van</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

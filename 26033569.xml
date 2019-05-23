@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T00:03:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>00:03:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26033569</are:ICO>
+   <are:ObchodniFirma>South Bohemia Attorney Community k.s. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23401737</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>37001</are:psc>
+    <are:okres>České Budějovice</are:okres>
+    <are:obec>České Budějovice</are:obec>
+    <are:castObce>České Budějovice 6</are:castObce>
+    <are:ulice>Žižkova tř.</are:ulice>
+    <are:cisloPop>220</are:cisloPop>
+    <are:cisloOr>15</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-02-12</are:DatumZapisu>
+   <are:DatumVymazu>2017-05-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se dle ust. § 82 zák. č. 304/2013 po ukončené likvidaci ke dni 31.3.2017 z veřejného rejstříku komanditní společnost South Bohemia Attorney Community k.s. v likvidaci, Žižkova tř. 220/15, České Budějovice 6, 370 01 České Budějovice, identifikační
+ číslo 260 33 569, včetně všech zapsaných skutečností, a to ke dni nabytí právní moci tohoto usnesení.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+organizační a ekonomické poradenství
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-02-12" dvy="2017-05-27">
+   <are:Nazev>Statutární orgán - komplementář</are:Nazev>
+   <are:ZpusobJednani dza="2001-02-12" dvy="2017-05-27">
+    <are:Text>
+Statutární orgán jedná tak, že k napsanému či jinak zobrazenému
+názvu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-02-12" dvy="2015-01-21">
+    <are:funkce>
+     <are:zanikFunkce>2011-01-25</are:zanikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22474307</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19014</are:psc>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Slavětínská</are:ulice>
+      <are:cisloTxt>662</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>63674335</are:ICO>
+     <are:ObchodniFirma>SUN TRADE PRAHA s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2001-02-12" dvy="2017-05-27">
+   <are:Nazev>Společníci - komplementáři</are:Nazev>
+   <are:Clen dza="2001-02-12" dvy="2015-01-21">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22474307</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19014</are:psc>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Slavětínská</are:ulice>
+      <are:cisloTxt>662</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>63674335</are:ICO>
+     <are:ObchodniFirma>SUN TRADE PRAHA s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-01-17" dvy="2017-05-27">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-01-17" dvy="2017-05-27">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>26735431</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37001</are:psc>
+      <are:okres>České Budějovice</are:okres>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 3</are:castObce>
+      <are:ulice>tř. 28. října</are:ulice>
+      <are:cisloPop>1476</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:ICO>60627875</are:ICO>
+     <are:ObchodniFirma>Ing. Pavel Vlček</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

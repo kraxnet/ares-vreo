@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T10:50:50"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>10:50:50</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>75005417</are:ICO>
+   <are:ObchodniFirma>Mateřská škola Poběžovice, okres Domažlice, příspěvková organizace</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>41258584</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>34522</are:psc>
+    <are:okres>Domažlice</are:okres>
+    <are:obec>Poběžovice</are:obec>
+    <are:castObce>Poběžovice</are:castObce>
+    <are:ulice>Drahotínská</are:ulice>
+    <are:cisloPop>86</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-09-26</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:DoplnkovaCinnost>
+     <are:Text>
+hostinská činnost
+     </are:Text>
+    </are:DoplnkovaCinnost>
+    <are:PredmetCinnosti>
+     <are:Text>
+škola sdružuje mateřskou školu, která zabezpečuje předškolní výchovu v souladu se zněním zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon) ve znění pozdějších předpisů, školní jídelnu, která zab
+ezpečuje stravování žáků a závodní stravování zaměstnanců právnických osob, vykonávajících činnost škol a školských zařízení dle vyhlášky č. 84/2005 Sb., dle § 2 a 3.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-09-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-09-26">
+    <are:Text>
+Způsob jednání:
+Za příspěvkovou organizaci jedná ředitel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-09-26" dvy="2005-04-21">
+    <are:funkce>
+     <are:nazev>Ředitel</are:nazev>
+     <are:vznikFunkce>2003-01-01</are:vznikFunkce>
+     <are:zanikFunkce>2003-12-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6843191</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34522</are:psc>
+      <are:obec>Poběžovice</are:obec>
+      <are:ulice>nám. Míru</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeňka</are:jmeno>
+     <are:prijmeni>Bartoníková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-04-21">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+     <are:vznikFunkce>2003-04-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>6844227</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>34522</are:psc>
+      <are:obec>Poběžovice</are:obec>
+      <are:ulice>Zahradní</are:ulice>
+      <are:cisloTxt>112</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Pekárová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

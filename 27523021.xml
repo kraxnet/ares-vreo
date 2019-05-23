@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-06T14:14:25"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>14:14:25</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27523021</are:ICO>
+   <are:ObchodniFirma>ASSA ABLOY ES Production s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>15647048</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>34901</are:psc>
+    <are:okres>Tachov</are:okres>
+    <are:obec>Kostelec</are:obec>
+    <are:castObce>Ostrov u Stříbra</are:castObce>
+    <are:cisloPop>11</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2007-09-14</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-09-14">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2007-09-14" dvy="2010-06-04">
+    <are:Text>
+Způsob jednání jménem společnosti:
+Každý z jednatelů je oprávněn jednat jménem společnosti navenek samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2010-06-04" dvy="2018-03-13">
+    <are:Text>
+Způsob jednání jménem společnosti:
+Jménem společnosti jednají vždy dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2018-03-13">
+    <are:Text>
+Za společnost jednají ve všech věcech vždy alespoň dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-09-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-09-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>752</are:stat>
+      <are:text>Ängelholm, Ekvägen 6, S-262 61</are:text>
+     </are:adresa>
+     <are:prijmeni>Eva Anna Sofia Karlsson</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-06-04" dvy="2012-07-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-04-19</are:vznikFunkce>
+     <are:zanikFunkce>2012-05-28</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>752</are:stat>
+      <are:text>SE - 25433 Helsingborg, Drottninggatan 250</are:text>
+     </are:adresa>
+     <are:jmeno>Leif Arne</are:jmeno>
+     <are:prijmeni>Hjalmarsson</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-06-04" dvy="2018-03-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2010-04-19</are:vznikFunkce>
+     <are:zanikFunkce>2018-03-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>752</are:stat>
+      <are:text>SE - 25733 Rydebäck, Tjärögatan 40</are:text>
+     </are:adresa>
+     <are:jmeno>Juan Ramon</are:jmeno>
+     <are:prijmeni>Vargues Huerta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-07-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-05-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>752</are:stat>
+      <are:psc>24563</are:psc>
+      <are:obec>Hjärup</are:obec>
+      <are:ulice>Rälsvägen</are:ulice>
+      <are:cisloPop>16</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Per Olof Ingemar</are:jmeno>
+     <are:prijmeni>Hansson</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-03-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2018-03-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>208</are:stat>
+      <are:psc>DK-1364</are:psc>
+      <are:obec>K benhavn K</are:obec>
+      <are:ulice>N rre Farimagsgade 41, 2th</are:ulice>
+     </are:adresa>
+     <are:jmeno>MOGENS AHRENS</are:jmeno>
+     <are:prijmeni>JENSEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2007-09-14">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2007-09-14">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>752</are:stat>
+      <are:psc>26122</are:psc>
+      <are:obec>Landskrona</are:obec>
+      <are:ulice>Box</are:ulice>
+      <are:cisloTxt>131</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>ASSA ABLOY Entrance Systems AB, číslo registrace 556204-8511</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

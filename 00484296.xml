@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:20:40"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:20:40</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00484296</are:ICO>
+   <are:ObchodniFirma>V.P.V. KASTEX veřejná obchodní společnost se sídlem Staré Ždánice 173</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>53003</are:psc>
+    <are:obec>Staré Ždánice</are:obec>
+    <are:ulice>Staré Ždánice</are:ulice>
+    <are:cisloTxt>173</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-05-16</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-05-16">
+   <are:Nazev>Statutární orgán - společník</are:Nazev>
+   <are:ZpusobJednani dza="1990-05-16" dvy="1992-12-21">
+    <are:Text>
+Zastupování:
+Veřejnou obchodní společnost zastupují navenek ředitel nebo jeho
+první a druhý zástupce
+Všichni tři společníci navenek mohou vystupovat jako statutární
+zástupci společnosti, mohou uzavírat a podepisovat smlouvy s ji-
+nými společnostmi, organizacemi či jinými právnickými osobami,
+či soukromými podnikateli po předchozím písemném souhlasu rady
+společnosti
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1992-12-21">
+    <are:Text>
+Způsob jednání za společnost:
+Jménem společnosti jsou oprávněni jednat navenek a podepiso-
+vat za ni ředitel nebo jeho zástupce
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-05-16">
+    <are:funkce>
+     <are:nazev>ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7795211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Sluneční</are:ulice>
+      <are:cisloTxt>301</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Němeček</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-16">
+    <are:funkce>
+     <are:nazev>zástupce ředtitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Schvarzovo nám</are:ulice>
+      <are:cisloTxt>1583</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Říha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-16" dvy="1992-12-21">
+    <are:funkce>
+     <are:nazev>zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Lázně Bohdaneč</are:obec>
+      <are:ulice>nám. Míru</are:ulice>
+      <are:cisloTxt>112</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Papák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1990-05-16">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1990-05-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7795211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Sluneční</are:ulice>
+      <are:cisloTxt>301</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Němeček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-05-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Pardubice</are:obec>
+      <are:ulice>Schvarzovo nám.</are:ulice>
+      <are:cisloTxt>1583</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Říha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

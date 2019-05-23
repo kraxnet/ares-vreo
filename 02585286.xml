@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T21:29:07"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>21:29:07</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>02585286</are:ICO>
+   <are:ObchodniFirma>MWM ELEKTRO MACHINERY s.r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3315703</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>70900</are:psc>
+    <are:obec>Ostrava</are:obec>
+    <are:castObce>Mariánské Hory</are:castObce>
+    <are:ulice>V Zátiší</are:ulice>
+    <are:cisloPop>810</are:cisloPop>
+    <are:cisloOr>1</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2014-01-24</are:DatumZapisu>
+   <are:DatumVymazu>2017-09-08</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se ke dni právní moci tohoto rozhodnutí z obchodního rejstříku včetně všech zapsaných skutečností.
+    </are:Text>
+    <are:Text>
+Právní důvod výmazu:
+Společnost se vymazává z obchodního rejstříku na základě návrhu společnosti, zastoupené likvidátorem, po ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2014-01-24" dvy="2017-09-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2014-01-24" dvy="2017-09-08">
+    <are:Text>
+Jednatelé jednají za společnost každý samostatně.
+ 
+Počet členů statutárního orgánu: 2
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2014-01-24" dvy="2017-09-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2014-01-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:psc>32-031</are:psc>
+      <are:obec>Gaj</are:obec>
+      <are:ulice>Wąska 14</are:ulice>
+     </are:adresa>
+     <are:jmeno>MAREK BOLESŁAW</are:jmeno>
+     <are:prijmeni>BAJOR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-24" dvy="2017-09-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2014-01-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:psc>43-241</are:psc>
+      <are:obec>Łąka</are:obec>
+      <are:ulice>Dąbrowszczaków 2C</are:ulice>
+     </are:adresa>
+     <are:jmeno>RYSZARD MARCIN</are:jmeno>
+     <are:prijmeni>ROEHRICH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-01-05" dvy="2017-09-08">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-01-05" dvy="2017-09-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:psc>32-031</are:psc>
+      <are:obec>Gaj</are:obec>
+      <are:ulice>Wąska 14</are:ulice>
+     </are:adresa>
+     <are:jmeno>MAREK BOLESŁAW</are:jmeno>
+     <are:prijmeni>BAJOR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2014-01-24" dvy="2017-09-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2014-01-24" dvy="2017-09-08">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:psc>32-540</are:psc>
+      <are:obec>Trzebinia</are:obec>
+      <are:ulice>Słowackiego  49</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>&#8222;MWM ELEKTRO&#8220; Spółka z ograniczoną odpowiedzialnością</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

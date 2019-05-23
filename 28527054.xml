@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T13:15:12"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>13:15:13</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28527054</are:ICO>
+   <are:ObchodniFirma>International Engineering and Trading s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22379231</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>18000</are:psc>
+    <are:obec>Praha 8</are:obec>
+    <are:castObce>Libeň</are:castObce>
+    <are:ulice>Braunerova</are:ulice>
+    <are:cisloTxt>563/7</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2009-02-16</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2009-02-16">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2009-02-16">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2009-02-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-02-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>364</are:stat>
+      <are:text>1 st West Floor, Phase 2, Shahr Zeeba, Baharan Town, 14878 Tehran</are:text>
+     </are:adresa>
+     <are:jmeno>Majid</are:jmeno>
+     <are:prijmeni>Zahiri</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-02-16" dvy="2009-04-20">
+    <are:funkce>
+     <are:vznikFunkce>2009-02-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18100</are:psc>
+      <are:obec>Praha 8</are:obec>
+      <are:castObce>Troja</are:castObce>
+      <are:ulice>Hnězdenská</are:ulice>
+      <are:cisloTxt>767/2a</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yana</are:jmeno>
+     <are:prijmeni>Semenenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2009-02-16">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2009-02-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>364</are:stat>
+      <are:text>1 st West Floor, Phase 2, Shahr Zeeba, Baharan Town, 14878 Tehran</are:text>
+     </are:adresa>
+     <are:jmeno>Majid</are:jmeno>
+     <are:prijmeni>Zahiri</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-02-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>364</are:stat>
+      <are:text>1 st West Floor, Phase 2, Shahr Zeeba, Baharan Town, 14878 Tehran</are:text>
+     </are:adresa>
+     <are:prijmeni>Yadollah Zahirigaleshi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

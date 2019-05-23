@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-29T16:34:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-29</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-29</are:Datum_vypisu>
+   <are:Cas_vypisu>16:34:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26359421</are:ICO>
+   <are:ObchodniFirma>PASTORE CZO a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>28177223</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>30100</are:psc>
+    <are:obec>Plzeň</are:obec>
+    <are:castObce>Jižní Předměstí</are:castObce>
+    <are:ulice>Klatovská třída</are:ulice>
+    <are:cisloPop>73</are:cisloPop>
+    <are:cisloOr>7a</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-07-09</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+specializovaný maloobchod
+     </are:Text>
+     <are:Text>
+velkoobchod
+     </are:Text>
+     <are:Text>
+zprostředkování obchodu
+     </are:Text>
+     <are:Text>
+kovářství
+     </are:Text>
+     <are:Text>
+zámečnictví
+     </are:Text>
+     <are:Text>
+kovoobráběčství
+     </are:Text>
+     <are:Text>
+výroba kovových konstrukcí, kotlů, těles a kontejnerů
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-07-09" dvy="2005-03-16">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-07-09" dvy="2005-03-16">
+    <are:Text>
+Způsob jednání:
+Každý z jednatelů jedná jménem společnosti samostatně.
+Podepisuje se tak, že k firmě společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-07-09" dvy="2005-03-16">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2003-07-09</are:vznikFunkce>
+     <are:zanikFunkce>2005-03-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23354461</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>N. Frýda</are:ulice>
+      <are:cisloTxt>1244/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kubeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-07-09" dvy="2005-03-16">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2003-07-09</are:vznikFunkce>
+     <are:zanikFunkce>2005-03-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7089406</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Bušovice</are:obec>
+      <are:cisloTxt>123</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Koželuh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2005-03-16">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2005-03-16" dvy="2012-11-02">
+    <are:Text>
+Způsob jednání:
+Jménem společnosti jedná představenstvo. Za představenstvo jedná navenek jménem společnosti předseda představenstva nebo jiný člen představenstva v určitém rozsahu písemně pověřený předsedou představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2012-11-02" dvy="2013-04-02">
+    <are:Text>
+Jménem společnosti jedná představenstvo. Za představenstvo jedná jménem společnosti každý člen představenstva, a to samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2013-04-02">
+    <are:Text>
+Jménem společnosti jedná představenstvo. Za představenstvo jedná jménem společnosti předseda představenstva, a to samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2005-03-16" dvy="2011-07-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-03-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-03-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2005-03-16</are:vznikFunkce>
+     <are:zanikFunkce>2008-03-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>380</are:stat>
+      <are:text>Frazione, Castiglione 18</are:text>
+     </are:adresa>
+     <are:prijmeni>Lorenzo Bortot</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-03-16" dvy="2011-07-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-03-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-03-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>380</are:stat>
+      <are:text>Rivoli, via Camogli 11</are:text>
+     </are:adresa>
+     <are:prijmeni>Mario Gnaccarini</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-03-16" dvy="2011-07-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-03-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-03-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Lungo Dora Napoli 68/E</are:text>
+     </are:adresa>
+     <are:prijmeni>Leonardo Corcione</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-03-16" dvy="2011-07-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-03-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-03-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23354461</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>N. Frýda</are:ulice>
+      <are:cisloTxt>1244/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kubeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-03-16" dvy="2011-07-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2005-03-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-03-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Dýšina</are:obec>
+      <are:ulice>ul. V. Brožíka</are:ulice>
+      <are:cisloTxt>160</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Chudík</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-22" dvy="2011-12-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-12-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2008-03-05</are:vznikFunkce>
+     <are:zanikFunkce>2010-12-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>380</are:stat>
+      <are:obec>Asti</are:obec>
+      <are:castObce>Frazione</are:castObce>
+      <are:ulice>Castiglione</are:ulice>
+      <are:cisloPop>182</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Lorenzo</are:jmeno>
+     <are:prijmeni>Bortot</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-22" dvy="2011-12-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-12-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>380</are:stat>
+      <are:obec>Asti</are:obec>
+      <are:castObce>Frazione</are:castObce>
+      <are:ulice>Castiglione</are:ulice>
+      <are:cisloPop>182</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Stefano</are:jmeno>
+     <are:prijmeni>Bortot</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-22" dvy="2011-12-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-12-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>380</are:stat>
+      <are:obec>Torino</are:obec>
+      <are:ulice>Lungo Dora Napoli</are:ulice>
+      <are:cisloOr>68e</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Leonardo</are:jmeno>
+     <are:prijmeni>Corcione</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-22" dvy="2011-12-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-12-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23354461</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37005</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>N. Frýda</are:ulice>
+      <are:cisloPop>1244</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kubeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-07-22" dvy="2011-12-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-03-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-12-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>583065</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33002</are:psc>
+      <are:obec>Dýšina</are:obec>
+      <are:ulice>V. Brožíka</are:ulice>
+      <are:cisloPop>160</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Chudík</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-28" dvy="2011-12-28">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-12-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-06-28</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23354461</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37005</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:ulice>N. Frýda</are:ulice>
+      <are:cisloPop>1244</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kubeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-28" dvy="2012-11-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-12-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-07-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-12-10</are:vznikFunkce>
+     <are:zanikFunkce>2012-07-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>380</are:stat>
+      <are:obec>Asti</are:obec>
+      <are:castObce>Frazione Castiglione</are:castObce>
+      <are:cisloPop>182</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Lorenzo</are:jmeno>
+     <are:prijmeni>Bortot</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-28" dvy="2012-11-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-12-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-07-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>380</are:stat>
+      <are:obec>Asti</are:obec>
+      <are:castObce>Frazione Castiglione</are:castObce>
+      <are:cisloPop>182</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Stefano</are:jmeno>
+     <are:prijmeni>Bortot</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-28" dvy="2012-11-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-12-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-07-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>583065</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33002</are:psc>
+      <are:obec>Dýšina</are:obec>
+      <are:ulice>V. Brožíka</are:ulice>
+      <are:cisloPop>160</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Chudík</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-28" dvy="2012-11-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-06-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-07-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7089406</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33824</are:psc>
+      <are:obec>Bušovice</are:obec>
+      <are:cisloPop>123</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Koželuh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-12-28" dvy="2013-04-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-12-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>380</are:stat>
+      <are:obec>Torino</are:obec>
+      <are:ulice>Lungo Dora Napoli</are:ulice>
+      <are:cisloOr>68e</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Leonardo</are:jmeno>
+     <are:prijmeni>Corcione</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-11-02" dvy="2013-04-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-07-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-03-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2012-07-25</are:vznikFunkce>
+     <are:zanikFunkce>2013-03-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>380</are:stat>
+      <are:psc>50058</are:psc>
+      <are:obec>Signa (Fi)</are:obec>
+      <are:ulice>Via dell´Orologio</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Simone</are:jmeno>
+     <are:prijmeni>Ciardi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-04-02" dvy="2015-01-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-12-10</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-06-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2013-03-25</are:vznikFunkce>
+     <are:zanikFunkce>2014-06-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>380</are:stat>
+      <are:obec>Torino</are:obec>
+      <are:ulice>Lungo Dora Napoli</are:ulice>
+      <are:cisloOr>68e</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Leonardo</are:jmeno>
+     <are:prijmeni>Corcione</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-04-02" dvy="2015-01-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-03-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-06-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>380</are:stat>
+      <are:obec>Torino</are:obec>
+      <are:ulice>Corso Monte Cucco</are:ulice>
+      <are:cisloTxt>113</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dario</are:jmeno>
+     <are:prijmeni>Spadavecchia</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-04-02" dvy="2015-01-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-03-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-11-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22965211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>26202</are:psc>
+      <are:obec>Stará Huť</are:obec>
+      <are:castObce>Stará Huť</are:castObce>
+      <are:ulice>Ke Strži</are:ulice>
+      <are:cisloPop>440</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>KUBEŠ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-01-14" dvy="2015-04-30">
+    <are:clenstvi>
+     <are:zanikClenstvi>2015-03-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2014-11-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22662880</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10100</are:psc>
+      <are:obec>Praha 10</are:obec>
+      <are:castObce>Vršovice</are:castObce>
+      <are:ulice>Na Míčánkách</are:ulice>
+      <are:cisloPop>713</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BARBARA</are:jmeno>
+     <are:prijmeni>KUBEŠOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-03-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23354461</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37005</are:psc>
+      <are:obec>České Budějovice</are:obec>
+      <are:castObce>České Budějovice 2</are:castObce>
+      <are:ulice>N. Frýda</are:ulice>
+      <are:cisloPop>1244</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>KLEČKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2005-03-16">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2016-03-02">
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+     <are:vznikFunkce>2014-11-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22729283</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Hostavice</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Holenská</are:ulice>
+      <are:cisloPop>552</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZUZANA</are:jmeno>
+     <are:prijmeni>ANDRESOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2015-01-14">
+   <are:Nazev>Akcionáři</are:Nazev>
+   <are:Clen dza="2015-04-30">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>826</are:stat>
+      <are:psc>N228HH</are:psc>
+      <are:obec>London</are:obec>
+      <are:ulice>Dept 757 196 High Road</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>SOTERITONA</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

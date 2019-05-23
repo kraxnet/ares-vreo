@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T18:12:06"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>18:12:06</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>29390389</are:ICO>
+   <are:ObchodniFirma>STARMEL - MONT s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23243821</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>77900</are:psc>
+    <are:obec>Olomouc</are:obec>
+    <are:castObce>Holice</are:castObce>
+    <are:ulice>Přerovská</are:ulice>
+    <are:cisloPop>312</are:cisloPop>
+    <are:cisloOr>18</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2011-11-23</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2011-11-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2011-11-23" dvy="2014-12-02">
+    <are:Text>
+Způsob jednání za společnost:
+Jednatelé jednají jménem společnosti ve všech věcech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-12-02">
+    <are:Text>
+Jednatelé zastupují společnost samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2011-11-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3271943</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Zábřeh</are:castObce>
+      <are:ulice>Šamanova</are:ulice>
+      <are:cisloPop>1952</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Heorhii</are:jmeno>
+     <are:prijmeni>Dushchak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24840211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Šárka</are:ulice>
+      <are:cisloPop>3330</are:cisloPop>
+      <are:cisloOr>38</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Kuryatnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21766240</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:ulice>Kouřimská</are:ulice>
+      <are:cisloPop>2337</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Viktor</are:jmeno>
+     <are:prijmeni>Tsanko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24840211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Šárka</are:ulice>
+      <are:cisloPop>3330</are:cisloPop>
+      <are:cisloOr>38</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Husar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>78336</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Křelov</are:castObce>
+      <are:ulice>M. Majerové</are:ulice>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Viktoriya</are:jmeno>
+     <are:prijmeni>Mishko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23" dvy="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24840211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Šárka</are:ulice>
+      <are:cisloPop>3330</are:cisloPop>
+      <are:cisloOr>38</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Kuryatnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23" dvy="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4249909</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76005</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Okružní</are:ulice>
+      <are:cisloPop>4699</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Ievgeniia</are:jmeno>
+     <are:prijmeni>Stukalo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23" dvy="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23243821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Holice</are:castObce>
+      <are:ulice>Přerovská</are:ulice>
+      <are:cisloPop>312</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Holovnych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23" dvy="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25927639</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>39701</are:psc>
+      <are:obec>Písek</are:obec>
+      <are:castObce>Budějovické Předměstí</are:castObce>
+      <are:ulice>Dolní</are:ulice>
+      <are:cisloPop>2566</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Galyna</are:jmeno>
+     <are:prijmeni>Danylyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23" dvy="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23333308</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Řepčín</are:castObce>
+      <are:ulice>Svatoplukova</are:ulice>
+      <are:cisloPop>64</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Baleha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23" dvy="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3271943</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Zábřeh</are:castObce>
+      <are:ulice>Šamanova</are:ulice>
+      <are:cisloPop>1952</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Karabadzhan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23" dvy="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23243821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Holice</are:castObce>
+      <are:ulice>Přerovská</are:ulice>
+      <are:cisloPop>312</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Leheza</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22553959</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10700</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dubeč</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Františka Červeného</are:ulice>
+      <are:cisloPop>165</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>YURIY</are:jmeno>
+     <are:prijmeni>KURYATNYK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23243821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Holice</are:castObce>
+      <are:ulice>Přerovská</are:ulice>
+      <are:cisloPop>312</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IEVGENIIA</are:jmeno>
+     <are:prijmeni>STUKALO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12129071</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46871</are:psc>
+      <are:obec>Lučany nad Nisou</are:obec>
+      <are:castObce>Lučany nad Nisou</are:castObce>
+      <are:cisloPop>442</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>HANNA</are:jmeno>
+     <are:prijmeni>HOLOVNYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23243821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Holice</are:castObce>
+      <are:ulice>Přerovská</are:ulice>
+      <are:cisloPop>312</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>GALYNA</are:jmeno>
+     <are:prijmeni>DANYLYUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23243821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Holice</are:castObce>
+      <are:ulice>Přerovská</are:ulice>
+      <are:cisloPop>312</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANNA</are:jmeno>
+     <are:prijmeni>BALEHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25550977</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68201</are:psc>
+      <are:obec>Vyškov</are:obec>
+      <are:castObce>Vyškov-Předměstí</are:castObce>
+      <are:ulice>Průmyslová</are:ulice>
+      <are:cisloPop>742</are:cisloPop>
+      <are:cisloOr>8b</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TETYANA</are:jmeno>
+     <are:prijmeni>LEHEZA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03" dvy="2015-12-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23243821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Holice</are:castObce>
+      <are:ulice>Přerovská</are:ulice>
+      <are:cisloPop>312</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TETYANA</are:jmeno>
+     <are:prijmeni>KARABADZHAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-12-23" dvy="2016-04-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22319956</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>18100</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Bohnice</are:castObce>
+      <are:mop>Praha 8</are:mop>
+      <are:ulice>Vratislavská</are:ulice>
+      <are:cisloPop>386</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TETYANA</are:jmeno>
+     <are:prijmeni>KARABADZHAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-04-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-11-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22404457</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19011</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Běchovice</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>V Okálech</are:ulice>
+      <are:cisloPop>511</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TETYANA</are:jmeno>
+     <are:prijmeni>KARABADZHAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2011-11-23">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2011-11-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3271943</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Zábřeh</are:castObce>
+      <are:ulice>Šamanova</are:ulice>
+      <are:cisloPop>1952</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Heorhii</are:jmeno>
+     <are:prijmeni>Dushchak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24840211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Šárka</are:ulice>
+      <are:cisloPop>3330</are:cisloPop>
+      <are:cisloOr>38</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Iryna</are:jmeno>
+     <are:prijmeni>Kuryatnyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21766240</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:ulice>Kouřimská</are:ulice>
+      <are:cisloPop>2337</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Viktor</are:jmeno>
+     <are:prijmeni>Tsanko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24840211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79601</are:psc>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Šárka</are:ulice>
+      <are:cisloPop>3330</are:cisloPop>
+      <are:cisloOr>38</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Tetyana</are:jmeno>
+     <are:prijmeni>Husar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>78336</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Křelov</are:castObce>
+      <are:ulice>M. Majerové</are:ulice>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Viktoriya</are:jmeno>
+     <are:prijmeni>Mishko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22553959</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10700</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Dubeč</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>Františka Červeného</are:ulice>
+      <are:cisloPop>165</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>YURIY</are:jmeno>
+     <are:prijmeni>KURYATNYK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23243821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Holice</are:castObce>
+      <are:ulice>Přerovská</are:ulice>
+      <are:cisloPop>312</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IEVGENIIA</are:jmeno>
+     <are:prijmeni>STUKALO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12129071</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46871</are:psc>
+      <are:obec>Lučany nad Nisou</are:obec>
+      <are:castObce>Lučany nad Nisou</are:castObce>
+      <are:cisloPop>442</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>HANNA</are:jmeno>
+     <are:prijmeni>HOLOVNYCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23243821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Holice</are:castObce>
+      <are:ulice>Přerovská</are:ulice>
+      <are:cisloPop>312</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>GALYNA</are:jmeno>
+     <are:prijmeni>DANYLYUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23243821</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Holice</are:castObce>
+      <are:ulice>Přerovská</are:ulice>
+      <are:cisloPop>312</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANNA</are:jmeno>
+     <are:prijmeni>BALEHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25550977</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68201</are:psc>
+      <are:obec>Vyškov</are:obec>
+      <are:castObce>Vyškov-Předměstí</are:castObce>
+      <are:ulice>Průmyslová</are:ulice>
+      <are:cisloPop>742</are:cisloPop>
+      <are:cisloOr>8b</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TETYANA</are:jmeno>
+     <are:prijmeni>LEHEZA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-04-24">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22404457</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19011</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Běchovice</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>V Okálech</are:ulice>
+      <are:cisloPop>511</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>TETYANA</are:jmeno>
+     <are:prijmeni>KARABADZHAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

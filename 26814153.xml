@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T06:18:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>06:18:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26814153</are:ICO>
+   <are:ObchodniFirma>Bytové družstvo Šternberk - Labutí</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>16339746</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>78501</are:psc>
+    <are:okres>Olomouc</are:okres>
+    <are:obec>Šternberk</are:obec>
+    <are:castObce>Šternberk</are:castObce>
+    <are:ulice>Horní náměstí</are:ulice>
+    <are:cisloPop>57</are:cisloPop>
+    <are:cisloOr>9</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-07-24</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+    <are:PredmetCinnosti>
+     <are:Text>
+uspokojování bytových potřeb členů družstva a správa domu s byty a nebytovými prostory jiných osob
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-07-24">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-07-24" dvy="2014-12-30">
+    <are:Text>
+Jednání:
+Za představenstvo jedná navenek předseda. Je-li však pro právní úkon, který činí představenstvo, předepsána písemná forma, je třeba podpisu alespoň dvou členů představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-12-30">
+    <are:Text>
+Družstvo zastupuje předseda představenstva nebo v jeho nepřítomnosti místopředseda představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-07-24" dvy="2006-08-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-07-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-07-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2003-07-24</are:vznikFunkce>
+     <are:zanikFunkce>2006-07-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16359038</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šternberk</are:obec>
+      <are:ulice>Uničovská</are:ulice>
+      <are:cisloTxt>93</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Zemánek</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-07-24" dvy="2006-08-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-07-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-07-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2003-07-24</are:vznikFunkce>
+     <are:zanikFunkce>2006-07-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23302925</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Mozartova</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Korhoňová</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-07-24" dvy="2006-08-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-07-24</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-07-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16357451</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šternberk</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Gottwaldová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-08-08" dvy="2011-09-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-07-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-07-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-07-25</are:vznikFunkce>
+     <are:zanikFunkce>2011-07-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16359038</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:obec>Šternberk</are:obec>
+      <are:ulice>Uničovská</are:ulice>
+      <are:cisloTxt>93</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Zemánek</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-08-08" dvy="2011-09-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-07-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-07-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-07-25</are:vznikFunkce>
+     <are:zanikFunkce>2011-07-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25939807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:obec>Šternberk</are:obec>
+      <are:ulice>Labutí</are:ulice>
+      <are:cisloTxt>25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zuzana</are:jmeno>
+     <are:prijmeni>Vyjídáková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-08-08" dvy="2011-09-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-07-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-07-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16360109</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:obec>Šternberk</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>29</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dana</are:jmeno>
+     <are:prijmeni>Hoppová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-20" dvy="2016-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-07-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-12-17</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2011-07-25</are:vznikFunkce>
+     <are:zanikFunkce>2014-12-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16193377</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78391</are:psc>
+      <are:obec>Medlov</are:obec>
+      <are:cisloPop>261</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Hájek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>MBA</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-20" dvy="2016-03-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-07-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16360109</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:obec>Šternberk</are:obec>
+      <are:cisloPop>2257</are:cisloPop>
+      <are:cisloOr>29</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Dana</are:jmeno>
+     <are:prijmeni>Hoppová</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-09-20" dvy="2016-09-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-07-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-05-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2011-07-25</are:vznikFunkce>
+     <are:zanikFunkce>2016-05-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25939807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:obec>Šternberk</are:obec>
+      <are:ulice>Labutí</are:ulice>
+      <are:cisloPop>2411</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Vereskov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-02-18" dvy="2016-09-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-12-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-05-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-12-17</are:vznikFunkce>
+     <are:zanikFunkce>2016-05-18</are:zanikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>16339932</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Šternberk</are:obec>
+      <are:castObce>Šternberk</are:castObce>
+      <are:ulice>Horní náměstí</are:ulice>
+      <are:cisloPop>78</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:ICO>00299529</are:ICO>
+     <are:ObchodniFirma>Město Šternberk</are:ObchodniFirma>
+     <are:Zastoupeni dza="2016-02-18" dvy="2016-09-27">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>16346904</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>78501</are:psc>
+        <are:obec>Šternberk</are:obec>
+        <are:castObce>Šternberk</are:castObce>
+        <are:ulice>Poděbradova</are:ulice>
+        <are:cisloPop>819</are:cisloPop>
+        <are:cisloOr>20</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>MICHAL</are:jmeno>
+       <are:prijmeni>OBORNÝ</are:prijmeni>
+      </are:fosoba>
+     </are:Zastoupeni>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-26" dvy="2016-09-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-07-25</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-05-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23316322</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Nové Sady</are:castObce>
+      <are:ulice>Rokycanova</are:ulice>
+      <are:cisloPop>495</are:cisloPop>
+      <are:cisloOr>32</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DANA</are:jmeno>
+     <are:prijmeni>HOPPOVÁ</are:prijmeni>
+     <are:titulPred>Bc.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-05-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2016-06-09</are:vznikFunkce>
+    </are:funkce>
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>16339932</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Šternberk</are:obec>
+      <are:castObce>Šternberk</are:castObce>
+      <are:ulice>Horní náměstí</are:ulice>
+      <are:cisloPop>78</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:ICO>00299529</are:ICO>
+     <are:ObchodniFirma>Město Šternberk</are:ObchodniFirma>
+     <are:Zastoupeni dza="2016-09-27">
+      <are:fosoba>
+       <are:adresa>
+        <are:ruianKod>16346904</are:ruianKod>
+        <are:stat>203</are:stat>
+        <are:psc>78501</are:psc>
+        <are:okres>Olomouc</are:okres>
+        <are:obec>Šternberk</are:obec>
+        <are:castObce>Šternberk</are:castObce>
+        <are:ulice>Poděbradova</are:ulice>
+        <are:cisloPop>819</are:cisloPop>
+        <are:cisloOr>20</are:cisloOr>
+       </are:adresa>
+       <are:jmeno>MICHAL</are:jmeno>
+       <are:prijmeni>OBORNÝ</are:prijmeni>
+      </are:fosoba>
+     </are:Zastoupeni>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-05-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2016-06-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25939807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Šternberk</are:obec>
+      <are:castObce>Šternberk</are:castObce>
+      <are:ulice>Labutí</are:ulice>
+      <are:cisloPop>2411</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>VERESKOV</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-06-09</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16354826</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Šternberk</are:obec>
+      <are:castObce>Šternberk</are:castObce>
+      <are:ulice>Nádražní</are:ulice>
+      <are:cisloPop>1693</are:cisloPop>
+      <are:cisloOr>2a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>MAŠLÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2014-12-30">
+   <are:Nazev>Kontrolní komise</are:Nazev>
+   <are:Clen dza="2016-09-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-05-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda kontrolní komise</are:nazev>
+     <are:vznikFunkce>2016-05-18</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25939807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Šternberk</are:obec>
+      <are:castObce>Šternberk</are:castObce>
+      <are:ulice>Labutí</are:ulice>
+      <are:cisloPop>2411</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>ŠVEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-05-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25939807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Šternberk</are:obec>
+      <are:castObce>Šternberk</are:castObce>
+      <are:ulice>Labutí</are:ulice>
+      <are:cisloPop>2411</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVLA</are:jmeno>
+     <are:prijmeni>JANKŮ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-05-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen kontrolní komise</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25939807</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78501</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Šternberk</are:obec>
+      <are:castObce>Šternberk</are:castObce>
+      <are:ulice>Labutí</are:ulice>
+      <are:cisloPop>2411</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FILIP</are:jmeno>
+     <are:prijmeni>ZATLOUKAL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

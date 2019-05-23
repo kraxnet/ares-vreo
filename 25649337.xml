@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T20:20:33"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>20:20:33</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25649337</are:ICO>
+   <are:ObchodniFirma>INDUSTRIAL EQUITY HOLDING a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21706166</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Nové Město</are:castObce>
+    <are:mop>Praha 1</are:mop>
+    <are:ulice>Václavské náměstí</are:ulice>
+    <are:cisloPop>808</are:cisloPop>
+    <are:cisloOr>66</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-03-09</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-03-09">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="1998-03-09" dvy="2001-06-20">
+    <are:Text>
+Společnost zastupuje vůči třetí osobám, před soudy a před jinými
+orgány v celém rozsahu předseda představenstva samostatně nebo
+dva členové představenstva společně.
+Za společnost je oprávněn podepisovat předseda představenstva
+samostatně nebo dva členové představenstva společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2001-06-20" dvy="2011-05-27">
+    <are:Text>
+Společnost zastupuje vůči třetí osobám, před soudy a před jinými
+orgány v celém rozsahu předseda představenstva spolu s dalším
+členem představenstva.
+Podepisování za společnost se děje tak, že k vytištěné nebo
+napsané firmě společnosti připojí svůj podpis předseda
+představenstva spolu s dalším členem představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2011-05-27" dvy="2014-07-11">
+    <are:Text>
+Jménem společnosti jedná člen představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-07-11">
+    <are:Text>
+Společnost zastupuje člen představenstva samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-03-09" dvy="2001-06-20">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22756621</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>U zeleného ptáka</are:ulice>
+      <are:cisloTxt>1148</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jürgen</are:jmeno>
+     <are:prijmeni>Weinert</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-03-09" dvy="2001-06-20">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21839506</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Ke škole</are:ulice>
+      <are:cisloTxt>1397/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Romana</are:jmeno>
+     <are:prijmeni>Řezníčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-03-09" dvy="2001-06-20">
+    <are:funkce>
+     <are:nazev>člen představensta</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63600</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Kamenáčky</are:ulice>
+      <are:cisloTxt>51</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Vostřel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-20" dvy="2003-03-15">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7319878</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Náchod</are:okres>
+      <are:obec>Nové Město nad Metují</are:obec>
+      <are:ulice>Na strážnici</are:ulice>
+      <are:cisloTxt>201</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eduard</are:jmeno>
+     <are:prijmeni>Krebes</are:prijmeni>
+     <are:titulPred>Dipl.Min.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-20" dvy="2004-07-06">
+    <are:clenstvi>
+     <are:zanikClenstvi>2002-11-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21726973</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Praha 1</are:okres>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Masná</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Peter</are:jmeno>
+     <are:prijmeni>Doričko</are:prijmeni>
+     <are:titulPred>Ing.arch.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-06-20" dvy="2011-05-27">
+    <are:funkce>
+     <are:nazev>člen představensta</are:nazev>
+     <are:zanikFunkce>2008-03-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3280411</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:ulice>Jugoslávská</are:ulice>
+      <are:cisloTxt>47</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radim</are:jmeno>
+     <are:prijmeni>Kubica</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-15" dvy="2005-06-14">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12715662</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25088</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Čelákovice</are:obec>
+      <are:ulice>Na Stráni</are:ulice>
+      <are:cisloTxt>1661</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eduard</are:jmeno>
+     <are:prijmeni>Krebes</are:prijmeni>
+     <are:titulPred>Dipl.Min.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-07-06" dvy="2011-05-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2004-02-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-04-28</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7398841</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54901</are:psc>
+      <are:obec>Nové Město nad Metují</are:obec>
+      <are:ulice>T.G.Masaryka</are:ulice>
+      <are:cisloTxt>87</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Hlaváč</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-14" dvy="2013-08-06">
+    <are:clenstvi>
+     <are:zanikClenstvi>2013-04-02</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26047373</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25088</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Čelákovice</are:obec>
+      <are:ulice>Lidická</are:ulice>
+      <are:cisloTxt>1850</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eduard</are:jmeno>
+     <are:prijmeni>Krebes</are:prijmeni>
+     <are:titulPred>Dipl.Min.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-06" dvy="2014-07-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-04-02</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-06-17</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26047373</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25088</are:psc>
+      <are:obec>Čelákovice</are:obec>
+      <are:castObce>Čelákovice</are:castObce>
+      <are:ulice>Lidická</are:ulice>
+      <are:cisloPop>1850</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>EDUARD</are:jmeno>
+     <are:prijmeni>KREBES</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-07-11">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2014-06-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26047373</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25088</are:psc>
+      <are:obec>Čelákovice</are:obec>
+      <are:castObce>Čelákovice</are:castObce>
+      <are:ulice>Lidická</are:ulice>
+      <are:cisloPop>1850</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>EDUARD</are:jmeno>
+     <are:prijmeni>KREBES</are:prijmeni>
+     <are:titulPred>Dipl. Min.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1998-03-09">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2014-07-11">
+    <are:funkce>
+     <are:nazev>Člen dozorčí rady</are:nazev>
+     <are:vznikFunkce>2014-06-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>7265166</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54932</are:psc>
+      <are:obec>Velké Poříčí</are:obec>
+      <are:castObce>Velké Poříčí</are:castObce>
+      <are:ulice>Na Žabáku</are:ulice>
+      <are:cisloPop>380</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LINDA</are:jmeno>
+     <are:prijmeni>GREGOROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

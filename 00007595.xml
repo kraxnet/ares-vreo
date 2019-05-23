@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:29:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:29:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00007595</are:ICO>
+   <are:ObchodniFirma>Báňské stavby Most, státní podnik</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Most</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-01-01</are:DatumZapisu>
+   <are:DatumVymazu>1992-07-20</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+stavebnictví
+     </are:Text>
+     <are:Text>
+výroba stavebních hmot
+     </are:Text>
+     <are:Text>
+rozvody elektřiny, plynu a vody
+     </are:Text>
+     <are:Text>
+zpracování dřevní hmoty a výrobky ze dřeva
+     </are:Text>
+     <are:Text>
+strojírenská výroba
+     </are:Text>
+     <are:Text>
+zdvihací, transportní a manipulační zařízení
+     </are:Text>
+     <are:Text>
+elektrotechnické výrobky
+     </are:Text>
+     <are:Text>
+doprava
+     </are:Text>
+     <are:Text>
+obchodní činnost a prodej vlastních výrobků
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-01-01" dvy="1992-07-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="1991-01-01" dvy="1991-06-07">
+    <are:funkce>
+     <are:nazev>Pověřen řízením státního podniku</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5102049</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Most</are:obec>
+      <are:ulice>Pod Resslem</are:ulice>
+      <are:cisloTxt>2085</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Votava</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-06-07" dvy="1991-10-10">
+    <are:funkce>
+     <are:nazev>Zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Most</are:obec>
+      <are:ulice>Švabinského</are:ulice>
+      <are:cisloTxt>2611</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Kadečka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>technický náměstek</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-06-07" dvy="1992-01-20">
+    <are:funkce>
+     <are:nazev>Ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5102049</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Most</are:okres>
+      <are:obec>Most</are:obec>
+      <are:ulice>Pod Resslem</are:ulice>
+      <are:cisloTxt>2085</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Votava</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-10-10" dvy="1992-03-27">
+    <are:funkce>
+     <are:nazev>Zástupce ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Žatec</are:obec>
+      <are:ulice>Wolkerova</are:ulice>
+      <are:cisloTxt>2606</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Moroz</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>výr.tech. náměstek</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-01-20" dvy="1992-07-20">
+    <are:funkce>
+     <are:nazev>Pověřen řízením státního podniku</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14990431</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hrob</are:obec>
+      <are:ulice>Tržní nám.</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Machač</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-03-27" dvy="1992-07-20">
+    <are:funkce>
+     <are:nazev>Zástupce statutárního orgánu</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Litvínov - Janov</are:obec>
+      <are:ulice>Luční</are:ulice>
+      <are:cisloTxt>321</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Smrčka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>hl. inženýr závodu 1</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

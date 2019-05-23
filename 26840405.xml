@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T06:33:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>06:33:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26840405</are:ICO>
+   <are:ObchodniFirma>RIAVA s. r. o. - organizační složka</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3301397</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>70800</are:psc>
+    <are:obec>Ostrava</are:obec>
+    <are:castObce>Poruba</are:castObce>
+    <are:ulice>Oty Synka</are:ulice>
+    <are:cisloTxt>1813/2</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2004-08-18</are:DatumZapisu>
+   <are:DatumVymazu>2017-01-10</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+RIAVA s. r. o. - organizační složka, Ostrava - Poruba, Oty Synka 1813/2, PSČ 70800, identifikační číslo 268 40 405 se vymazává ke dni právní moci tohoto rozhodnutí z obchodního rejstříku včetně všech zapsaných skutečností.
+    </are:Text>
+    <are:Text>
+Právní důvod: Organizační složka se vymazává z obchodního rejstříku na návrh doručený soudu dne 31.10.2016.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+přípravné práce pro stavby
+     </are:Text>
+     <are:Text>
+dokončovací stavební práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-08-18" dvy="2017-01-10">
+   <are:Nazev>Vedoucí organizační složky</are:Nazev>
+   <are:Clen dza="2004-08-18" dvy="2017-01-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:obec>Čadca</are:obec>
+      <are:ulice>Mieru</are:ulice>
+      <are:cisloTxt>2124/21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Grešák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2004-08-18" dvy="2017-01-10">
+   <are:Nazev>Zřizovatel - zahraniční osoba</are:Nazev>
+   <are:Clen dza="2004-08-18" dvy="2017-01-10">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>703</are:stat>
+      <are:psc>02201</are:psc>
+      <are:obec>Čadca</are:obec>
+      <are:ulice>ul. Fraňa Krála</are:ulice>
+      <are:cisloTxt>č. 2080</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>RIAVA, s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

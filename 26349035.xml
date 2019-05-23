@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T03:13:29"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>03:13:29</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26349035</are:ICO>
+   <are:ObchodniFirma>MANUFAKTURA PIRKENHAMMER I.S. ORIGINAL PORCELAN FABRIK BŘEZOVÁ s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>36215</are:psc>
+    <are:obec>Karlovy Vary - Březová</are:obec>
+    <are:ulice>Tovární</are:ulice>
+    <are:cisloTxt>čp. 95</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-08-28</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba porcelánových a keramických výrobků
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-08-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-08-28">
+    <are:Text>
+Způsob jednání:
+Jménem společnosti jedná ve všech věcech jednatel samostatně.
+Podepisování se za společnost provádí tak, že k napsané nebo
+vytištěné firmě společnosti připojí jednatel svůj podpis s
+uvedením funkce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-08-28" dvy="2003-07-03">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2002-08-28</are:vznikFunkce>
+     <are:zanikFunkce>2003-03-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Biškek, Ordzonikidze 87</are:text>
+     </are:adresa>
+     <are:jmeno>Vladimir</are:jmeno>
+     <are:prijmeni>Ligay</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-07-03" dvy="2006-06-16">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2003-03-14</are:vznikFunkce>
+     <are:zanikFunkce>2006-02-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22763228</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Pláničkova</are:ulice>
+      <are:cisloTxt>5/443</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Chamil</are:jmeno>
+     <are:prijmeni>Iskhakov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-16">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-02-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Sankt-Peterburg</are:obec>
+      <are:ulice>Rubinsteina</are:ulice>
+      <are:cisloTxt>1/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alexey</are:jmeno>
+     <are:prijmeni>Narovlyanskiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2002-08-28">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2005-10-27">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22763228</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Pláničkova</are:ulice>
+      <are:cisloTxt>5/443</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>25707647</are:ICO>
+     <are:ObchodniFirma>ULTRASUN s.r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2006-06-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:obec>Sankt-Peterburg</are:obec>
+      <are:ulice>Rubinsteina</are:ulice>
+      <are:cisloTxt>1/23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alexey</are:jmeno>
+     <are:prijmeni>Narovlyanskiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

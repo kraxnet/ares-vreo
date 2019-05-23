@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T22:22:01"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:22:01</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25872311</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků Jilemnického 2, 3, 4</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3293335</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>70800</are:psc>
+    <are:okres>Ostrava-město</are:okres>
+    <are:obec>Ostrava</are:obec>
+    <are:castObce>Poruba</are:castObce>
+    <are:ulice>Jilemnického náměstí</are:ulice>
+    <are:cisloPop>999</are:cisloPop>
+    <are:cisloOr>3</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-12-22</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-12-22">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-12-22" dvy="2017-02-03">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná
+forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2017-02-03">
+    <are:Text>
+Za společenství jedná člen výboru samostatně s výjimkou právních jednání v písemné formě, kdy za společenství jednají dva členové výboru společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2013-08-27" dvy="2016-06-09">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3293327</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Jilemnického náměstí</are:ulice>
+      <are:cisloPop>998</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>BELO</are:jmeno>
+     <are:prijmeni>PROCHÁZKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-27" dvy="2017-02-03">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2016-11-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3293335</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Jilemnického náměstí</are:ulice>
+      <are:cisloPop>999</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVLA</are:jmeno>
+     <are:prijmeni>KOLÍNSKÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-27" dvy="2017-02-03">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2016-11-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3293327</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Jilemnického náměstí</are:ulice>
+      <are:cisloPop>998</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>ŠUPÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-27" dvy="2017-02-03">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3293335</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Jilemnického náměstí</are:ulice>
+      <are:cisloPop>999</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FRANTIŠKA</are:jmeno>
+     <are:prijmeni>MANOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-27" dvy="2017-02-03">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-11-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3293343</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Jilemnického náměstí</are:ulice>
+      <are:cisloPop>1000</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>FROLO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-03">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3293335</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Jilemnického náměstí</are:ulice>
+      <are:cisloPop>999</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVLA</are:jmeno>
+     <are:prijmeni>KOLÍNSKÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-11-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2016-11-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3293327</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Jilemnického náměstí</are:ulice>
+      <are:cisloPop>998</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>ŠUPÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-03">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-11-24</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3293335</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Poruba</are:castObce>
+      <are:ulice>Jilemnického náměstí</are:ulice>
+      <are:cisloPop>999</are:cisloPop>
+      <are:cisloOr>3</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FRANTIŠKA</are:jmeno>
+     <are:prijmeni>MANOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2000-12-22" dvy="2013-08-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2000-12-22" dvy="2003-04-14">
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>999/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Kolínská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2003-04-14">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>999/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Znišťal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2003-04-14">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>998/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Šupíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2003-04-14">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>998/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohunka</are:jmeno>
+     <are:prijmeni>Hoskovcová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2003-04-14">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>998/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Belo</are:jmeno>
+     <are:prijmeni>Procházka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2003-04-14">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>999/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Pavlíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2003-04-14">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>1000/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Štěpán</are:jmeno>
+     <are:prijmeni>Ihnátik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2003-04-14">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>1000/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ferdinand</are:jmeno>
+     <are:prijmeni>Vybíhal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2003-04-14">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>1000/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oldřich</are:jmeno>
+     <are:prijmeni>Hausner</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-14" dvy="2004-09-30">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického náměstí</are:ulice>
+      <are:cisloTxt>998/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohunka</are:jmeno>
+     <are:prijmeni>Hoskovcová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-14" dvy="2011-10-06">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického náměstí</are:ulice>
+      <are:cisloTxt>999/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Pavlíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-14" dvy="2013-08-27">
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického náměstí</are:ulice>
+      <are:cisloTxt>999/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Kolínská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-14" dvy="2013-08-27">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického náměstí</are:ulice>
+      <are:cisloTxt>998/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Děcký</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-14" dvy="2013-08-27">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického náměstí</are:ulice>
+      <are:cisloTxt>998/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Šupíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-04-14" dvy="2013-08-27">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického náměstí</are:ulice>
+      <are:cisloTxt>998/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Belo</are:jmeno>
+     <are:prijmeni>Procházka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:22:01</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25872311</are:ICO>
+   <are:ObchodniFirma>&quot;Společenství Jílemnického 2, 3, 4&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Ostrava-Poruba</are:obec>
+    <are:ulice>Jílemnického</are:ulice>
+    <are:cisloTxt>999/3</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-12-22</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+1. Předmětem činnosti společenství je správa, provoz a opravy
+společných částí domu, vymezených způsobem stanoveným v zákoně
+(dále jen &quot;správa domu&quot;) a zabezpečování dalších činností
+spojených s provozem domu.
+     </are:Text>
+     <are:Text>
+2. Správou domu se rozumí zejména:
+- zajišťování provozu domu a pozemku včetně technických
+zařízení a společných částí technických sítí, a to tak, aby
+společné části domu byly provozuschopné a sloužily k jejich
+řádnému užívání a k řádnému užívání bytů a nebytových prostorů
+v domě,
+- zajišťování oprav a rekonstrukcí společných částí domu včetně
+havarijní údržby,
+- zajišťování protipožárního zabezpečení domu a jeho revize a
+opravy,
+- zajišťování revizí a oprav rozvodů plynu, rozvodů elektrické
+energie, svislých a vodorovných rozvodů vody a odvodů odpadních
+vod, rozvodů tepla a teplé užitkové vody a provozu radiátorů
+ústředního vytápění, vzduchotechniky, výtahů, společné
+televizní a rozhlasové antény a ostatních systémů k příjmu a
+rozvodu televizního a rozhlasového signálu, elektrických
+sdělovacích zařízení v domě a hromosvodů,
+- zajišťování revizí a oprav domovní kotelny či výměníkové
+stanice,
+- zajišťování prohlídek a čištění komínů,
+- plnění dalších povinností, pokud vyplývají nebo vyplynou
+vlastníkům jednotek ze zvláštních právních předpisů v
+souvislosti s jejich spoluvlastnictvím ke společným částem domu,
+- zajišťování administrativní a operativně technické činnosti
+spojené se správou domu a vedení příslušné technické a provozní
+dokumentace k domu,
+- vybírání příspěvků od vlastníků jednotek na náklady spojené se
+správou společných částí domu a pozemku, popřípadě dalších,
+pokud jsou tyto příspěvky z rozhodnutí vlastníků vybírány,
+- zajišťování vedení evidence plateb vlastníků jednotek na
+náklady spojené se správou domu a pozemku, popřípadě dalších,
+pokud jsou tyto příspěvky z rozhodnutí vlastníků vybírány,
+- vedení evidence nákladů vzniklých se zajišťováním správy domu,
+- vedení přehledu všech ostatních nákladů vztahujících se k domu
+a pozemku,
+- zřízení účtu u banky a hospodaření s peněžními prostředky
+vlastníků jednotek, svěřených společenství na úhradu nákladů
+spojených se správou a provozem společných částí domu, s
+povinností oprávněných osob s nimi disponovat s péčí řádného
+správce cizího majetku a podle pokynů schválených vlastníky,
+- vedení účetnictví domu podle zákona č. 563/1991 Sb., o
+účetnictví, ve znění pozdějších předpisů, s odděleným účtováním
+na jednotlivé jednotky (byty a nebytové prostory) a sledování
+nákladů a výnosů v příslušném účetním období.
+     </are:Text>
+     <are:Text>
+3. Na základě pověření všech vlastníků jednotek zajišťuje
+společenství: pojištění jednotlivých jednotek a k nim
+příslušejících podílů na společných částech domu s odpovědností
+za dodržení předepsaných termínů jednotlivých plateb pojistného
+za ty vlastníky jednotek, kteří společenství včas poskytnou
+peněžní prostředky k úhradě pojistného.
+     </are:Text>
+     <are:Text>
+4. Na základě pověření vlastníků jednotek zajišťuje společenství
+- plnění poskytovaná s užíváním bytů a nebytových prostorů a
+společných částí domu (dále jen &quot;služby&quot;), s výjimkou těch,
+která si zajišťují vlastníci jednotek od dodavatele přímo
+(např. dodávka elektrické energie nebo plynu do jednotlivých
+bytů a nebytových prostorů),
+- dodávky elektrické energie a vody, případně plynu a odvádění
+odpadních vod pro společné části domu,
+- dodávky vody a odvádění odpadních vod pro jednotlivé jednotky,
+- dodávky tepla a teplé užitkové vody z centrálního zdroje
+umístěného v domě, případně od dodavatele tepla ze zdroje
+umístěného mimo dům,
+- další povinnosti, které vyplynou pro vlastníky jednotek,
+případně pro společenství ze zvláštních právních předpisů.
+     </are:Text>
+     <are:Text>
+5. Předmětem činnosti společenství může být dále v případech,
+kdy společenství zajišťuje služby
+- vybírání záloh na úhradu za služby od vlastníků jednotek,
+- vedení potřebné evidence plateb vlastníků jednotek na zálohy
+na úhradu za služby,
+- zřízení účtu u banky a hospodaření s peněžními prostředky
+svěřenými vlastníky jednotek formou záloh na úhradu za služby,
+- vyúčtování zálohových plateb na úhradu za služby pro
+jednotlivé vlastníky jednotek,
+- provozování technických zařízení v domě, která slouží i jiným
+subjektům, s povinností osob, kterým je svěřena jejich obsluha,
+disponovat s nimi s péči řádného správce majetku a podle pokynů
+schválených shromážděním vlastníků jednotek.
+     </are:Text>
+     <are:Text>
+6. Společenství je oprávněno sjednat smlouvu o zástavním právu k
+jednotce, včetně příslušného spoluvlastnického podílu na
+společných částech domu, k zajištění pohledávek vyplývajících z
+úvěru poskytnutého na náklady spojené se správou domu, a to se
+souhlasem vlastníka jednotky.
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-12-22" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-12-22" dvy="2001-12-31">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru. Je-li pro právní úkon zapotřebí písemná
+forma, je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-12-22" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>999/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavla</are:jmeno>
+     <are:prijmeni>Kolínská</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>999/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Znišťal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>998/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Šupíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>998/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohunka</are:jmeno>
+     <are:prijmeni>Hoskovcová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>998/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Belo</are:jmeno>
+     <are:prijmeni>Procházka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>999/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Pavlíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>1000/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Štěpán</are:jmeno>
+     <are:prijmeni>Ihnátik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>1000/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ferdinand</are:jmeno>
+     <are:prijmeni>Vybíhal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-12-22" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Poruba</are:obec>
+      <are:ulice>Jílemnického</are:ulice>
+      <are:cisloTxt>1000/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oldřich</are:jmeno>
+     <are:prijmeni>Hausner</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

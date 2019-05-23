@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T19:16:09"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>19:16:09</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>40523934</are:ICO>
+   <are:ObchodniFirma>F E M A G  společnost s r.o. - v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24481041</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:ulice>Vlastina</are:ulice>
+    <are:cisloTxt>3</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-10-02</are:DatumZapisu>
+   <are:DatumVymazu>1996-12-19</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba nábytku ze všech materiálů s využitím moderního
+zpracování odpadů vznikajících během zpracování při výrobě
+nábytku
+     </are:Text>
+     <are:Text>
+výroba dřevěných a nedřevěných materiálů, polovýrobků a výrobků
+založených na technologii výroby nábytku, zabezpečování výcviku
+a výuky při výrobě nábytku, poradenské a konzultační činnosti,
+zprostředkování a koordinace výrob nábytku, služby a obdobné
+činnosti v oboru aplikace, použití a údržby nábytku a příbuzných
+výrobků, stroje a výrobní nástroje ve vztahu k výše uvedeným
+činnostem
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-10-02" dvy="1996-12-19">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-10-02" dvy="1996-12-19">
+    <are:Text>
+Zastupování: společnost zastupuje Eva Engelthalerová.
+Podepisování: podpisové právo je omezeno pro každého ze
+společníků do hodnoty 500.000,- Kčs samostatně. Při smlouvách
+nad částku Kčs 500.000,- je k platnosti smlouvy nutný podpis
+nejméně dvou společníků.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-10-02" dvy="1996-12-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>.</are:text>
+     </are:adresa>
+     <are:prijmeni>neuvedeno</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-06-22" dvy="1996-12-19">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24481041</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vlastina</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Engelthalerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-10-02" dvy="1996-12-19">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-10-02" dvy="1996-12-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Vlatina</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Eva</are:jmeno>
+     <are:prijmeni>Engelthalerová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-10-02" dvy="1996-12-19">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:text>A - 1010 Vídeň, Palais Kinsky, Freyung 4</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>IMAG spol. s r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1991-10-02" dvy="1996-12-19">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>643</are:stat>
+      <are:text>103009 Moskva, 11 Tverskaja ul.</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>SCIENCE, pojišťovací společnost</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

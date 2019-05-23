@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-18T09:28:56"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-18</are:Datum_vypisu>
+   <are:Cas_vypisu>09:28:56</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>63993881</are:ICO>
+   <are:ObchodniFirma>G.K.TRAVEL s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21712476</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>11000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Nové Město</are:castObce>
+    <are:mop>Praha 1</are:mop>
+    <are:ulice>Revoluční</are:ulice>
+    <are:cisloPop>1546</are:cisloPop>
+    <are:cisloOr>24</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-08-14</are:DatumZapisu>
+   <are:DatumVymazu>2018-10-09</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Ukončení likvidace společnosti G.K.TRAVEL s.r.o. v likvidaci ke dni 5. 10. 2018, návrh na výmaz dle § 205, odst. 3 zákona 89/2012 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-08-14" dvy="2018-10-09">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-08-14" dvy="2018-10-09">
+    <are:Text>
+Společnost má jednoho nebo více jednatelů.Je-li jmenováno více
+jednatelů,zastupují společnost dva jednatelé společně nebo
+jeden společně s prokuristou.Je-li jmenován jen jeden jednatel,
+je oprávněn společnost zastupovat sám.Jednatel podepisuje tím
+způsobem,že k obchodnímu jménu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-08-14" dvy="2000-09-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22172301</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16900</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Talichova</are:ulice>
+      <are:cisloTxt>2055</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdena</are:jmeno>
+     <are:prijmeni>Sochorová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2000-09-13" dvy="2018-10-09">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21969779</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Pod Pekařkou</are:ulice>
+      <are:cisloTxt>1090/35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Georgios</are:jmeno>
+     <are:prijmeni>Koutoumanis</are:prijmeni>
+     <are:titulZa>nar. 13.05.1941</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-01-18" dvy="2018-10-09">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-01-18" dvy="2018-04-19">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21712409</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Opletalova</are:ulice>
+      <are:cisloPop>1525</are:cisloPop>
+      <are:cisloOr>39</are:cisloOr>
+     </are:adresa>
+     <are:ICO>29059054</are:ICO>
+     <are:ObchodniFirma>Hlista &amp; Pril, v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-19" dvy="2018-10-09">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21711810</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Opletalova</are:ulice>
+      <are:cisloPop>1417</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:ICO>29059054</are:ICO>
+     <are:ObchodniFirma>Hlista &amp; Pril, v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-08-14" dvy="2018-10-09">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-08-14" dvy="2018-10-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Patras,Řecko</are:obec>
+      <are:ulice>Rahi Vunteni</are:ulice>
+     </are:adresa>
+     <are:jmeno>Georgios</are:jmeno>
+     <are:prijmeni>Kutumanis</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

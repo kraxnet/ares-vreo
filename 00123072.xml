@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:57:02"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:57:03</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00123072</are:ICO>
+   <are:ObchodniFirma>Zemědělské obchodní družstvo se sídlem ve Šmolovech v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>25941267</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>58001</are:psc>
+    <are:obec>Havlíčkův Brod</are:obec>
+    <are:castObce>Šmolovy</are:castObce>
+    <are:cisloTxt>203</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-03-05</are:DatumZapisu>
+   <are:DatumVymazu>2012-07-10</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zemědělská výroba
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-03-05" dvy="2012-07-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1990-03-05" dvy="1993-03-11">
+    <are:Text>
+Zastupování:
+Za družstvo zastupuje předseda, v jeho nepřítomnosti místopředs.
+Podepisování:
+Za družstvo podepisuje předseda, v jeho nepřítomnosti místopředs.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-03-11" dvy="2002-04-26">
+    <are:Text>
+Zastupování a podepisování:
+Je-li pro právní úkon, který činí představenstvo, předepsána
+písemná forma, je třeba podpisu alespoň dvou členů předsta-
+venstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2002-04-26" dvy="2012-07-10">
+    <are:Text>
+Zastupování a podepisování:
+Je-li pro právní úkon, který činí představenstvo, předepsána
+písemná forma, je třeba podpisu alespoň dvou členů předsta-
+venstva.
+Za družstvo v likvidaci jedná a podepisuje likvidátor samostatně
+a bez omezení.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-03-05" dvy="1993-03-11">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9468391</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šmolovy</are:obec>
+      <are:cisloTxt>105</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Naňák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-03-05" dvy="1993-03-11">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9615539</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Havlíčkův Brod</are:obec>
+      <are:ulice>Na výšině</are:ulice>
+      <are:cisloTxt>3236</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Fajmon</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-11" dvy="1996-01-25">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Michalovice</are:obec>
+      <are:cisloTxt>43</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Bárta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-11" dvy="1996-01-25">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9494774</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hurtova Lhota</are:obec>
+      <are:cisloTxt>25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Blažek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-11" dvy="1996-01-25">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šmolovy 60</are:obec>
+      <are:ulice>Havlíčkův Brod</are:ulice>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Kocman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-11" dvy="1996-01-25">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Březinka</are:obec>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Pytlík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-11" dvy="2007-02-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-11-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-11-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:zanikFunkce>2003-11-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9496564</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Poděbaby</are:obec>
+      <are:cisloTxt>114</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kubát</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-11" dvy="2007-02-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-11-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-11-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+     <are:zanikFunkce>2003-11-27</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9468145</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Havlíčkův Brod</are:obec>
+      <are:ulice>Jihlavská</are:ulice>
+      <are:cisloTxt>72</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Vacek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-03-11" dvy="2007-02-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-11-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-11-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Březinka</are:obec>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Venc</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-25" dvy="1997-09-05">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9496491</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Poděbaby</are:obec>
+      <are:cisloTxt>107</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Kopic</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-25" dvy="1999-02-05">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9494855</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Havlíčkův Brod</are:okres>
+      <are:obec>Hurtova Lhota</are:obec>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Adolf</are:jmeno>
+     <are:prijmeni>Drahozal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-25" dvy="2007-02-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-11-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-11-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Michalovice</are:obec>
+      <are:cisloTxt>43</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Věra</are:jmeno>
+     <are:prijmeni>Bártová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-25" dvy="2007-02-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-11-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-11-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9496785</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Havlíčkův Brod</are:okres>
+      <are:obec>Veselice</are:obec>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Špaček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-05" dvy="1999-02-05">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Březinka</are:obec>
+      <are:cisloTxt>18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Blanka</are:jmeno>
+     <are:prijmeni>Klementová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-05" dvy="2007-02-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-11-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-11-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9494511</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Havlíčkův Brod</are:okres>
+      <are:obec>Březinka</are:obec>
+      <are:cisloTxt>28</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Pytlík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-02-05" dvy="2007-02-13">
+    <are:clenstvi>
+     <are:vznikClenstvi>1998-11-27</are:vznikClenstvi>
+     <are:zanikClenstvi>2003-11-27</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9468498</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Havlíčkův Brod</are:okres>
+      <are:obec>Šmolovy</are:obec>
+      <are:cisloTxt>163</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Blažek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2002-04-26" dvy="2012-07-10">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2002-04-26" dvy="2010-06-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24044547</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66491</are:psc>
+      <are:obec>Ivančice</are:obec>
+      <are:ulice>Luční</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Rosendorf</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-28" dvy="2012-07-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9588396</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58001</are:psc>
+      <are:obec>Havlíčkův Brod</are:obec>
+      <are:ulice>Horní</are:ulice>
+      <are:cisloPop>14</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Irena</are:jmeno>
+     <are:prijmeni>Jonáková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

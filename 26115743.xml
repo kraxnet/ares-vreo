@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-25T15:48:04"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-25</are:Datum_vypisu>
+   <are:Cas_vypisu>15:48:04</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26115743</are:ICO>
+   <are:ObchodniFirma>LIGEBEX s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21943095</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Vladimírova</are:ulice>
+    <are:cisloTxt>289/5</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-09-28</are:DatumZapisu>
+   <are:DatumVymazu>2018-10-19</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost LIGEBEX s.r.o. v likvidaci, se sídlem Praha 4, Vladimírova 289/5 se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C, vložka 71452. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+stavební práce bez nároku na odbornost
+     </are:Text>
+     <are:Text>
+úklidové práce
+     </are:Text>
+     <are:Text>
+montážní práce - sádrokarton
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-09-28" dvy="2018-10-19">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-09-28" dvy="2018-10-19">
+    <are:Text>
+Společnost zastupuje každý z jednatelů samostatně. Podepisování
+za společnost se děje tak, že k obchodnímu jménu spolenčosti
+připojí kterýkoliv z jednatelů svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Novodnestrovsk,Černovická obl.</are:obec>
+      <are:ulice>Dubrava</are:ulice>
+      <are:cisloTxt>23/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleh</are:jmeno>
+     <are:prijmeni>Marchenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-09-12" dvy="2018-10-19">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-09-12" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21705828</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Václavské náměstí</are:ulice>
+      <are:cisloPop>780</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>ČÍŽKOVSKÝ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-09-28" dvy="2018-10-19">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Novodnestrovsk,Černovická obl.</are:obec>
+      <are:ulice>Dubrava</are:ulice>
+      <are:cisloTxt>23/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleh</are:jmeno>
+     <are:prijmeni>Marchenko</are:prijmeni>
+     <are:titulPred>l.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sambir, Lvovska obl.</are:obec>
+      <are:ulice>Franko</are:ulice>
+      <are:cisloTxt>105</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Fabryka</are:prijmeni>
+     <are:titulPred>2.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sambir, Lvovska obl.</are:obec>
+      <are:ulice>Franko</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Morda</are:prijmeni>
+     <are:titulPred>3.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sambir, Lvovska obl.</are:obec>
+      <are:ulice>Ševčenko</are:ulice>
+      <are:cisloTxt>53</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stefan</are:jmeno>
+     <are:prijmeni>Butsa</are:prijmeni>
+     <are:titulPred>4.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sambir, Lvovska obl.</are:obec>
+      <are:ulice>Šucheviča</are:ulice>
+      <are:cisloTxt>84/98</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Voznyak</are:prijmeni>
+     <are:titulPred>5.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sambir, Lvovska obl.</are:obec>
+      <are:ulice>Šucheviča</are:ulice>
+      <are:cisloTxt>84/98</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Borys</are:jmeno>
+     <are:prijmeni>Kuzmyak</are:prijmeni>
+     <are:titulPred>6.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ternopilska obl.</are:obec>
+      <are:ulice>Bunkoviči</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Kokhanovskyy</are:prijmeni>
+     <are:titulPred>7.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sambir, Lvovska obl.</are:obec>
+      <are:ulice>Lesji Ukrajinky</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Lesko</are:prijmeni>
+     <are:titulPred>8.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sambir, Lvovska obl.</are:obec>
+      <are:ulice>Skorovody</are:ulice>
+      <are:cisloTxt>95/31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Leonid</are:jmeno>
+     <are:prijmeni>Lykov</are:prijmeni>
+     <are:titulPred>9.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Sambir, Lvovska obl.</are:obec>
+      <are:ulice>Skorovody</are:ulice>
+      <are:cisloTxt>97/39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Beley</are:prijmeni>
+     <are:titulPred>lO.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Vykoty, Lvovska obl.</are:obec>
+      <are:ulice>Počtova</are:ulice>
+      <are:cisloTxt>57</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vira</are:jmeno>
+     <are:prijmeni>Durnyak</are:prijmeni>
+     <are:titulPred>ll.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Vykoty, Lvovska obl.</are:obec>
+      <are:ulice>Počtova</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleh</are:jmeno>
+     <are:prijmeni>Kachmar</are:prijmeni>
+     <are:titulPred>l2.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Vykoty, Lvovska obl.</are:obec>
+      <are:ulice>Mazepy</are:ulice>
+      <are:cisloTxt>105</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Novosilskyy</are:prijmeni>
+     <are:titulPred>l3.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Vykoty, Lvovska obl.</are:obec>
+      <are:ulice>Ševčenko</are:ulice>
+      <are:cisloTxt>37/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Koval</are:prijmeni>
+     <are:titulPred>l4.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Stebnin, Lvovska obl.</are:obec>
+      <are:ulice>Gruševskoho</are:ulice>
+      <are:cisloTxt>16a/33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Lutchak</are:prijmeni>
+     <are:titulPred>l5.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Mukačevo, Zakarpatska obl.</are:obec>
+      <are:ulice>Gen. Petrova</are:ulice>
+      <are:cisloTxt>8/16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Diana</are:jmeno>
+     <are:prijmeni>Sitkar</are:prijmeni>
+     <are:titulPred>l6.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Vajnovyči, Lvovska obl.</are:obec>
+      <are:ulice>NOvaja</are:ulice>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Kuzo</are:prijmeni>
+     <are:titulPred>l7.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Chust, Zakarpatska obl.</are:obec>
+      <are:ulice>Kolhozna</are:ulice>
+      <are:cisloTxt>77</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lyubov</are:jmeno>
+     <are:prijmeni>Vovchok</are:prijmeni>
+     <are:titulPred>l8.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Chust, Zakarpatska obl.</are:obec>
+      <are:ulice>Galana</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Maryna</are:jmeno>
+     <are:prijmeni>Molnar</are:prijmeni>
+     <are:titulPred>l9.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hruševo, Zakarpatska obl.</are:obec>
+      <are:ulice>Žovtneva</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>2O. Mykhaylo Sem'yanivskyy, dat. nar. l5.listopadu l978</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hruševo, Zakarpatska obl.</are:obec>
+      <are:ulice>Gorkoho</are:ulice>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Husar</are:prijmeni>
+     <are:titulPred>2l.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hruševo, Zakarpatska obl.</are:obec>
+      <are:ulice>Kolhospna</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Kovach</are:prijmeni>
+     <are:titulPred>22.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hruševo, Zakarpatska obl.</are:obec>
+      <are:ulice>Gorkoho</are:ulice>
+      <are:cisloTxt>48</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Dash</are:prijmeni>
+     <are:titulPred>23.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hruševo, Zakarpatska obl.</are:obec>
+      <are:ulice>Ševčenka</are:ulice>
+      <are:cisloTxt>52</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Veklynets</are:prijmeni>
+     <are:titulPred>24.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hruševo, Zakarpatska obl.</are:obec>
+      <are:ulice>Prykordonna</are:ulice>
+      <are:cisloTxt>5/35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Pitukh</are:prijmeni>
+     <are:titulPred>25.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Ternovo, Zakarpatska obl.</are:obec>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Sasyn</are:prijmeni>
+     <are:titulPred>26.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hruševo, Zakarpatska obl.</are:obec>
+      <are:ulice>Žovtneva</are:ulice>
+      <are:cisloTxt>22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohdan</are:jmeno>
+     <are:prijmeni>Seryuha</are:prijmeni>
+     <are:titulPred>27.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hruševo, Zakarpatska obl.</are:obec>
+      <are:ulice>Lenina</are:ulice>
+      <are:cisloTxt>43</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Serhii</are:jmeno>
+     <are:prijmeni>Matsola</are:prijmeni>
+     <are:titulPred>28.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hruševo, Zakarpatska obl.</are:obec>
+      <are:ulice>Anny Zegerc</are:ulice>
+      <are:cisloTxt>56</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vyacheslav</are:jmeno>
+     <are:prijmeni>Deyak</are:prijmeni>
+     <are:titulPred>29.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Hruševo, Zakarpatska obl.</are:obec>
+      <are:ulice>Turjanyci</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Melnyk</are:prijmeni>
+     <are:titulPred>3O.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-28" dvy="2018-10-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Medveže-Vuško, Vinnycka obl.</are:obec>
+      <are:ulice>Ševčenka</are:ulice>
+      <are:cisloTxt>56</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Shemchuk</are:prijmeni>
+     <are:titulPred>3l.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

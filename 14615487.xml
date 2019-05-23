@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T05:55:00"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>05:55:00</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>14615487</are:ICO>
+   <are:ObchodniFirma>Zemědělské družstvo Medlov &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Olomouc</are:okres>
+    <are:obec>Medlov u Uničova</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-03-28</are:DatumZapisu>
+   <are:DatumVymazu>2011-08-12</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+1. Zemědělská výroba a zpracování zemědělských surovin
+     </are:Text>
+     <are:Text>
+2. Obchodní činnost - koupě zboží za účelem jeho dalšího prodeje
+a prodej
+     </are:Text>
+     <are:Text>
+3. Zprostředkovatelská činnost
+- v oblasti obchodu
+- v oblasti zemědělství a potravinářského průmyslu
+     </are:Text>
+     <are:Text>
+4. Účetní a ekonomické služby - vedení účetnictví
+     </are:Text>
+     <are:Text>
+5. Pronájem vlastních výrobních prostředků jiným subjektům
+- pronájem průmyslového zboží
+- pronájem nemovitostí
+- pronájem motorových vozidel
+     </are:Text>
+     <are:Text>
+kovoobrábění
+     </are:Text>
+     <are:Text>
+výroba a opravy zemědělských strojů
+     </are:Text>
+     <are:Text>
+výroba dřevěných obalů, palet a polotovarů
+     </are:Text>
+     <are:Text>
+silniční motorová doprava
+     </are:Text>
+     <are:Text>
+opravy motorových vozidel
+     </are:Text>
+     <are:Text>
+truhlářství
+     </are:Text>
+     <are:Text>
+provoz rychlého občerstvení
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-03-28" dvy="2011-08-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="1991-03-28" dvy="1993-11-02">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16192095</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov</are:obec>
+      <are:cisloTxt>130</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Sedláček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-03-28" dvy="1997-09-17">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Šumperk</are:okres>
+      <are:obec>Dubicko</are:obec>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Křížek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-15" dvy="1993-11-02">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16167236</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov</are:obec>
+      <are:ulice>Hlivice</are:ulice>
+      <are:cisloTxt>25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Škop</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-15" dvy="1994-05-20">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16285280</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Troubelice</are:obec>
+      <are:cisloTxt>172</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Alois</are:jmeno>
+     <are:prijmeni>Pik</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-15" dvy="1997-09-17">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16284151</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Troubelice</are:obec>
+      <are:cisloTxt>59</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Vrzalová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-15" dvy="1998-06-11">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16168038</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov</are:obec>
+      <are:ulice>Králová</are:ulice>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivo</are:jmeno>
+     <are:prijmeni>Sobota</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-15" dvy="2011-08-12">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16191447</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov</are:obec>
+      <are:cisloTxt>65</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Šotola</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-15" dvy="2011-08-12">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16193598</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov</are:obec>
+      <are:ulice>Zadní Újezd</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Vašíček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-15" dvy="2011-08-12">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16168411</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov</are:obec>
+      <are:ulice>Králová</are:ulice>
+      <are:cisloTxt>79</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Večeř</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-11-02" dvy="1997-09-17">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16192095</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov</are:obec>
+      <are:cisloTxt>130</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Sedláček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-11-02" dvy="1998-06-11">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16167236</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov</are:obec>
+      <are:ulice>Hlivice</are:ulice>
+      <are:cisloTxt>25</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Škop</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-05-20" dvy="1998-06-11">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Medlov</are:obec>
+      <are:cisloTxt>146</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Smyčka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-17" dvy="1998-06-11">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16168453</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov</are:obec>
+      <are:ulice>Králová</are:ulice>
+      <are:cisloTxt>83</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Večeř</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-17" dvy="1998-06-11">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16376854</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Uničov</are:obec>
+      <are:ulice>Hrdinů</are:ulice>
+      <are:cisloTxt>1158</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohumil</are:jmeno>
+     <are:prijmeni>Němec</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-17" dvy="2002-10-02">
+    <are:clenstvi>
+     <are:zanikClenstvi>2002-07-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16192095</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov</are:obec>
+      <are:cisloTxt>130</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Sedláček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-06-11" dvy="2002-10-02">
+    <are:clenstvi>
+     <are:zanikClenstvi>2002-07-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16192257</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Medlov 146</are:obec>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Smyčka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1999-12-21" dvy="2011-08-12">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="1999-12-21" dvy="2010-07-03">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24044547</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66491</are:psc>
+      <are:obec>Ivančice</are:obec>
+      <are:ulice>Luční</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Rosendorf</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-01" dvy="2011-08-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16168411</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Medlov</are:obec>
+      <are:castObce>Králová</are:castObce>
+      <are:cisloPop>79</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Večeř</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-18T09:42:32"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-18</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-18</are:Datum_vypisu>
+   <are:Cas_vypisu>09:42:32</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>60792329</are:ICO>
+   <are:ObchodniFirma>ELDAT a. s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3184251</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>70200</are:psc>
+    <are:okres>Ostrava-město</are:okres>
+    <are:obec>Ostrava</are:obec>
+    <are:castObce>Moravská Ostrava</are:castObce>
+    <are:ulice>Hlubinská</are:ulice>
+    <are:cisloPop>917</are:cisloPop>
+    <are:cisloOr>20</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-01-31</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+projektová činnost ve výstavbě
+     </are:Text>
+     <are:Text>
+výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení
+     </are:Text>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-01-31">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="1995-01-31" dvy="1997-12-03">
+    <are:Text>
+Jednání:
+Jménem společnosti jednají samostatně předseda představenstva a
+místopředseda představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1997-12-03" dvy="2014-11-26">
+    <are:Text>
+Jednání:
+Za společnost jedná vždy jeden člen představenstva a to vždy buď
+předseda nebo místopředseda představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-11-26">
+    <are:Text>
+Společnost zastupuje předseda představenstva nebo místopředseda představenstva samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-01-31" dvy="1997-12-03">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Opava - Kateřinky</are:obec>
+      <are:ulice>E. Beneše 26</are:ulice>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Háša</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-31" dvy="1999-09-01">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>8369241</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Vřesina</are:obec>
+      <are:ulice>Na vyhlídce</are:ulice>
+      <are:cisloTxt>465</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivo</are:jmeno>
+     <are:prijmeni>Špička</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-31" dvy="1999-09-01">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava - Výškovice</are:obec>
+      <are:ulice>Na výspě 2</are:ulice>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Obst</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-01-31" dvy="1999-09-01">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava - Zábřeh</are:obec>
+      <are:ulice>Jandova 5</are:ulice>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Trunkát</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-01" dvy="2006-02-17">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava - Zábřeh</are:obec>
+      <are:ulice>Jandova 5</are:ulice>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Trunkát</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-01" dvy="2010-03-22">
+    <are:clenstvi>
+     <are:zanikClenstvi>2010-03-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:zanikFunkce>2010-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava - Výškovice</are:obec>
+      <are:ulice>Na výspě 2</are:ulice>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Obst</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-09-01" dvy="2010-03-22">
+    <are:clenstvi>
+     <are:zanikClenstvi>2009-04-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Milevsko</are:obec>
+      <are:ulice>Komenského</are:ulice>
+      <are:cisloTxt>929</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Mařík</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-02-17" dvy="2010-03-22">
+    <are:clenstvi>
+     <are:zanikClenstvi>2010-03-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:zanikFunkce>2010-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26449307</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73923</are:psc>
+      <are:obec>Stará Ves nad Ondřejnicí</are:obec>
+      <are:castObce>Stará Ves</are:castObce>
+      <are:cisloTxt>677</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Trunkát</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-22" dvy="2014-11-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-03-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-11-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2014-11-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3258891</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Výškovice</are:castObce>
+      <are:ulice>Na Výspě</are:ulice>
+      <are:cisloTxt>643/2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Obst</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-22" dvy="2014-11-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-03-15</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-11-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2014-11-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26449307</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73923</are:psc>
+      <are:obec>Stará Ves nad Ondřejnicí</are:obec>
+      <are:ulice>Nad Pekárnou</are:ulice>
+      <are:cisloTxt>677</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Trunkát</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-03-22" dvy="2014-11-26">
+    <are:clenstvi>
+     <are:zanikClenstvi>2014-11-05</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24253138</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73401</are:psc>
+      <are:obec>Karviná</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:ulice>Dvořákova</are:ulice>
+      <are:cisloTxt>1558/22</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Schmidt</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-11-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-11-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26449307</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73923</are:psc>
+      <are:obec>Stará Ves nad Ondřejnicí</are:obec>
+      <are:castObce>Stará Ves</are:castObce>
+      <are:ulice>Nad Pekárnou</are:ulice>
+      <are:cisloPop>677</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>TRUNKÁT</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-11-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-11-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24872806</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73601</are:psc>
+      <are:obec>Havířov</are:obec>
+      <are:castObce>Šumbark</are:castObce>
+      <are:ulice>Letní</are:ulice>
+      <are:cisloPop>487</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>ZAHRADNÍK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-11-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18827837</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73552</are:psc>
+      <are:obec>Bohumín</are:obec>
+      <are:castObce>Záblatí</are:castObce>
+      <are:ulice>Bezručova</are:ulice>
+      <are:cisloPop>57</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROSLAV</are:jmeno>
+     <are:prijmeni>SCHMIDT</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-01-31">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2018-10-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-11-05</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2014-11-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>78465460</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Výškovice</are:castObce>
+      <are:ulice>Podolská</are:ulice>
+      <are:cisloPop>819</are:cisloPop>
+      <are:cisloOr>38</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RADOMÍR</are:jmeno>
+     <are:prijmeni>OBST</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

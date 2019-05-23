@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T18:58:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>18:58:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25500252</are:ICO>
+   <are:ObchodniFirma>ZAMZ s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>19573120</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>60200</are:psc>
+    <are:obec>Brno</are:obec>
+    <are:ulice>Prušánecká</are:ulice>
+    <are:cisloTxt>20</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1997-09-08</are:DatumZapisu>
+   <are:DatumVymazu>2007-08-27</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+zprostředkovatelská činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1997-09-08" dvy="2007-08-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1997-09-08" dvy="1999-04-30">
+    <are:Text>
+Způsob zastupování: Jménem společnosti jedná každý jednatel
+samostatně
+Podepisování za společnost: Jednatel vedle názvu společnosti
+připojí svůj podpis, jméno a příjmení a označení funkce
+jednatele
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1999-04-30" dvy="2007-08-27">
+    <are:Text>
+Způsob zastupování: Jménem společnosti jedná jednatel, který k
+názvu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1997-09-08" dvy="1999-04-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19573120</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Prušánecká</are:ulice>
+      <are:cisloTxt>20</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Zábrž</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-08" dvy="2006-03-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>1999-03-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19314141</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Píškova</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Andresek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-03-21" dvy="2007-08-27">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:text>&quot;neuvedeno&quot;</are:text>
+     </are:adresa>
+     <are:prijmeni>&quot;neuvedeno&quot;</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2006-11-08" dvy="2007-08-27">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="2006-11-08" dvy="2007-08-27">
+    <are:Text>
+Způsob zastupování: Za společnost jedná a podepisuje likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-11-08" dvy="2007-08-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19601361</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Jindřichova</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloš</are:jmeno>
+     <are:prijmeni>Chaloupka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1997-09-08" dvy="2007-08-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2006-03-21" dvy="2007-08-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19236344</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Rolencova</are:ulice>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Frömmel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

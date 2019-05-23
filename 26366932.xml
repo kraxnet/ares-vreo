@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-28T12:38:14"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-28</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-28</are:Datum_vypisu>
+   <are:Cas_vypisu>12:38:14</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26366932</are:ICO>
+   <are:ObchodniFirma>ZIPOSTAV s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>20740166</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>36001</are:psc>
+    <are:okres>Karlovy Vary</are:okres>
+    <are:obec>Karlovy Vary</are:obec>
+    <are:castObce>Karlovy Vary</are:castObce>
+    <are:ulice>Krymská</are:ulice>
+    <are:cisloPop>1188</are:cisloPop>
+    <are:cisloOr>7</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2004-01-26</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+specializovaný maloobchod
+     </are:Text>
+     <are:Text>
+přípravné práce pro stavby
+     </are:Text>
+     <are:Text>
+dokončovací stavební práce
+     </are:Text>
+     <are:Text>
+izolatérství
+     </are:Text>
+     <are:Text>
+zednictví
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-01-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2004-01-26" dvy="2004-08-06">
+    <are:Text>
+Způsob jednání:
+Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2004-08-06">
+    <are:Text>
+Způsob jednání:
+Každý z jednatelů jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-01-26" dvy="2004-08-06">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2004-01-26</are:vznikFunkce>
+     <are:zanikFunkce>2004-05-07</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>32000</are:psc>
+      <are:obec>Lhota</are:obec>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Novotný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-08-06" dvy="2008-10-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2004-05-07</are:vznikFunkce>
+     <are:zanikFunkce>2008-06-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20794975</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35601</are:psc>
+      <are:obec>Sokolov</are:obec>
+      <are:ulice>Slovenská</are:ulice>
+      <are:cisloTxt>1325</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Janouš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-08-06" dvy="2008-10-01">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2004-05-07</are:vznikFunkce>
+     <are:zanikFunkce>2008-06-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>35605</are:psc>
+      <are:obec>Sokolov</are:obec>
+      <are:ulice>M. Majerové</are:ulice>
+      <are:cisloTxt>1751</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Aleš</are:jmeno>
+     <are:prijmeni>Urban</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-10-01" dvy="2016-05-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-06-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20965800</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35735</are:psc>
+      <are:obec>Chodov</are:obec>
+      <are:ulice>Revoluční</are:ulice>
+      <are:cisloTxt>605</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Koštejnová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-06-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2604329</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35734</are:psc>
+      <are:okres>Sokolov</are:okres>
+      <are:obec>Nové Sedlo</are:obec>
+      <are:castObce>Nové Sedlo</are:castObce>
+      <are:ulice>Sklářská</are:ulice>
+      <are:cisloPop>475</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>KOŠTEJNOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2012-04-19">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2012-04-19" dvy="2016-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20965800</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35735</are:psc>
+      <are:obec>Chodov</are:obec>
+      <are:ulice>Revoluční</are:ulice>
+      <are:cisloPop>605</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Koštejnová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2604329</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35734</are:psc>
+      <are:okres>Sokolov</are:okres>
+      <are:obec>Nové Sedlo</are:obec>
+      <are:castObce>Nové Sedlo</are:castObce>
+      <are:ulice>Sklářská</are:ulice>
+      <are:cisloPop>475</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>KOŠTEJNOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2004-01-26">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-05-05">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2604329</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35734</are:psc>
+      <are:okres>Sokolov</are:okres>
+      <are:obec>Nové Sedlo</are:obec>
+      <are:castObce>Nové Sedlo</are:castObce>
+      <are:ulice>Sklářská</are:ulice>
+      <are:cisloPop>475</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LENKA</are:jmeno>
+     <are:prijmeni>KOŠTEJNOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-26">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20437366</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73801</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Frýdek-Místek</are:obec>
+      <are:castObce>Frýdek</are:castObce>
+      <are:ulice>Čs. červeného kříže</are:ulice>
+      <are:cisloPop>2241</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JULIUS</are:jmeno>
+     <are:prijmeni>KOŠTEJN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

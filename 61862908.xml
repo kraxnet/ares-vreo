@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-05-24T13:03:44"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-05-24</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-05-24</are:Datum_vypisu>
+   <are:Cas_vypisu>13:03:44</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>61862908</are:ICO>
+   <are:ObchodniFirma>IMRYCHOVA 884,KAMÝK - bytové družstvo</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21853924</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14300</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Kamýk</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Imrychova</are:ulice>
+    <are:cisloPop>884</are:cisloPop>
+    <are:cisloOr>11</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1994-10-11</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě nemovitosti,pronájem nemovitostí,bytových a nebytových
+prostor včetně poskytování základních služeb s tímto pronájmem
+spojených.Zajišťování provozu nemovitosti, jež je v majetku
+družstva.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1994-10-11">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1994-10-11">
+    <are:Text>
+Za družstvo navenek jedná předseda nebo místopředseda popř.
+člen pověřený předsedou.Podepisování se děje tak, že k otištěnému
+nebo napsanému názvu družstva se připojí podpis předsedy, nebo
+místopředsedy, popř.dalšího člena představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1994-10-11" dvy="2003-06-17">
+    <are:clenstvi>
+     <are:zanikClenstvi>2003-02-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:zanikFunkce>2003-02-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloTxt>884,</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Náchodský</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-10-11" dvy="2003-06-17">
+    <are:clenstvi>
+     <are:zanikClenstvi>2003-02-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:zanikFunkce>2003-02-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloTxt>884</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Strnad</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-10-11" dvy="2003-06-17">
+    <are:clenstvi>
+     <are:zanikClenstvi>2003-02-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloTxt>884</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Stulík</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-17" dvy="2009-09-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-02-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-05-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2003-02-20</are:vznikFunkce>
+     <are:zanikFunkce>2005-05-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloTxt>884</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Rubeš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-17" dvy="2009-09-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-02-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-05-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2003-02-20</are:vznikFunkce>
+     <are:zanikFunkce>2005-05-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloTxt>884</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Svačina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-06-17" dvy="2009-09-02">
+    <are:clenstvi>
+     <are:vznikClenstvi>2003-02-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-05-20</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloTxt>884</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jitka</are:jmeno>
+     <are:prijmeni>Paulusová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-09-02" dvy="2009-10-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-05-13</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2009-05-13</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloTxt>884</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Svačina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-09-02" dvy="2013-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-05-13</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-08-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2009-05-13</are:vznikFunkce>
+     <are:zanikFunkce>2005-08-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloTxt>884</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Štěpán</are:jmeno>
+     <are:prijmeni>Kalamár</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-09-02" dvy="2013-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-05-13</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-08-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloTxt>884</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Stulík</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-10-14" dvy="2013-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-05-13</are:vznikClenstvi>
+     <are:zanikClenstvi>2005-08-13</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2009-05-13</are:vznikFunkce>
+     <are:zanikFunkce>2005-08-13</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloTxt>884</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Svačina</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-25" dvy="2013-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-10-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-06-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2011-10-05</are:vznikFunkce>
+     <are:zanikFunkce>2012-06-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloPop>884</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>SVAČINA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-25" dvy="2013-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-10-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-06-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2011-10-05</are:vznikFunkce>
+     <are:zanikFunkce>2012-06-26</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloPop>884</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ŠTĚPÁN</are:jmeno>
+     <are:prijmeni>KALAMÁR</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-25" dvy="2013-01-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-10-05</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-06-26</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloPop>884</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>STULÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-25" dvy="2017-12-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-06-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-10-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2012-11-15</are:vznikFunkce>
+     <are:zanikFunkce>2017-10-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloPop>884</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>VÁZLER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-25" dvy="2017-12-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-06-26</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-10-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2012-11-15</are:vznikFunkce>
+     <are:zanikFunkce>2017-10-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloPop>884</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RENÁTA</are:jmeno>
+     <are:prijmeni>PITIPÁČOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-01-25" dvy="2017-12-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-10-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-10-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2017-10-18</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloPop>884</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>ŽIDOŇOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-12-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-10-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:vznikFunkce>2017-10-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloPop>884</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>VÁZLER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-12-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-10-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2017-10-23</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloPop>884</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>SVAČINA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-12-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-10-18</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21853924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Imrychova</are:ulice>
+      <are:cisloPop>884</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>ŠAFRÁNEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

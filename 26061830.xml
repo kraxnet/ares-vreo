@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T00:22:36"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>00:22:36</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26061830</are:ICO>
+   <are:ObchodniFirma>John &amp; Jack s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>849499</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>38422</are:psc>
+    <are:okres>Prachatice</are:okres>
+    <are:obec>Lipovice</are:obec>
+    <are:castObce>Konopiště</are:castObce>
+    <are:cisloPop>8</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-05-05</are:DatumZapisu>
+   <are:DatumVymazu>2016-12-23</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Po ukončení likvidace se vymazává z obchodního rejstříku ke dni nabytí právní moci tohoto usnesení společnost John &amp; Jack s.r.o. v likvidaci, Konopiště 8, PSČ 38422, identifikační číslo 260 61 830, včetně všech zapsaných skutečností.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zprostředkování obchodu
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-05-05" dvy="2016-12-23">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2003-05-05" dvy="2006-11-24">
+    <are:Text>
+Společnost má jednoho nebo více jednatelů. Každý jednatel jedná
+jménem společnosti samostatně. Podepisování se děje tak, že k
+napsané nebo natištěné obchodní firmě společnosti připojí
+jednatel(é) svůj(své) podpis(y).
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2006-11-24" dvy="2016-12-23">
+    <are:Text>
+Společnost má jednoho nebo více jednatelů. Pokud je jmenován pouze jeden jednatel, zastupuje společnost samostatně. Pokud je jmenováno více jednatelů, zastupují společnost dva jednatelé společně. Jednatelé a případní prokuristé se podepisují za společnost
+ tak, že k vytištěné nebo napsané obchodní firmě společnosti připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2003-05-05" dvy="2004-05-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-05-05</are:vznikFunkce>
+     <are:zanikFunkce>2004-05-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>11713135</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>37316</are:psc>
+      <are:obec>Dobrá Voda u Českých Budějovic</are:obec>
+      <are:ulice>Pod lesem</are:ulice>
+      <are:cisloTxt>1320/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Štolba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-11-24" dvy="2014-09-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-11-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>90403</are:psc>
+      <are:obec>Norimberk</are:obec>
+      <are:ulice>Kaspar-Hauser-Platz</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Stolba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-09-17" dvy="2016-12-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2006-11-20</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>90408</are:psc>
+      <are:obec>Norimberk</are:obec>
+      <are:ulice>Vestnertorgraben 31</are:ulice>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Stolba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2014-09-17" dvy="2016-12-23">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:ZpusobJednani dza="2014-09-17" dvy="2016-12-23">
+    <are:Text>
+Likvidátor se podepisuje tak, že k vytištěné nebo vypsané obchodní firmě společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2014-09-17" dvy="2016-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>809900</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>38422</are:psc>
+      <are:obec>Bušanovice</are:obec>
+      <are:castObce>Bušanovice</are:castObce>
+      <are:cisloPop>53</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RUDOLF</are:jmeno>
+     <are:prijmeni>ZIMMERMANN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-05-05" dvy="2016-12-23">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2014-09-17" dvy="2016-12-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>90408</are:psc>
+      <are:obec>Norimberk</are:obec>
+      <are:ulice>Vestnertorgraben 31</are:ulice>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Stolba</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

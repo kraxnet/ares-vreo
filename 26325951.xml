@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-10T12:16:18"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-10</are:Datum_vypisu>
+   <are:Cas_vypisu>12:16:18</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26325951</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků Brojova 15, 17, 19, 21 Plzeň</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24515817</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>32600</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Plzeň</are:obec>
+    <are:castObce>Východní Předměstí</are:castObce>
+    <are:ulice>Brojova</are:ulice>
+    <are:cisloPop>1902</are:cisloPop>
+    <are:cisloOr>19</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2001-04-24</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+Správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-04-24">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-04-24" dvy="2015-08-18">
+    <are:Text>
+Způsob jednání: Jménem společenství jedná výbor. Za výbor jedná
+navenek předseda výboru nebo výborem písemně pověřený člen
+výboru. Je-li pro právní úkon zapotřebí písemná forma, je
+nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-08-18">
+    <are:Text>
+Společenství zastupuje společně předseda výboru a další člen výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-08-08" dvy="2011-02-03">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515795</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Cimr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-08-08" dvy="2013-11-02">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515825</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaromír</are:jmeno>
+     <are:prijmeni>Lukeš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-08-08" dvy="2013-11-02">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515809</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Rottenborn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-08-08" dvy="2013-11-02">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515817</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Soutner</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-08-08" dvy="2013-11-02">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515825</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Brejša</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-02-03" dvy="2013-11-02">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515795</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Matas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-02" dvy="2018-10-04">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-05-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:zanikFunkce>2018-05-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515825</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloPop>1903</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROMÍR</are:jmeno>
+     <are:prijmeni>LUKEŠ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-02" dvy="2018-10-04">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-05-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:zanikFunkce>2018-05-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515809</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloPop>1901</are:cisloPop>
+      <are:cisloOr>17</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>ROTTENBORN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-02" dvy="2018-10-04">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-05-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515795</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloPop>1900</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>MATAS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-02" dvy="2018-10-04">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-05-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515817</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloPop>1902</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>SOUTNER</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-02" dvy="2018-10-04">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-05-15</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515825</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloPop>1903</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>BREJŠA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-05-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2018-05-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515825</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloPop>1903</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAROMÍR</are:jmeno>
+     <are:prijmeni>LUKEŠ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-05-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515809</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloPop>1901</are:cisloPop>
+      <are:cisloOr>17</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>ROTTENBORN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-05-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515817</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloPop>1902</are:cisloPop>
+      <are:cisloOr>19</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZDENĚK</are:jmeno>
+     <are:prijmeni>MURIN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-05-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515825</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloPop>1903</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>BREJŠA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-05-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515795</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32600</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Východní Předměstí</are:castObce>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloPop>1900</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÁCLAV</are:jmeno>
+     <are:prijmeni>MATAS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2001-04-24" dvy="2006-08-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2001-04-24" dvy="2006-08-08">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515817</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Racek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-24" dvy="2006-08-08">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515817</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Panský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-24" dvy="2006-08-08">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2000-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515795</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Cimr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-24" dvy="2006-08-08">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2000-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515809</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Rottenborn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-24" dvy="2006-08-08">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2000-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515825</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Brejša</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-10</are:Datum_vypisu>
+   <are:Cas_vypisu>12:16:19</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26325951</are:ICO>
+   <are:ObchodniFirma>Společenství Brojova 15,17,19,21 Plzeň</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24515817</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>32600</are:psc>
+    <are:obec>Plzeň</are:obec>
+    <are:ulice>Brojova</are:ulice>
+    <are:cisloTxt>1902/19</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-04-24</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-04-24" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-04-24" dvy="2001-12-31">
+    <are:Text>
+Způsob jednání: Jménem společenství jedná výbor. Za výbor jedná
+navenek předseda výboru nebo výborem písemně pověřený člen
+výboru. Je-li pro právní úkon zapotřebí písemná forma, je
+nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-04-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Předseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515817</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Racek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2000-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515817</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Panský</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2000-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515795</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Václav</are:jmeno>
+     <are:prijmeni>Cimr</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2000-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515809</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Rottenborn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-04-24" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>Člen výboru</are:nazev>
+     <are:vznikFunkce>2000-11-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24515825</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Brojova</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Brejša</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

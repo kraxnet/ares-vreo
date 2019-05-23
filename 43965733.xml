@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T20:22:53"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>20:22:53</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>43965733</are:ICO>
+   <are:ObchodniFirma>KAMARO, spol. s r. o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Orlová - Poruba</are:obec>
+    <are:ulice>Nádražní</are:ulice>
+    <are:cisloTxt>349</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-12-09</are:DatumZapisu>
+   <are:DatumVymazu>2002-08-08</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+pekárenská činnost
+     </are:Text>
+     <are:Text>
+textilní výroba
+     </are:Text>
+     <are:Text>
+dřevozpracující činnost
+     </are:Text>
+     <are:Text>
+konzultační, poradenská a školící činnost všeho druhu
+     </are:Text>
+     <are:Text>
+nákup a prodej zboží všeho druhu
+     </are:Text>
+     <are:Text>
+zahraničně-obchodní, hospodářská a zprostředkovatelská činnost
+     </are:Text>
+     <are:Text>
+stavební činnost, svářečská a zámečnická
+     </are:Text>
+     <are:Text>
+nákup a prodej odpadních surovin
+     </are:Text>
+     <are:Text>
+autoopravárenské služby
+     </are:Text>
+     <are:Text>
+nákup, prodej a půjčování motorových vozidel
+     </are:Text>
+     <are:Text>
+obstaravatelské a zprostředkovatelské služby
+     </are:Text>
+     <are:Text>
+všechny předměty činnosti, jež jsou povoleny
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-12-09" dvy="2002-08-08">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-12-09" dvy="1992-04-06">
+    <are:Text>
+Zastupování: Jménem společnosti jednají oba jednatelé
+samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1992-04-06" dvy="2002-08-08">
+    <are:Text>
+Zastupování: Jednatel jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-12-09" dvy="1992-04-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>616</are:stat>
+      <are:obec>Bialsko-Biala</are:obec>
+      <are:ulice>Krakovská</are:ulice>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jerzy</are:jmeno>
+     <are:prijmeni>Maj</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-12-09" dvy="2002-08-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Orlová - Lutyně</are:obec>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloTxt>1008</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jindřich</are:jmeno>
+     <are:prijmeni>Honza</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-12-09" dvy="2002-08-08">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-12-09" dvy="2002-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Orlová - Lutyně</are:obec>
+      <are:ulice>Masarykova</are:ulice>
+      <are:cisloTxt>1008</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jindřich</are:jmeno>
+     <are:prijmeni>Honza</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-04-06" dvy="2002-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>616</are:stat>
+      <are:obec>Bialsko-Biala</are:obec>
+      <are:ulice>Krakovská</are:ulice>
+      <are:cisloTxt>26</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jerzy</are:jmeno>
+     <are:prijmeni>Maj</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-04-06" dvy="2002-08-08">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>616</are:stat>
+      <are:obec>Bielsko Biala</are:obec>
+      <are:ulice>Jutrzenki</are:ulice>
+      <are:cisloTxt>37/14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Andřej</are:jmeno>
+     <are:prijmeni>Cembala</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

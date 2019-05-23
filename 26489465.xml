@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T04:22:07"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>04:22:07</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26489465</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek pro dům čp. 333, 334, 335¨na adrese: Smetanova, Milovice</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>18262147</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>28924</are:psc>
+    <are:okres>Nymburk</are:okres>
+    <are:obec>Milovice</are:obec>
+    <are:castObce>Milovice</are:castObce>
+    <are:ulice>Smetanova</are:ulice>
+    <are:cisloPop>334</are:cisloPop>
+    <are:cisloOr>4</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-11-30</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu čp. 333, 334, 335 na adrese: Smetanova, Milovice
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-11-30">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-11-30">
+    <are:Text>
+Za Společenství vlastníků jednotek jedná předseda výboru
+společnství, jde-li o písemný právní úkon, podepisuje se tak, že
+pro dům čp. 333,334,335 připojí předseda výboru svůj podpis a
+dále se připojí podpis pověřeného zástupce-člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-11-30" dvy="2005-07-20">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-05-09</are:vznikFunkce>
+     <are:zanikFunkce>2003-08-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262139</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>333</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kos</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-11-30" dvy="2006-05-23">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-05-09</are:vznikFunkce>
+     <are:zanikFunkce>2006-04-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>334</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jitka</are:jmeno>
+     <are:prijmeni>Jarolímová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-11-30" dvy="2016-05-18">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262155</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>335</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dagmar</are:jmeno>
+     <are:prijmeni>Gáborová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-07-20" dvy="2016-12-08">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-08-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262139</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>333</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kopecký</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-05-23" dvy="2009-04-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-04-02</are:vznikClenstvi>
+     <are:zanikClenstvi>2009-03-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28923</are:psc>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>334</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiřina</are:jmeno>
+     <are:prijmeni>Měsíčková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-04-30" dvy="2010-05-12">
+    <are:clenstvi>
+     <are:vznikClenstvi>2009-03-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-03-23</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28924</are:psc>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>334</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Hrobař</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-05-12" dvy="2016-12-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-03-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28924</are:psc>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloPop>334</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jurij</are:jmeno>
+     <are:prijmeni>Kovalov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-18">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262155</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28924</are:psc>
+      <are:okres>Nymburk</are:okres>
+      <are:obec>Milovice</are:obec>
+      <are:castObce>Milovice</are:castObce>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloPop>335</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DAGMAR</are:jmeno>
+     <are:prijmeni>GÁBOROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-08">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2003-08-02</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262139</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28924</are:psc>
+      <are:okres>Nymburk</are:okres>
+      <are:obec>Milovice</are:obec>
+      <are:castObce>Milovice</are:castObce>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloPop>333</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>KOPECKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-03-23</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>28924</are:psc>
+      <are:okres>Nymburk</are:okres>
+      <are:obec>Milovice</are:obec>
+      <are:castObce>Milovice</are:castObce>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloPop>334</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JURIJ</are:jmeno>
+     <are:prijmeni>KOVALOV</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>04:22:07</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26489465</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek pro dům čp. 333, 334, 335¨na adrese: Smetanova, Milovice</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>18262147</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Milovice</are:obec>
+    <are:ulice>Smetanova</are:ulice>
+    <are:cisloTxt>334</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-11-30</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa domu čp. 333, 334, 335 na adrese: Smetanova, Milovice
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-11-30" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-11-30" dvy="2001-12-31">
+    <are:Text>
+Za Společenství vlastníků jednotek jedná předseda výboru
+společnství, jde-li o písemný právní úkon, podepisuje se tak, že
+pro dům čp. 333,334,335 připojí předseda výboru svůj podpis a
+dále se připojí podpis pověřeného zástupce-člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-11-30" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-05-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262155</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>335</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dagmar</are:jmeno>
+     <are:prijmeni>Gáborová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-11-30" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-05-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262147</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>334</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jitka</are:jmeno>
+     <are:prijmeni>Jarolímová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-11-30" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2001-05-09</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18262139</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Milovice</are:obec>
+      <are:ulice>Smetanova</are:ulice>
+      <are:cisloTxt>333</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kos</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

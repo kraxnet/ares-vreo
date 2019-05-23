@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T08:01:18"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>08:01:18</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27992900</are:ICO>
+   <are:ObchodniFirma>Ihor Ladus</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>7109661</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>33806</are:psc>
+    <are:obec>Cheznovice</are:obec>
+    <are:cisloTxt>193</are:cisloTxt>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:stat>804</are:stat>
+    <are:obec>Krušelnycja</are:obec>
+   </are:Bydliste>
+   <are:Pobyt>
+    <are:ruianKod>7109661</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>33806</are:psc>
+    <are:obec>Cheznovice</are:obec>
+    <are:cisloTxt>193</are:cisloTxt>
+   </are:Pobyt>
+   <are:DatumZapisu>2007-09-26</are:DatumZapisu>
+   <are:DatumVymazu>2017-04-27</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se podnikatel podnikající pod obchodní firmou Ihor Ladus, s místem podnikání Cheznovice 193, PSČ 33806, identifikační číslo 279 92 900 z obchodního rejstříku včetně všech zapsaných údajů. Výmaz se provádí z důvodu zániku posledního živnostenského
+ oprávnění.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+povrchové úpravy a svařování kovů a dalších materiálů
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-09-26" dvy="2017-04-27">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="2007-09-26" dvy="2017-04-27">
+    <are:fosoba>
+     <are:jmeno>Ihor</are:jmeno>
+     <are:prijmeni>Ladus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

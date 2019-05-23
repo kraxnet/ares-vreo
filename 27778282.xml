@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-02-07T12:34:31"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-02-07</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-02-07</are:Datum_vypisu>
+   <are:Cas_vypisu>12:34:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27778282</are:ICO>
+   <are:ObchodniFirma>Bytové družstvo Svatoplukova 11 &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3262308</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>70030</are:psc>
+    <are:okres>Ostrava-město</are:okres>
+    <are:obec>Ostrava</are:obec>
+    <are:castObce>Zábřeh</are:castObce>
+    <are:ulice>Svatoplukova</are:ulice>
+    <are:cisloPop>615</are:cisloPop>
+    <are:cisloOr>11</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2006-09-14</are:DatumZapisu>
+   <are:DatumVymazu>2019-02-06</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Družstvo Bytové družstvo Svatoplukova 11 &quot;v likvidaci&quot;, Svatoplukova 615/11, Zábřeh, 700 30 Ostrava, identifikační číslo 277 78 282 se vymazává ke dni právní moci tohoto rozhodnutí z obchodního rejstříku včetně všech zapsaných skutečností.
+    </are:Text>
+    <are:Text>
+Právní důvod: Družstvo se vymazává z obchodního rejstříku  na návrh likvidátora ze dne 7.1.2019 v souladu s ust. § 82 zákona č. 304/2013 Sb. o veřejných rejstřících právnických a fyzických osob a o evidenci svěřenských fondů.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+předmět činnosti družstva je provoz a správa bytového fondu a nebytových prostorů a hospodaření se společným majetkem družstva, čímž se rozumí zejména:
+     </are:Text>
+     <are:Text>
+zajišťování správy a provozu domů, kontrola technického stavu, provádění jejich oprav a rekonstrukcí
+     </are:Text>
+     <are:Text>
+přidělování družstevních bytů a pronájem nebytových prostor, uzavírání příslušných nájemních smluv
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2006-09-14" dvy="2019-02-06">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2006-09-14" dvy="2019-02-06">
+    <are:Text>
+J e d n á n í :
+Za bytové družstvo jedná navenek předseda. Je-li však pro právní úkon, který činí předseda, předepsána písemná forma, podepisují se předseda a člen pověřený členskou schůzí jednáním za družstvo. K podpisu musí být vždy připojen otisk razítka družstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-09-14" dvy="2015-11-12">
+    <are:funkce>
+     <are:nazev>pověřený člen družstva</are:nazev>
+     <are:vznikFunkce>2006-09-14</are:vznikFunkce>
+     <are:zanikFunkce>2011-04-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3262308</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Zábřeh</are:castObce>
+      <are:ulice>Svatoplukova</are:ulice>
+      <are:cisloTxt>615/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vojtěch</are:jmeno>
+     <are:prijmeni>Cína</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-09-14" dvy="2015-11-12">
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2006-09-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3262308</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Zábřeh</are:castObce>
+      <are:ulice>Svatoplukova</are:ulice>
+      <are:cisloTxt>615/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Gavlík</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-12" dvy="2019-02-06">
+    <are:funkce>
+     <are:nazev>předseda družstva</are:nazev>
+     <are:vznikFunkce>2006-09-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3262308</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70030</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Zábřeh</are:castObce>
+      <are:ulice>Svatoplukova</are:ulice>
+      <are:cisloPop>615</are:cisloPop>
+      <are:cisloOr>11</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JOSEF</are:jmeno>
+     <are:prijmeni>GAVLÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-09-14" dvy="2019-02-06">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-09-14" dvy="2019-02-06">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>25035711</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70200</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Moravská Ostrava</are:castObce>
+      <are:ulice>Vítkovická</are:ulice>
+      <are:cisloPop>3083</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:ICO>71457411</are:ICO>
+     <are:ObchodniFirma>Běčáková Pavla, Mgr., advokát</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

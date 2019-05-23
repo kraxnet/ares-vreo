@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T20:21:19"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>20:21:19</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>43962467</are:ICO>
+   <are:ObchodniFirma>MARCELA spol. s r. o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23309326</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>77900</are:psc>
+    <are:okres>Olomouc</are:okres>
+    <are:obec>Olomouc</are:obec>
+    <are:castObce>Nová Ulice</are:castObce>
+    <are:ulice>Stiborova</are:ulice>
+    <are:cisloPop>889</are:cisloPop>
+    <are:cisloOr>13</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-11-29</are:DatumZapisu>
+   <are:DatumVymazu>2017-08-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost se vymazává z obchodního rejstříku včetně všech zapsaných skutečností.
+ 
+Právní důvod výmazu: Společnost se vymazává z obchodního rejstříku po provedené likvidaci na návrh společnosti doručený soudu dne 12.7.2017 dle ust. § 82 zák. č. 304/2013 Sb., pro nedostatek majetku likvidované společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+- obchodní činnost s průmyslovým a spotřebním zbožím
+/maloobchodní a velkoobchodní činnost/
+- zprostředkovatelská činnost
+- poradenská činnost mimo právní služby
+- zahraničně obchodní a zprostředkovatelská činnost dle §4
+zák.č.27/91 Sb.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-11-29" dvy="2017-08-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2012-06-30" dvy="2017-08-01">
+    <are:Text>
+Zastupování společnosti: Každý společník samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-11-29" dvy="2012-06-30">
+    <are:funkce>
+     <are:nazev>společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23309326</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Stiborova</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Nedělníková</are:prijmeni>
+     <are:titulZa>rozvedená</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-11-29" dvy="2012-06-30">
+    <are:funkce>
+     <are:nazev>společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10429361</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brodek u Prostějova</are:obec>
+      <are:cisloTxt>51</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Nedělník</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-11-29" dvy="2012-06-30">
+    <are:funkce>
+     <are:nazev>společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>SSSR, Čeljabinsk</are:obec>
+      <are:ulice>Gagarina 48</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Georgi Kaljagin Anatoljevič,ženatý</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-11-05" dvy="2012-06-30">
+    <are:funkce>
+     <are:nazev>likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava 3</are:obec>
+      <are:ulice>Charvatská</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Klus</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-30" dvy="2013-04-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23309326</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Nová Ulice</are:castObce>
+      <are:ulice>Stiborova</are:ulice>
+      <are:cisloPop>889</are:cisloPop>
+      <are:cisloOr>13</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Nedělníková</are:prijmeni>
+     <are:titulZa>rozvedená</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-30" dvy="2013-04-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10429361</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Brodek u Prostějova</are:obec>
+      <are:cisloTxt>51</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Nedělník</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-06-30" dvy="2013-04-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>SSSR, Čeljabinsk</are:obec>
+      <are:ulice>Gagarina 48</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Georgi Kaljagin Anatoljevič</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-04-23" dvy="2017-02-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1991-11-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23264802</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Lazce</are:castObce>
+      <are:ulice>Na střelnici</are:ulice>
+      <are:cisloPop>336</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>NEDĚLNÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-04-23" dvy="2017-08-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1991-11-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28083326</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79807</are:psc>
+      <are:obec>Hradčany-Kobeřice</are:obec>
+      <are:castObce>Kobeřice</are:castObce>
+      <are:cisloPop>111</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>NEDĚLNÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-04-23" dvy="2017-08-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1991-11-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>810</are:stat>
+      <are:obec>ČELJABINSK</are:obec>
+      <are:ulice>GAGARINA</are:ulice>
+      <are:cisloTxt>48</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>GEORGI kALJAGIN</are:jmeno>
+     <are:prijmeni>ANATOLJEVIČ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-24" dvy="2017-08-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1991-11-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10556044</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79861</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Otinoves</are:obec>
+      <are:castObce>Otinoves</are:castObce>
+      <are:cisloPop>36</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>NEDĚLNÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2012-06-30" dvy="2017-08-01">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2012-06-30" dvy="2013-04-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Výškovice</are:obec>
+      <are:ulice>Charvátská</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Klus</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-04-23" dvy="2017-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3368076</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>72400</are:psc>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Stará Bělá</are:castObce>
+      <are:ulice>Proskovická</are:ulice>
+      <are:cisloPop>473</are:cisloPop>
+      <are:cisloOr>229</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>KLUS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2012-06-30" dvy="2017-08-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2013-04-23" dvy="2017-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28083326</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79807</are:psc>
+      <are:obec>Hradčany-Kobeřice</are:obec>
+      <are:castObce>Kobeřice</are:castObce>
+      <are:cisloPop>111</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>NEDĚLNÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-04-23" dvy="2017-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>810</are:stat>
+      <are:obec>ČELJABINSK</are:obec>
+      <are:ulice>GAGARINA</are:ulice>
+      <are:cisloTxt>48</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>GEORGI kALJAGIN</are:jmeno>
+     <are:prijmeni>ANATOLJEVIČ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-02-24" dvy="2017-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>10556044</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>79861</are:psc>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Otinoves</are:obec>
+      <are:castObce>Otinoves</are:castObce>
+      <are:cisloPop>36</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARCELA</are:jmeno>
+     <are:prijmeni>NEDĚLNÍKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

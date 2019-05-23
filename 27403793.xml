@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T00:10:53"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>00:10:53</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27403793</are:ICO>
+   <are:ObchodniFirma>Hai Do Minh</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>2907381</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>41201</are:psc>
+    <are:obec>Litoměřice</are:obec>
+    <are:castObce>Předměstí</are:castObce>
+    <are:ulice>Tolstého</are:ulice>
+    <are:cisloPop>1312</are:cisloPop>
+    <are:cisloOr>2</are:cisloOr>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:ruianKod>101</are:ruianKod>
+    <are:stat>704</are:stat>
+    <are:obec>Hoa Binh</are:obec>
+    <are:castObce>Yen Thuy</are:castObce>
+    <are:ulice>Yen Lac</are:ulice>
+   </are:Bydliste>
+   <are:Pobyt>
+    <are:ruianKod>22490736</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19800</are:psc>
+    <are:obec>Praha 9</are:obec>
+    <are:castObce>Kyje</are:castObce>
+    <are:ulice>Velkoborská</are:ulice>
+    <are:cisloTxt>1188</are:cisloTxt>
+   </are:Pobyt>
+   <are:DatumZapisu>2005-12-30</are:DatumZapisu>
+   <are:DatumVymazu>2015-06-25</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Podnikatel Hai Do Minh, se sídlem posledně Tolstého 1312/2, Předměstí, 412 01 Litoměřice, IČ 274 03 793, zapsaný jako fyzická osoba pod obchodní firmou Hai Do Minh se vymazává z obchodního rejstříku.
+    </are:Text>
+    <are:Text>
+Právní důvod výmazu: Výmaz se provádí z důvodu zániku právního důvodu k umístění sídla podnikání Tolstého 1312/2, Předměstí, 412 01 Litoměřice a adresy pobytu v ČR na adrese Praha 9 -Kyje, Velkoborská 1188, PSČ 198 00.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2005-12-30" dvy="2015-06-25">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="2005-12-30" dvy="2015-06-25">
+    <are:fosoba>
+     <are:jmeno>Hai</are:jmeno>
+     <are:prijmeni>Do Minh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

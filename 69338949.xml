@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-03T09:19:50"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-03</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-03</are:Datum_vypisu>
+   <are:Cas_vypisu>09:19:50</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>69338949</are:ICO>
+   <are:ObchodniFirma>Stepan Golinko</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:psc>14200</are:psc>
+    <are:obec>Praha 4-Kamýk</are:obec>
+    <are:ulice>Olbramovická</are:ulice>
+    <are:cisloTxt>708/16</are:cisloTxt>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:text>ul.Svobody 210/80,Ivanofrankivsk,Ukrajina</are:text>
+   </are:Bydliste>
+   <are:DatumZapisu>1999-04-22</are:DatumZapisu>
+   <are:DatumVymazu>2018-11-28</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z obchodního rejstříku včetně všech zapsaných údajů podnikatel Stepan Golinko, s místem podnikání Praha 4-Kamýk, Olbramovická 708/16, PSČ 14200, identifikační číslo 693 38 949, vedený pod spisovou značkou A ../MSPH u obchodního rejstříku Městs
+kého soudu v Praze, a to z důvodu ztráty podmínek pro podnikání v České republice,  kdy dne 24.10. 2018 zaniklo u subjektu poslední živnostenské oprávnění. Dalším důvodem je ukončení zákonné povinnosti  evidence v obchodním rejstříku pro podnikatele - fyz
+ické osoby.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-04-22" dvy="2018-11-28">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="1999-04-22" dvy="2018-10-26">
+    <are:fosoba>
+     <are:jmeno>Stepan</are:jmeno>
+     <are:prijmeni>Golinko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-10-26" dvy="2018-11-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21852421</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Kamýk</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Olbramovická</are:ulice>
+      <are:cisloPop>708</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>STEPAN</are:jmeno>
+     <are:prijmeni>GOLINKO</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

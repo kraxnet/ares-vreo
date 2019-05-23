@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T06:08:40"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>06:08:40</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27864464</are:ICO>
+   <are:ObchodniFirma>diamorph hob certec s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>42139252</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>33012</are:psc>
+    <are:obec>Horní Bříza</are:obec>
+    <are:castObce>Horní Bříza</are:castObce>
+    <are:ulice>Tovární</are:ulice>
+    <are:cisloPop>739</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2007-03-07</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2007-03-07">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2012-07-01" dvy="2014-06-02">
+    <are:Text>
+Způsob jednání:
+Jménem společnosti jedná každý z jednatelů samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-06-02">
+    <are:Text>
+Za společnost jedná každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2012-07-01" dvy="2012-11-07">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-07-01</are:vznikFunkce>
+     <are:zanikFunkce>2013-01-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24563714</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>31809</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Macháčkova</are:ulice>
+      <are:cisloPop>48</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Starý</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-07-01" dvy="2015-11-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-07-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25297902</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32300</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Jakuba Jana Ryby</are:ulice>
+      <are:cisloPop>2028</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Karl Heinz Gustav</are:jmeno>
+     <are:prijmeni>Pöhlmann</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-07-01" dvy="2015-11-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-07-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>752</are:stat>
+      <are:obec>11825 Stockholm</are:obec>
+      <are:ulice>Bastugatan</are:ulice>
+      <are:cisloPop>25</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Fredrik</are:jmeno>
+     <are:prijmeni>Svedberg</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-10-02" dvy="2015-11-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-10-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>32300</are:psc>
+      <are:obec>Plzeň 1</are:obec>
+      <are:castObce>Severní Předměstí</are:castObce>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloPop>1117</are:cisloPop>
+      <are:cisloOr>65</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Roubal</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-11-07" dvy="2013-01-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-07-01</are:vznikFunkce>
+     <are:zanikFunkce>2013-01-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>559351</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33023</are:psc>
+      <are:obec>Nýřany</are:obec>
+      <are:castObce>Nýřany</are:castObce>
+      <are:ulice>Pankrác</are:ulice>
+      <are:cisloPop>917</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Starý</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-10-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24424897</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32300</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Severní Předměstí</are:castObce>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloPop>1117</are:cisloPop>
+      <are:cisloOr>65</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>ROUBAL</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-10" dvy="2016-11-02">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-07-01</are:vznikFunkce>
+     <are:zanikFunkce>2016-10-14</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>752</are:stat>
+      <are:psc>11825</are:psc>
+      <are:obec>Stockholm</are:obec>
+      <are:ulice>Bastugatan 25</are:ulice>
+     </are:adresa>
+     <are:jmeno>FREDRIK</are:jmeno>
+     <are:prijmeni>SVEDBERG</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-10" dvy="2017-04-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2012-07-01</are:vznikFunkce>
+     <are:zanikFunkce>2017-03-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25297902</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32300</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:castObce>Bolevec</are:castObce>
+      <are:ulice>Jakuba Jana Ryby</are:ulice>
+      <are:cisloPop>2028</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KARL HEINZ GUSTAV</are:jmeno>
+     <are:prijmeni>PÖHLMANN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-11-02">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2016-10-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>826</are:stat>
+      <are:psc>SK97JY</are:psc>
+      <are:obec>Alderley Edge, Cheshire, Anglie</are:obec>
+      <are:ulice>Heyes Lane 22</are:ulice>
+     </are:adresa>
+     <are:jmeno>GORDON</are:jmeno>
+     <are:prijmeni>MACLEMAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2007-03-07" dvy="2012-07-01">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2007-03-07" dvy="2011-11-08">
+    <are:Text>
+Jménem společnosti jedná navenek člen představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2011-11-08" dvy="2011-11-08">
+    <are:Text>
+Kaýdý člen představenstva jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2011-11-08" dvy="2012-02-14">
+    <are:Text>
+Každý člen představenstva jedná jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2012-02-14" dvy="2012-07-01">
+    <are:Text>
+Jménem společnosti jedná navenek člen představenstva společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2007-03-07" dvy="2011-11-08">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2011-11-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>16500</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Nad Mohylou</are:ulice>
+      <are:cisloTxt>900/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marek</are:jmeno>
+     <are:prijmeni>Kreisl</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-08" dvy="2011-11-08">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2011-11-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>32300</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Jana Jakuba Ryby</are:ulice>
+      <are:cisloPop>2028</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Karl Heinz Gustav</are:jmeno>
+     <are:prijmeni>Pölmann</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-08" dvy="2012-02-14">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2011-11-01</are:vznikFunkce>
+     <are:zanikFunkce>2011-11-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25297902</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32300</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Jakuba Jana Ryby</are:ulice>
+      <are:cisloPop>2028</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Marcela</are:jmeno>
+     <are:prijmeni>Študlarová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-08" dvy="2012-02-14">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2011-11-01</are:vznikFunkce>
+     <are:zanikFunkce>2011-11-02</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:text>Cham, Pfarrer-Lukas-Str. 11, PSČ 93413</are:text>
+     </are:adresa>
+     <are:jmeno>Christian</are:jmeno>
+     <are:prijmeni>Geiling</are:prijmeni>
+     <are:titulZa>MBA</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-11-08" dvy="2012-07-01">
+    <are:clenstvi>
+     <are:zanikClenstvi>2012-07-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2011-11-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25297902</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>32300</are:psc>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Jakuba Jana Ryby</are:ulice>
+      <are:cisloPop>2028</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Karl Heinz Gustav</are:jmeno>
+     <are:prijmeni>Pöhlmann</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2012-07-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2017-04-04">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>752</are:stat>
+      <are:psc>11145</are:psc>
+      <are:obec>Stockholm</are:obec>
+      <are:ulice>Stureplan 15, c/o Sdiptech AB</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>Diamorph Bearings AB</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

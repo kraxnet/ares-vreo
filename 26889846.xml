@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T07:06:24"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>07:06:25</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26889846</are:ICO>
+   <are:ObchodniFirma>Miroslav   Š e v č í k ,   organizační složka</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3978249</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>76312</are:psc>
+    <are:okres>Zlín</are:okres>
+    <are:obec>Bratřejov</are:obec>
+    <are:castObce>Bratřejov</are:castObce>
+    <are:cisloPop>118</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2003-05-10</are:DatumZapisu>
+   <are:DatumVymazu>2016-02-10</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Na základe rozhodnutia Mestského úradu Vizovice, Odbor Obecní živnostenský úřad zo dňa 2. 5. 2007 o zrušení živnostenského oprávnění, č. j. S MUVIZ014503/2007/OZU/ZR-F, prúkazem je živnostenský list č. j. VI-L/15/03-F vydaný Obecním živnostenským úŘadem M
+estského úřadu Vizovice dne 17. 02. 2003 zahraničnej fyzickej osobe:
+ 
+meno a priezvisko: Miroslav Ševčík,
+nar: 1.6.1970,
+bydlisko: Žilinská Lehota 102, 010 01 Žilina, Slovenská Republika,
+ICO: 26889846,
+umiestnenie organizačnej zložky podniku: 76312, Bratřejov 118
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2003-05-10" dvy="2016-02-10">
+   <are:Nazev>Vedoucí organizační složky</are:Nazev>
+   <are:Clen dza="2003-05-10" dvy="2015-11-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3979709</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Bratřejov</are:obec>
+      <are:cisloTxt>265</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Joch</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-11" dvy="2016-02-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3979709</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76312</are:psc>
+      <are:obec>Bratřejov</are:obec>
+      <are:castObce>Bratřejov</are:castObce>
+      <are:cisloPop>265</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ANTONÍN</are:jmeno>
+     <are:prijmeni>JOCH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2003-05-10" dvy="2016-02-10">
+   <are:Nazev>Zřizovatel - zahraniční osoba</are:Nazev>
+   <are:Clen dza="2003-05-10" dvy="2016-02-10">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>703</are:stat>
+      <are:text>Žilinská Lehota 102</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>Miroslav Ševčík, r.č.700601/8426</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

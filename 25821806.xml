@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T21:46:21"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>21:46:21</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25821806</are:ICO>
+   <are:ObchodniFirma>RAMON a VIOLA, s.r.o. &quot;v likvidaci&quot;</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>16137892</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Olomouc</are:okres>
+    <are:obec>Hněvotín</are:obec>
+    <are:cisloTxt>224</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-09-25</are:DatumZapisu>
+   <are:DatumVymazu>2011-07-17</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+úklidové práce
+     </are:Text>
+     <are:Text>
+zemní práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-09-25" dvy="2011-07-17">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1998-09-25" dvy="2011-07-17">
+    <are:Text>
+Způsob jednání za společnost:
+Jednatelé jednají za společnost vždy oba současně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Nový Jičín</are:okres>
+      <are:obec>Studénka</are:obec>
+      <are:ulice>část Nová Horka</are:ulice>
+      <are:cisloTxt>49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Tománek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23313005</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Rooseveltova</are:ulice>
+      <are:cisloTxt>34</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Taňa</are:jmeno>
+     <are:prijmeni>Omelčuková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2010-11-09" dvy="2011-07-17">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2010-11-09" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20421222</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73801</are:psc>
+      <are:obec>Frýdek - Místek</are:obec>
+      <are:ulice>Řeznická</are:ulice>
+      <are:cisloPop>33</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Klus</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+     <are:titulZa>CSc.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1998-09-25" dvy="2011-07-17">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Nižnije Vorota</are:obec>
+      <are:ulice>ul. Nábřežní</are:ulice>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Taňa</are:jmeno>
+     <are:prijmeni>Omelčuková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Nižnije Vorota</are:obec>
+      <are:ulice>ul. Nábřežní</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasil</are:jmeno>
+     <are:prijmeni>Kurach</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Zdolbunov</are:obec>
+      <are:ulice>ul. Ševčenko</are:ulice>
+      <are:cisloTxt>202/113</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Světlana</are:jmeno>
+     <are:prijmeni>Mulárová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lažov</are:obec>
+      <are:ulice>ul. Karpatská</are:ulice>
+      <are:cisloTxt>50</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lagdan</are:jmeno>
+     <are:prijmeni>Petra</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Kišino</are:obec>
+      <are:ulice>Sučejevica</are:ulice>
+      <are:cisloTxt>41</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oxana</are:jmeno>
+     <are:prijmeni>Klymko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Černici</are:obec>
+      <are:ulice>Ruská</are:ulice>
+      <are:cisloTxt>101</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Čujeva</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Černici</are:obec>
+      <are:ulice>Ruská</are:ulice>
+      <are:cisloTxt>101</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Cherpak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Černici</are:obec>
+      <are:ulice>Lusenko</are:ulice>
+      <are:cisloTxt>14/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Inga</are:jmeno>
+     <are:prijmeni>Kostyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:obec>Nisporeni Soltanesti</are:obec>
+     </are:adresa>
+     <are:jmeno>Ion</are:jmeno>
+     <are:prijmeni>Nicolaev</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Silo - Morozov</are:obec>
+     </are:adresa>
+     <are:jmeno>Vyacněslav</are:jmeno>
+     <are:prijmeni>Gumenyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Počájev - Pleťanka</are:obec>
+      <are:cisloTxt>45</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Bystryckyj</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Ustečko</are:obec>
+     </are:adresa>
+     <are:jmeno>Rostislav</are:jmeno>
+     <are:prijmeni>Formahoy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Frankivská oblast</are:obec>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Pavlišak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Velikoberezný Tužica</are:obec>
+      <are:cisloTxt>194</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olha</are:jmeno>
+     <are:prijmeni>Leshanych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Stebnek</are:obec>
+      <are:ulice>ul. Melnyka</are:ulice>
+      <are:cisloTxt>12/83</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oksana</are:jmeno>
+     <are:prijmeni>Savčin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lvov</are:obec>
+      <are:ulice>Novopovitrama</are:ulice>
+      <are:cisloTxt>76/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Hoško</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Berezny</are:obec>
+      <are:ulice>ul. Korolová</are:ulice>
+      <are:cisloTxt>3/19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Irena</are:jmeno>
+     <are:prijmeni>Orlova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lvov</are:obec>
+      <are:ulice>Vladimíra Velikého</are:ulice>
+      <are:cisloTxt>46</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Fatina</are:jmeno>
+     <are:prijmeni>Kurpiak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Truskavec</are:obec>
+      <are:ulice>Sagajdačnoho</are:ulice>
+      <are:cisloTxt>KN 38</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stepaniya</are:jmeno>
+     <are:prijmeni>Iltsiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-09-25" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:obec>Lvov</are:obec>
+      <are:ulice>Puljuja</are:ulice>
+      <are:cisloTxt>6/115</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Irina</are:jmeno>
+     <are:prijmeni>Šhahalo</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-01-22" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Nový Jičín</are:okres>
+      <are:obec>Studénka</are:obec>
+      <are:castObce>část Nová Horka 49</are:castObce>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Tománek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-01-22" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>112</are:stat>
+      <are:text>Minsk, Sucharevskaja 34/307</are:text>
+     </are:adresa>
+     <are:prijmeni>Valery Tsyhanchykau</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-01-22" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Stebnyk, Melnyka 1079</are:text>
+     </are:adresa>
+     <are:prijmeni>Oksana Dzhus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-01-22" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>112</are:stat>
+      <are:text>Soligors, Lenina 36/335</are:text>
+     </are:adresa>
+     <are:prijmeni>Pokach Viatcheslav</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-01-22" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>112</are:stat>
+      <are:text>Šaragi</are:text>
+     </are:adresa>
+     <are:prijmeni>Leanid Tsisko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-01-22" dvy="2011-07-17">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>112</are:stat>
+      <are:text>Krulešyna, Janky Kupála 23</are:text>
+     </are:adresa>
+     <are:prijmeni>Aliksandr Rusak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

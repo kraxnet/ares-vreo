@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-07-06T11:51:02"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-07-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-07-06</are:Datum_vypisu>
+   <are:Cas_vypisu>11:51:03</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>63667398</are:ICO>
+   <are:ObchodniFirma>ART-IMPULS s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22693301</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>19800</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Černý Most</are:castObce>
+    <are:mop>Praha 9</are:mop>
+    <are:ulice>Kpt. Stránského</are:ulice>
+    <are:cisloPop>988</are:cisloPop>
+    <are:cisloOr>20</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-05-18</are:DatumZapisu>
+   <are:DatumVymazu>2018-07-02</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se společnost ART-IMPULS s.r.o. v likvidaci, se sídlem Kpt. Stránského 988/20, Černý Most, 198 00 Praha 9, IČ: 636 67 398 z obchodního rejstříku. Právní důvod výmazu: ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+vydavatelská činnost
+     </are:Text>
+     <are:Text>
+reklamní činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-05-18" dvy="2018-07-02">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-05-18" dvy="2018-07-02">
+    <are:Text>
+Jednatel zastupuje společnost v plném rozsahu, včetně
+samostatného podpisového práva s tím, že podepisování za
+společnost se děje tak, že k vytištěnému nebo napsanému názvu
+společnosti připojí jednatel svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-05-18" dvy="1998-03-30">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22104968</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Pod Děvínem</are:ulice>
+      <are:cisloTxt>2712/35</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Chyška</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-03-30" dvy="2018-07-02">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22693301</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Kpt.Stránského</are:ulice>
+      <are:cisloTxt>988</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Vasiliev</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-11-15" dvy="2018-07-02">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-11-15" dvy="2016-12-22">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21713481</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Opletalova</are:ulice>
+      <are:cisloPop>1683</are:cisloPop>
+      <are:cisloOr>41</are:cisloOr>
+     </are:adresa>
+     <are:ICO>29059054</are:ICO>
+     <are:ObchodniFirma>Hlista &amp; Pril, v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-22" dvy="2018-04-19">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21712409</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Opletalova</are:ulice>
+      <are:cisloPop>1525</are:cisloPop>
+      <are:cisloOr>39</are:cisloOr>
+     </are:adresa>
+     <are:ICO>29059054</are:ICO>
+     <are:ObchodniFirma>Hlista &amp; Pril, v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-19" dvy="2018-07-02">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21711810</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Opletalova</are:ulice>
+      <are:cisloPop>1417</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:ICO>29059054</are:ICO>
+     <are:ObchodniFirma>Hlista &amp; Pril, v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-05-18" dvy="2018-07-02">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1998-03-30" dvy="2018-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22693301</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Kpt.Stránského</are:ulice>
+      <are:cisloTxt>988</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Vasiliev</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-03-30" dvy="2018-07-02">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22693301</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Kpt. Stránského</are:ulice>
+      <are:cisloTxt>988</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lada</are:jmeno>
+     <are:prijmeni>Odincova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

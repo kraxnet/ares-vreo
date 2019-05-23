@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-06-25T17:43:22"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-06-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-06-25</are:Datum_vypisu>
+   <are:Cas_vypisu>17:43:23</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26201615</are:ICO>
+   <are:ObchodniFirma>ARAKS s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Braník</are:castObce>
+    <are:ulice>U Staré Pošty</are:ulice>
+    <are:cisloTxt>172/7</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2000-09-25</are:DatumZapisu>
+   <are:DatumVymazu>2018-06-20</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost  ARAKS s.r.o. v likvidaci se sídlem U Staré Pošty 172/7, 140 00 Praha 4, IČO 26201615  se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze ,oddíl C,vložka 275678.Právním důvodem výmazu
+ je ukončení likvidace společnosti-výmaz právnické osoby z veřejného rejstříku ve smyslu ustanovení § 82 zákona č.304/2013 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2000-09-25" dvy="2018-06-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2000-09-25" dvy="2018-06-20">
+    <are:Text>
+Jednatel je oprávněn jednat jménem společnosti samostatně.
+Jednatel podepisuje tak, že k nadepsanému nebo vytištěnému
+obchodnímu jménu společnosti připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2000-09-25" dvy="2016-05-09">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Lysolaje</are:castObce>
+      <are:ulice>ul. Čábelecká</are:ulice>
+      <are:cisloTxt>51</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Veniamine</are:jmeno>
+     <are:prijmeni>Ouborski</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-09" dvy="2018-06-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:castObce>Lysolaje</are:castObce>
+      <are:ulice>ul. Čábelecká</are:ulice>
+      <are:cisloTxt>51</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>VENIAMINE</are:jmeno>
+     <are:prijmeni>OUBORSKI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-01-19" dvy="2018-06-20">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-01-19" dvy="2018-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3195678</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>70200</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Moravská Ostrava</are:castObce>
+      <are:ulice>Na Hradbách</are:ulice>
+      <are:cisloPop>2632</are:cisloPop>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TOMÁŠ</are:jmeno>
+     <are:prijmeni>POLÁČEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2000-09-25" dvy="2018-06-20">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-05-09" dvy="2018-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>51</are:stat>
+      <are:obec>Abovjan</are:obec>
+      <are:ulice>Anrapetutjan 6/28</are:ulice>
+     </are:adresa>
+     <are:jmeno>HAYRAPETYAN</are:jmeno>
+     <are:prijmeni>SEROB</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-09" dvy="2018-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>51</are:stat>
+      <are:obec>Abovjan</are:obec>
+      <are:ulice>Anrapetutjan 6/28</are:ulice>
+     </are:adresa>
+     <are:jmeno>HAYRAPETYAN</are:jmeno>
+     <are:prijmeni>ASKANAZ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-09" dvy="2018-06-20">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>51</are:stat>
+      <are:obec>Abovjan</are:obec>
+      <are:ulice>Internacionála 10/21</are:ulice>
+     </are:adresa>
+     <are:jmeno>TOVMASYAN</are:jmeno>
+     <are:prijmeni>TAMARA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

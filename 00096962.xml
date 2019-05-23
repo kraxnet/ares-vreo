@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T17:49:46"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>17:49:46</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00096962</are:ICO>
+   <are:ObchodniFirma>Potraviny Havlíčkův Brod,státní podnik</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Havlíčkův Brod</are:okres>
+    <are:obec>Havlíčkův Brod</are:obec>
+    <are:ulice>Jahodova</are:ulice>
+    <are:cisloTxt>2248</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-06-29</are:DatumZapisu>
+   <are:DatumVymazu>1995-10-25</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Základním předmětem činnosti státního podniku je uspokojování
+potřeb občanů a organizací na vnitřním trhu prodejem zboží a
+poskytováním souvisejících služeb.
+Za tím účelem státní podnik provádí zejména:
+a/ maloobchodní a velkoobchodní činnost v sortimentu
+potravinářského a nepotravinářského zboží b/ výrobu
+lahůdkářského, cukrářského a pekařského zboží, mléčných a masných
+výrobků, polotovarů c/ obchodní služby, včetně servisních a
+stravovacích d/ výkup zemědělské produkce
+     </are:Text>
+     <are:Text>
+V souladu s obecně závaznými předpisy může státní podnik
+stanovený předmět činnosti překročit.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-06-29" dvy="1995-10-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1990-07-01" dvy="1995-10-25">
+    <are:Text>
+Zastupování a podepisování:
+Státní podnik zastupuje navenek Ing. Josef Vlk, pověřený
+ředitel státního podniku nebo jeho zástupce. K vytištěnému
+názvu státního podniku připojí svůj podpis Ing. Josef Vlk,
+pověřený ředitel státního podniku, nebo jeho zástupce.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-06-29" dvy="1992-10-02">
+    <are:funkce>
+     <are:nazev>zást.pov.řed.stát.podniku</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Havlíčkův Brod</are:obec>
+      <are:ulice>V rámech</are:ulice>
+      <are:cisloTxt>3O87</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Koudelka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-06-29" dvy="1995-10-25">
+    <are:funkce>
+     <are:nazev>pověř.ředitel stát.podniku</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Havlíčkův Brod</are:obec>
+      <are:ulice>Na Poříčí</are:ulice>
+      <are:cisloTxt>517/6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Vlk</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-10-02" dvy="1994-11-01">
+    <are:funkce>
+     <are:nazev>zást.ředitele-ved.obchod.úseku</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Lipnice n. Sázavou čp. 298</are:obec>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Moravec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

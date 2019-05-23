@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T19:12:50"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>19:12:50</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>40233413</are:ICO>
+   <are:ObchodniFirma>L A K T O, spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Buškovice</are:obec>
+    <are:ulice>okr. Louny</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-12-30</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zemědělství v rozsahu § 3 odst.2e) zák.455/91 Sb.
+     </are:Text>
+     <are:Text>
+chov kožešinových zvířat v rozsahu § 3 odst.3 zák.455/91 Sb.
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-12-30">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-12-30">
+    <are:Text>
+Za společnost je oprávněn jednat jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-12-30" dvy="2015-09-23">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Buškovice čp. 124</are:obec>
+      <are:ulice>okr. Louny</are:ulice>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Drábek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-09-23">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>1991-12-30</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9113738</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>44101</are:psc>
+      <are:obec>Podbořany</are:obec>
+      <are:castObce>Buškovice</are:castObce>
+      <are:cisloPop>124</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>STANISLAV</are:jmeno>
+     <are:prijmeni>DRÁBEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-12-05">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-09-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9113738</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>44101</are:psc>
+      <are:obec>Podbořany</are:obec>
+      <are:castObce>Buškovice</are:castObce>
+      <are:cisloPop>124</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>STANISLAV</are:jmeno>
+     <are:prijmeni>DRÁBEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-09-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3840123</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>35301</are:psc>
+      <are:obec>Velká Hleďsebe</are:obec>
+      <are:castObce>Klimentov</are:castObce>
+      <are:cisloPop>136</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>DRÁBKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-09-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>9278117</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>43801</are:psc>
+      <are:obec>Žatec</are:obec>
+      <are:castObce>Žatec</are:castObce>
+      <are:ulice>Husova</are:ulice>
+      <are:cisloPop>2426</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>PETR</are:jmeno>
+     <are:prijmeni>HERBLICH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

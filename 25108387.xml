@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-05-28T13:16:07"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-05-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-05-28</are:Datum_vypisu>
+   <are:Cas_vypisu>13:16:07</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25108387</are:ICO>
+   <are:ObchodniFirma>TUNCAR s.r.o., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22689419</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Krč</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Na strži</are:ulice>
+    <are:cisloPop>1837</are:cisloPop>
+    <are:cisloOr>9</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1997-02-24</are:DatumZapisu>
+   <are:DatumVymazu>2018-05-19</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost TUNCAR s.r.o., v likvidaci se sídlem Na strži 1837/9, Krč, 140 00 Praha 4, IČ 25108387 se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze, oddíl C vložka 50290. Právním důvodem výmazu
+ je ukončení likvidace společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1997-02-24" dvy="2018-05-19">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1997-02-24" dvy="2005-02-24">
+    <are:Text>
+Způsob jednání za společnost: Statutárním orgánem společnosti je
+jeden nebo více jednatelů, kteří jsou oprávěni za společnost
+jednat a podepisovat bez omezení a každý samostatně. Jednatelé
+se za společnost podepisují tak, že k vypsanému nebo vytištěnému
+jménu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2005-02-24" dvy="2018-05-19">
+    <are:Text>
+Jménem společnosti jedná jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1997-02-24" dvy="1999-11-09">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22496955</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Letovská</are:ulice>
+      <are:cisloTxt>554</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Kratochvíl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-02-24" dvy="1999-11-09">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21745030</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 2</are:okres>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Varšavská</are:ulice>
+      <are:cisloTxt>31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oldřich</are:jmeno>
+     <are:prijmeni>Vaníček</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-11-09" dvy="2003-03-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2003-01-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21723761</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 1</are:okres>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Dlouhá</are:ulice>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Malina</are:prijmeni>
+     <are:titulPred>PhDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-03-03" dvy="2004-05-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2003-02-01</are:vznikFunkce>
+     <are:zanikFunkce>2004-03-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22622055</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 10</are:okres>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Sečská</are:ulice>
+      <are:cisloTxt>1877/15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Střítežský</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-03" dvy="2005-02-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2004-12-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21939951</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Modřany</are:castObce>
+      <are:ulice>Vokrojova</are:ulice>
+      <are:cisloTxt>3341/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Přibyl</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-05-03" dvy="2005-02-24">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-03-15</are:vznikFunkce>
+     <are:zanikFunkce>2004-12-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25011758</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15200</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Hlubočepy</are:castObce>
+      <are:ulice>Pivcova</are:ulice>
+      <are:cisloTxt>945/4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Milan</are:jmeno>
+     <are:prijmeni>Řepka</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-02-24" dvy="2009-10-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-12-15</are:vznikFunkce>
+     <are:zanikFunkce>2009-07-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22020888</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Píseckého</are:ulice>
+      <are:cisloTxt>326/13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Babor</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-12-17" dvy="2015-08-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-11-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23486864</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>47006</are:psc>
+      <are:obec>Česká Lípa</are:obec>
+      <are:ulice>Jáchymovská</are:ulice>
+      <are:cisloTxt>2922</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Rudolf</are:jmeno>
+     <are:prijmeni>Kozák</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-08-26" dvy="2018-05-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2009-11-26</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23486864</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>47001</are:psc>
+      <are:okres>Česká Lípa</are:okres>
+      <are:obec>Česká Lípa</are:obec>
+      <are:castObce>Česká Lípa</are:castObce>
+      <are:ulice>Jáchymovská</are:ulice>
+      <are:cisloPop>2922</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RUDOLF</are:jmeno>
+     <are:prijmeni>KOZÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-08-29" dvy="2018-05-19">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-08-29" dvy="2018-05-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2568357</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29474</are:psc>
+      <are:okres>Mladá Boleslav</are:okres>
+      <are:obec>Skorkov</are:obec>
+      <are:castObce>Otradovice</are:castObce>
+      <are:cisloPop>37</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RADOMÍR</are:jmeno>
+     <are:prijmeni>VÁLEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1997-02-24" dvy="2018-05-19">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-08-26" dvy="2018-05-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23486864</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>47001</are:psc>
+      <are:okres>Česká Lípa</are:okres>
+      <are:obec>Česká Lípa</are:obec>
+      <are:castObce>Česká Lípa</are:castObce>
+      <are:ulice>Jáchymovská</are:ulice>
+      <are:cisloPop>2922</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>RUDOLF</are:jmeno>
+     <are:prijmeni>KOZÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

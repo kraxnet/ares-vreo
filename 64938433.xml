@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-30T12:40:05"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-30</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-30</are:Datum_vypisu>
+   <are:Cas_vypisu>12:40:05</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>64938433</are:ICO>
+   <are:ObchodniFirma>PRATE, s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22289356</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>16000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Vokovice</are:castObce>
+    <are:mop>Praha 6</are:mop>
+    <are:ulice>K lánu</are:ulice>
+    <are:cisloPop>500</are:cisloPop>
+    <are:cisloOr>1</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-12-11</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1995-12-11">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1995-12-11">
+    <are:Text>
+Jednání za společnost a zastupování:
+ 
+Společnost zastupuje a jedná jejím jménem jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1995-12-11" dvy="2016-10-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22289356</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>K lánu</are:ulice>
+      <are:cisloTxt>500</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Embarek</are:jmeno>
+     <are:prijmeni>Arafa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-25" dvy="2018-12-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22106073</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Smíchov</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Pod Hybšmankou</are:ulice>
+      <are:cisloPop>2817</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EMBAREK</are:jmeno>
+     <are:prijmeni>ARAFA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-12-19">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21841454</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Bachova</are:ulice>
+      <are:cisloPop>1591</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EMBAREK</are:jmeno>
+     <are:prijmeni>ARAFA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1995-12-11">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3230970</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>71800</are:psc>
+      <are:okres>Ostrava-město</are:okres>
+      <are:obec>Ostrava</are:obec>
+      <are:castObce>Kunčičky</are:castObce>
+      <are:ulice>Škrobálkova</are:ulice>
+      <are:cisloPop>419</are:cisloPop>
+      <are:cisloOr>17</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MOHAMED</are:jmeno>
+     <are:prijmeni>HADEF</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>12</are:stat>
+      <are:obec>Dtelfa</are:obec>
+      <are:ulice>Jullet BT 20A, No 1466</are:ulice>
+     </are:adresa>
+     <are:jmeno>SELIM</are:jmeno>
+     <are:prijmeni>ARAFA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>12</are:stat>
+      <are:obec>Boufarik</are:obec>
+      <are:ulice>23 Rue Menad Mohamed</are:ulice>
+     </are:adresa>
+     <are:jmeno>ABDELREZEK</are:jmeno>
+     <are:prijmeni>ARAFA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>818</are:stat>
+      <are:obec>6 Jade Al-Musafrin Alazbeke Kaero</are:obec>
+     </are:adresa>
+     <are:jmeno>GAMAL MOHAMED</are:jmeno>
+     <are:prijmeni>AHMED HASSAN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>12</are:stat>
+      <are:ulice>21 Rue Mokhatri Ali Boufarik</are:ulice>
+     </are:adresa>
+     <are:jmeno>LAMINE</are:jmeno>
+     <are:prijmeni>GUENDOUZ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22728325</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Libuš</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Zbudovská</are:ulice>
+      <are:cisloPop>762</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>OMAR</are:jmeno>
+     <are:prijmeni>DJEBBAB</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-12-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21841454</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Bachova</are:ulice>
+      <are:cisloPop>1591</are:cisloPop>
+      <are:cisloOr>6</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EMBAREK</are:jmeno>
+     <are:prijmeni>ARAFA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

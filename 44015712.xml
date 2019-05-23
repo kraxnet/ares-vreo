@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T20:26:09"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>20:26:09</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>44015712</are:ICO>
+   <are:ObchodniFirma>JG Assets, a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>19473630</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>61200</are:psc>
+    <are:okres>Brno-město</are:okres>
+    <are:obec>Brno</are:obec>
+    <are:castObce>Medlánky</are:castObce>
+    <are:ulice>Palackého třída</are:ulice>
+    <are:cisloPop>318</are:cisloPop>
+    <are:cisloOr>159</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-11-20</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa vlastního majetku
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-11-20" dvy="2014-09-09">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="1991-11-20" dvy="2007-08-29">
+    <are:Text>
+Podepisování: K natištěnému nebo napsanému názvu společnosti
+připojí svůj podpis:
+a/ všichni členové představenstva, resp. jeden nebo několik
+   členů představenstva v případě, že k tomu byli písemně zmoně-
+   ni představenstvem
+b/ výkonný ředitel a.s.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2007-08-29" dvy="2014-09-09">
+    <are:Text>
+Způsob jednání:
+Za představenstvo jedná navenek jménem společnosti samostatně každý člen představenstva. Činí tak způsobem, že k názvu společnosti či otisku razítka společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-11-20" dvy="1991-11-20">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Bystřice n.O. 607</are:obec>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Gawel</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-11-20" dvy="2001-12-05">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12532673</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Třinec</are:obec>
+      <are:ulice>Sosnová</are:ulice>
+      <are:cisloTxt>368</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Gawel</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-11-20" dvy="2001-12-05">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12570711</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Třinec</are:obec>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloTxt>676</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaromír</are:jmeno>
+     <are:prijmeni>Mareš</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-11-20" dvy="2001-12-05">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Bystřice n.O.</are:obec>
+      <are:cisloTxt>607</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Gawel</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-09-09" dvy="2001-12-05">
+    <are:funkce>
+     <are:nazev>likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12532673</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Třinec</are:obec>
+      <are:ulice>Sosnová</are:ulice>
+      <are:cisloTxt>368</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Gawel</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-05" dvy="2007-08-29">
+    <are:clenstvi>
+     <are:zanikClenstvi>2007-06-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:zanikFunkce>2007-06-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19722290</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Slovanské nám.</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Gawel</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-05" dvy="2007-08-29">
+    <are:clenstvi>
+     <are:zanikClenstvi>2007-06-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:zanikFunkce>2007-06-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5766362</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Karviná</are:okres>
+      <are:obec>Český Těšín</are:obec>
+      <are:ulice>Hrabinská</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaromír</are:jmeno>
+     <are:prijmeni>Mareš</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-05" dvy="2007-08-29">
+    <are:clenstvi>
+     <are:zanikClenstvi>2007-06-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Bystřice nad Olší</are:obec>
+      <are:cisloTxt>607</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lubomír</are:jmeno>
+     <are:prijmeni>Gawel</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-08-29" dvy="2013-04-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-06-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-03-28</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12538515</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:obec>Třinec</are:obec>
+      <are:ulice>Konská</are:ulice>
+      <are:cisloTxt>335</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Gawel</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-04-18" dvy="2014-09-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-03-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-10-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12538515</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:obec>Třinec</are:obec>
+      <are:castObce>Konská</are:castObce>
+      <are:cisloPop>335</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>GAWEL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2014-09-09">
+   <are:Nazev>Statutární ředitel</are:Nazev>
+   <are:ZpusobJednani dza="2014-09-09">
+    <are:Text>
+Společnost zastupuje statutární ředitel. Za společnost podepisuje statutární ředitel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2014-09-09" dvy="2016-09-23">
+    <are:funkce>
+     <are:vznikFunkce>2014-10-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12538515</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:obec>Třinec</are:obec>
+      <are:castObce>Konská</are:castObce>
+      <are:cisloPop>335</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>GAWEL</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-23">
+    <are:funkce>
+     <are:vznikFunkce>2014-10-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12538515</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Třinec</are:obec>
+      <are:castObce>Konská</are:castObce>
+      <are:cisloPop>335</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>GAWEL</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2007-08-29">
+   <are:Nazev>Jediný akcionář</are:Nazev>
+   <are:Clen dza="2016-09-23">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12538515</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Třinec</are:obec>
+      <are:castObce>Konská</are:castObce>
+      <are:cisloPop>335</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>GAWEL</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2014-09-09">
+   <are:Nazev>Správní rada</are:Nazev>
+   <are:Clen dza="2016-09-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda správní rady</are:nazev>
+     <are:vznikFunkce>2014-10-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12538515</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Třinec</are:obec>
+      <are:castObce>Konská</are:castObce>
+      <are:cisloPop>335</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>GAWEL</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-23">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-10-01</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen správní rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12538515</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Třinec</are:obec>
+      <are:castObce>Konská</are:castObce>
+      <are:cisloPop>335</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ZDEŇKA</are:jmeno>
+     <are:prijmeni>JURZYCOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

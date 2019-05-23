@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-06T17:12:34"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>17:12:34</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>16555376</are:ICO>
+   <are:ObchodniFirma>AXINIT společnost s ručením omezeným, v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>12717282</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25101</are:psc>
+    <are:obec>Říčany</are:obec>
+    <are:ulice>Rýdlova</are:ulice>
+    <are:cisloTxt>38</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-09-03</are:DatumZapisu>
+   <are:DatumVymazu>2018-11-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z obchodního rejstříku včetně všech zapsaných údajů podnikatel AXINIT společnost s ručením omezeným, v likvidaci, Říčany, Rýdlova 38, PSČ 25101, identifikační číslo 165 55 376, vedený pod spisovou značkou C 3887/MSPH u obchodního rejstříku Měs
+tského soudu v Praze. Právním důvodem výmazu je ukončení činnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-09-03" dvy="2018-11-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-09-03" dvy="1992-06-16">
+    <are:Text>
+Zastupování: společnost navenek zastupuje kterýkoli ze
+společníků
+Podepisování: k napsanému nebo vytištěnému názvu společnosti
+připojí svůj podpis kterýkoli společník
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1992-06-16" dvy="2003-10-14">
+    <are:Text>
+Jménem společnosti navenek jedná a podepisuje jednatel
+společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2003-10-14" dvy="2016-09-15">
+    <are:Text>
+Společnost má jednoho jednatele. Jménem společnosti navenek jedná jednatel a to samostatně. Podepisuje se tak, že k napsané nebo vytištěné firmě společnosti připojí jednatel svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-09-15" dvy="2018-11-01">
+    <are:Text>
+Společnost zastupuje jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-09-03" dvy="1992-06-16">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>.</are:text>
+     </are:adresa>
+     <are:prijmeni>.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1992-06-16" dvy="2003-10-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>bytem Komenského 1424, Říčany u Prahy</are:text>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Jelínková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2003-10-14" dvy="2018-11-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1992-06-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>bytem Družstevní 1424, Říčany u Prahy</are:text>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Jelínková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2018-04-01" dvy="2018-11-01">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2018-04-01" dvy="2018-11-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27199550</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Říčany</are:castObce>
+      <are:ulice>Družstevní</are:ulice>
+      <are:cisloPop>1424</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>JELÍNKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-09-03" dvy="2018-11-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2003-10-14" dvy="2018-11-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:text>Lindenstrasse 4, Augsburg</are:text>
+     </are:adresa>
+     <are:jmeno>Bernd</are:jmeno>
+     <are:prijmeni>Langhammer</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-01-08" dvy="2018-11-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Říčany u Prahy, Družstevní 1424</are:text>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Jelínková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

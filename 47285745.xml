@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T23:07:12"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>23:07:12</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>47285745</are:ICO>
+   <are:ObchodniFirma>SPG - Liberec v likvidaci s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22209875</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>16000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Dejvice</are:castObce>
+    <are:mop>Praha 6</are:mop>
+    <are:ulice>Duchoslávka</are:ulice>
+    <are:cisloPop>2056</are:cisloPop>
+    <are:cisloOr>7</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-11-29</are:DatumZapisu>
+   <are:DatumVymazu>2017-11-28</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se ke dni nabytí právní moci rozhodnutí o zápisu výmazu obchodní společnosti  SPG - Liberec v likvidaci s.r.o., Duchoslávka 2056/7, Dejvice, 160 00 Praha 6, identifikační číslo 472 85 745 do obchodního rejstříku. Právní důvod: skončení likvidace
+společnosti.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+-kovoobrábění
+     </are:Text>
+     <are:Text>
+-koupě zboží za účelem jeho dalšího prodeje a prodej (kromě zboží
+ vyhr. v příl. 2 a 3 zák. č. 455/91 Sb. o živnostenském podnikání
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-11-29" dvy="2017-11-28">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-11-29" dvy="1995-08-18">
+    <are:Text>
+za společnost jedná jednatel nebo prokurista společnosti.
+Podepisování za společnost se děje tak, že k obchodnímu jménu
+společnosti připojí svůj podpis jednatel nebo prokurista s do-
+datkem označujícím prokuru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-08-18" dvy="2017-11-28">
+    <are:Text>
+Likvidátor Bude podepisovat za společnost tak, že ke znění
+jejího likvidačního obchodního jména připojí svůj vlastno-
+ruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-11-29" dvy="2014-05-07">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22209875</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Duchoslávka</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Ludwigová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-08-18" dvy="2016-09-23">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21701601</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Spálená</are:ulice>
+      <are:cisloTxt>25/95</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Irena</are:jmeno>
+     <are:prijmeni>Benešová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-05-07" dvy="2016-10-13">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25452312</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vokovice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Nepálská</are:ulice>
+      <are:cisloPop>801</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>LUDWIGOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-09-23" dvy="2016-10-13">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21726981</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Staré Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Divadelní</are:ulice>
+      <are:cisloPop>1052</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IRENA</are:jmeno>
+     <are:prijmeni>BENEŠOVÁ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-13" dvy="2017-11-28">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25452312</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vokovice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Nepálská</are:ulice>
+      <are:cisloPop>801</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>LUDWIGOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-10-13" dvy="2017-11-28">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-10-13" dvy="2017-11-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21726981</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Staré Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Divadelní</are:ulice>
+      <are:cisloPop>1052</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>IRENA</are:jmeno>
+     <are:prijmeni>BENEŠOVÁ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-11-29" dvy="2017-11-28">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2016-10-13" dvy="2017-11-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23706040</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46001</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec XIII-Nové Pavlovice</are:castObce>
+      <are:ulice>Květnové revoluce</are:ulice>
+      <are:cisloPop>198</are:cisloPop>
+      <are:cisloOr>35</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JAN</are:jmeno>
+     <are:prijmeni>NEDVĚD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-13" dvy="2017-11-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>D6054</are:psc>
+      <are:obec>Rodgau</are:obec>
+      <are:ulice>Frankfurterstr. 90</are:ulice>
+     </are:adresa>
+     <are:jmeno>HANS BERNHARD</are:jmeno>
+     <are:prijmeni>LUDWIG</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-13" dvy="2017-11-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>D-8752</are:psc>
+      <are:obec>Kleinostheim</are:obec>
+      <are:ulice>Bahnhofstr. 44</are:ulice>
+     </are:adresa>
+     <are:jmeno>ARMIN</are:jmeno>
+     <are:prijmeni>FEESS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-10-13" dvy="2017-11-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25452312</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vokovice</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Nepálská</are:ulice>
+      <are:cisloPop>801</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JANA</are:jmeno>
+     <are:prijmeni>LUDWIGOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>23:07:13</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>47285745</are:ICO>
+   <are:ObchodniFirma>SPG - Liberec s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22209875</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 6</are:obec>
+    <are:ulice>Duchoslávka</are:ulice>
+    <are:cisloTxt>7</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-10-09</are:DatumZapisu>
+   <are:DatumVymazu>1995-06-05</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+- kovoobrábění
+- koupě zboží za účelem jeho dalšího prodeje a prodej (kromě
+zboží vyhr. v příl. 2 a 3 zák.č.455/91 Sb. o živnostenském
+podnikání)
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-10-09" dvy="1995-06-05">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="1992-10-09" dvy="1993-07-28">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23774924</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Liberec</are:obec>
+      <are:ulice>Dr. Milady Horákové</are:ulice>
+      <are:cisloTxt>160/3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Nedvěd</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-07-28" dvy="1995-06-05">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22209875</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Duchoslávka</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jana</are:jmeno>
+     <are:prijmeni>Ludwigová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

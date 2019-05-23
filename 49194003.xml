@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-05-28T13:07:04"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-05-27</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-05-28</are:Datum_vypisu>
+   <are:Cas_vypisu>13:07:04</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>49194003</are:ICO>
+   <are:ObchodniFirma>PAPY s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>20901020</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>35002</are:psc>
+    <are:obec>Cheb</are:obec>
+    <are:ulice>Evropská</are:ulice>
+    <are:cisloTxt>957/42</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-07-28</are:DatumZapisu>
+   <are:DatumVymazu>2018-05-22</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se obchodní společnost PAPY s.r.o., se sídlem Cheb, Evropská 957/42, PSČ 35002, identifikační číslo 491 94 003, z obchodního rejstříku. Výmaz se provádí na návrh Finančního úřadu pro Karlovarský kraj v návaznosti na usnesení Krajského soudu v Plz
+ni ze dne 20.8.2010, č.j. KSPL 20 INS 1035/2009-B-34, kterým byl zrušen konkurs na majetek dlužníka po splnění rozvrhového usnesení.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-07-28" dvy="2018-05-22">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-07-28" dvy="2003-10-11">
+    <are:Text>
+Způsob jednání:
+a/ zastupování - společnost zastupuje ve všech věcech jednatel samostatně
+b/ podepisování - podepisování se provádí tak, že k vytištěnému nebo napsanému obchodnímu jménu společnosti s uvedením jejího sídla připojí svůj vlastnoruční podpis jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2003-10-11" dvy="2018-05-22">
+    <are:Text>
+Způsob jednání:
+a/ zastupování - společnost zastupuje ve všech věcech jednatel samostatně
+b/ podepisování - podepisování se provádí tak, že k vytištěné nebo napsané obchodní firmě společnosti připojí svůj podpis jednatel společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-07-28" dvy="2018-05-22">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1993-07-28</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20914539</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Malé náměstí</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Slanař</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-07-28" dvy="2018-05-22">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2003-10-11" dvy="2018-05-22">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20914539</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Cheb</are:obec>
+      <are:ulice>Malé náměstí</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Slanař</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

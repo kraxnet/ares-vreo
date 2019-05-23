@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-06T15:49:55"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-06</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-06</are:Datum_vypisu>
+   <are:Cas_vypisu>15:49:55</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27128091</are:ICO>
+   <are:ObchodniFirma>Logitech Czech Republic, s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>27382800</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:obec>Praha 4</are:obec>
+    <are:castObce>Nusle</are:castObce>
+    <are:ulice>Hvězdova</are:ulice>
+    <are:cisloPop>1716</are:cisloPop>
+    <are:cisloOr>2b</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2004-02-25</are:DatumZapisu>
+   <are:DatumVymazu>2014-03-25</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+reklamní činnost a marketing
+     </are:Text>
+     <are:Text>
+zprostředkování obchodu a služeb
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-02-25" dvy="2014-03-25">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2004-02-25" dvy="2005-04-06">
+    <are:Text>
+Jménem společnosti vůči třetím osobám jedná jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2005-04-06" dvy="2012-09-05">
+    <are:Text>
+Jménem společnosti vůči třetím osobám jednají dva jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2012-09-05" dvy="2014-03-25">
+    <are:Text>
+Jménem společnosti vůči třetím osobám jedná každý jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2004-02-25" dvy="2004-08-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-02-25</are:vznikFunkce>
+     <are:zanikFunkce>2004-07-20</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22187669</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16000</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Pod kaštany</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Svoboda</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2004-08-25" dvy="2005-04-06">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-07-20</are:vznikFunkce>
+     <are:zanikFunkce>2004-11-22</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21765049</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>13000</are:psc>
+      <are:obec>Praha 3</are:obec>
+      <are:ulice>Šrobárova</are:ulice>
+      <are:cisloTxt>2177/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Sixta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-04-06" dvy="2005-10-17">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-11-22</are:vznikFunkce>
+     <are:zanikFunkce>2005-09-15</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Ch. De la Caboletaz 19, 1066 Epalinges</are:text>
+     </are:adresa>
+     <are:prijmeni>Brigitte Serres</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-04-06" dvy="2007-03-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-11-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:text>Rohrergasse 32, A-1130 Vídeň</are:text>
+     </are:adresa>
+     <are:prijmeni>Katharina Tarmann-Droesher</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-10-17" dvy="2008-02-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-11-22</are:vznikFunkce>
+     <are:zanikFunkce>2007-12-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Bursins, En Chenaud 1183</are:text>
+     </are:adresa>
+     <are:prijmeni>Stephen Alfons Daverio</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-10-17" dvy="2008-02-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-09-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Coppet, Ch. des Bochattets</are:text>
+     </are:adresa>
+     <are:prijmeni>Francois Christian Stettler</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-10-17" dvy="2011-03-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-11-22</are:vznikFunkce>
+     <are:zanikFunkce>2011-02-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Blonay, Chemim des Cuarroz 35, 1807</are:text>
+     </are:adresa>
+     <are:prijmeni>Jean-Marc Zimmerli</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-03-20" dvy="2008-02-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-11-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:text>Rohrergasse 32, A-1130 Vídeň</are:text>
+     </are:adresa>
+     <are:prijmeni>Katharina  Andrea Tarmann-Dröscher</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-03-20" dvy="2011-03-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-01-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Lausanne, Avenue Eglantines 10, CH - 1006</are:text>
+     </are:adresa>
+     <are:jmeno>Andrée Bazile</are:jmeno>
+     <are:prijmeni>Suzan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-02-29" dvy="2011-03-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2004-11-22</are:vznikFunkce>
+     <are:zanikFunkce>2011-02-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>40</are:stat>
+      <are:text>Vídeň, Lechthalergasse 19, PSČ 1230</are:text>
+     </are:adresa>
+     <are:prijmeni>Katharina  Andrea Tarmann-Dröscher</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-02-29" dvy="2014-03-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-09-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Tannay, 9 bis chemin des Sarments, PSČ 1295</are:text>
+     </are:adresa>
+     <are:prijmeni>Francois Christian Stettler</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-20" dvy="2008-03-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Versoix, La Rochefoucauld 10, PSČ 1290</are:text>
+     </are:adresa>
+     <are:prijmeni>Antoine Preising</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-03-20" dvy="2011-11-08">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2011-09-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Versoix, La Rochefoucauld 10, PSČ 1290</are:text>
+     </are:adresa>
+     <are:prijmeni>Antoine Preisig</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-17" dvy="2011-03-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2008-07-28</are:vznikFunkce>
+     <are:zanikFunkce>2011-02-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Geneve, Avenue de Champel 55  1290</are:text>
+     </are:adresa>
+     <are:jmeno>Vedat</are:jmeno>
+     <are:prijmeni>Salfur</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-03-18" dvy="2012-09-05">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2007-01-16</are:vznikFunkce>
+     <are:zanikFunkce>2012-08-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>250</are:stat>
+      <are:text>Divonne-les-Bains, Quartier Vésenex, ch. Pain-Loup 491, 01220</are:text>
+     </are:adresa>
+     <are:jmeno>Andrée Bazile</are:jmeno>
+     <are:prijmeni>Suzan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-03-18" dvy="2014-03-25">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-02-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Villars-sous-Yens, Place du Village, 1168</are:text>
+     </are:adresa>
+     <are:prijmeni>Peter Georg Bühler</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2013-03-05" dvy="2014-03-25">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2013-03-05" dvy="2014-03-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:psc>3380</are:psc>
+      <are:obec>Wangen an der Aare</are:obec>
+      <are:ulice>Sternenstrasse</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Paul Gérard</are:jmeno>
+     <are:prijmeni>Verbruggen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2004-02-25" dvy="2014-03-25">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2007-03-20" dvy="2014-03-25">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>756</are:stat>
+      <are:text>Apples, Les Châtagnis</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>Logitech international S.A.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

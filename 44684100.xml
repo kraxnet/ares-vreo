@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T20:39:52"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>20:39:52</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>44684100</are:ICO>
+   <are:ObchodniFirma>KOHALUX spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>3</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25231</are:psc>
+    <are:obec>Všenory</are:obec>
+    <are:ulice>K.Majera</are:ulice>
+    <are:cisloTxt>222</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1991-12-23</are:DatumZapisu>
+   <are:DatumVymazu>2011-11-12</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+-obchodní činnost
+-úklidové a údržbářské služby
+-správa objektů
+-nákup, prodej, zprospředkování v oblasti nemovitostí
+-zprostředkování, marketing, managering
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1991-12-23" dvy="2011-11-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1991-12-23" dvy="2011-11-12">
+    <are:Text>
+Zastupování a podepisování: jménem společnosti je oprávněn
+jednat a zavazovat se obchodní ředitel a jeho zástupce, a to
+každý samostatně. V případě peněžních operací či závazků,
+které přesáhnou částku 100.000,-Kčs, je třeba souhlasu alespoň
+jednoho německého společníka. Podepisování se děje tak, že k
+vytištěnému nebo napsanému názvu společnosti připojí svůj
+podpis oprávěná osoba.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1991-12-23" dvy="2011-11-12">
+    <are:funkce>
+     <are:nazev>obchodní ředitel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22498354</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloTxt>901/238</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Hrdlička</are:prijmeni>
+     <are:titulPred>PhDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-12-23" dvy="2011-11-12">
+    <are:funkce>
+     <are:nazev>zástupce obchodního ředitele</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25231</are:psc>
+      <are:obec>Všenory</are:obec>
+      <are:ulice>K.Majera</are:ulice>
+      <are:cisloTxt>222</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libuše</are:jmeno>
+     <are:prijmeni>Jiskrová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2011-03-21" dvy="2011-11-12">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2011-03-21" dvy="2011-11-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21707251</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Opletalova</are:ulice>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Dagmar</are:jmeno>
+     <are:prijmeni>Mixová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1991-12-23" dvy="2011-11-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1991-12-23" dvy="2011-11-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>5790 Brilon SRN</are:obec>
+      <are:ulice>Am Bulterkopf 17</are:ulice>
+     </are:adresa>
+     <are:jmeno>Oliver</are:jmeno>
+     <are:prijmeni>Kussin</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-12-23" dvy="2011-11-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>5788 Winterberg, SRN</are:obec>
+      <are:ulice>Am Waltenberg 6</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Claus-Rainer Meyer</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1991-12-23" dvy="2011-11-12">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22498354</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Sokolovská</are:ulice>
+      <are:cisloTxt>901/238</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Hrdlička</are:prijmeni>
+     <are:titulPred>PhDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

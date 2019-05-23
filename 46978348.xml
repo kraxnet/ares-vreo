@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-07-15T12:28:31"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-07-15</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-07-15</are:Datum_vypisu>
+   <are:Cas_vypisu>12:28:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>46978348</are:ICO>
+   <are:ObchodniFirma>DCI DEUTSCH-CESKA-INVEST s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23121092</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>67401</are:psc>
+    <are:obec>Třebíč</are:obec>
+    <are:ulice>Okrajová</are:ulice>
+    <are:cisloTxt>1356</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-11-12</are:DatumZapisu>
+   <are:DatumVymazu>2018-07-10</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+ukončení likvidace
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-11-12" dvy="2018-07-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-11-12" dvy="2018-07-10">
+    <are:Text>
+Způsob zastupování: Jménem společnosti jedná a podepisuje
+jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-11-12" dvy="2005-06-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2005-01-05</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18735975</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třebíč</are:obec>
+      <are:ulice>Bartuškova</are:ulice>
+      <are:cisloTxt>659</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gilbet</are:jmeno>
+     <are:prijmeni>Špaček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2005-06-23" dvy="2018-07-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2005-01-05</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23121092</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>67401</are:psc>
+      <are:obec>Třebíč</are:obec>
+      <are:ulice>Okrajová</are:ulice>
+      <are:cisloTxt>1356</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Božena</are:jmeno>
+     <are:prijmeni>Hartungová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-11-12" dvy="2018-07-10">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2011-03-04" dvy="2018-07-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>6100</are:psc>
+      <are:obec>Darmstadt-Arheilgen</are:obec>
+      <are:ulice>Frankfurter Ladstrasse</are:ulice>
+      <are:cisloPop>225</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Hans Peter</are:jmeno>
+     <are:prijmeni>Hartung</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

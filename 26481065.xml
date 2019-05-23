@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T04:16:49"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>04:16:49</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26481065</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků domů U Kina 1332,1333, 25101 Říčany</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>12730131</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25101</are:psc>
+    <are:okres>Praha-východ</are:okres>
+    <are:obec>Říčany</are:obec>
+    <are:castObce>Říčany</are:castObce>
+    <are:ulice>U Kina</are:ulice>
+    <are:cisloPop>1332</are:cisloPop>
+    <are:cisloOr>2</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumVzniku>2000-07-01</are:DatumVzniku>
+   <are:DatumZapisu>2001-12-20</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+správa domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-12-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-12-20" dvy="2017-01-19">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru.Je-li pro právní úkon zapotřebí písemná
+forma,je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2017-01-19">
+    <are:Text>
+Navenek zastupuje společenství předseda výboru a v jeho nepřítomnosti jiný člen výboru. Písemná právní jednání za společenství podepisuje předseda výboru společně s dalším členem výboru, v době nepřítomnosti předsedy společenství podepisují za společenstv
+í dva členové výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-12-20" dvy="2009-11-24">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2000-10-31</are:vznikFunkce>
+     <are:zanikFunkce>2009-08-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany u Prahy</are:obec>
+      <are:ulice>U kina</are:ulice>
+      <are:cisloTxt>1332</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Fialová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-20" dvy="2009-11-24">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2000-10-31</are:vznikFunkce>
+     <are:zanikFunkce>2009-08-31</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany u Prahy</are:obec>
+      <are:ulice>U kina</are:ulice>
+      <are:cisloTxt>1332</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marta</are:jmeno>
+     <are:prijmeni>Skopalová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-20" dvy="2016-12-07">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2000-10-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany u Prahy</are:obec>
+      <are:ulice>U kina</are:ulice>
+      <are:cisloTxt>1332</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jitka</are:jmeno>
+     <are:prijmeni>Macháčková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-11-24" dvy="2016-12-07">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2009-09-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12676233</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Radošovice</are:castObce>
+      <are:ulice>K pomníku padlých</are:ulice>
+      <are:cisloTxt>205</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Karel</are:jmeno>
+     <are:prijmeni>Barták</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2009-11-24" dvy="2016-12-07">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2009-09-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12730131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany</are:obec>
+      <are:ulice>U Kina</are:ulice>
+      <are:cisloTxt>1332</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Rezková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-07" dvy="2017-01-19">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-10-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2000-10-31</are:vznikFunkce>
+     <are:zanikFunkce>2016-10-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12730131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Říčany</are:castObce>
+      <are:ulice>U Kina</are:ulice>
+      <are:cisloPop>1332</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JITKA</are:jmeno>
+     <are:prijmeni>MACHÁČKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-07" dvy="2017-01-19">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-10-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2009-09-01</are:vznikFunkce>
+     <are:zanikFunkce>2016-10-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12676233</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Radošovice</are:castObce>
+      <are:ulice>K Pomníku padlých</are:ulice>
+      <are:cisloPop>205</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>BARTÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-12-07" dvy="2017-01-19">
+    <are:clenstvi>
+     <are:zanikClenstvi>2016-10-19</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+     <are:vznikFunkce>2009-09-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12730131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Říčany</are:castObce>
+      <are:ulice>U Kina</are:ulice>
+      <are:cisloPop>1332</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUDMILA</are:jmeno>
+     <are:prijmeni>REZKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2016-10-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12730131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Říčany</are:castObce>
+      <are:ulice>U Kina</are:ulice>
+      <are:cisloPop>1332</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JITKA</are:jmeno>
+     <are:prijmeni>MACHÁČKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-10-19</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2016-10-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12676233</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Radošovice</are:castObce>
+      <are:ulice>K Pomníku padlých</are:ulice>
+      <are:cisloPop>205</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>BARTÁK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-19" dvy="2017-06-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-10-19</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-04-11</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12730131</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Říčany</are:castObce>
+      <are:ulice>U Kina</are:ulice>
+      <are:cisloPop>1332</are:cisloPop>
+      <are:cisloOr>2</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUDMILA</are:jmeno>
+     <are:prijmeni>REZKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-06-10">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-04-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>26010691</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Říčany</are:obec>
+      <are:castObce>Říčany</are:castObce>
+      <are:ulice>Želivská</are:ulice>
+      <are:cisloPop>1946</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARIE</are:jmeno>
+     <are:prijmeni>NEUBAUEROVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>04:16:49</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>26481065</are:ICO>
+   <are:ObchodniFirma>Společenství podílových spoluvlastníků domů čp. 1332, 1333 v Říčanech u Prahy</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>25101</are:psc>
+    <are:obec>Říčany u Prahy</are:obec>
+    <are:ulice>U kina</are:ulice>
+    <are:cisloTxt>1332</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-12-20</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa,provoz a opravy společných částí domu vymezených způsobem
+stanoveným v zákoně a zabezpečování dalších činností spojených s
+provozem domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-12-20" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-12-20" dvy="2001-12-31">
+    <are:Text>
+Za výbor jedná navenek předseda výboru nebo výborem písemně
+pověřený člen výboru.Je-li pro právní úkon zapotřebí písemná
+forma,je nezbytný podpis předsedy a dalšího člena výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-12-20" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>předseda</are:nazev>
+     <are:vznikFunkce>2000-10-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany u Prahy</are:obec>
+      <are:ulice>U kina</are:ulice>
+      <are:cisloTxt>1332</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jitka</are:jmeno>
+     <are:prijmeni>Macháčková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-20" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+     <are:vznikFunkce>2000-10-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany u Prahy</are:obec>
+      <are:ulice>U kina</are:ulice>
+      <are:cisloTxt>1332</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lenka</are:jmeno>
+     <are:prijmeni>Fialová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-20" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+     <are:vznikFunkce>2000-10-31</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25101</are:psc>
+      <are:obec>Říčany u Prahy</are:obec>
+      <are:ulice>U kina</are:ulice>
+      <are:cisloTxt>1332</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marta</are:jmeno>
+     <are:prijmeni>Skopalová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

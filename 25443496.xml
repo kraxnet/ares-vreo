@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T18:31:11"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>18:31:11</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25443496</are:ICO>
+   <are:ObchodniFirma>MOKI s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:psc>46001</are:psc>
+    <are:obec>Liberec</are:obec>
+    <are:ulice>Chrastavská</are:ulice>
+    <are:cisloTxt>16</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-02-27</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+velkoobchod
+     </are:Text>
+     <are:Text>
+zprostředkování služeb
+     </are:Text>
+     <are:Text>
+maloobchod se smíšeným zbožím
+     </are:Text>
+     <are:Text>
+přípravné práce pro stavby
+     </are:Text>
+     <are:Text>
+dokončovací stavební práce
+     </are:Text>
+     <are:Text>
+inženýrská činnost v investiční výstavbě
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-02-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-02-27">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně a podepisuje za ni
+tak, že pod razítko či název firmy společnosti připojí svůj
+vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-02-27">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2002-02-27</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Kryva, Gagarina 3, Tjačevský okres, Zakarpatská oblast, pobytem v ČR: Liberec 8, Táborská 357, PSČ 460 08</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Mokan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2002-02-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:text>Kryva, Gagarina 3, Tjačevský okres, Zakarpatská oblast, Ukrajina, v ČR: Liberec 8, Táborská 357, PSČ 460 08</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Mokan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Horkoho 22, Teresva, Tjačovský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Lyubov</are:jmeno>
+     <are:prijmeni>Dzhuhan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Proektna 7, město Chust, Chustský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Pavlo</are:jmeno>
+     <are:prijmeni>Buchok</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Lenina 45, Čorna Tysa, Rachovský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Stepan</are:jmeno>
+     <are:prijmeni>Lyubenchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Červonoarmijska 52, Jablonivka, Chustský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Tokar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Zaliznyčna 23, Kričevo, Tjačevský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Krichfalushiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Míru 34, Kryva, Tjačevský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Popovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Hruševskoho 107, Zabroď, Chustský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Rishko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Lenina 20, Kriva, Tjačevský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Krulko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Zaliznyčna 27, Kričevo, Tjačevský okres, Zakarpatská obast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Stoyka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Míru 20, Krive, Tjačevský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:prijmeni>Vasyl Sem´Yanuskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Pryvokzalna 8, Rychalsk, Jemilčenský okras, Žytomyrska oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Taras</are:jmeno>
+     <are:prijmeni>Golovatyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Lesi Ukrajinky 91, Kričevo, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Vizichkanych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Tereškova 13, Vyškovo, Chustský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Kateryna</are:jmeno>
+     <are:prijmeni>Rosokha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Čapajeva 47, Kolodno, Tjačevský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:prijmeni>Mar´Yana Slyvka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Centralna 183, Kričevo, Tjačevský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Krychfalushiy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Náberežna 129, Iršava, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Borys</are:jmeno>
+     <are:prijmeni>Silchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Synevyr, Mižhirski, Centralna 1185, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Tsimbota</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Synevyr 198, Mižhirski, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Stets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Synevyr, Berehy 1034, Mižhirski, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Subota</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Degtjarjova 16, Slavjansk, Doneckaja oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Lyudmyla</are:jmeno>
+     <are:prijmeni>Savchenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Peremohy 3, Horilovka, Nadvirnjanský okres, Ivanofrankivská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Myroslav</are:jmeno>
+     <are:prijmeni>Oliynyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Komsomolska 67, Kryčevo, Tjačevský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Rishko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Peršotravneva, Kryve, Lvivská oblast, Radechivský okres, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Mykhaylyshyn</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Ševčenka 25/8, Kobylecka Poljana, Rachouský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Vilshovan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Vakarova 7, Viškovo, Chutský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Rosokha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Simonenka 13/23, Ivano Frankivská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Nataliya</are:jmeno>
+     <are:prijmeni>Matskiv</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Říka 9, Bedeulja, Tjačevský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Lesya</are:jmeno>
+     <are:prijmeni>Tyvodar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Divychky 1, Perejaslav Chmelnický okres, Kijevská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Viktor</are:jmeno>
+     <are:prijmeni>Kucherenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Velence 258, Viškovo, Chustský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Chorey</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Červonoarmijská 138, Jablonivka, Chustský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Serhiy</are:jmeno>
+     <are:prijmeni>Menzhul</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Lesi Ukrajinky 152, Jablonivka, Chustský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Matsola</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>Berehy 8, Synervyr, Miržirský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Subota</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-12-11">
+    <are:fosoba>
+     <are:adresa>
+      <are:text>ul. Mičurina 6, obec Kamjanské, Iršavský okres, Zakarpatská oblast, Ukrajina</are:text>
+     </are:adresa>
+     <are:jmeno>Yevhen</are:jmeno>
+     <are:prijmeni>Popovych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

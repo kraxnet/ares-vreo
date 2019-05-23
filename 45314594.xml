@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T21:20:39"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>21:20:39</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>45314594</are:ICO>
+   <are:ObchodniFirma>Vydavatelství časopisů Gong, spol. s r.o.- v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22191666</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 6</are:okres>
+    <are:obec>Praha 6</are:obec>
+    <are:ulice>Evropská</are:ulice>
+    <are:cisloTxt>100</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1992-02-20</are:DatumZapisu>
+   <are:DatumVymazu>2001-05-09</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+vydavatelská činnost
+     </are:Text>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+provoz agenturní činnosti v oblati tisku, inzertní, reklamní a
+propagační činnost
+     </are:Text>
+     <are:Text>
+marketingové služby v polygrafickém průmyslu, vydavatelské a
+nakladatelské činnosti
+     </are:Text>
+     <are:Text>
+cizojazyčné překlady
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1992-02-20" dvy="2001-05-09">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1992-02-20" dvy="1993-01-29">
+    <are:Text>
+Zastupování a podepisování:
+K jednání jménem společnosti a podepisovat za společnost jsou
+oprávněni jednatelé a prokuristé společnosti. Pokud je jmenován
+pouze jeden jednatel, zastupuje společnost sám. Je-li jednatelů
+více, zastupují společnost dva jednatelé anebo vždy jednatel
+společně s prokuristou.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-01-29" dvy="2001-05-09">
+    <are:Text>
+Zastupování společnoti: společnost s ručením omezeným zastupuje
+likvidátor.
+Podepisování: k názvu společnosti s doložkou v likvidaci,
+připojí svůj podpis likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1992-02-20" dvy="2001-05-09">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22507337</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Litvínovská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Kašpar</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="1993-01-29" dvy="2001-05-09">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="1993-01-29" dvy="2001-05-09">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22507337</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Litvínovská</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Kašpar</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1992-02-20" dvy="2001-05-09">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1992-02-20" dvy="2001-05-09">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>276</are:stat>
+      <are:text>8500 Nürnberg, Innere Cramer-Klett-Strasse 6</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>Gong, Verlag GmbH</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1992-02-20" dvy="2001-05-09">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>276</are:stat>
+      <are:text>8390 Passau, Dr. Hans Kpfingerstrasse 30</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>NPF- Neue Presse Fachverlags-GmbH</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

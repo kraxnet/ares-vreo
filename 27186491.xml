@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-15T21:35:43"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-15</are:Datum_vypisu>
+   <are:Cas_vypisu>21:35:43</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>27186491</are:ICO>
+   <are:ObchodniFirma>Oleksandr Prytulyak</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:psc>25169</are:psc>
+    <are:obec>Kunice</are:obec>
+    <are:castObce>Dolní Lomnice</are:castObce>
+    <are:cisloTxt>39</are:cisloTxt>
+   </are:Sidlo>
+   <are:Bydliste>
+    <are:stat>804</are:stat>
+    <are:text>ul.Ševčenka 26, Putylský okr., Černovecká obl.</are:text>
+   </are:Bydliste>
+   <are:Pobyt>
+    <are:stat>203</are:stat>
+    <are:psc>25169</are:psc>
+    <are:obec>Kunice</are:obec>
+    <are:castObce>Dolní Lomnice</are:castObce>
+    <are:cisloTxt>39</are:cisloTxt>
+   </are:Pobyt>
+   <are:DatumZapisu>2004-11-03</are:DatumZapisu>
+   <are:DatumVymazu>2016-03-18</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z obchodního rejstříku včetně všech zapsaných skutečností Oleksandr Prytulyak, fyzická osoba - podnikatel, Kunice - Dolní Lomnice 39, PSČ 251 69, identifikační číslo 271 86 491, zapsaná v oddílu A, vložce číslo 50488, u obchodního rejstříku Mě
+stského soudu v Praze.
+Právním důvodem výmazu je zánik posledního živnostenského oprávnění.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2004-11-03" dvy="2016-03-18">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="2004-11-03" dvy="2016-03-18">
+    <are:fosoba>
+     <are:jmeno>Oleksandr</are:jmeno>
+     <are:prijmeni>Prytulyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

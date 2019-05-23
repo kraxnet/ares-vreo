@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T22:37:27"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:37:27</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25894935</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek Dánská 1148/5, Olomouc-Město</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23328215</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>77900</are:psc>
+    <are:okres>Olomouc</are:okres>
+    <are:obec>Olomouc</are:obec>
+    <are:castObce>Olomouc</are:castObce>
+    <are:ulice>Dánská</are:ulice>
+    <are:cisloPop>1148</are:cisloPop>
+    <are:cisloOr>5</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-12-04</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+zajišťování správy domu a pozemku
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-12-04">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-12-04" dvy="2010-10-20">
+    <are:Text>
+Způsob jednání za společenství:
+Za výbor jedná navenek předseda výboru nebo jeden z
+místopředsedů. Je-li pro právní úkon zapotřebí písemná forma, je
+nezbytný podpis předsedy a jednoho z místopředsedů, v případě
+nepřítomnosti předsedy podpisy obou místopředsedů.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-11-04">
+    <are:Text>
+Výbor zastupuje společenství ve všech záležitostech. Navenek zastupuje společenství předseda výboru a v jeho nepřítomnosti místopředseda výboru, popř. další člen výboru. Při písemných právních jednáních zastupuje společenství předseda výboru společně s mí
+stopředsedou výboru a v době nepřítomnosti předsedy nebo místopředsedy výboru zastupují společenství dva členové výboru.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2010-10-20" dvy="2015-11-04">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Město</are:castObce>
+      <are:ulice>Dánská</are:ulice>
+      <are:cisloPop>1148</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Hlavizna</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-10-20" dvy="2015-11-04">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20623356</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78401</are:psc>
+      <are:obec>Červenka</are:obec>
+      <are:ulice>Třebízského</are:ulice>
+      <are:cisloPop>198</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Roman</are:jmeno>
+     <are:prijmeni>Chytil</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-10-20" dvy="2015-11-04">
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>16075391</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78314</are:psc>
+      <are:obec>Bohuňovice</are:obec>
+      <are:ulice>Trusovická</are:ulice>
+      <are:cisloPop>651</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Ludmila</are:jmeno>
+     <are:prijmeni>Ludwigová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-06-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2015-06-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20623356</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>78401</are:psc>
+      <are:obec>Červenka</are:obec>
+      <are:castObce>Červenka</are:castObce>
+      <are:ulice>Třebízského</are:ulice>
+      <are:cisloPop>198</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>ROMAN</are:jmeno>
+     <are:prijmeni>CHYTIL</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-06-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2015-06-08</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23328215</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>Dánská</are:ulice>
+      <are:cisloPop>1148</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>TEREZA</are:jmeno>
+     <are:prijmeni>ŽAJGLOVÁ CAPKOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-11-04">
+    <are:clenstvi>
+     <are:vznikClenstvi>2015-06-08</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen výboru</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23328215</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77900</are:psc>
+      <are:obec>Olomouc</are:obec>
+      <are:castObce>Olomouc</are:castObce>
+      <are:ulice>Dánská</are:ulice>
+      <are:cisloPop>1148</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>HLAVIZNA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2001-12-04" dvy="2010-10-20">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:Clen dza="2001-12-04" dvy="2010-10-20">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-09-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc - Město</are:obec>
+      <are:ulice>Dánská</are:ulice>
+      <are:cisloTxt>1148/5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Hlavizna</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-04" dvy="2010-10-20">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-09-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc - Město</are:obec>
+      <are:ulice>Dánská</are:ulice>
+      <are:cisloTxt>1148/5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Čapková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-04" dvy="2010-10-20">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-09-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc - Neředín</are:obec>
+      <are:ulice>Západní</are:ulice>
+      <are:cisloTxt>666/15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Šínová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>22:37:28</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>RSVJ</are:Rejstrik>
+   <are:ICO>25894935</are:ICO>
+   <are:ObchodniFirma>Společenství vlastníků jednotek Dánská 1148/5, Olomouc-Město</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>1</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>77200</are:psc>
+    <are:obec>Olomouc - Město</are:obec>
+    <are:ulice>Dánská</are:ulice>
+    <are:cisloTxt>1148/5</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2001-12-04</are:DatumZapisu>
+   <are:DatumVymazu>2001-12-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+správa, provoz a opravy společných částí domu Dánská 1148/5,
+Olomouc - Město, a zabezpečování dalších činností spojených s
+provozem domu
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2001-12-04" dvy="2001-12-31">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2001-12-04" dvy="2001-12-31">
+    <are:Text>
+Způsob jednání za společenství:
+Za výbor jedná navenek předseda výboru nebo jeden z
+místopředsedů. Je-li pro právní úkon zapotřebí písemná forma, je
+nezbytný podpis předsedy a jednoho z místopředsedů, v případě
+nepřítomnosti předsedy podpisy obou místopředsedů.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2001-12-04" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>předseda výboru</are:nazev>
+     <are:vznikFunkce>2001-09-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc - Město</are:obec>
+      <are:ulice>Dánská</are:ulice>
+      <are:cisloTxt>1148/5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Hlavizna</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-04" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-09-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc - Město</are:obec>
+      <are:ulice>Dánská</are:ulice>
+      <are:cisloTxt>1148/5</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olga</are:jmeno>
+     <are:prijmeni>Čapková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2001-12-04" dvy="2001-12-31">
+    <are:funkce>
+     <are:nazev>místopředseda výboru</are:nazev>
+     <are:vznikFunkce>2001-09-24</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>77200</are:psc>
+      <are:obec>Olomouc - Neředín</are:obec>
+      <are:ulice>Západní</are:ulice>
+      <are:cisloTxt>666/15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Anna</are:jmeno>
+     <are:prijmeni>Šínová</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

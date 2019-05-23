@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-12-10T09:40:36"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-12-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-12-10</are:Datum_vypisu>
+   <are:Cas_vypisu>09:40:36</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>28501454</are:ICO>
+   <are:ObchodniFirma>Dinh Trung Bui</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>12557854</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>73961</are:psc>
+    <are:okres>Frýdek-Místek</are:okres>
+    <are:obec>Třinec</are:obec>
+    <are:castObce>Staré Město</are:castObce>
+    <are:ulice>Poštovní</are:ulice>
+    <are:cisloPop>130</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2009-01-02</are:DatumZapisu>
+   <are:DatumVymazu>2018-12-01</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Podnikatel  Dinh Trung Bui, Poštovní 130, Staré Město, 739 61 Třinec, identifikační číslo 285 01 454 se vymazává  ke dni právní moci tohoto rozhodnutí z Obchodního rejstříku včetně všech zapsaných skutečností.
+    </are:Text>
+    <are:Text>
+Právní důvod: Výmaz byl proveden usnesením KS Ostrava ze dne  18.10.2018  na základě oznámení  RŽP  registru  živnostenského podnikání,  o zániku platnosti živnostenského oprávnění k provozování živnosti  ke dni 20.6.2018.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2009-01-02" dvy="2018-12-01">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="2009-01-02" dvy="2014-01-08">
+    <are:fosoba>
+     <are:prijmeni>Dinh Trung Bui</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-01-08" dvy="2017-12-22">
+    <are:fosoba>
+     <are:jmeno>DINH TRUNG</are:jmeno>
+     <are:prijmeni>BUI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-12-22" dvy="2018-06-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20575122</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73801</are:psc>
+      <are:okres>Frýdek-Místek</are:okres>
+      <are:obec>Frýdek-Místek</are:obec>
+      <are:castObce>Místek</are:castObce>
+      <are:ulice>Fibichova</are:ulice>
+      <are:cisloPop>669</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DINH TRUNG</are:jmeno>
+     <are:prijmeni>BUI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-06-13" dvy="2018-12-01">
+    <are:fosoba>
+     <are:jmeno>DINH TRUNG</are:jmeno>
+     <are:prijmeni>BUI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

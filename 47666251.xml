@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-16T23:32:45"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-16</are:Datum_vypisu>
+   <are:Cas_vypisu>23:32:45</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>47666251</are:ICO>
+   <are:ObchodniFirma>AUTEL, s. r. o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:text>Třinec IX - Oldřichovice, budova Zemědělského družstva</are:text>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-01-18</are:DatumZapisu>
+   <are:DatumVymazu>1996-08-01</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Poskytování software /prodej hotových programů na základě
+smlouvy s autory nebo vyhotovování programů na zakázku/
+     </are:Text>
+     <are:Text>
+Montáž a opravy měřící a regulační techniky
+     </are:Text>
+     <are:Text>
+Projektování elektrických zařízení
+     </are:Text>
+     <are:Text>
+Výroba, instalace a opravy elektrických strojů a přístrojů
+     </are:Text>
+     <are:Text>
+Koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+Poradenské služby ohledně elektronických zařízení na zprac.
+dat./poradenství v oboru programování, automatizace, MaR a
+elektrických zařízení/
+     </are:Text>
+     <are:Text>
+revize elektrických zařízení
+     </are:Text>
+     <are:Text>
+pronájem strojů a zařízení
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-01-18" dvy="1996-08-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-01-18" dvy="1993-10-21">
+    <are:Text>
+Jednání za společnost: Jednatelem společnosti je Magdaléna
+Krainová. Jedná jménem společnosti ve všech věcech samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1993-10-21" dvy="1996-08-01">
+    <are:Text>
+Jednání za společnost: Jednateli společnosti jsou ing.
+Jan Kraina, ing. Jan Czudek a ing. Lešek Jež. Jednatelé jednají
+jménem společnosti ve všech věcech v plném rozsahu samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-01-18" dvy="1993-10-21">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:obec>Třinec V</are:obec>
+      <are:ulice>Sosnová</are:ulice>
+      <are:cisloTxt>č.354</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Magdaléna</are:jmeno>
+     <are:prijmeni>Krainová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:obec>Třinec V</are:obec>
+      <are:ulice>Sosnová</are:ulice>
+      <are:cisloTxt>č.354</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kraina</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20610319</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jablunkov</are:obec>
+      <are:cisloTxt>373</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Czudek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec V</are:obec>
+      <are:ulice>D. Lištná</are:ulice>
+      <are:cisloTxt>131</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lešek</are:jmeno>
+     <are:prijmeni>Jež</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-01-18" dvy="1996-08-01">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:obec>Třinec V</are:obec>
+      <are:ulice>Sosnová</are:ulice>
+      <are:cisloTxt>č.354</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Kraina</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>73961</are:psc>
+      <are:obec>Třinec V</are:obec>
+      <are:ulice>Sosnová</are:ulice>
+      <are:cisloTxt>č.354</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Magdaléna</are:jmeno>
+     <are:prijmeni>Krainová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20610319</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jablunkov</are:obec>
+      <are:cisloTxt>373</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Czudek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec V</are:obec>
+      <are:ulice>D.Lištná</are:ulice>
+      <are:cisloTxt>131</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lešek</are:jmeno>
+     <are:prijmeni>Jež</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5775167</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Těšín</are:obec>
+      <are:ulice>Frýdecká</are:ulice>
+      <are:cisloTxt>60</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tadeáš</are:jmeno>
+     <are:prijmeni>Feruga</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Těšín-Mosty</are:obec>
+      <are:ulice>Na Dolinách</are:ulice>
+      <are:cisloTxt>51</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Kroliczek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec VI</are:obec>
+      <are:ulice>Olšova</are:ulice>
+      <are:cisloTxt>219</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Daniela</are:jmeno>
+     <are:prijmeni>Szczotková</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Bystřice nad Olší</are:obec>
+      <are:cisloTxt>430</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Wieslaw</are:jmeno>
+     <are:prijmeni>Chodura</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec VII</are:obec>
+      <are:ulice>Kojkovice</are:ulice>
+      <are:cisloTxt>71</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Lech</are:jmeno>
+     <are:prijmeni>Buchwaldek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec X</are:obec>
+      <are:ulice>Vendryně</are:ulice>
+      <are:cisloTxt>399</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bohuslav</are:jmeno>
+     <are:prijmeni>Hudzieczek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14217490</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Nýdek</are:obec>
+      <are:cisloTxt>501</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Adam</are:jmeno>
+     <are:prijmeni>Cieslar</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec VI</are:obec>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloTxt>998</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Kaleta</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec IX</are:obec>
+      <are:ulice>Oldřichovice</are:ulice>
+      <are:cisloTxt>179</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bronislav</are:jmeno>
+     <are:prijmeni>Haltof</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec VI</are:obec>
+      <are:ulice>Slezská</are:ulice>
+      <are:cisloTxt>788</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Libor</are:jmeno>
+     <are:prijmeni>Fargač</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec VII</are:obec>
+      <are:ulice>Karpentná</are:ulice>
+      <are:cisloTxt>123</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Rucki</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec VI</are:obec>
+      <are:ulice>Růžová</are:ulice>
+      <are:cisloTxt>566</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Zboran</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5764165</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Těšín</are:obec>
+      <are:ulice>Dvořákova</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Dušek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5775264</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Těšín</are:obec>
+      <are:ulice>Frýdecká</are:ulice>
+      <are:cisloTxt>42</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mariusz</are:jmeno>
+     <are:prijmeni>Firla</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Bystřice nad Olší</are:obec>
+      <are:cisloTxt>465</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Krzyžanek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12560677</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec</are:obec>
+      <are:ulice>Lesní</are:ulice>
+      <are:cisloTxt>455</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miloš</are:jmeno>
+     <are:prijmeni>Kröhn</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23235811</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Chotěbuz</are:obec>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Branny</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec VI</are:obec>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloTxt>997</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vítězslav</are:jmeno>
+     <are:prijmeni>Jínek</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Ostrava-Hrabůvka</are:obec>
+      <are:ulice>Bystřinova</are:ulice>
+      <are:cisloTxt>13</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oldřich</are:jmeno>
+     <are:prijmeni>Pustelník</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec VI</are:obec>
+      <are:ulice>Dukelská</are:ulice>
+      <are:cisloTxt>690</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Tomáš</are:jmeno>
+     <are:prijmeni>Wolny</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5779278</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Těšín</are:obec>
+      <are:ulice>Okružní</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Měčislav</are:jmeno>
+     <are:prijmeni>Pribula</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-21" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5765234</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Těšín</are:obec>
+      <are:ulice>Vodní</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petr</are:jmeno>
+     <are:prijmeni>Donocik</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-14" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Bystřice nad Olší</are:obec>
+      <are:cisloTxt>148</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Bronislav</are:jmeno>
+     <are:prijmeni>Matloch</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-14" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>5751691</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Těšín</are:obec>
+      <are:ulice>Dolní Žukov</are:ulice>
+      <are:cisloTxt>238</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladislav</are:jmeno>
+     <are:prijmeni>Huczala</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-14" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Jablunkov</are:obec>
+      <are:ulice>Mlýnská</are:ulice>
+      <are:cisloTxt>68</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Jakus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-14" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hlučín</are:obec>
+      <are:ulice>P.Jilemnického</are:ulice>
+      <are:cisloTxt>15</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Kotlář</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-04-14" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Český Těšín</are:obec>
+     </are:adresa>
+     <are:prijmeni>EXPIM s.r.o.</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-05-03" dvy="1996-08-01">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Třinec VI</are:obec>
+      <are:ulice>Seifertova</are:ulice>
+      <are:cisloTxt>871</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Klus</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

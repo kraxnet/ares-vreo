@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T14:11:13"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>14:11:13</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25048091</are:ICO>
+   <are:ObchodniFirma>Dico Czech Republic, s.r.o., v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>46331</are:psc>
+    <are:obec>Chrastava</are:obec>
+    <are:ulice>Frýdlantská</are:ulice>
+    <are:cisloTxt>70</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-01-27</are:DatumZapisu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-01-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-01-27" dvy="2002-02-27">
+    <are:Text>
+Jednatel je oprávněn jednat a zastupovat společnost v plném
+rozsahu práv a povinností samostatně.
+Podepisování za společnost se děje tak, že k vytištěnému nebo
+napsanému jménu společnosti připojí svůj podpis jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2002-02-27">
+    <are:Text>
+Pokud je jmenován jediný jednatel, je oprávněn jednat a
+zastupovat společnost v plném rozsahu práv a povinností
+samostatně. Jestliže je jmenováno více jednatelů, pak
+společnost zastupují a za společnost podepisují vždy dva
+jednatelé společně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-01-27" dvy="2002-02-27">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>1</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Liberec 11</are:obec>
+      <are:ulice>U jeslí</are:ulice>
+      <are:cisloTxt>138/7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Senders</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-02-27">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2000-08-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:text>Oude Molenstraat 7,5411 EJ Zeeland                                      dlouhodobý pobyt v ČR: Záskalí 24, Hodkovice nad Mohelkou, PSČ 463 42</are:text>
+     </are:adresa>
+     <are:prijmeni>Martinus Petrus Maria Schel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-01-13">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-01-13">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21747253</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Mánesova</are:ulice>
+      <are:cisloPop>752</are:cisloPop>
+      <are:cisloOr>10</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MANUEL</are:jmeno>
+     <are:prijmeni>VILLALOBOS</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-01-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2002-02-27">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>528</are:stat>
+      <are:text>Losplaats 3, 5404 NJ Uden</are:text>
+     </are:adresa>
+     <are:ObchodniFirma>N.V. Dico International</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

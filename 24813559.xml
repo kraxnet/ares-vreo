@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-25T15:23:00"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-25</are:Datum_vypisu>
+   <are:Cas_vypisu>15:23:00</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>24813559</are:ICO>
+   <are:ObchodniFirma>SINCE 2011 s.r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22085688</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>15000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Smíchov</are:castObce>
+    <are:mop>Praha 5</are:mop>
+    <are:ulice>Rozkošného</are:ulice>
+    <are:cisloPop>1058</are:cisloPop>
+    <are:cisloOr>3</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2011-02-22</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetCinnosti>
+     <are:Text>
+pronájem nemovitostí, bytů a nebytových prostor
+     </are:Text>
+    </are:PredmetCinnosti>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2011-02-22">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2011-02-22" dvy="2015-07-29">
+    <are:Text>
+Jménem společnosti jedná a společnost zavazuje jednatel samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2015-07-29" dvy="2018-10-18">
+    <are:Text>
+Společnost zastupují tři jednatelé současně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2018-10-18">
+    <are:Text>
+Společnost zastupují dva jednatelé současně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2011-02-22" dvy="2013-11-11">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-02-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>18322433</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>29001</are:psc>
+      <are:obec>Poděbrady</are:obec>
+      <are:ulice>Lidická</are:ulice>
+      <are:cisloPop>792</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Radim</are:jmeno>
+     <are:prijmeni>Třešňák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-11" dvy="2015-04-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2011-02-22</are:vznikFunkce>
+     <are:zanikFunkce>2015-03-19</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22438793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19300</are:psc>
+      <are:obec>Praha 9</are:obec>
+      <are:castObce>Horní Počernice</are:castObce>
+      <are:ulice>Slatiňanská</are:ulice>
+      <are:cisloPop>933</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RADIM</are:jmeno>
+     <are:prijmeni>TŘEŠŇÁK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-04-13">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-03-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21755850</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>12000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vinohrady</are:castObce>
+      <are:mop>Praha 2</are:mop>
+      <are:ulice>Lužická</are:ulice>
+      <are:cisloPop>1688</are:cisloPop>
+      <are:cisloOr>40</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>KUK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-07-29">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-07-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25556576</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25225</are:psc>
+      <are:obec>Ořech</are:obec>
+      <are:castObce>Ořech</are:castObce>
+      <are:ulice>Na Beránku II</are:ulice>
+      <are:cisloPop>253</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>JIROVEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-07-29" dvy="2016-07-03">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-07-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12368695</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58601</are:psc>
+      <are:obec>Jihlava</are:obec>
+      <are:castObce>Jihlava</are:castObce>
+      <are:ulice>Březinova</are:ulice>
+      <are:cisloPop>3988</are:cisloPop>
+      <are:cisloOr>103</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>PECH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-07-29" dvy="2018-05-26">
+    <are:clenstvi>
+     <are:zanikClenstvi>2018-02-18</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-07-29</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>42329086</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Nárožní</are:ulice>
+      <are:cisloPop>2787</are:cisloPop>
+      <are:cisloOr>7a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>TOŠOVSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-07-03" dvy="2018-10-18">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2015-07-29</are:vznikFunkce>
+     <are:zanikFunkce>2018-10-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>12355682</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58601</are:psc>
+      <are:okres>Jihlava</are:okres>
+      <are:obec>Jihlava</are:obec>
+      <are:castObce>Jihlava</are:castObce>
+      <are:ulice>Brněnská</are:ulice>
+      <are:cisloPop>2638</are:cisloPop>
+      <are:cisloOr>56</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>PECH</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-05-26">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2018-02-19</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25077571</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>58601</are:psc>
+      <are:okres>Jihlava</are:okres>
+      <are:obec>Jihlava</are:obec>
+      <are:castObce>Horní Kosov</are:castObce>
+      <are:ulice>Ve Vilách</are:ulice>
+      <are:cisloPop>431</are:cisloPop>
+      <are:cisloOr>14</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>VACULÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2011-02-22">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2015-04-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>27868591</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:obec>Praha 5</are:obec>
+      <are:castObce>Smíchov</are:castObce>
+      <are:ulice>Nádražní</are:ulice>
+      <are:cisloTxt>762/32</are:cisloTxt>
+     </are:adresa>
+     <are:ICO>27397319</are:ICO>
+     <are:ObchodniFirma>Domo Development a.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

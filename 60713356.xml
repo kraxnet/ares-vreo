@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T03:14:13"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>03:14:13</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>60713356</are:ICO>
+   <are:ObchodniFirma>Lesy města Brna, a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>24183164</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>66434</are:psc>
+    <are:obec>Kuřim</are:obec>
+    <are:castObce>Kuřim</are:castObce>
+    <are:ulice>Křížkovského</are:ulice>
+    <are:cisloPop>247</are:cisloPop>
+    <are:cisloOr>9</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1994-07-01</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Provozování dráhy - vlečky
+     </are:Text>
+     <are:Text>
+Silniční motorová doprava - nákladní vnitrostátní provozovaná vozidly o největší povolené hmotnosti do 3,5 tuny včetně, - nákladní vnitrostátní provozovaná vozidly o největší povolené hmotnosti nad 3,5 tuny, - nákladní mezinárodní provozovaná vozidly o ne
+jvětší povolené hmotnosti do 3,5 tuny včetně, - nákladní mezinárodní provozovaná vozidly o největší povolené hmotnosti nad 3,5 tuny
+     </are:Text>
+     <are:Text>
+Truhlářství, podlahářství
+     </are:Text>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1994-07-01" dvy="2006-09-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1994-07-01" dvy="2006-09-01">
+    <are:Text>
+Způsob zastupování: za společnost jedná a podepisuje jednatel
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1994-07-01" dvy="2002-06-04">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>63500</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Foltýnova</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Leopold</are:jmeno>
+     <are:prijmeni>Černý</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-06-04" dvy="2006-09-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>1994-07-01</are:vznikFunkce>
+     <are:zanikFunkce>2006-09-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>63500</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Foltýnova</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Leopold</are:jmeno>
+     <are:prijmeni>Černý</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2006-09-01">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2006-09-01">
+    <are:Text>
+Způsob jednání:
+Jménem představenstva je oprávněn jednat, podepisovat a společnost zavazovat, předseda, místopředseda nebo předsedou pověřený člen.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2006-09-01" dvy="2007-02-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-09-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-11-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-09-01</are:vznikFunkce>
+     <are:zanikFunkce>2006-11-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19046031</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62000</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Glocova</are:ulice>
+      <are:cisloTxt>9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Stehlíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-09-01" dvy="2007-02-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-09-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-11-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-09-01</are:vznikFunkce>
+     <are:zanikFunkce>2006-11-30</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19433085</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Kotlanova</are:ulice>
+      <are:cisloTxt>6</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Janištin</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-09-01" dvy="2007-02-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-09-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-11-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19574223</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Žarošická</are:ulice>
+      <are:cisloTxt>17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Miroslav</are:jmeno>
+     <are:prijmeni>Hošek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-09-01" dvy="2007-02-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-09-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-11-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19410000</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Belcrediho</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Barbora</are:jmeno>
+     <are:prijmeni>Javorová</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2006-09-01" dvy="2007-02-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-09-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2006-11-30</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19382146</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62300</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Voříškova</are:ulice>
+      <are:cisloTxt>2</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Helena</are:jmeno>
+     <are:prijmeni>Sýkorová</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-09" dvy="2008-09-09">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-11-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2008-04-29</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-12-15</are:vznikFunkce>
+     <are:zanikFunkce>2008-04-29</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25175874</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62100</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Pod Vrškem</are:ulice>
+      <are:cisloTxt>4</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Daniel</are:jmeno>
+     <are:prijmeni>Rychnovský</are:prijmeni>
+     <are:titulPred>MUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-09" dvy="2010-12-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-11-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-11-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2006-12-15</are:vznikFunkce>
+     <are:zanikFunkce>2010-11-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19077297</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62100</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Drozdí</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mojmír</are:jmeno>
+     <are:prijmeni>Vlašín</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-09" dvy="2010-12-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-11-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-11-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19155697</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Preslova</are:ulice>
+      <are:cisloTxt>50</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jasna</are:jmeno>
+     <are:prijmeni>Flamiková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-09" dvy="2010-12-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-11-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-11-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19315384</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63500</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Černého</are:ulice>
+      <are:cisloTxt>8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Burda</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-09" dvy="2010-12-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2006-11-30</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-11-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19353391</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Turgeněvova</are:ulice>
+      <are:cisloTxt>16</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Novotný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2007-02-09" dvy="2010-12-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2007-02-06</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-11-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>63500</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Foltýnova</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Leopold</are:jmeno>
+     <are:prijmeni>Černý</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2008-09-09" dvy="2010-12-22">
+    <are:clenstvi>
+     <are:vznikClenstvi>2008-06-03</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-11-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2008-07-28</are:vznikFunkce>
+     <are:zanikFunkce>2010-11-16</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19410000</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Belcrediho</are:ulice>
+      <are:cisloTxt>7</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Barbora</are:jmeno>
+     <are:prijmeni>Javorová</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-22" dvy="2013-05-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19367104</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63700</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Dubová</are:ulice>
+      <are:cisloPop>645</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Chládek</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-22" dvy="2013-08-08">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24936049</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66601</are:psc>
+      <are:obec>Deblín</are:obec>
+      <are:cisloPop>148</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Neshyba</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-22" dvy="2014-06-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-12-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19340656</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Faměrovo nám.</are:ulice>
+      <are:cisloPop>15</are:cisloPop>
+      <are:cisloOr>34</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Ludvík</are:jmeno>
+     <are:prijmeni>Kadlec</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-22" dvy="2014-06-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-12-06</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19353391</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Turgeněvova</are:ulice>
+      <are:cisloPop>1133</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Novotný</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-22" dvy="2014-06-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19103786</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Husova</are:ulice>
+      <are:cisloPop>172</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Dušan</are:jmeno>
+     <are:prijmeni>Pazdírek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-12-22" dvy="2014-06-19">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19126158</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63900</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Renneská třída</are:ulice>
+      <are:cisloPop>395</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Martin</are:jmeno>
+     <are:prijmeni>Ander</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-05-30" dvy="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-12-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2014-12-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19367104</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63700</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Jundrov</are:castObce>
+      <are:ulice>Dubová</are:ulice>
+      <are:cisloPop>645</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>CHLÁDEK</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-08-08" dvy="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-12-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27568881</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66471</are:psc>
+      <are:obec>Braníškov</are:obec>
+      <are:castObce>Braníškov</are:castObce>
+      <are:cisloPop>74</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>NESHYBA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-06-19" dvy="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-12-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-12-06</are:vznikFunkce>
+     <are:zanikFunkce>2014-12-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19340656</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Černovice</are:castObce>
+      <are:ulice>Faměrovo náměstí</are:ulice>
+      <are:cisloPop>15</are:cisloPop>
+      <are:cisloOr>34</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>LUDVÍK</are:jmeno>
+     <are:prijmeni>KADLEC</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-06-19" dvy="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-12-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-12-06</are:vznikFunkce>
+     <are:zanikFunkce>2014-12-01</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19353391</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Černovice</are:castObce>
+      <are:ulice>Turgeněvova</are:ulice>
+      <are:cisloPop>1133</are:cisloPop>
+      <are:cisloOr>16</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>NOVOTNÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-06-19" dvy="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-12-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19103786</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Staré Brno</are:castObce>
+      <are:ulice>Husova</are:ulice>
+      <are:cisloPop>172</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>DUŠAN</are:jmeno>
+     <are:prijmeni>PAZDÍREK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-06-19" dvy="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-11-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-12-01</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19126158</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63900</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Štýřice</are:castObce>
+      <are:ulice>Renneská třída</are:ulice>
+      <are:cisloPop>395</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MARTIN</are:jmeno>
+     <are:prijmeni>ANDER</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+     <are:titulZa>Ph.D.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-12-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-12-15</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19077297</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62100</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Ořešín</are:castObce>
+      <are:ulice>Drozdí</are:ulice>
+      <are:cisloPop>31</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MOJMÍR</are:jmeno>
+     <are:prijmeni>VLAŠÍN</are:prijmeni>
+     <are:titulPred>RNDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-12-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>25060104</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>64100</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Žebětín</are:castObce>
+      <are:ulice>Ríšova</are:ulice>
+      <are:cisloPop>665</are:cisloPop>
+      <are:cisloOr>91</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VÍT</are:jmeno>
+     <are:prijmeni>BERAN</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-12-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27568881</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66471</are:psc>
+      <are:obec>Braníškov</are:obec>
+      <are:castObce>Braníškov</are:castObce>
+      <are:cisloPop>74</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>NESHYBA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-18" dvy="2016-07-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-12-02</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-05-24</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-12-15</are:vznikFunkce>
+     <are:zanikFunkce>2016-05-24</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19035489</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61900</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Přízřenice</are:castObce>
+      <are:ulice>Zelná</are:ulice>
+      <are:cisloPop>68</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MAREK</are:jmeno>
+     <are:prijmeni>JANÍČEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-07-26">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-05-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+     <are:vznikFunkce>2016-06-14</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19352611</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61800</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Černovice</are:castObce>
+      <are:ulice>Přední</are:ulice>
+      <are:cisloPop>1080</are:cisloPop>
+      <are:cisloOr>3a</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ŠÁRKA</are:jmeno>
+     <are:prijmeni>KORKEŠOVÁ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1994-07-01">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2013-08-30">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-06-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>28446887</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>66491</are:psc>
+      <are:obec>Hlína</are:obec>
+      <are:castObce>Hlína</are:castObce>
+      <are:cisloPop>131</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MIROSLAV</are:jmeno>
+     <are:prijmeni>PACHOLÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-03-27">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-01-27</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19579187</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61600</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Žabovřesky</are:castObce>
+      <are:ulice>Zemkova</are:ulice>
+      <are:cisloPop>460</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>MAREČEK</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-12-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Místopředseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2014-12-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19637721</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>63600</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Židenice</are:castObce>
+      <are:ulice>Dykova</are:ulice>
+      <are:cisloPop>1856</are:cisloPop>
+      <are:cisloOr>23</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RENÉ</are:jmeno>
+     <are:prijmeni>NOVOTNÝ</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-02-18">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-12-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3680665</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>59252</are:psc>
+      <are:obec>Rožná</are:obec>
+      <are:castObce>Rožná</are:castObce>
+      <are:cisloPop>172</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DALIBOR</are:jmeno>
+     <are:prijmeni>JANOUŠ</are:prijmeni>
+     <are:titulPred>Doc. Ing.</are:titulPred>
+     <are:titulZa>CSc</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-16">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-12-02</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>Předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2014-12-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19748825</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>61200</are:psc>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Ponava</are:castObce>
+      <are:ulice>Reissigova</are:ulice>
+      <are:cisloPop>320</are:cisloPop>
+      <are:cisloOr>9</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>ZUZANA OLGA</are:jmeno>
+     <are:prijmeni>ARTIMOVÁ</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2006-09-01">
+   <are:Nazev>Jediný akcionář</are:Nazev>
+   <are:Clen dza="2013-08-25">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>19095597</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>60200</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Brno-město</are:castObce>
+      <are:ulice>Dominikánské náměstí</are:ulice>
+      <are:cisloPop>196</are:cisloPop>
+      <are:cisloOr>1</are:cisloOr>
+     </are:adresa>
+     <are:ICO>44992785</are:ICO>
+     <are:ObchodniFirma>Statutární město Brno</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

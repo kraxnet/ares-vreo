@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-25T15:38:19"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-25</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-25</are:Datum_vypisu>
+   <are:Cas_vypisu>15:38:19</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26702924</are:ICO>
+   <are:ObchodniFirma>Invia.cz, a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>27530612</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Nusle</are:castObce>
+    <are:mop>Praha 4</are:mop>
+    <are:ulice>Na hřebenech II</are:ulice>
+    <are:cisloPop>1718</are:cisloPop>
+    <are:cisloOr>8</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-07-22</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+     </are:Text>
+     <are:Text>
+Provozování cestovní kanceláře
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-07-22" dvy="2010-01-01">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-07-22" dvy="2005-01-14">
+    <are:Text>
+jednatel jedná samostatně podepisuje se tak,že k vytištěnému
+nebo napsanému jménu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2005-01-14" dvy="2010-01-01">
+    <are:Text>
+Statutárním orgánem společnosti je jednatel. Jménem společnosti jedná samostatně a podepisuje se tak, že k napsané, vytištěné nebo jinak vyznačené obchodní firmě společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-07-22" dvy="2005-01-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2002-07-22</are:vznikFunkce>
+     <are:zanikFunkce>2004-08-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22622152</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10000</are:psc>
+      <are:okres>Praha 10</are:okres>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Oravská</are:ulice>
+      <are:cisloTxt>3</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radek</are:jmeno>
+     <are:prijmeni>Stavinoha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-07-22" dvy="2010-01-01">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:vznikFunkce>2002-07-22</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>520675</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68501</are:psc>
+      <are:okres>Vyškov</are:okres>
+      <are:obec>Bučovice</are:obec>
+      <are:ulice>Polní</are:ulice>
+      <are:cisloTxt>705</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Drozd</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2010-01-01">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="2010-01-01" dvy="2012-03-21">
+    <are:Text>
+Jménem společnosti jedná představenstvo. Za představenstvo jednají společně dva členové představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2012-03-21" dvy="2014-04-07">
+    <are:Text>
+Jménem společnosti jedná představenstvo. Za představenstvo jedná vždy jeho předseda společně dalším členem představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2014-04-07" dvy="2016-03-11">
+    <are:Text>
+Za společnost jedná představenstvo. Za představenstvo jedná předseda představenstva samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="2016-03-11">
+    <are:Text>
+Společnost zastupuje předseda představenstva společně s dalším členem představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2010-01-01" dvy="2010-02-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2010-01-28</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:text>Wroclaw, Grabskiego 19/5, 53535</are:text>
+     </are:adresa>
+     <are:jmeno>Marcin</are:jmeno>
+     <are:prijmeni>Fraczek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-01-01" dvy="2010-05-27">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2010-01-01</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>520675</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68501</are:psc>
+      <are:okres>Vyškov</are:okres>
+      <are:obec>Bučovice</are:obec>
+      <are:ulice>Polní</are:ulice>
+      <are:cisloTxt>705</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Drozd</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-01-01" dvy="2014-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-03-17</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22166211</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Voříškova</are:ulice>
+      <are:cisloTxt>24</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radek</are:jmeno>
+     <are:prijmeni>Stavinoha</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-02-11" dvy="2011-05-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-01-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2011-02-14</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:text>Wrocław, Rymyrska 11/11, 53206</are:text>
+     </are:adresa>
+     <are:jmeno>Piotr</are:jmeno>
+     <are:prijmeni>Kłodnicki</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2010-05-27" dvy="2013-07-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-08-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-04-20</are:vznikFunkce>
+     <are:zanikFunkce>2013-08-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>520675</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>68501</are:psc>
+      <are:okres>Vyškov</are:okres>
+      <are:obec>Bučovice</are:obec>
+      <are:ulice>Polní</are:ulice>
+      <are:cisloTxt>705</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Drozd</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2011-05-06" dvy="2013-07-25">
+    <are:clenstvi>
+     <are:vznikClenstvi>2011-03-28</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-06-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:text>Varšava, Ul. Lanciego 13/24, PSČ 02792</are:text>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Chyczewski</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-03-21" dvy="2013-06-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-02-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-09-21</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:text>Žerniki, Wrocławskie, Jesionowa 8/c, 51-010</are:text>
+     </are:adresa>
+     <are:jmeno>Jerzy</are:jmeno>
+     <are:prijmeni>Krawczyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2012-03-21" dvy="2013-06-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-02-20</are:vznikClenstvi>
+     <are:zanikClenstvi>2012-11-16</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:text>Wroclaw, Koreańska 73, 52-121</are:text>
+     </are:adresa>
+     <are:jmeno>Juliusz</are:jmeno>
+     <are:prijmeni>Źukowski</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-06-06" dvy="2014-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2012-11-16</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-03-17</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:psc>51-010</are:psc>
+      <are:obec>Žerniki, Wrocławskie</are:obec>
+      <are:ulice>Jesionowa 8/c</are:ulice>
+     </are:adresa>
+     <are:jmeno>JERZY</are:jmeno>
+     <are:prijmeni>KRAWCZYK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-07-25" dvy="2013-09-06">
+    <are:clenstvi>
+     <are:vznikClenstvi>2010-01-01</are:vznikClenstvi>
+     <are:zanikClenstvi>2013-08-09</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2010-04-20</are:vznikFunkce>
+     <are:zanikFunkce>2013-08-09</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21964921</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:ulice>Lopatecká</are:ulice>
+      <are:cisloPop>615</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>DROZD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-07-25" dvy="2014-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-06-21</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-03-17</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:psc>07-410</are:psc>
+      <are:obec>Ostroleka</are:obec>
+      <are:ulice>Sienkiewicza 13/15</are:ulice>
+     </are:adresa>
+     <are:jmeno>TOMASZ ARTUR</are:jmeno>
+     <are:prijmeni>DANIS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-09-06" dvy="2014-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2013-08-09</are:vznikClenstvi>
+     <are:zanikClenstvi>2014-03-17</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2013-08-09</are:vznikFunkce>
+     <are:zanikFunkce>2014-03-17</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21964921</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:ulice>Lopatecká</are:ulice>
+      <are:cisloPop>615</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>DROZD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-04-07" dvy="2015-03-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-03-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21964921</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:obec>Praha 4</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:ulice>Lopatecká</are:ulice>
+      <are:cisloPop>615</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>DROZD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-04-07" dvy="2016-03-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2016-03-10</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:zanikFunkce>2016-03-10</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:psc>07-410</are:psc>
+      <are:obec>Ostroleka</are:obec>
+      <are:ulice>Sienkiewicza 13/15</are:ulice>
+     </are:adresa>
+     <are:jmeno>TOMASZ ARTUR</are:jmeno>
+     <are:prijmeni>DANIS</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2014-04-07" dvy="2017-05-31">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2017-04-25</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:psc>51-010</are:psc>
+      <are:obec>Žerniki, Wrocławskie</are:obec>
+      <are:ulice>Jesionowa 8/c</are:ulice>
+     </are:adresa>
+     <are:jmeno>JERZY</are:jmeno>
+     <are:prijmeni>KRAWCZYK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-03-11" dvy="2016-03-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2014-03-17</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21964921</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Lopatecká</are:ulice>
+      <are:cisloPop>615</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>DROZD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-11">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-03-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+     <are:vznikFunkce>2016-03-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>616</are:stat>
+      <are:obec>Katowice, 40-148</are:obec>
+      <are:ulice>Patalonga 5B</are:ulice>
+     </are:adresa>
+     <are:jmeno>JAROSLAW ADAM</are:jmeno>
+     <are:prijmeni>CZERNEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-03-11" dvy="2017-01-20">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2015-03-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21964921</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14700</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Podolí</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Lopatecká</are:ulice>
+      <are:cisloPop>615</are:cisloPop>
+      <are:cisloOr>5</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>DROZD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-20" dvy="2018-07-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-17</are:vznikClenstvi>
+     <are:zanikClenstvi>2018-07-11</are:zanikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2015-03-10</are:vznikFunkce>
+     <are:zanikFunkce>2018-07-11</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>74553836</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>10900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Horní Měcholupy</are:castObce>
+      <are:mop>Praha 10</are:mop>
+      <are:ulice>U Golfu</are:ulice>
+      <are:cisloPop>669</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>DROZD</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-05-31">
+    <are:clenstvi>
+     <are:vznikClenstvi>2017-04-25</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22732705</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15800</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Stodůlky</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>Volutová</are:ulice>
+      <are:cisloPop>2519</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>KAREL</are:jmeno>
+     <are:prijmeni>BUDKA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2018-07-17">
+    <are:clenstvi>
+     <are:vznikClenstvi>2018-07-12</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+     <are:vznikFunkce>2018-07-12</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>276</are:stat>
+      <are:psc>81477</are:psc>
+      <are:obec>Mnichov</are:obec>
+      <are:ulice>Fiedlerstraße 18</are:ulice>
+     </are:adresa>
+     <are:jmeno>BORIS JEAN EUGENE</are:jmeno>
+     <are:prijmeni>RAOUL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2009-04-07">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="2014-04-07">
+    <are:clenstvi>
+     <are:vznikClenstvi>2014-03-17</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>člen dozorčí rady</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>27663302</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>19000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Vysočany</are:castObce>
+      <are:mop>Praha 9</are:mop>
+      <are:ulice>Pod Harfou</are:ulice>
+      <are:cisloPop>943</are:cisloPop>
+      <are:cisloOr>36</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>RADEK</are:jmeno>
+     <are:prijmeni>ŠAFAŘÍK</are:prijmeni>
+     <are:titulZa>DiS.</are:titulZa>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-05-14">
+    <are:clenstvi>
+     <are:vznikClenstvi>2016-03-10</are:vznikClenstvi>
+    </are:clenstvi>
+    <are:funkce>
+     <are:nazev>předseda dozorčí rady</are:nazev>
+     <are:vznikFunkce>2016-03-10</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23717793</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>46015</are:psc>
+      <are:okres>Liberec</are:okres>
+      <are:obec>Liberec</are:obec>
+      <are:castObce>Liberec XV-Starý Harcov</are:castObce>
+      <are:ulice>Na Nivách</are:ulice>
+      <are:cisloPop>14</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>JAROMÍR</are:jmeno>
+     <are:prijmeni>ŠVIHOVSKÝ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+  <are:Jiny_organ dza="2016-03-11">
+   <are:Nazev>Jediný akcionář</are:Nazev>
+   <are:Clen dza="2017-10-13">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>27530612</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nusle</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Na hřebenech II</are:ulice>
+      <are:cisloPop>1718</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:ICO>03761819</are:ICO>
+     <are:ObchodniFirma>Invia Group SE</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

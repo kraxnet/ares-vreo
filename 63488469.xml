@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-11-09T16:50:10"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-11-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-11-09</are:Datum_vypisu>
+   <are:Cas_vypisu>16:50:10</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>63488469</are:ICO>
+   <are:ObchodniFirma>WADEKO, a.s.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>4801831</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:okres>Uherské Hradiště</are:okres>
+    <are:obec>Uherský Ostroh</are:obec>
+    <are:ulice>Třebízského</are:ulice>
+    <are:cisloTxt>207</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1996-01-24</are:DatumZapisu>
+   <are:DatumVymazu>1999-03-31</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1996-01-24" dvy="1999-03-31">
+   <are:Nazev>Statutární orgán - představenstvo</are:Nazev>
+   <are:ZpusobJednani dza="1996-01-24" dvy="1997-12-08">
+    <are:Text>
+Jednání jménem společnosti:
+Jménem společnosti jedná předseda představenstva, v jeho
+nepřítomnosti místopředseda nebo pověřený člen představenstva.
+Za společnost podepisují společně předseda a místopředseda
+představenstva, nebo předseda a jím pověřený člen
+představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1997-12-08" dvy="1999-03-31">
+    <are:Text>
+Jednání jménem společnosti:
+Jménem společnosti navenek jedná za předsatenstvo předseda
+představenstva.
+Za společnost podepisuje předseda představenstva nebo dva
+členové představenstva a to tak, že k napsanému nebo
+vytištěnému názvu společnosti připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1996-01-24" dvy="1997-09-02">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>tř. T. Bati</are:ulice>
+      <are:cisloTxt>1285</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Dlabač</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-24" dvy="1997-09-02">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Brno-město</are:okres>
+      <are:obec>Brno</are:obec>
+      <are:ulice>Tábor</are:ulice>
+      <are:cisloTxt>50A</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Rozehnal</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-24" dvy="1997-09-02">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Halenkovice 49</are:obec>
+     </are:adresa>
+     <are:jmeno>Zdeněk</are:jmeno>
+     <are:prijmeni>Kolek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-24" dvy="1997-09-02">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4177606</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Mladcová</are:ulice>
+      <are:cisloTxt>360</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vratislav</are:jmeno>
+     <are:prijmeni>Trlida</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1996-01-24" dvy="1997-09-02">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13677586</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Dubňany</are:obec>
+      <are:ulice>Hodonínská</are:ulice>
+      <are:cisloTxt>500</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Josef</are:jmeno>
+     <are:prijmeni>Ševela</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-02" dvy="1997-12-08">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>24842583</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>sídl. Svobody</are:ulice>
+      <are:cisloTxt>XI/36</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Sekanina</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-02" dvy="1999-03-31">
+    <are:funkce>
+     <are:nazev>místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13715399</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Hodonín</are:okres>
+      <are:obec>Veselí nad Moravou</are:obec>
+      <are:ulice>Hutník</are:ulice>
+      <are:cisloTxt>1439</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Stanislav</are:jmeno>
+     <are:prijmeni>Vrba</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-02" dvy="1999-03-31">
+    <are:funkce>
+     <are:nazev>člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4799682</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Uherské Hradiště</are:okres>
+      <are:obec>Uherský Ostroh</are:obec>
+      <are:ulice>Sídliště</are:ulice>
+      <are:cisloTxt>849</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslav</are:jmeno>
+     <are:prijmeni>Doubrava</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-12-08" dvy="1999-03-31">
+    <are:funkce>
+     <are:nazev>předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Prostějov</are:okres>
+      <are:obec>Prostějov</are:obec>
+      <are:ulice>Jasanova</are:ulice>
+      <are:cisloTxt>345/1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>František</are:jmeno>
+     <are:prijmeni>Sekanina</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1996-01-24" dvy="1999-03-31">
+   <are:Nazev>Dozorčí rada</are:Nazev>
+   <are:Clen dza="1997-09-02" dvy="1999-03-31">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23331453</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Olomouc</are:okres>
+      <are:obec>Olomouc</are:obec>
+      <are:ulice>Polská</are:ulice>
+      <are:cisloTxt>37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jan</are:jmeno>
+     <are:prijmeni>Komárek</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-02" dvy="1999-03-31">
+    <are:funkce>
+     <are:nazev>místopředseda</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Uherské Hradiště</are:okres>
+      <are:obec>Uherské Hradiště</are:obec>
+      <are:ulice>Velehradská</are:ulice>
+      <are:cisloTxt>799</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Antonín</are:jmeno>
+     <are:prijmeni>Juráň</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-02" dvy="1999-03-31">
+    <are:funkce>
+     <are:nazev>člen</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4988809</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Staré Město</are:obec>
+      <are:ulice>Bratří Mrštíků</are:ulice>
+      <are:cisloTxt>1774</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Plevák</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T21:00:37"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>21:00:37</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25731602</are:ICO>
+   <are:ObchodniFirma>Ligostav s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21943095</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>Vladimírova</are:ulice>
+    <are:cisloTxt>5/289</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-01-27</are:DatumZapisu>
+   <are:DatumVymazu>2012-01-27</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+zednictví
+     </are:Text>
+     <are:Text>
+úklidové práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-01-27" dvy="2012-01-27">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1999-01-27" dvy="2012-01-27">
+    <are:Text>
+Za společnost jedná jednatel společnosti samostatně bez omezení.
+Podepisování za společnost se děje tak, že jednatel připojí svůj
+podpis k obchodnímu jménu společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22060464</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Na cikánce</are:ulice>
+      <are:cisloTxt>2275</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Victor</are:jmeno>
+     <are:prijmeni>Pozdirca</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-04-10" dvy="2012-01-27">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2009-04-10" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21705003</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:obec>Praha 1</are:obec>
+      <are:ulice>Vodičkova</are:ulice>
+      <are:cisloTxt>709/33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Gabriel</are:jmeno>
+     <are:prijmeni>Žilinský</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1999-01-27" dvy="2012-01-27">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Discova 22, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Victor</are:jmeno>
+     <are:prijmeni>Pozdirca</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. Eminescu 19/60</are:text>
+     </are:adresa>
+     <are:jmeno>Petru</are:jmeno>
+     <are:prijmeni>Josanu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, Stežarilor 2/13</are:text>
+     </are:adresa>
+     <are:jmeno>Gheorghe</are:jmeno>
+     <are:prijmeni>Tarus</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. Gihore Ureki 9</are:text>
+     </are:adresa>
+     <are:jmeno>Fiodor</are:jmeno>
+     <are:prijmeni>Mihailov</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Viprova 14, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Valentin</are:jmeno>
+     <are:prijmeni>Birsan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Isacova 37, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Gujuman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. Nistreana 12/3</are:text>
+     </are:adresa>
+     <are:jmeno>Boris</are:jmeno>
+     <are:prijmeni>Costache</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. Nistreana 12/7</are:text>
+     </are:adresa>
+     <are:jmeno>Sergiu</are:jmeno>
+     <are:prijmeni>Scurtu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. Nistreana 12/6</are:text>
+     </are:adresa>
+     <are:jmeno>Andrei</are:jmeno>
+     <are:prijmeni>Covalschi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. 1. máje 55/24</are:text>
+     </are:adresa>
+     <are:jmeno>Victor</are:jmeno>
+     <are:prijmeni>Efimenco</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. Tamary Zebonu 2/10</are:text>
+     </are:adresa>
+     <are:jmeno>Grigore</are:jmeno>
+     <are:prijmeni>Globa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Traclia 111, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Nicolae</are:jmeno>
+     <are:prijmeni>Neculcea</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Branicea 95, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Victor</are:jmeno>
+     <are:prijmeni>Pirlici</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Mitoc, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Iurie</are:jmeno>
+     <are:prijmeni>Maracicovschi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. Lazo 4/44</are:text>
+     </are:adresa>
+     <are:jmeno>Mihail</are:jmeno>
+     <are:prijmeni>Popescu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Chiperceni 132, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Simion</are:jmeno>
+     <are:prijmeni>Botan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Porumbešti 14, Kontemirovskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Mihail</are:jmeno>
+     <are:prijmeni>Diaconu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Riscani, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Vitalie</are:jmeno>
+     <are:prijmeni>Spinei</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Malaetsi, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Mihail</are:jmeno>
+     <are:prijmeni>Rotari</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, Frunze 59</are:text>
+     </are:adresa>
+     <are:jmeno>Anatolie</are:jmeno>
+     <are:prijmeni>Arnautu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Tirnovo, Edineckij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Bronislav</are:jmeno>
+     <are:prijmeni>Dopca</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, Nehrucy 113/89</are:text>
+     </are:adresa>
+     <are:jmeno>Constantin</are:jmeno>
+     <are:prijmeni>Anghel</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. V. Lupu 117/4</are:text>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Bratescu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. Nehrucy 113/25</are:text>
+     </are:adresa>
+     <are:jmeno>Mihail</are:jmeno>
+     <are:prijmeni>Vlas</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Mateuti, Rezinskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Gheorghe</are:jmeno>
+     <are:prijmeni>Donica</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. Nehrucy 113/2</are:text>
+     </are:adresa>
+     <are:jmeno>Vasile</are:jmeno>
+     <are:prijmeni>Gujuman</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Malaiesti 140, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Rotaru</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Tirnova 17, Edineckij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Genadie</are:jmeno>
+     <are:prijmeni>Sircovschi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Tirnova 9, Edineckij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Alexandru</are:jmeno>
+     <are:prijmeni>Cozearschi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Vodica, Rachivskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Vatrala</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Luny 432, Rachivskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Vartsabyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Tirzieni 42, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Vladimir</are:jmeno>
+     <are:prijmeni>Bunescu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Radča, Tysmenyckij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Yarchuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Starlinja 71, Bohoropčanskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Lukavskyy</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Sadkivci 62, Mohyliv-Podilskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Oleg</are:jmeno>
+     <are:prijmeni>Kozubenko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>804</are:stat>
+      <are:text>Olenivka 62, Mohyliv-Podilskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Oleg</are:jmeno>
+     <are:prijmeni>Lozan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Closusna 40, Ocnitskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Valentin</are:jmeno>
+     <are:prijmeni>Blindu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Closusna 25, Ocnitskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Ghenadie</are:jmeno>
+     <are:prijmeni>Caminschi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. Dimo 21</are:text>
+     </are:adresa>
+     <are:jmeno>Ion</are:jmeno>
+     <are:prijmeni>Ceban</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Putintei 45, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Valeriu</are:jmeno>
+     <are:prijmeni>Volcu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Orhei, ul. V. Machu 92</are:text>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Burlaca</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Chiperceni 87, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Alexandru</are:jmeno>
+     <are:prijmeni>Stici</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Pohrebeni 45, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Gheorghe</are:jmeno>
+     <are:prijmeni>Chihai</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Jakira 42, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Stefan</are:jmeno>
+     <are:prijmeni>Trusovschi</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Čebanu 10/13, Orhei</are:text>
+     </are:adresa>
+     <are:jmeno>Mihail</are:jmeno>
+     <are:prijmeni>Barbascumpa</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Tirnova 71, Edineckij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Alexandru</are:jmeno>
+     <are:prijmeni>Fulga</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1999-01-27" dvy="2012-01-27">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>101</are:ruianKod>
+      <are:stat>498</are:stat>
+      <are:text>Bolohan 33, Orheiskij rajon</are:text>
+     </are:adresa>
+     <are:jmeno>Vasile</are:jmeno>
+     <are:prijmeni>Zmeu</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

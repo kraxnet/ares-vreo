@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T20:30:01"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>20:30:01</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25669354</are:ICO>
+   <are:ObchodniFirma>EXU-NATY, s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21949131</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>14000</are:psc>
+    <are:okres>Praha 4</are:okres>
+    <are:obec>Praha 4</are:obec>
+    <are:ulice>5.května</are:ulice>
+    <are:cisloTxt>1109/63</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-05-25</are:DatumZapisu>
+   <are:DatumVymazu>2016-12-21</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost EXU-NATY, s.r.o. v likvidaci se ke dni 31.8.2016 vymazává z obchodního rejstříku. Právním důvodem výmazu je ukončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej (vyjma zboží
+uvedeného v příloze 1,2 a 3 cit.zákona)
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-05-25" dvy="2016-12-21">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1998-05-25" dvy="2016-12-21">
+    <are:Text>
+Společnost zastupuje navenek jednatel. Za společnost se
+podepisuje jednatel, a to tak, že k vytištěnému nebo vypsanému
+obch.jménu společnosti připojí svůj vlastnoruční podpis
+jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-05-25" dvy="2014-11-20">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+     <are:zanikFunkce>2000-09-25</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22080180</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15000</are:psc>
+      <are:okres>Praha 5</are:okres>
+      <are:obec>Praha 5</are:obec>
+      <are:ulice>Plzeňská</are:ulice>
+      <are:cisloTxt>42/545</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Juliana</are:jmeno>
+     <are:prijmeni>Štefanová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2015-06-12" dvy="2016-12-21">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2015-06-12" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22283315</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>16200</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Veleslavín</are:castObce>
+      <are:mop>Praha 6</are:mop>
+      <are:ulice>Krásného</are:ulice>
+      <are:cisloPop>351</are:cisloPop>
+      <are:cisloOr>8</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>FRANTIŠEK</are:jmeno>
+     <are:prijmeni>ČERVENKA</are:prijmeni>
+     <are:titulPred>Ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1998-05-25" dvy="2016-12-21">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 9, Třeboradice</are:obec>
+      <are:ulice>Širsova</are:ulice>
+      <are:cisloTxt>190</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>LING LI HU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22368612</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 8</are:okres>
+      <are:obec>Praha 8</are:obec>
+      <are:ulice>Famfulíkova</are:ulice>
+      <are:cisloTxt>1138</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>WEI FENG YE</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22510672</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Zahrádkářů</are:ulice>
+      <are:cisloTxt>145/18</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>YIN JU HU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 1O</are:obec>
+      <are:ulice>Moskevská</are:ulice>
+      <are:cisloTxt>58</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>JIAN BO CHI</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22520104</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Schoellerova</are:ulice>
+      <are:cisloTxt>229</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>JIAN RONG LIU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Bělohorská</are:ulice>
+      <are:cisloTxt>117/29</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>GUAN ZHAO CHEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22290605</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Angolská</are:ulice>
+      <are:cisloTxt>5</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>JIAN GUO YANG</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 6</are:okres>
+      <are:obec>Praha 6</are:obec>
+      <are:ulice>Bělohorská</are:ulice>
+      <are:cisloTxt>117/29</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>CHUN JU WU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21347280</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Zdiby</are:obec>
+      <are:ulice>Veltěž</are:ulice>
+      <are:cisloTxt>93</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>XUE MEI CHEN</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21951039</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 4</are:okres>
+      <are:obec>Praha 4</are:obec>
+      <are:ulice>Sdružení</are:ulice>
+      <are:cisloTxt>29</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>YONG FEN ZHOU</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>156</are:stat>
+      <are:text>Xiao Xin Cu, Wencheng, Zhejiang</are:text>
+     </are:adresa>
+     <are:jmeno>Shen</are:jmeno>
+     <are:prijmeni>Chenggen</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>156</are:stat>
+      <are:text>Xiao Xin Cun, Wencheng, Zhejiang</are:text>
+     </are:adresa>
+     <are:jmeno>Lei</are:jmeno>
+     <are:prijmeni>Jianbing</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>156</are:stat>
+      <are:text>Long Chuan Zhen, Wencheng, Zhejiang</are:text>
+     </are:adresa>
+     <are:jmeno>Cheng</are:jmeno>
+     <are:prijmeni>Qijun</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>156</are:stat>
+      <are:text>Guyang Bei Road 62, Songjiang, Shanghai</are:text>
+     </are:adresa>
+     <are:jmeno>Shen</are:jmeno>
+     <are:prijmeni>Lingling</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>156</are:stat>
+      <are:text>Fangta Dong Er Chun, Songjiang, Shanghai</are:text>
+     </are:adresa>
+     <are:prijmeni>HE JIANPING</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>380</are:stat>
+      <are:text>Via M.Malibran 63, Firenze</are:text>
+     </are:adresa>
+     <are:prijmeni>HU CUICHA</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>380</are:stat>
+      <are:text>Via M.Malibran 63, Firenze</are:text>
+     </are:adresa>
+     <are:prijmeni>YE CAI SHUANG</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-05-25" dvy="2016-12-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>156</are:stat>
+      <are:text>Banqiao Cun, XYongjia Xian, Zhejiang</are:text>
+     </are:adresa>
+     <are:prijmeni>LIN JIAN PING</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

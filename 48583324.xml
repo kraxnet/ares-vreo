@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2019-01-21T16:01:57"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>2</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-21</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-21</are:Datum_vypisu>
+   <are:Cas_vypisu>16:01:57</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48583324</are:ICO>
+   <are:ObchodniFirma>ROCKAR spol. s r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:stat>203</are:stat>
+    <are:okres>Praha 2</are:okres>
+    <are:obec>Praha 2</are:obec>
+    <are:ulice>Vratislavova</are:ulice>
+    <are:cisloTxt>4</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-02-12</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+hornická činnost a činnost prováděná hornickým způsobem
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-02-12">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-02-12" dvy="1994-06-09">
+    <are:Text>
+Společnost zastupují dva jednatelé. Podepisování za společnost
+se děje tak, že k obchodnímu jménu společnosti připojí svůj
+podpis kterýkoliv z jednatelů společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1994-06-09" dvy="1995-06-14">
+    <are:Text>
+Jednatelé jednají jménem společnosti samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-06-14" dvy="1997-09-23">
+    <are:Text>
+Jednatel jedná jménem společnosti samostatně v plném rozsahu
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1997-09-23">
+    <are:Text>
+Společnost zastupuje jeden jednatel, který jedná jménem
+společnosti samostatně a podepisuje za společnost tak, že k
+obchodnímu jménu společnosti připojí svůj vlastnoruční podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-02-12" dvy="1995-06-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22304321</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>Bubenské nábř.</are:ulice>
+      <are:cisloTxt>866/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Panáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-12" dvy="1995-06-14">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>40003</are:psc>
+      <are:obec>Ústí nad Labem, Střekov</are:obec>
+      <are:ulice>Novoveská 15</are:ulice>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Mašek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-06-14" dvy="1997-09-23">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Raduň</are:obec>
+      <are:ulice>Vršovice</are:ulice>
+      <are:cisloTxt>125</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Jaroš</are:prijmeni>
+     <are:titulPred>ing.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1997-09-23" dvy="2007-05-19">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2005-04-21</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>14663619</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Úvaly</are:obec>
+      <are:ulice>Jeronýmova</are:ulice>
+      <are:cisloTxt>705</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ladislav</are:jmeno>
+     <are:prijmeni>Dráb</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2010-08-26">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2010-08-26" dvy="2015-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21753598</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 2</are:obec>
+      <are:ulice>Chodská</are:ulice>
+      <are:cisloPop>1428</are:cisloPop>
+      <are:cisloOr>12</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>Jiří</are:jmeno>
+     <are:prijmeni>Kunce</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-12-31">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>21841462</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>14900</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Chodov</are:castObce>
+      <are:mop>Praha 4</are:mop>
+      <are:ulice>Bachova</are:ulice>
+      <are:cisloPop>1592</are:cisloPop>
+      <are:cisloOr>4</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JIŘÍ</are:jmeno>
+     <are:prijmeni>KUNCE</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-02-12">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1995-06-14">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>22304321</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>Bubenské nábř.</are:ulice>
+      <are:cisloTxt>866/11</are:cisloTxt>
+     </are:adresa>
+     <are:ObchodniFirma>Radomír Panáček</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="1995-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Quebec Canada</are:obec>
+      <are:ulice>41 Place Caledonie</are:ulice>
+     </are:adresa>
+     <are:jmeno>Regent</are:jmeno>
+     <are:prijmeni>Lalancette</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-06-14">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Brossard, Quebec Canada</are:obec>
+      <are:ulice>Marie Victorin Blvd.,Suite 500</are:ulice>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Cardinal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2013-11-28">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>17913705</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40003</are:psc>
+      <are:obec>Ústí nad Labem</are:obec>
+      <are:castObce>Střekov</are:castObce>
+      <are:ulice>Novoveská</are:ulice>
+      <are:cisloPop>1479</are:cisloPop>
+      <are:cisloOr>15</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>PAVEL</are:jmeno>
+     <are:prijmeni>MAŠEK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2019-01-18">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>30256984</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>25082</are:psc>
+      <are:okres>Praha-východ</are:okres>
+      <are:obec>Úvaly</are:obec>
+      <are:castObce>Úvaly</are:castObce>
+      <are:ulice>Arnošta z Pardubic</are:ulice>
+      <are:cisloPop>95</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>LADISLAV</are:jmeno>
+     <are:prijmeni>DRÁB</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2019-01-21</are:Aktualizace_DB>
+   <are:Datum_vypisu>2019-01-21</are:Datum_vypisu>
+   <are:Cas_vypisu>16:01:57</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>48583324</are:ICO>
+   <are:ObchodniFirma>ROCKAR spol. s r.o.</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>okr. Opava</are:obec>
+    <are:ulice>Jakartovice č.p. 2l</are:ulice>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-02-12</are:DatumZapisu>
+   <are:DatumVymazu>1998-09-10</are:DatumVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-02-12" dvy="1998-09-10">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-02-12" dvy="1998-09-10">
+    <are:Text>
+Zastupování a podepisování za společnost:
+Společnost zastupují dva jednatelé. Podepisování za společnost
+se děje tak, že k obchodnímu jménu společnosti připojí svůj
+podpis kterýkoliv z jednatelů společnosti.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-02-12" dvy="1998-09-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22304321</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>Bubenské nábř.</are:ulice>
+      <are:cisloTxt>866/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Panáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-12" dvy="1998-09-10">
+    <are:funkce>
+     <are:nazev>jednatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40003</are:psc>
+      <are:obec>Ústí nad Labem,Střekov</are:obec>
+      <are:ulice>Novoveská 15</are:ulice>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Mašek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-02-12" dvy="1998-09-10">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1993-02-12" dvy="1998-09-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>.</are:obec>
+     </are:adresa>
+     <are:jmeno>Robert</are:jmeno>
+     <are:prijmeni>Cardinal</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-12" dvy="1998-09-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22304321</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>17000</are:psc>
+      <are:obec>Praha 7</are:obec>
+      <are:ulice>Bubenské nábř.</are:ulice>
+      <are:cisloTxt>866/11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Radomír</are:jmeno>
+     <are:prijmeni>Panáček</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-02-12" dvy="1998-09-10">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>100</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>40003</are:psc>
+      <are:obec>Ústí nad Labem,Střekov</are:obec>
+      <are:ulice>Novoveská 15</are:ulice>
+     </are:adresa>
+     <are:jmeno>Pavel</are:jmeno>
+     <are:prijmeni>Mašek</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

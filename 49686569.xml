@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-10-10T12:20:42"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-10-10</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-10-10</are:Datum_vypisu>
+   <are:Cas_vypisu>12:20:42</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>49686569</are:ICO>
+   <are:ObchodniFirma>SPETRANS  s.r.o v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22665862</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>10100</are:psc>
+    <are:okres>Hlavní město Praha</are:okres>
+    <are:obec>Praha</are:obec>
+    <are:castObce>Vršovice</are:castObce>
+    <are:mop>Praha 10</are:mop>
+    <are:ulice>Oblouková</are:ulice>
+    <are:cisloPop>944</are:cisloPop>
+    <are:cisloOr>36</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1993-10-13</are:DatumZapisu>
+   <are:DatumVymazu>2018-10-04</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost SPETRANS  s.r.o v likvidaci se sídlem Oblouková 944/36, Vršovice, 101 00 Praha 10, IČO: 496 86 569, se ke dni nabytí právní moci usnesení o výmazu vymazává z obchodního rejstříku vedeného Městským soudem v Praze,oddíl C, vložka 23631. Právním d
+ůvodem výmazu je ukončení likvidace společnosti SPETRANS s.r.o. v likvidaci ke dni 1. 10. 2018, návrh na výmaz dle § 205, odst. 3 zákona 89/2012 Sb.
+    </are:Text>
+   </are:DuvodVymazu>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1993-10-13" dvy="2018-10-04">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1993-10-13" dvy="2018-10-04">
+    <are:Text>
+Způsob jednání za společnost:
+Jednatel jedná za společnost samostatně a v plném rozsahu.
+Podepisuje za společnost tak,že k vyznačenému jménu společnosti
+připojí svůj podpis.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1993-10-13" dvy="2003-03-12">
+    <are:funkce>
+     <are:nazev>Jedatel</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>22665862</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Praha 10</are:obec>
+      <are:ulice>Oblouková</are:ulice>
+      <are:cisloTxt>36</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Luděk</are:jmeno>
+     <are:prijmeni>Kovář</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2017-11-27" dvy="2018-10-04">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2017-11-27" dvy="2018-04-19">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21712409</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Opletalova</are:ulice>
+      <are:cisloPop>1525</are:cisloPop>
+      <are:cisloOr>39</are:cisloOr>
+     </are:adresa>
+     <are:ICO>29059054</are:ICO>
+     <are:ObchodniFirma>Hlista &amp; Pril, v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+   <are:Clen dza="2018-04-19" dvy="2018-10-04">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>21711810</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>11000</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Nové Město</are:castObce>
+      <are:mop>Praha 1</are:mop>
+      <are:ulice>Opletalova</are:ulice>
+      <are:cisloPop>1417</are:cisloPop>
+      <are:cisloOr>25</are:cisloOr>
+     </are:adresa>
+     <are:ICO>29059054</are:ICO>
+     <are:ObchodniFirma>Hlista &amp; Pril, v.o.s.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-10-13" dvy="2018-10-04">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="1993-10-13" dvy="2018-10-04">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:obec>Tannenweg 8 A,SRN</are:obec>
+      <are:ulice>4005 Meerbusch 1</are:ulice>
+     </are:adresa>
+     <are:prijmeni>Ernst Axel Russell</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-10-13" dvy="2018-10-04">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>756</are:stat>
+      <are:obec>CH-4001 Basel</are:obec>
+      <are:ulice>Freie Strasse 81</are:ulice>
+     </are:adresa>
+     <are:ObchodniFirma>B i l o b a  AG</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

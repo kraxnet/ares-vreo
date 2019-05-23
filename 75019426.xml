@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2018-04-05T11:28:06"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2018-04-05</are:Aktualizace_DB>
+   <are:Datum_vypisu>2018-04-05</are:Datum_vypisu>
+   <are:Cas_vypisu>11:28:06</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>SR</are:Rejstrik>
+   <are:ICO>75019426</are:ICO>
+   <are:ObchodniFirma>Jednotná organizace zdravotně postižených Místní organizace Trutnov v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>2276267</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>54102</are:psc>
+    <are:okres>Trutnov</are:okres>
+    <are:obec>Trutnov</are:obec>
+    <are:castObce>Horní Staré Město</are:castObce>
+    <are:ulice>Horská</are:ulice>
+    <are:cisloPop>116</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>2014-01-01</are:DatumZapisu>
+   <are:DatumVymazu>2018-03-30</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se ze spolkového rejstříku Jednotná organizace zdravotně postižených Místní organizace Trutnov v likvidaci, Horská 116, Horní Staré Město, 541 02 Trutnov, identifikační číslo 750 19 426, včetně všech vymazávaných údajů.
+Právní důvod výmazu: zrušení s likvidací a skončení likvidace
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:Ucel>
+     <are:Text>
+JOZP sdružuje členy bez ohledu na typ a rozsah postižení a hájí zájmy zdravotně postižených
+     </are:Text>
+    </are:Ucel>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2016-05-06" dvy="2018-03-30">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-05-06" dvy="2018-03-30">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>2260654</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>54101</are:psc>
+      <are:obec>Trutnov</are:obec>
+      <are:castObce>Střední Předměstí</are:castObce>
+      <are:ulice>Libušinka</are:ulice>
+      <are:cisloPop>403</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>VĚRA</are:jmeno>
+     <are:prijmeni>NOVOTNÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2014-01-01" dvy="2018-03-30">
+   <are:Nazev>Zakladatel</are:Nazev>
+   <are:Clen dza="2014-01-01" dvy="2018-03-30">
+    <are:posoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>54101</are:psc>
+      <are:obec>Trutnov</are:obec>
+      <are:ulice>Horská</are:ulice>
+      <are:cisloPop>5</are:cisloPop>
+     </are:adresa>
+     <are:ICO>26611660</are:ICO>
+     <are:ObchodniFirma>Jednotná organizace zdravotně postižených v regionu:Trutnov,Dvůr..</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

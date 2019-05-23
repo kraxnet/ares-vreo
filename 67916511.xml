@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-17T08:46:39"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-17</are:Datum_vypisu>
+   <are:Cas_vypisu>08:46:39</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>67916511</are:ICO>
+   <are:ObchodniFirma>Mykhaylo Filip</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>611204</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>33003</are:psc>
+    <are:okres>Plzeň-město</are:okres>
+    <are:obec>Chrást</are:obec>
+    <are:castObce>Chrást</are:castObce>
+    <are:ulice>tř. Čs. odboje</are:ulice>
+    <are:cisloPop>213</are:cisloPop>
+   </are:Sidlo>
+   <are:DatumZapisu>1999-04-26</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+výkopové práce
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1999-04-26">
+   <are:Nazev>Podnikatel</are:Nazev>
+   <are:Clen dza="1999-04-26" dvy="2017-01-25">
+    <are:fosoba>
+     <are:jmeno>Mykhaylo</are:jmeno>
+     <are:prijmeni>Filip</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-01-25">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>611204</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>33003</are:psc>
+      <are:okres>Plzeň-město</are:okres>
+      <are:obec>Chrást</are:obec>
+      <are:castObce>Chrást</are:castObce>
+      <are:ulice>tř. Čs. odboje</are:ulice>
+      <are:cisloPop>213</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MYKHAYLO</are:jmeno>
+     <are:prijmeni>FILIP</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

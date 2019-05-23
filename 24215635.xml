@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T10:34:31"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>10:34:31</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>24215635</are:ICO>
+   <are:ObchodniFirma>TIROP, spol. s r.o. - odštěpný závod 01</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>22085246</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>15000</are:psc>
+    <are:obec>Praha 5</are:obec>
+    <are:ulice>Na Laurové</are:ulice>
+    <are:cisloOr>5</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1995-05-04</are:DatumZapisu>
+   <are:DatumVymazu>2015-03-25</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Vymazává se z obchodního rejstříku odštěpný závod 01 společnosti TIPOP spol. s r.o., se sídlem v Praze 4, ul. Marie Cibulková čp. 34/356 (dříve: Plzeň, Slovanská 18), identifikační číslo: 45348154, na základě pravomocného usnesení Krajského soudu v Plzni
+ze dne 6.5.1996 čj. Firm 9480/96, Rg. C 2097/6-90.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+činnost organizačních a ekonomických poradců
+     </are:Text>
+     <are:Text>
+auditing podle zákona o auditorech
+     </are:Text>
+     <are:Text>
+činnost účetních poradců
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Jiny_organ dza="1995-05-04" dvy="2015-03-25">
+   <are:Nazev>Zřizovatel</are:Nazev>
+   <are:Clen dza="1995-05-04" dvy="2015-03-25">
+    <are:posoba>
+     <are:adresa>
+      <are:ruianKod>24497363</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Plzeň</are:obec>
+      <are:ulice>Slovanská</are:ulice>
+      <are:cisloOr>18</are:cisloOr>
+     </are:adresa>
+     <are:ObchodniFirma>TIROP, spol. s r.o.</are:ObchodniFirma>
+    </are:posoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

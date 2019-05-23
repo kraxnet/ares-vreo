@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-13T04:30:40"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-13</are:Datum_vypisu>
+   <are:Cas_vypisu>04:30:40</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>26505347</are:ICO>
+   <are:ObchodniFirma>KRAVZ s.r.o. v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>21904197</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Praha 4 - Nusle</are:obec>
+    <are:ulice>Děkanská</are:ulice>
+    <are:cisloTxt>201/10</are:cisloTxt>
+   </are:Sidlo>
+   <are:DatumZapisu>2002-01-16</are:DatumZapisu>
+   <are:DatumVymazu>2017-07-19</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost KRAVZ s.r.o. v likvidaci, identifikační číslo 265 05 347, se vymazává z obchodního rejstříku. Právním důvodem výmazu je skončení likvidace.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+Přípravné práce pro stavby
+     </are:Text>
+     <are:Text>
+Správa a údržba nemovitostí
+     </are:Text>
+     <are:Text>
+Lesnictví, těžba dřeva a poskytování služeb v myslivosti
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="2002-01-16" dvy="2017-07-19">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="2002-01-16" dvy="2017-07-19">
+    <are:Text>
+Statutárním orgánem společnosti je jeden nebo více jednatelů.
+Je-li jednatelů více, je oprávněn jednat jménem společnosti
+každý z nich samostatně.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:vznikFunkce>2002-01-16</are:vznikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:okres>Praha 9</are:okres>
+      <are:obec>Praha 9</are:obec>
+      <are:ulice>Podnikatelská</are:ulice>
+      <are:cisloTxt>11</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksandra</are:jmeno>
+     <are:prijmeni>Kravz</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2016-09-14" dvy="2017-07-19">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2016-09-14" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>30554110</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>15300</are:psc>
+      <are:okres>Hlavní město Praha</are:okres>
+      <are:obec>Praha</are:obec>
+      <are:castObce>Radotín</are:castObce>
+      <are:mop>Praha 5</are:mop>
+      <are:ulice>K cementárně</are:ulice>
+      <are:cisloPop>1427</are:cisloPop>
+      <are:cisloOr>1d</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>KREJČÍ</are:prijmeni>
+     <are:titulPred>JUDr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="2002-01-16" dvy="2017-07-19">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, Vel. Byckov</are:castObce>
+      <are:ulice>ul. Borkanyuka</are:ulice>
+      <are:cisloTxt>160</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Oleksandra</are:jmeno>
+     <are:prijmeni>Kravz</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Irsavskyy</are:castObce>
+      <are:ulice>ul. Ilnytsya Vorosylova</are:ulice>
+      <are:cisloTxt>40</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Kozar</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Irsavskyy, Bilky</are:castObce>
+      <are:ulice>ul. Armii</are:ulice>
+      <are:cisloTxt>62</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Yantolyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Irsavskyy, Bilky</are:castObce>
+      <are:ulice>ul. Lermontova</are:ulice>
+      <are:cisloTxt>47</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Petro</are:jmeno>
+     <are:prijmeni>Zeykan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Dobrovolciv</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yaroslav</are:jmeno>
+     <are:prijmeni>Sahan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Solotvyno</are:castObce>
+      <are:ulice>ul. Zoji Kosmodemyanskoi</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Cherbanyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Ternovo</are:castObce>
+      <are:ulice>ul. Borkanyuka</are:ulice>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Cherbanyk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Hruševo</are:castObce>
+      <are:ulice>ul. Sčorsa</are:ulice>
+      <are:cisloTxt>18</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Martynyuk</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Solotvyno</are:castObce>
+      <are:ulice>ul. K. Marksa</are:ulice>
+      <are:cisloTxt>31</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Zobashko</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, Rachiv</are:castObce>
+      <are:ulice>ul. Myru</are:ulice>
+      <are:cisloTxt>113</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Hudz</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Hruševo</are:castObce>
+      <are:ulice>ul. Sčorsa</are:ulice>
+      <are:cisloTxt>19</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Forkosh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Dibrova</are:castObce>
+      <are:ulice>ul. K. Marksa</are:ulice>
+      <are:cisloTxt>124</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Alb</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, Rachiv</are:castObce>
+      <are:ulice>ul. Myru</are:ulice>
+      <are:cisloTxt>113</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasylyna</are:jmeno>
+     <are:prijmeni>Hudz</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Dobrovolčiv</are:ulice>
+      <are:cisloTxt>47</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Belan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Hirska</are:ulice>
+      <are:cisloTxt>17</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Kharbaka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Hlubokyy Potok</are:castObce>
+      <are:ulice>ul. Dyalu Boul</are:ulice>
+      <are:cisloTxt>33</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Nutsu</are:jmeno>
+     <are:prijmeni>Plantish</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Peršotravneva</are:ulice>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Lybavka</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Tyaciv</are:castObce>
+      <are:ulice>ul. Komsomolska</are:ulice>
+      <are:cisloTxt>3/9</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Olena</are:jmeno>
+     <are:prijmeni>Mamnyak</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Dobrovolciv</are:ulice>
+      <are:cisloTxt>37</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vasyl</are:jmeno>
+     <are:prijmeni>Rosushchan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Kutuzova</are:ulice>
+      <are:cisloTxt>32</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mariya</are:jmeno>
+     <are:prijmeni>Syrkova</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Hlubokyy Potok</are:castObce>
+      <are:ulice>ul. Centralna</are:ulice>
+      <are:cisloTxt>139</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Volodymyr</are:jmeno>
+     <are:prijmeni>Krets</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Kutuzova</are:ulice>
+      <are:cisloTxt>30</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Yuriy</are:jmeno>
+     <are:prijmeni>Ostash</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Peremohy</are:ulice>
+      <are:cisloTxt>21</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hanna</are:jmeno>
+     <are:prijmeni>Lakatysh</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Tyaciv</are:castObce>
+      <are:ulice>ul. Komsomolska</are:ulice>
+      <are:cisloTxt>17/8</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Dumnych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Tyacevskyy, Tyaciv</are:castObce>
+      <are:ulice>ul. Rachivska</are:ulice>
+      <are:cisloTxt>1</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Serhiy</are:jmeno>
+     <are:prijmeni>Dumnych</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Dobrovolciv</are:ulice>
+      <are:cisloTxt>10</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Mykola</are:jmeno>
+     <are:prijmeni>Ofrim</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Dobrovolciv</are:ulice>
+      <are:cisloTxt>14</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Ivan</are:jmeno>
+     <are:prijmeni>Sahan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2002-01-16" dvy="2017-07-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>804</are:stat>
+      <are:obec>Zakarpatská oblast</are:obec>
+      <are:castObce>Rrachovskyy, V.Vodyane</are:castObce>
+      <are:ulice>ul. Dobrovolciv</are:ulice>
+      <are:cisloTxt>49</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Dmytro</are:jmeno>
+     <are:prijmeni>Rosushchan</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

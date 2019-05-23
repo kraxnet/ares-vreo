@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-12T17:03:25"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-12</are:Datum_vypisu>
+   <are:Cas_vypisu>17:03:25</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>25295225</are:ICO>
+   <are:ObchodniFirma>Bytové družstvo Klumparova 769 v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>23871075</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:psc>50002</are:psc>
+    <are:okres>Hradec Králové</are:okres>
+    <are:obec>Hradec Králové</are:obec>
+    <are:castObce>Hradec Králové</are:castObce>
+    <are:ulice>Klumparova</are:ulice>
+    <are:cisloPop>769</are:cisloPop>
+    <are:cisloOr>7</are:cisloOr>
+   </are:Sidlo>
+   <are:DatumZapisu>1998-10-26</are:DatumZapisu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+realizace nákupu domu
+     </are:Text>
+     <are:Text>
+zabezpečování údržby, oprav, rekonstrukce a modernizace domu
+a bytů v něm a to jak pro členy družstva - uživatele družst.
+bytu tak i pro nájemce bytů v domě, kteří nejsou členy družstva
+     </are:Text>
+     <are:Text>
+zabezpečování služeb spojených s užíváním bytu pro uživatele
+bytu (členy i nečleny družstva)
+     </are:Text>
+     <are:Text>
+výkon dalších činností na základě schválení členskou schůzí
+družstva
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1998-10-26">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1998-10-26">
+    <are:Text>
+Zastupování a podepisování:
+Jménem představenstva jedná navenek předseda nebo místopředseda
+družstva. Je-li pro právní úkon který činí představenstvo
+předepsána písemná forma, je třeba podpisu alepsoň dvou členů
+představenstva.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1998-10-26">
+    <are:funkce>
+     <are:nazev>Místopředseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23871075</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Klumparova</are:ulice>
+      <are:cisloTxt>769</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jaroslava</are:jmeno>
+     <are:prijmeni>Valentová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-26" dvy="2015-07-31">
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23871075</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Klumparova</are:ulice>
+      <are:cisloTxt>769</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Jitka</are:jmeno>
+     <are:prijmeni>Nováková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1998-10-26" dvy="2017-11-30">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23871075</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Hradec Králové</are:obec>
+      <are:ulice>Klumparova</are:ulice>
+      <are:cisloTxt>769</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vladimír</are:jmeno>
+     <are:prijmeni>Vobořil</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-07-31">
+    <are:funkce>
+     <are:nazev>Předseda představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>23871075</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50002</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Hradec Králové</are:castObce>
+      <are:ulice>Klumparova</are:ulice>
+      <are:cisloPop>769</are:cisloPop>
+      <are:cisloOr>7</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>JITKA</are:jmeno>
+     <are:prijmeni>NOVÁKOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2017-11-30">
+    <are:funkce>
+     <are:nazev>Člen představenstva</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>77763475</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50004</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Hradec Králové</are:obec>
+      <are:castObce>Kukleny</are:castObce>
+      <are:ulice>Zelená</are:ulice>
+      <are:cisloPop>896</are:cisloPop>
+      <are:cisloOr>32d</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>VLADIMÍR</are:jmeno>
+     <are:prijmeni>VOBOŘIL</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Statutarni_organ dza="2009-09-17">
+   <are:Nazev>Likvidátor</are:Nazev>
+   <are:Clen dza="2009-09-17" dvy="2016-05-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:stat>203</are:stat>
+      <are:psc>50003</are:psc>
+      <are:obec>Divec</are:obec>
+      <are:cisloTxt>39</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Hana</are:jmeno>
+     <are:prijmeni>Fátorová</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2016-05-19">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>20305575</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>50003</are:psc>
+      <are:okres>Hradec Králové</are:okres>
+      <are:obec>Divec</are:obec>
+      <are:castObce>Divec</are:castObce>
+      <are:cisloPop>39</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>HANA</are:jmeno>
+     <are:prijmeni>FÁTOROVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>

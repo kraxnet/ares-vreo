@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0" 
+odpoved_datum_cas="2017-12-11T18:09:04"
+odpoved_pocet="1" odpoved_typ="Vypis_VREO" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_vreo/v_1.0.0 ../ares_answer_vreo.xsd" Id="aresds">
+<are:Odpoved>
+ <are:Pomocne_ID>0</are:Pomocne_ID>
+ <are:Vysledek_hledani>
+  <are:Kod>1</are:Kod>
+ </are:Vysledek_hledani>
+ <are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+ <are:Vypis_VREO>
+  <are:Uvod>
+   <are:Nadpis>Výpis z veřejného rejstříku v ARES - elektronický opis</are:Nadpis>
+   <are:Aktualizace_DB>2017-12-09</are:Aktualizace_DB>
+   <are:Datum_vypisu>2017-12-11</are:Datum_vypisu>
+   <are:Cas_vypisu>18:09:04</are:Cas_vypisu>
+   <are:Typ_vypisu>aktualni</are:Typ_vypisu>
+  </are:Uvod>
+  <are:Zakladni_udaje>
+   <are:Rejstrik>OR</are:Rejstrik>
+   <are:ICO>00220361</are:ICO>
+   <are:ObchodniFirma>GAPA spol. s r.o.- v likvidaci</are:ObchodniFirma>
+   <are:Sidlo>
+    <are:ruianKod>100</are:ruianKod>
+    <are:stat>203</are:stat>
+    <are:obec>Slušovice</are:obec>
+   </are:Sidlo>
+   <are:DatumZapisu>1990-11-26</are:DatumZapisu>
+   <are:DatumVymazu>2015-11-21</are:DatumVymazu>
+   <are:DuvodVymazu>
+    <are:Text>
+Společnost se vymazává z obchodního rejstříku na základě návrhu likvidátora společnosti Mgr. Vlastimily Petráskové, neboť došlo k ukončení likvidace a bylo konstatováno, že likvidační zůstatek je nulový.
+    </are:Text>
+   </are:DuvodVymazu>
+   <are:Cinnosti>
+    <are:PredmetPodnikani>
+     <are:Text>
+koupě zboží za účelem jeho dalšího prodeje a prodej
+     </are:Text>
+     <are:Text>
+hostinská činnost
+     </are:Text>
+    </are:PredmetPodnikani>
+   </are:Cinnosti>
+  </are:Zakladni_udaje>
+  <are:Statutarni_organ dza="1990-11-26" dvy="2015-11-21">
+   <are:Nazev>Statutární orgán</are:Nazev>
+   <are:ZpusobJednani dza="1990-11-26" dvy="1993-04-14">
+    <are:Text>
+Způsob zastupování: K názvu společnosti připojí svůj podpis
+předseda nebo jednatel.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:ZpusobJednani dza="1995-03-23" dvy="2015-11-21">
+    <are:Text>
+Způsob zastupování: Za společnost v likvidaci jedná
+a podepisuje dnem likvidace likvidátor.
+    </are:Text>
+   </are:ZpusobJednani>
+   <are:Clen dza="1990-11-26" dvy="1993-04-14">
+    <are:funkce>
+     <are:nazev>předseda společnosti,společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3970728</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:cisloTxt>434</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Pavlíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1990-11-26" dvy="1993-04-14">
+    <are:funkce>
+     <are:nazev>jednatel společnosti,společník</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>999999999</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Slušovice</are:obec>
+      <are:cisloTxt>23</are:cisloTxt>
+     </are:adresa>
+     <are:prijmeni>Věra Garguláková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1993-04-14" dvy="1994-08-15">
+    <are:funkce>
+     <are:nazev>jednatelka</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3970728</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76315</are:psc>
+      <are:obec>Slušovice</are:obec>
+      <are:cisloTxt>434</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Marie</are:jmeno>
+     <are:prijmeni>Pavlíková</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1994-08-15" dvy="2014-02-07">
+    <are:funkce>
+     <are:nazev>Jednatel</are:nazev>
+     <are:zanikFunkce>2004-02-06</are:zanikFunkce>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>13890000</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:obec>Šaratice</are:obec>
+      <are:cisloTxt>336</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Michal</are:jmeno>
+     <are:prijmeni>Nikodém</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="1995-03-23" dvy="2015-11-21">
+    <are:funkce>
+     <are:nazev>Likvidátor</are:nazev>
+    </are:funkce>
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>4248902</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76005</are:psc>
+      <are:obec>Zlín</are:obec>
+      <are:ulice>Luční</are:ulice>
+      <are:cisloTxt>4593</are:cisloTxt>
+     </are:adresa>
+     <are:jmeno>Vlastimila</are:jmeno>
+     <are:prijmeni>Petrásková</are:prijmeni>
+     <are:titulPred>Mgr.</are:titulPred>
+    </are:fosoba>
+   </are:Clen>
+  </are:Statutarni_organ>
+  <are:Jiny_organ dza="1993-04-14" dvy="2015-11-21">
+   <are:Nazev>Společníci</are:Nazev>
+   <are:Clen dza="2014-02-07" dvy="2015-11-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>19572972</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>62800</are:psc>
+      <are:obec>Brno</are:obec>
+      <are:castObce>Židenice</are:castObce>
+      <are:ulice>Bzenecká</are:ulice>
+      <are:cisloPop>4136</are:cisloPop>
+      <are:cisloOr>21</are:cisloOr>
+     </are:adresa>
+     <are:jmeno>EVA</are:jmeno>
+     <are:prijmeni>NIKODEMOVÁ</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-03-03" dvy="2015-11-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3970698</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76315</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Slušovice</are:obec>
+      <are:castObce>Slušovice</are:castObce>
+      <are:ulice>Družstevní</are:ulice>
+      <are:cisloPop>431</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>MICHAL</are:jmeno>
+     <are:prijmeni>PAVLÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+   <are:Clen dza="2015-06-10" dvy="2015-11-21">
+    <are:fosoba>
+     <are:adresa>
+      <are:ruianKod>3971040</are:ruianKod>
+      <are:stat>203</are:stat>
+      <are:psc>76315</are:psc>
+      <are:okres>Zlín</are:okres>
+      <are:obec>Slušovice</are:obec>
+      <are:castObce>Slušovice</are:castObce>
+      <are:ulice>Dostihová</are:ulice>
+      <are:cisloPop>471</are:cisloPop>
+     </are:adresa>
+     <are:jmeno>DAVID</are:jmeno>
+     <are:prijmeni>PAVLÍK</are:prijmeni>
+    </are:fosoba>
+   </are:Clen>
+  </are:Jiny_organ>
+ </are:Vypis_VREO>
+</are:Odpoved>
+</are:Ares_odpovedi>
